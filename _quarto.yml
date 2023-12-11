@@ -1,15 +1,28 @@
 project:
   type: website
 
+lang: es
+
 website:
-  title: "GEOBOTA-website"
+  title: "Grupo de Estudios Botánicos GEOBOTA"
   navbar:
-    left:
+    logo: images/geobota_logo.png
+    right:
       - href: index.qmd
-        text: Home
+        text: Inicio
+      - href: about.qmd
+        text: Acerca
+      - href: members.qmd
+        text: Integrantes
+      - href: news.qmd
+        text: Noticias
+      - href: projects.qmd
+        text: Proyectos
+      - href: publications.qmd
+        text: Publicaciones
 
 format:
   html:
-    theme: cosmo
+    theme: simplex
     css: styles.css
-    toc: true
+    toc: false
