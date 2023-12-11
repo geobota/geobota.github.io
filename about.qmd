@@ -1,4 +1,64 @@
 ---
 title: "Acerca"
+toc: true
 ---
 
+## Quiénes somos
+
+El grupo aborda cuestiones relativas a la biología de las plantas, incluyendo su diversidad, estructura y la evolución de linajes y caracteres. Esto facilita la interacción entre docentes, investigadores y estudiantes con el propósito de generar productos científicos de alto impacto en diversas líneas de investigación botánica. Las preguntas de investigación que se abordan se sitúan dentro de diversos temas, tales como sistemática de plantas, anatomía, etnobotánica, bioprospección, florística e inventarios de la diversidad, biogeografía, palinología y biología reproductiva de las plantas.
+
+## Objetivos
+
+-   Fomentar la investigación en los distintos aspectos de la Botánica, tanto en la Universidad de Antioquia como en otras regiones del país.
+-   Promover el desarrollo y la aplicación de metodologías de investigación en botánica que estén alineadas con los actuales avances científicos, permitiendo así la formación de personal competente en el área de la botánica.
+
+## Retos
+
+-   Contribuir al desarrollo de investigaciones básicas o aplicadas de alta calidad en diferentes áreas de la botánica y ciencias afines.
+-   Aportar al inventario y conocimiento de la diversidad vegetal a nivel regional y nacional, impactando en la comprensión de la evolución biológica.
+-   Propiciar el estudio para el manejo sostenible de los recursos naturales y optimizar su aprovechamiento en términos económicos, humanos, tecnológicos o académicos mediante la ejecución de proyectos de investigación y el respaldo a los programas de pregrado y posgrado.
+
+## Visión
+
+Ser reconocido como un grupo de investigación líder en el estudio de la biología vegetal, abordando preguntas de ciencia básica como sistemática, biogeografía, ecología y fisiología. De esta manera, contribuir al conocimiento de la biodiversidad y su evolución, así como a la conservación y uso sostenible de los recursos vegetales disponibles en Colombia.
+
+## Servicios
+
+-   Anatomía de plantas.
+-   Biogeografía de plantas neotropicales.
+-   Biología reproductiva de plantas.
+-   Bioprospección.
+-   Etnobotánica.
+-   Florística e inventarios de la diversidad.
+-   Palinología.
+-   Sistemática de plantas.
+
+## Ubicación
+
+```{r}
+#| label: map-ubication
+#| echo: false
+#| message: false
+
+
+if (!require("leaflet")) install.packages("leaflet")
+leaflet::leaflet() |> 
+  leaflet::addTiles() |>   # Add default OpenStreetMap map tiles
+  leaflet::addMarkers(
+    lng = -75.56894,
+    lat = 6.26612,
+    popup = "Grupo de Estudios Botánicos"
+  )
+```
+
+Instituto de Biología.\
+Facultad de Ciencias Exactas y Naturales.\
+Universidad de Antioquia UdeA.\
+Calle 67 No. 53 - 108 Laboratorio 7-408.\
+Medellín, Colombia.
+
+## Contacto
+
+Fernando Alveiro Alzate Guarin, PhD.\
+Coordinador del grupo.\
+alveiro.alzate\@udea.edu.co
