@@ -1,0 +1,38 @@
+---
+title: "Jhon Steven Murillo Serna"
+sortby: "Murillo Serna, Jhon Steven"
+subtitle: "Estudiante de maestría"
+#image: espinosa_alex.jpeg
+started: "2015-01"
+ended: "Actual"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: murillojsteven@gmail.com 
+      text: Correo
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000052236
+      text: CvLAC
+    - href: https://scholar.google.com/citations?user=nW9KTAAAAAJ
+      text: Google Scholar
+    - href: https://orcid.org/0000-0003-4512-5811
+      text: ORCID
+    - href: https://www.researchgate.net/profile/Jhon-Murillo-Serna
+      text: ResearchGate
+---
+
+::: {#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2021-actual\
+    <!-- Estudio aerobiológico en la ciudad de Medellín (Colombia): una variable biológica de la calidad del aire en una ciudad altamente contaminada -->
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 2011-2020\
+    Sinopsis del género *Graffenrieda* DC. (Melastomataceae: Merianieae) en Colombia. Notas nomenclaturales, taxonómicas y geográficas
