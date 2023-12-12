@@ -1,0 +1,32 @@
+---
+title: "A new species of <i>Helietta</i> (Pilocarpinae, Zanthoxyloideae, Rutaceae) from Colombia and notes on the morphology and circumscription of <i>H. glaziovii</i>"
+type: "article"
+author:
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+  - name: José Rubens Pirani
+  - name: Jorge Andrés Pérez-Zabala
+year: 2023
+date: 2023-11-07
+publication: Phytotaxa
+doi: https://doi.org/10.11646/phytotaxa.625.1.7
+materials: ""
+
+categories:
+  - Eudicots
+  - Endangered species
+  - Inter andean valleys
+  - Magdalena river
+  - Sapindales
+---
+
+## Abstract
+
+*Helietta magna*, a new species from the Magdalena River Valley in Colombia is described and illustrated, with notes on its geographical distribution, phenology, conservation status and taxonomic affinities. The new species shares the character of leaflets with an involute margin apically only with *H. apiculata* and *H. glaziovii* and can be distinguished from these two species mainly by its larger leaflets, which are acuminate with involute margin only over the acumen and its ovary puberulous apically. Being the first recorded species from very humid forest, it expands the ecological spectrum of the genus, heretofore known only from mesic to dry habitats. Novel morphological information observed in the type specimens of *H. glaziovii* is also presented, along with notes on its current circumscription.
+
+## Citation
+
+> Londoño-Echeverri, Y., Trujillo-López, A. M., Pirani, J. R., & Pérez-Zabala, J. A. (2023). A new species of *Helietta* (Pilocarpinae, Zanthoxyloideae, Rutaceae) from Colombia and notes on the morphology and circumscription of *H. glaziovii*. *Phytotaxa*, 625(1), 98–107. https://doi.org/10.11646/phytotaxa.625.1.7
+
