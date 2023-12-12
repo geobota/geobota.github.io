@@ -1,0 +1,67 @@
+---
+pagetitle: "Integrantes"
+toc: false
+listing:
+  - id: staff
+    contents: "people/staff/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: [image, title, subtitle]
+    grid-item-align: center
+    sort: sortby
+    field-display-names: 
+      started: "Started"
+  - id: graduate
+    contents: "people/graduate/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+  - id: undergraduate
+    contents: "people/undergraduate/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    sort: sortby
+    fields: [image, title, subtitle]
+    field-display-names: 
+      started: "Started"
+    grid-item-align: center
+  - id: past
+    contents: "people/past/*.qmd"
+    type: table
+    sort: sortby
+    fields: [title, subtitle, started, ended]
+    sort-ui: [title, subtitle, started, ended]
+    filter-ui: [title, subtitle, started, ended]
+    field-display-names: 
+      title: "Nombre"
+      subtitle: "Rol"
+      started: "Inicio"
+      ended: "Fin"
+---
+
+## Investigadores
+
+:::{#staff}
+:::
+
+## Estudiantes de Posgrado
+
+:::{#graduate}
+:::
+
+## Estudiantes de Pregrado
+
+:::{#undergraduate}
+:::
+
+## Integrandes anteriores
+
+:::{#past}
+:::
