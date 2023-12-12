@@ -5,8 +5,12 @@ lang: es
 
 website:
   title: "Grupo de Estudios Botánicos GEOBOTA"
+  site-url: http://geobota.github.io
+  repo-url: https://github.com/geobota/geobota.github.io
+  
   navbar:
     logo: images/geobota_logo.png
+    search: true
     right:
       - href: index.qmd
         text: Inicio
@@ -20,6 +24,10 @@ website:
         text: Proyectos
       - href: publications.qmd
         text: Publicaciones
+
+  page-footer: 
+    left: GEOBOTA 2023, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    right: by [@alexespinocaco](https://alexespinosaco.github.io) with [Quarto](https://quarto.org/)
 
 format:
   html:
