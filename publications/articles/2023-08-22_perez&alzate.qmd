@@ -1,0 +1,29 @@
+---
+title: "A new species of <i>Tournefortiopsis</i> (Guettardeae, Rubiaceae) from northern Colombia"
+type: "article"
+author:
+  - name: "**David Pérez-Uribe**"
+    orcid: 0000-0002-7381-0165
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2023
+date: 2023-08-22
+publication: Phytotaxa
+doi: https://doi.org/10.11646/phytotaxa.609.2.7
+materials: ""
+
+categories:
+  - Eudicots
+  - Antioquia
+  - Chomelia
+  - Flora of Colombia
+  - Guettarda
+---
+
+## Abstract
+
+A new species of *Tournefortiopsis* from high Andean forests of the Central Colombian Cordillera is described and illustrated. *Tournefortiopsis triflora* is characterized mainly by its dichasium inflorescence, a feature not previously reported in the genus. It can be distinguished from its related species by its smaller leaves, peduncles, and corolla tube, and by the leaves abaxially glabrous on the areoles. The new species is from an area of biogeographic interest due to the large number of endemic species known to this area. A distribution map, conservation status and taxonomic affinities are provided in this paper.
+
+## Citation (APA 7)
+
+> Pérez-Uribe, D., & Alzate-Guarin, F. A. (2023). A new species of Tournefortiopsis (Guettardeae, Rubiaceae) from northern Colombia. *Phytotaxa*, 609(2), 145–150. https://doi.org/10.11646/phytotaxa.609.2.7
