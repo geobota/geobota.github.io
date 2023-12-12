@@ -1,0 +1,34 @@
+---
+title: "The rapid radiation of <i>Bomarea</i> (Alstroemeriaceae: Liliales), driven by the rise of the Andes"
+type: "article"
+author:
+  - name: Carrie M Tribble
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Etelvina Gándara
+  - name: Araz Vartoumian
+  - name: J Gordon Burleigh
+  - name: Rosana Zenil-Ferguson
+  - name: Chelsea D Specht
+  - name: Carl J Rothfels
+year: 2023
+date: 2023-10-13
+publication: Evolution
+doi: https://doi.org/10.1093/evolut/qpad184
+materials: ""
+
+categories:
+  - Andean uplift
+  - Divergence-time estimation
+  - Evolutionary radiation
+  - Target capture
+  - Liliales
+---
+
+## Abstract
+
+Geological events such as mountain uplift affect how, when, and where species diversify, but measuring those effects is a longstanding challenge. Andean orogeny impacted the evolution of regional biota by creating barriers to gene flow, opening new habitats, and changing local climate. *Bomarea* (Alstroemeriaceae) are tropical plants with (often) small, isolated ranges; in total, *Bomarea* species occur from central Mexico to central Chile. This genus appears to have evolved rapidly and quite recently, and rapid radiations are often challenging to resolve with traditional phylogenetic inference. In this study, we apply phylogenomics—with hundreds of loci, gene-tree-based data curation, and a multispecies-coalescent approach—to infer the phylogeny of *Bomarea*. We used this phylogeny to untangle the potential drivers of diversification and biogeographic history. In particular, we test if Andean orogeny contributed to the diversification of *Bomarea*. We find that *Bomarea* originated in the central Andes during the mid-Miocene, then spread north, following the trajectory of mountain uplift. Furthermore, Andean lineages diversified faster than non-Andean relatives. *Bomarea* thus demonstrates that—at least in some cases—geological change rather than environmental stability has driven high species diversity in a tropical biodiversity hotspot. These results also demonstrate the utility (and danger) of genome-scale data for making macroevolutionary inferences.
+
+## Citation
+
+> Tribble, C. M., Alzate-Guarin, F. A., Gándara, E., Vartoumian, A., Burleigh, J. G., Zenil-Ferguson, R., Specht, C. D., & Rothfels, C. J. (2023). The rapid radiation of *Bomarea* (Alstroemeriaceae: Liliales), driven by the rise of the Andes. *Evolution*, qpad184. https://doi.org/10.1093/evolut/qpad184
