@@ -1,0 +1,38 @@
+---
+title: "Angy Vanesa Caro Sánchez"
+sortby: "Caro Sánchez, Angy Vanesa"
+subtitle: "Estudiante de maestría"
+image: caro-sanchez_angy_vanesa.jpg
+started: "2020-01"
+ended: "Actual"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: angy.caro@udea.edu.co
+      text: Correo
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001800877
+      text: CvLAC
+    # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+    #   text: Google Scholar
+    - href: https://orcid.org/0000-0001-8751-7931
+      text: ORCID
+    - href: https://www.researchgate.net/profile/Angy-V-Caro-Sanchez
+      text: ResearchGate
+---
+
+::: {#person-profile}
+:::
+
+Mi experiencia e intereses académicos están enfocados en la taxonomía de plantas, especialmente la nomenclatura, morfología y diversidad de las familias Clusiaceae y Calophyllaceae. También son temas de mi interés la flora de los Andes, el diocismo en angiospermas, el estado de conservación de las especies, el hemiepifitismo, las interacciones ecológicas y la terminología botánica.
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2023-actual\
+    *Chrysochlamys* (Clusiaceae: Clusieae) de Antioquia, Colombia: abordando la taxonomía de especies dioicas
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 2013-2022\
+    *Chrysochlamys* (Clusiaceae: Clusieae) de Antioquia, Colombia: abordando la taxonomía de especies dioicas
