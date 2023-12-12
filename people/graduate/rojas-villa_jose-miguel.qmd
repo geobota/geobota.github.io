@@ -1,0 +1,38 @@
+---
+title: "Jose Miguel Rojas Villa"
+sortby: "Rojas Villa, Jose Miguel"
+subtitle: "Estudiante de maestría"
+image: rojas-villa_jose-miguel.jpg
+started: "2022-07"
+ended: "Actualmente"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: miguel.rojas4@udea.edu.co
+      text: Correo
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002020998
+      text: CvLAC
+    - href: https://scholar.google.com/citations?user=iRhKRKMAAAAJ
+      text: Google Scholar
+    - href: https://orcid.org/0000-0002-6656-9932
+      text: ORCID
+    - href: https://www.researchgate.net/profile/Jose-M-Rojas-2
+      text: ResearchGate
+---
+
+:::{#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2022-actual\\
+    Morfología de semillas y plantulas: relaciones evolutivas de caracteres condicionantes en diferentes linajes de Angiosperma en páramos
+
+-   **Universidad de Católica de Oriente** \| Rionegro, Colombia\
+    Pregrado en Agronomía \| 2017-2022\
+    Latencia y anatomía de semillas: implicaciones en la ecología de especies nativas pioneras e invasoras de bosques andinos del Oriente antioqueño
