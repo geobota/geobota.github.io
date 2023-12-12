@@ -2,12 +2,13 @@ project:
   type: website
 
 lang: es
+date-format: iso
 
 website:
   title: "Grupo de Estudios Botánicos GEOBOTA"
   site-url: http://geobota.github.io
   repo-url: https://github.com/geobota/geobota.github.io
-  
+
   navbar:
     logo: images/geobota_logo.png
     search: true
@@ -16,7 +17,7 @@ website:
         text: Inicio
       - href: about.qmd
         text: Acerca
-      - href: members.qmd
+      - href: people.qmd
         text: Integrantes
       - href: news.qmd
         text: Noticias
