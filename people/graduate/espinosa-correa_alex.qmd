@@ -1,0 +1,38 @@
+---
+title: "Álex Espinosa Correa"
+sortby: "Espinosa Correa, Alex"
+subtitle: "Estudiante de doctorado"
+image: espinosa-correa_alex.jpeg
+started: "2015-01"
+ended: "Actual"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: alex.espinosa@udea.edu.co
+      text: Correo
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000117836
+      text: CvLAC
+    # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+    #   text: Google Scholar
+    - href: https://orcid.org/0000-0002-7353-1182
+      text: ORCID
+    - href: https://www.researchgate.net/profile/Alex-Espinosa-Correa
+      text: ResearchGate
+---
+
+:::{#person-profile}
+:::
+
+Mi investigación trata sobre el polen y esporas que se encuentran en la atmósfera (aerobiología) de la ciudad de Medellín, Colombia. Soy un apasionado de la botánica, la palinología, la educación, GIS, R, Quarto, la visualización de datos, la ciencia abierta y reproducible. 
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Doctorado en Biología \| 2019-actual\
+    Estudio aerobiológico en la ciudad de Medellín (Colombia): una variable biológica de la calidad del aire en una ciudad altamente contaminada
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 2011-2018\
+    Exploración de la utilidad de la región ITS en estudios filogeográficos de plantas de áreas de Páramo
