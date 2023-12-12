@@ -1,0 +1,40 @@
+---
+title: "John Doe"
+sortby: "Doe, John"
+subtitle: "Undergraduate"
+image: doe_john.jpg
+started: "2019-01"
+ended: "Actualmente"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: alveiro.alzate@udea.edu.co
+      text: Correo
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000034401
+      text: CvLAC
+    - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+      text: Google Scholar
+    - href: https://orcid.org/0000-0002-4916-8897
+      text: ORCID
+    - href: https://www.researchgate.net/profile/Fernando-Alzate
+      text: ResearchGate
+---
+
+:::{#person-profile}
+:::
+
+## Biografía
+
+## Educación
+
+- **Universidad de Antioquia** | Medellín, Colombia  
+Maestría en Biología | 2000-2004  
+Revisión taxonomica del género *Bomarea* para la flora de Colombia
+
+- **Universidad de Antioquia** | Medellín, Colombia  
+Pregrado en Biología | 1990-1997  
+Distribución de Epífitas Fanerógamas en Bosques de Roble
+
+## Experiencia
