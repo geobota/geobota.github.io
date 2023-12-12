@@ -24,6 +24,6 @@ categories:
 
 A new species of *Tournefortiopsis* from high Andean forests of the Central Colombian Cordillera is described and illustrated. *Tournefortiopsis triflora* is characterized mainly by its dichasium inflorescence, a feature not previously reported in the genus. It can be distinguished from its related species by its smaller leaves, peduncles, and corolla tube, and by the leaves abaxially glabrous on the areoles. The new species is from an area of biogeographic interest due to the large number of endemic species known to this area. A distribution map, conservation status and taxonomic affinities are provided in this paper.
 
-## Citation (APA 7)
+## Citation
 
 > Pérez-Uribe, D., & Alzate-Guarin, F. A. (2023). A new species of Tournefortiopsis (Guettardeae, Rubiaceae) from northern Colombia. *Phytotaxa*, 609(2), 145–150. https://doi.org/10.11646/phytotaxa.609.2.7
