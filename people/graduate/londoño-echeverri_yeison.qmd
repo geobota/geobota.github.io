@@ -1,0 +1,38 @@
+---
+title: "Yeison Londoño Echeverri"
+sortby: "Londoño Echeverri, Yeison"
+subtitle: "Estudiante de maestría"
+#image: rojas-villa_jose-miguel.jpg
+started: "2020-01"
+ended: "Actual"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: ylondono@unal.edu.co 
+      text: Correo
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000156235
+      text: CvLAC
+    - href: https://scholar.google.com/citations?user=Ml6f_eYAAAAJ
+      text: Google Scholar
+    - href: https://orcid.org/0000-0001-5169-598X
+      text: ORCID
+    - href: https://www.researchgate.net/profile/Yeison-Londono-Echeverri
+      text: ResearchGate
+---
+
+:::{#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2023-actual\
+    <!-- Estudio aerobiológico en la ciudad de Medellín (Colombia): una variable biológica de la calidad del aire en una ciudad altamente contaminada -->
+
+-   **Universidad Nacional de Colombia Sede Medellín** \| Medellín, Colombia\
+    Pregrado en Ingeniería Forestal \| 2014-2022\
+    <!-- Exploración de la utilidad de la región ITS en estudios filogeográficos de plantas de áreas de Páramo -->
