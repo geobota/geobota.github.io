@@ -4,6 +4,9 @@ project:
 lang: es
 date-format: iso
 
+execute:
+    freeze: auto
+
 website:
   title: "Grupo de Estudios Botánicos GEOBOTA"
   site-url: http://geobota.github.io
