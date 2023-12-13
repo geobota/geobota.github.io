@@ -1,0 +1,30 @@
+---
+title: "<i>Alloneuron trinervium</i> (Melastomataceae: Cyphostyleae), a new species from Colombia"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+  - name: Fabián A. Michelangeli
+  - name: "**Heriberto Antonio David-Higuita**"
+    orcid: 0000-0002-2430-2973
+year: 2022
+date: 2022-01-14
+publication: Brittonia
+doi: https://doi.org/10.1007/s12228-021-09680-x
+materials: ""
+
+categories:
+  - Antioquia
+  - Andemism
+  - Taxonomy
+  - Venation pattern
+
+---
+
+## Abstract
+
+*Alloneuron trinervium*, a new species of Melastomataceae known only from the type locality in Antioquia Department, northwestern Colombia, is described and illustrated. This new species is the only one in *Alloneuron* with three basal veins, a venation pattern that is intermediate between semi-craspedodromous (found in all other members of the genus) and acrodromous (predominant in the rest of the family). *Alloneurum trinervium* is further distinguished by the paniculate inflorescences with 4-merous, pedicellate flowers arranged in monochasial cymes bearing 3(−5) flowers along the filiform paracladia. This is the first species in the genus found in an inter-Andean valley and not in the eastern slope of the Andes.
+
+## Citation
+
+> Murillo-Serna, J. S., Michelangeli, F. A., & David-Higuita, H. A. (2022). Alloneuron trinervium (Melastomataceae: Cyphostyleae), a new species from Colombia. Brittonia, 74(1), 43–52. https://doi.org/10.1007/s12228-021-09680-x
