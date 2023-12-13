@@ -1,0 +1,31 @@
+---
+title: "New and Noteworthy Records of Angiosperms from Pacific Biogeographical Region at Department of Chocó in Colombia, Including Four New Records for the Country"
+type: "article"
+author:
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+year: 2023
+date: 2023-06-14
+publication: Asian Plant Research Journal
+doi: https://doi.org/10.9734/aprj/2023/v11i3214
+materials: ""
+
+categories:
+  - Caesalpinioideae
+  - Laetia
+  - Leguminoseae
+  - Lowland rainforest
+  - Neotropical trees diversity
+  - New chorological records
+
+---
+
+## Abstract
+
+Six new or noteworthy records of Angiosperms from Colombia are presented based in herbarium specimens from the Chocó department in Colombia. Four are first records for the country, one is the first record for the Chocó department and one is the most recent record after 28 years of an endemic species to the Chocó Biogeographical region in Colombia. *Cynometra dwyerii* (Fabaceae), *Pouteria fossicola* (Sapotaceae) and *Tachigali panamensis* (Fabaceae) were heretofore known as restricted to Central America; *Mosquitoxylum jamaicense* (Anacardiaceae) was previously known from Central America, Caribbean and Ecuador, but no record for Colombia had been found; *Casearia thamnia* (Salicaceae) was recorded from Colombia through a specimen of the year 1916 from the Bolivar department, here its first record from the Chocó department is presented; *Cremastosperma chococola* (Annonaceae) is a endemic species to the biogeographic Chocó in Colombia, only known through three specimens and not collected since the year 1990. Information about protologue, type specimens, distinctive morphology, current geographical distribution, common names, and uses are provided for each record, besides notes about the relevance of the novel records are here presented. A geographical distribution map for these species in Colombia is presented, as well as digital plates composed by photographs of herbarium vouchers. Continue inventoring the biodiversity in the biogeographic Chocó as one of the global biodiversity hotspots is imperative. These records presented here provide useful information for future biological research and conservation actions for their respective species or their habitats.
+
+## Citation
+
+> Trujillo-López, A. M., & Londoño-Echeverri, Y. (2023). New and Noteworthy Records of Angiosperms from Pacific Biogeographical Region at Department of Chocó in Colombia, Including Four New Records for the Country. *Asian Plant Research Journal*, 11(3), 41–56. https://doi.org/10.9734/aprj/2023/v11i3214

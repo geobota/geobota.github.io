@@ -1,0 +1,32 @@
+---
+title: "Novelties in <i>Macrolobium</i> (Detarioideae, Fabaceae) for Northern South America: Two new species and new chorological records from Colombia and Ecuador"
+type: "article"
+author:
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+year: 2023
+date: 2023-06-07
+publication: Phytotaxa
+doi: https://doi.org/10.11646/phytotaxa.599.3.3
+materials: ""
+
+categories:
+  - Brownea clade
+  - Chocó department
+  - Eudicots
+  - Leguminosae
+  - Pacific
+  - Stenosolen
+  - Vouapa
+
+---
+
+## Abstract
+
+Two new species from Colombia are described and illustrated, *Macrolobium ceriferum* from the Pacific biogeographical region and *Macrolobium longistipitatum* from limits between Andes and Magdalena Valley biogeographical regions. Notes about their distribution, phenology, conservation status and taxonomic affinities are provided. *Macrolobium ceriferum* differs from morphologically similar species mainly by its leaflet blades discolorous and bullate, whitish abaxially, its smaller inflorescence axis and flowers, its filaments glabrous and presence of conspicuous scaly wax in the surface of the inflorescence axis, pedicel, bracteoles and sepals. *Macrolobium longistipitatum* differs from morphologically similar species mainly by its leaves with numerous leaflets, each with veins raised up the fourth-order on both surfaces, longer (sub-) terminal inflorescences, hypanthium cupular with longer stipe, sepals 4, slightly unequal in shape and size and ovary glabrous. The latter is the first record of *Macrolobium* sect. *Macrolobium* from the Inter-Andean Valleys of the northern Andes. Additionally, based in new chorological records of *Macrolobium machaerioides* from Colombia and Ecuador, its currently known geographical distribution are presented, along to an emended description of its fruits morphology, which is hitherto unknown.
+
+## Citation
+
+> Trujillo-López, A. M., & Londoño-Echeverri, Y. (2023). Novelties in *Macrolobium* (Detarioideae, Fabaceae) for Northern South America: Two new species and new chorological records from Colombia and Ecuador. *Phytotaxa*, 599(3), 155–170. https://doi.org/10.11646/phytotaxa.599.3.3
