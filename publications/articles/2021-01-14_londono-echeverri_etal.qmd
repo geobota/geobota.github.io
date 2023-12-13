@@ -1,0 +1,31 @@
+---
+title: "Notes on <i>Zanthoxylum magnifructum</i> (Rutaceae), a recently described species from tropical dry forest in Colombia: floral morphology, geographical distribution and sexual dimorphism"
+type: "article"
+author:
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+  - name: Álvaro Idárraga-Piedrahíta
+  - name: Jáider Jiménez-Montoya 
+year: 2021
+date: 2021-01-14
+publication: Brittonia
+doi: https://doi.org/10.1007/s12228-020-09648-3
+materials: ""
+
+categories:
+  - Andes
+  - Inter-Andean Valleys
+  - Rutoideae
+  - Taxonomy
+
+---
+
+## Abstract
+
+*Zanthoxylum magnifructum* is a recently described species based on only a fruiting specimen collected in tropical dry forests in the department of Huila in Colombia. An emended description and illustration are presented, including flowers and seeds, which were previously unknown. Comments on its geographical distribution, conservation status, taxonomic affinities, and sexual dimorphism are made. A key for the species of *Zanthoxylum* that occur in tropical dry forest in Colombia is provided.
+
+
+
+## Citation
+
+> Londoño-Echeverri, Y., Idárraga-Piedrahíta, Á., & Jiménez-Montoya, J. (2021). Notes on Zanthoxylum magnifructum (Rutaceae), a recently described species from tropical dry forest in Colombia: Floral morphology, geographical distribution and sexual dimorphism. Brittonia, 73(2), 229–235. https://doi.org/10.1007/s12228-020-09648-3
