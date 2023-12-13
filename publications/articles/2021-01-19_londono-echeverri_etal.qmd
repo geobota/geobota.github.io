@@ -1,0 +1,31 @@
+---
+title: "Rediscovering the genus <i>Lubaria</i> (Rutaceae: Galipeinae), a new species and first record for Colombia"
+type: "article"
+author:
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+  - name: Jorge Andrés Pérez-Zabala
+year: 2021
+date: 2021-01-19
+publication: Brittonia
+doi: https://doi.org/10.1007/s12228-020-09650-9
+materials: ""
+
+categories:
+  - Botany
+  - Endangered species
+  - Flora of Colombia
+  - Neotropics
+  - Plant taxonomy
+
+---
+
+## Abstract
+
+A new species from the northern foothills of the central Andes of Colombia belonging to the previously monotypic genus *Lubaria* (Sapindales: Rutaceae) is here described and illustrated; comments about its distribution, habitat and conservation status are made. Named *L. heterophylla*, it differs from *L. aroensis* by its trifoliolate leaves (one of the two at a node is smaller and frequently bifoliolate or simple), smaller flowers, and blunt anther connective. Given the vast unexplored area between the location of *L. heterophylla* and those of *L. aroensis* in Venezuela and Costa Rica, further explorations in the continental southern Caribbean basin could help to find additional populations of both species. Leaf form and size variation found in this new species might be a mechanism of phenotypic plasticity probably related to limiting transpiration during dry seasons.
+
+## Citation
+
+> Londoño-Echeverri, Y., Trujillo-López, A. M., & Pérez-Zabala, J. A. (2021). Rediscovering the genus *Lubaria* (Rutaceae: Galipeinae), a new species and first record for Colombia. *Brittonia*, 73(1), 77–84. https://doi.org/10.1007/s12228-020-09650-9
