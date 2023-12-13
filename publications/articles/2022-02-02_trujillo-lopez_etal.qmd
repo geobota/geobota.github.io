@@ -1,0 +1,32 @@
+---
+title: "Rediscovering the genus <i>Lubaria</i> (Rutaceae: Galipeinae), a new species and first record for Colombia"
+type: "article"
+author:
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+  - name: Álvaro Idárraga-Piedrahíta
+year: 2022
+date: 2022-02-02
+publication: Brittonia
+doi: https://doi.org/10.1007/s12228-021-09696-3
+materials: ""
+
+categories:
+  - Biodiversity
+  - Cassieae
+  - Endangered species
+  - Endemic species
+  - Leguminosae
+  - Timber species
+
+---
+
+## Abstract
+
+A new species of *Chamaecrista* sect. *Apoucouita* (Caesalpinioideae, Fabaceae) from the Middle Magdalena Valley and Bajo Cauca region in the department of Antioquia, Colombia is described and illustrated. *Chamaecrista almanegra* differs from morphologically similar species mainly by its leaves with 4 to 6 pairs of leaflets (up to 8 pairs only in juvenile individuals), these remarkably falcate, wider in the acroscopic half and with secondary veins joined by an intramarginal vein at the proximal portion of the leaflet and becoming brochidodromous toward the distal portion, as well as anthers with indumentum on the entire surface. Notes about the geographical distribution, habitat and conservation status of the new species are presented, along with a key for the species of *Chamaecrista* sect. *Apoucouita* known for Colombia. This constitutes the first record of the section for the Inter Andean Valleys of the northern Andes, thus expanding its distributional range and potentially generating new hypotheses for future systematic and biogeographic studies in the genus.
+
+## Citation
+
+> Trujillo-López, A. M., Londoño-Echeverri, Y., & Idárraga-Piedrahíta, Á. (2022). A new arboreal *Chamaecrista* (Fabaceae) and first record of the section *Apoucouita* for the Inter Andean Valleys of Colombia. *Brittonia*, 74(1), 78–86. https://doi.org/10.1007/s12228-021-09696-3
