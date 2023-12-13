@@ -1,0 +1,30 @@
+---
+title: "A new species of <i>Helietta</i> (Pilocarpinae, Zanthoxyloideae, Rutaceae) from Colombia and notes on the morphology and circumscription of <i>H. glaziovii</i>"
+type: "article"
+author:
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+year: 2023
+date: 2023-11-03
+publication: Phytotaxa
+doi: https://doi.org/10.11646/phytotaxa.622.5.2
+materials: ""
+
+categories:
+  - Eudicots
+  - Endangered neotropical species
+  - Karst
+  - Neotropical biodiversity
+  - Sapindales
+  - Simaroubaceae
+---
+
+## Abstract
+
+Three new species of Picramniaceae from Colombia are described and illustrated; *Aenigmanu chococola* from the Pacific region is the second species of the previously monotypic genus, known only from the Amazon region. In addition to its allopatric distribution, the new species is mainly recognisable by its wide leaf blades, which are basally convex and commonly apically emarginate at the very tip, and long bracts on the pistillate inflorescences. *Nothotalisia karsticola* and *Picramnia vinacea* are from karst areas in the Magdalena Valley; the former is mainly recognisable by its long inflorescences, pistillate inflorescences in racemes, staminate flowers with long petals and anthers apically mucronate, whereas the latter is mainly recognisable by its racemose inflorescences in both staminate and pistillate plants, pedicel length in staminate flowers, filaments shorter than the petals and glabrous fruits. We also include notes about their taxonomic affinities, habitat, geographical distribution, phenology, etymology and conservation status. A key for species of *Nothotalisia* is provided.
+
+## Citation
+
+> Londoño-Echeverri, Y., & Trujillo-López, A. M. (2023). Taxonomic studies in Colombian Picramniaceae (Picramniales): New species of *Aenigmanu*, *Nothotalisia* and *Picramnia* from the Pacific and Magdalena Valley regions. *Phytotaxa*, 622(5), 281–297. https://doi.org/10.11646/phytotaxa.622.5.2
