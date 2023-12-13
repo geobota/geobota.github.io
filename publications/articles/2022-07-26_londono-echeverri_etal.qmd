@@ -1,0 +1,31 @@
+---
+title: "A new endemic species of <i>Amyris</i> (Rutaceae) from the Magdalena River Valley in Colombia"
+type: "article"
+author:
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+  - name: Roy E. Gereau 
+year: 2022
+date: 2022-07-26
+publication: Brittonia
+doi: https://doi.org/10.1007/s12228-022-09714-y
+materials: ""
+
+categories:
+  - Amyridoideae
+  - Plant taxonomy
+  - Sapindales
+  - Threatened species
+  - Trimerous flowers
+
+---
+
+## Abstract
+
+*Amyris pacis*, a new species from the Magdalena River Valley in Colombia, is described and illustrated, including comments about its geographical distribution, habitat, phenology, conservation status and taxonomic affinities. The new species appears to be closely related to *A. trimera* due to its unifoliolate leaves and trimerous flowers, but differs from it by its longer leaflet blades with the base rounded to subtruncate, or occasionally subcordate (vs. cuneate), and secondary veins slightly ascending (vs. more strongly ascending). Being a threatened and endemic species, and one of the few species with trimerous flowers, it should be included in further studies to determine appropriate conservation plans and to improve knowledge about the morphology of species with trimerous flowers in Neotropical Rutaceae.
+
+## Citation
+
+> Londoño-Echeverri, Y., Trujillo-López, A. M., & Gereau, R. E. (2022). A new endemic species of *Amyris* (Rutaceae) from the Magdalena River Valley in Colombia. *Brittonia*, 74(3), 272–279. https://doi.org/10.1007/s12228-022-09714-y
