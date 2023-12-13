@@ -1,0 +1,31 @@
+---
+title: "A New Species of <i>Zanthoxylum</i> (Rutaceae) from Colombia and Brazil"
+type: "article"
+author:
+  - name: Carlos Reynel-Rodríguez
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+year: 2023
+date: 2023-06-06
+publication: Novon, A Journal for Botanical Nomenclature
+doi: https://doi.org/10.3417/2023838
+materials: ""
+
+categories:
+  - Ciénaga
+  - Igarapé
+  - Lacustrine
+  - Neotropics
+  - New species
+  - Taxonomy
+  - Trees
+
+---
+
+## Abstract
+
+A new species of *Zanthoxylum* L. (Rutaceae) from Colombia and Brazil is described here, based upon morphological characters. *Zanthoxylum palustre* Londoño-Ech. & Reynel is distributed in lacustrine, riverine, and swampy environments at very low altitude, and belongs to *Zanthoxylum* sect. *Macqueria* Comm. ex Triana & Planch., the largest section of the genus; it is distinguished by several vegetative and reproductive characteristics.
+
+## Citation
+
+> Reynel-Rodríguez, C., & Londoño-Echeverri, Y. (2023). A New Species of *Zanthoxylum* (Rutaceae) from Colombia and Brazil. *Novon, A Journal for Botanical Nomenclature*, 31, 114–117. https://doi.org/10.3417/2023838
