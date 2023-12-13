@@ -29,4 +29,3 @@ categories:
 ## Citation
 
 > Londoño-Echeverri, Y., Trujillo-López, A. M., Pirani, J. R., & Pérez-Zabala, J. A. (2023). A new species of *Helietta* (Pilocarpinae, Zanthoxyloideae, Rutaceae) from Colombia and notes on the morphology and circumscription of *H. glaziovii*. *Phytotaxa*, 625(1), 98–107. https://doi.org/10.11646/phytotaxa.625.1.7
-

@@ -1,0 +1,32 @@
+---
+title: "A new species of <i>Helietta</i> (Pilocarpinae, Zanthoxyloideae, Rutaceae) from Colombia and notes on the morphology and circumscription of <i>H. glaziovii</i>"
+type: "article"
+author:
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+  - name: Jorge Andrés Pérez-Zabala
+year: 2023
+date: 2023-07-07
+publication: Phytotaxa
+doi: https://doi.org/10.11646/phytotaxa.601.2.4
+materials: ""
+
+categories:
+  - Darién region
+  - Endangered species
+  - Eudicots
+  - Sapindales
+  - Taxonomy
+  - Tropical humid forest
+
+---
+
+## Abstract
+
+*Conchocarpus cardenasii*, a new species from the Pacific biogeographical region in Colombia and named honors to the Colombian botanist Dairon Cárdenas (1957–2022), is described and illustrated with notes about its geographical distribution, phenology, conservation status, taxonomic affinities, and the morphology of its stamens. The basally sterile anthers it is the most distinctive feature, which is hitherto only reported for *C. guyanensis*, which however, can be easily differentiable by its corymbiform thyrses. This feature helps to recognize *C. cardenasii* from other morphologically resembling species such as *C. grandis* and *C. jirajaranus*, in addition to differences in leaves and fruits. Furthermore, the first record of *Euxylophora paraensis* for the Colombian Amazon is here presented, based on a specimen collected in 1951 by R. E. Schultes and I. Cabrera on the Apaporis River basin.
+
+## Citation
+
+> Londoño-Echeverri, Y., Trujillo-López, A. M., & Pérez-Zabala, J. A. (2023). A new species of *Conchocarpus* and first record of *Euxylophora* (Galipeinae, Zanthoxyloideae, Rutaceae) from Colombia. *Phytotaxa*, 601(2), 174–184. https://doi.org/10.11646/phytotaxa.601.2.4
