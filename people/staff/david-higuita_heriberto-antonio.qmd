@@ -1,0 +1,34 @@
+---
+title: "Heriberto Antonio David Higuita"
+sortby: "2"
+subtitle: "Curador colección HUA"
+#image: alzate-guarin_fernando-alveiro.jpg
+started: "2003-01"
+ended: "Actual"
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: heriberto.david@udea.edu.co
+      text: Correo
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000706345
+      text: CvLAC
+    # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+    #   text: Google Scholar
+    - href: https://orcid.org/0000-0002-2430-2973
+      text: ORCID
+    - href: https://www.researchgate.net/profile/Heriberto-David
+      text: ResearchGate
+---
+
+:::{#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| <!--1990-1997\-->
+    <!-- Distribución de epífitas Fanerógamas en bosques de Roble -->
