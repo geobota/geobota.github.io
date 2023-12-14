@@ -1,0 +1,31 @@
+---
+title: "Comparative leaf anatomy of three species of <i>Furcraea</i> (Asparagaceae: Agavoideae)"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+  - name: "**Edgar Javier Rincón-Barón**"
+    orcid: 0000-0003-1347-171X
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2018
+date: 2018-12
+publication: Hoehnea
+doi: https://doi.org/10.1590/2236-8906-06/2018
+materials: ""
+
+categories:
+  - Cabuya
+  - Fique
+  - Plant tissues
+  - Xerophytic plants
+
+---
+
+## Abstract
+
+The Neotropical genus *Furcraea* Vent. is widely cultivated to produce fibers that are known as Fique or Cabuya. A histological analysis of leaves from three species of *Furcraea* cultivated in Colombia was performed in order to make comparative descriptions among them. Different sections of mature leaves ready to be harvested were processed using conventional histological techniques. The three species showed homogeneous anatomical features, some of which were: one-layered epidermis, thick cuticle, encrypted stomata, undifferentiated mesophyll, the presence of calcium oxalate crystals, septate sclerenchyma fibers, associated or stranded fiber bundles, and brachysclereids associated with the leaf margin. Apart from the brachysclereids, there is no histological character that allowed a clear differentiation among the three studied cultivars. The anatomy of these plants is also discussed according to their photosynthetic metabolism.
+
+## Citation
+
+> Murillo-Serna, J. S., Rincón-Barón, E. J., & Alzate-Guarin, F. A. (2018). Comparative leaf anatomy of three species of *Furcraea* (Asparagaceae: Agavoideae). *Hoehnea*, 45(4), 607–615. https://doi.org/10.1590/2236-8906-06/2018
