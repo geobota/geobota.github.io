@@ -1,0 +1,30 @@
+---
+title: "Angiosperm flora on the páramos of northwestern Colombia: diversity and affinities"
+type: "article"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+year: 2016
+date: 2016-09-30
+publication: PhytoKeys
+doi: https://doi.org/10.3897/phytokeys.70.8609
+materials: ""
+
+categories:
+  - Angiosperms
+  - Andes
+  - Antioquia
+  - Páramos
+  - Colombia
+
+---
+
+## Abstract
+
+Páramos are high-elevation isolated ecosystems in the Andes characterized by specific flora. This flora includes a number of endemic species and some taxa phylogenetically related to temperate lineages (van der Hammen and Cleef 1986). There are six páramo units or complexes in the Department of Antioquia, located in northwestern Colombia. For five years, we conducted botanic explorations in order to quantify the richness of angiosperm flora in these units. We estimate the richness of angiosperms in these páramos at 693 species, 277 genera, and 86 families, which represent almost 10% of the floral diversity in Antioquia, but contained in only 0.7% of its area. We found that Frontino-Urrao is the most species-rich páramo with 465 species from 225 genera. Our results show that the most diverse angiosperm families of the páramos of Antioquia are Asteraceae, Orchidaceae, Melastomataceae, and Poaceae, which together represent 245 species. Groupings between páramos by Sørensen’s similarity index show that the complexes of the Central Andes Cordillera form a cluster of greater affinity than Páramos from other regions. Of the species found, 80 have a CITES or IUCN diagnosis. The expeditions allowed the identification of 21 species not previously registered in Antioquia and a considerable number of endemisms (35 species), further proof of the high plant diversity in these ecosystems.
+
+## Citation
+
+> Alzate-Guarín, F., & Murillo-Serna, J. S. (2016). Angiosperm flora on the páramos of northwestern Colombia: Diversity and affinities. *PhytoKeys*, 70, 41–52. https://doi.org/10.3897/phytokeys.70.8609
