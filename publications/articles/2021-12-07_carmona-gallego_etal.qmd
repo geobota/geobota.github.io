@@ -1,0 +1,31 @@
+---
+title: "Exploring local morphological and molecular variation in parasitic species <i>Gaiadendron punctatum</i> (Loranthaceae) from Northwestern Andes of Colombia"
+type: "article"
+author:
+  - name: "**Isabel Carmona-Gallego**"
+    orcid: 0000-0001-8954-4503
+  - name: Romina Vidal-Russell
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2021
+date: 2021-01-01
+publication: Neotropical Biodiversity
+doi: https://doi.org/10.1080/23766808.2021.2000292
+materials: ""
+
+categories:
+  - Ecotypes
+  - Haplotypes
+  - Polymorphism
+  - Species complex
+  - Santalales
+
+---
+
+## Abstract
+
+*Gaiadendron punctatum* (Ruiz & Pav.) G. Don. exhibits a wide morphological variation and geographical distribution, ranging from Nicaragua to Bolivia. Reported polymorphism and the existence of more than 20 synonyms for *Gaiadendron punctatum* might indicate that there is either a cryptic complex, or that this species shows great variation. Populations from Northwestern Colombia were sampled to evaluate if local morphological variation was reflected in molecular variation. Two chloroplast regions were used, and haplotype networks were performed for each region. Also, reproductive and vegetative characters were compared between populations. Three different morphotypes were observed according to examined variables. DNA sequences showed some nucleotide substitutions and indels that characterized some of the morphotypes. Network analyses group together individuals of the same morphotype for both regions. We found evidence that the three different morphotypes here described showed some degree of genetic identity. Further work is needed for sampling along the whole distribution range of this species, to propose hypotheses about different entities or the existence of a single polymorphic taxon with altitudinal ecotypes.
+
+## Citation
+
+> Carmona-Gallego, I., Vidal-Russell, R., & Alzate-Guarín, F. A. (2021). Exploring local morphological and molecular variation in parasitic species *Gaiadendron punctatum* (Loranthaceae) from Northwestern Andes of Colombia. *Neotropical Biodiversity*, 7(1), 514–522. https://doi.org/10.1080/23766808.2021.2000292
