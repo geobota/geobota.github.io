@@ -1,0 +1,34 @@
+---
+title: "Comparative leaf anatomy of three species of <i>Furcraea</i> (Asparagaceae: Agavoideae)"
+type: "article"
+author:
+  - name: "**Isabel Carmona-Gallego**"
+    orcid: 0000-0001-8954-4503
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+  - name: "**Edgar Javier Rincón-Barón**"
+    orcid: 0000-0003-1347-171X
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2018
+date: 2018-01-01
+publication: Acta Biológica Colombiana
+doi: https://doi.org/10.15446/abc.v23n1.66598
+materials: ""
+
+categories:
+  - Colombia
+  - Epidermis
+  - Hemiparasitic plants
+  - Plant tissues
+  - Santalales
+
+---
+
+## Abstract
+
+Leaf anatomy of *Gaiadendron punctatum* and *Tripodanthus belmirensis* species is described with the aim of exploring possible characters that allow a precise identification of these two genera, characterized by tree or shrub habit, belonging to Loranthaceae family. Samples were processed and stained with routine techniques for observation on optical microscope. Both species showed similarities, such as one-layered epidermis and rubiaceous type stomata. However, a different anatomic composition was observed in aspects such as: mesophyll, position and shape of epidermic cells and presence of suber accumulations in *G. punctatum*, or numerous idioblasts in *T. belmirensis*. A dichotomous key was constructed for species determination based on anatomical leaf characters, between the species of genus *Tripodanthus* and *G. punctatum*. Furthermore, the use of anatomical characters in determination and support of distinguishable taxonomical entities inside Loranthaceae is also briefly discussed.
+
+## Citation
+
+> Carmona-Gallego, I., Murillo-Serna, J. S., Rincón-Barón, E. J., & Alzate-Guarín, F. A. (2018). Comparative Leaf Anatomy of *Gaiadendron punctatum* and *Tripodanthus belmirensis* (LORANTHACEAE). *Acta Biológica Colombiana*, 23(1), 66–72. https://doi.org/10.15446/abc.v23n1.66598
