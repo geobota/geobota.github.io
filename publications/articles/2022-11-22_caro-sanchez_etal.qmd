@@ -1,0 +1,31 @@
+---
+title: "Novelties in <i>Chrysochlamys membranacea</i> (Clusiaceae: Clusieae), an update on the nomenclatural and morphological knowledge of this species described from Biogeographic Chocó, Colombia"
+type: "article"
+author:
+  - name: "**Angy Vanesa Caro-Sánchez**"
+    orcid: 0000-0001-8751-7931
+  - name: Álvaro Idárraga-Piedrahíta
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2022
+date: 2022-11-22
+publication: Asian Plant Research Journal
+doi: https://doi.org/10.9734/aprj/2022/v10i2186
+materials: ""
+
+categories:
+  - Balboa
+  - Dioecious
+  - Malpighiales
+  - Neotropical flora
+  - Tovomitopsis
+  - Triana
+---
+
+## Abstract
+
+*Chrysochlamys membranacea* Planch. & Triana is a species described as a pistillate specimen collected between Nariño and Cauca departments, in the locality of biogeographic Chocó, Colombia. In that publication the authors also provide a description of staminate flowers, however, there is no clarity about the collection related to it. During studies on the Clusiaceae family in Colombia, it was shown that *C. membranacea* is one of the species for which clarity about its sexual dimorphism is lacking and that, additionally, the citation of collections and localities has also generated taxonomic and nomenclatural uncertainty. In this work the knowledge about the identity of *C. membranacea* is revalued, its morphology is extensively described, emphasizing the fruits and staminate flowers, and the lectotype for this species is proposed. Finally, some notes are provided on its geographic distribution, phenology, taxonomic affinities, sexual dimorphism, and threat category according to the categories and criteria of the IUCN.
+
+## Citation
+
+> Caro-Sánchez, A. V., Idárraga-Piedrahíta, Á., & Alzate-Guarín, F. A. (2022). Novelties in *Chrysochlamys membranacea* (Clusiaceae: Clusieae), an update on the nomenclatural and morphological knowledge of this species described from Biogeographic Chocó, Colombia. *Asian Plant Research Journal*, 11–20. https://doi.org/10.9734/aprj/2022/v10i2186
