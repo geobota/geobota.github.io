@@ -1,0 +1,22 @@
+---
+title: "(2787) Proposal to conserve the name <i>Graffenrieda</i> against <i>Centronia</i> ( Melastomataceae: Merianieae)"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+  - name: Fabián A. Michelangeli
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2020
+date: 2020-12-31
+publication: Taxon
+doi: https://doi.org/10.1002/tax.12401
+materials: ""
+
+#categories:
+
+---
+
+## Citation
+
+> Murillo‐Serna, J. S., Michelangeli, F. A., & Alzate-Guarin, F. A. (2020). (2787) Proposal to conserve the name *Graffenrieda* against *Centronia* ( Melastomataceae: Merianieae). *Taxon*, 69(6), 1371–1372. https://doi.org/10.1002/tax.12401
