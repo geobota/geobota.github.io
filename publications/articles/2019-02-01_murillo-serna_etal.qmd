@@ -1,0 +1,30 @@
+---
+title: "Typification of some names of <i>Graffenrieda</i> (Melastomataceae: Merianieae)"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+  - name: Fabián A. Michelangeli
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2019
+date: 2019-02-01
+publication: Taxon
+doi: https://doi.org/10.11646/phytotaxa.391.2.6
+materials: ""
+
+categories:
+  - Botanical nomenclature
+  - Calyptrella
+  - Eudicots
+  - Neotropics
+
+---
+
+## Abstract
+
+In order to provide nomenclature and taxonomic clarity, nine lectotypes are designated for plants currently circumscribed in *Graffenrieda*. In addition, the typification for some species was analyzed and clarified and we discuss the occurrence of three cases of inadvertent lectotypifications.
+
+## Citation
+
+> Murillo-Serna, J. S., Michelangeli, F. A., & Alzate-Guarín, F. A. (2019). Typification of some names of *Graffenrieda* (Melastomataceae: Merianieae). *Phytotaxa*, 391(2), 131. https://doi.org/10.11646/phytotaxa.391.2.6
