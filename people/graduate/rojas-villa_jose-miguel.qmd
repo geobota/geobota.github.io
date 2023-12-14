@@ -4,7 +4,7 @@ sortby: "Rojas Villa, Jose Miguel"
 subtitle: "Estudiante de maestría"
 image: rojas-villa_jose-miguel.jpg
 started: "2022-07"
-ended: "Actualmente"
+ended: "Actual"
 toc: false
 about:
   id: person-profile
