@@ -1,0 +1,33 @@
+---
+title: "<Novelties in <i>Phoradendron</i> killipii (Viscaceae): an endemic and rare species from Colombia"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+  - name: Greta Aline Dettke
+  - name: "**Isabel Carmona-Gallego**"
+    orcid: 0000-0001-8954-4503
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2021
+date: 2021-03-16
+publication: Phytotaxa
+doi: https://doi.org/10.11646/phytotaxa.490.3.7
+materials: ""
+
+categories:
+  - Endemic species
+  - Eudicots
+  - Flora of Colombia
+  - Phoradendreae
+  - Santalales
+
+---
+
+## Abstract
+
+*Phoradendron killipii* is an endemic species from Colombia, initially known only from the original material. Ten herbarium sheets of this species were found during taxonomic studies of Colombian Viscaceae, allowing to figure out some aspects that remained unclear since *P. killipii* was published, until now. The morphology of *P. killipii* fruits and staminate inflorescences is described here for the first time, confirming its generic identity. Evidence of the dioecy of the species and some aspects of its distribution and ecology are also discussed.
+
+## Citation
+
+> Murillo-Serna, J. S., Dettke, G. A., Carmona-Gallego, I., & Alzate-Guarin, F. A. (2021). Novelties in *Phoradendron killipii* (Viscaceae): An endemic and rare species from Colombia. *Phytotaxa*, 490(3), 285–290. https://doi.org/10.11646/phytotaxa.490.3.7

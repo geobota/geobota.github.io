@@ -1,0 +1,35 @@
+---
+title: "A new species of <i>Aetanthus</i> (Loranthaceae) from Colombia with notes on <i>A. engelsii</i>"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+  - name: "**Francisco Javier Roldán-Palacio**"
+    orcid: 0000-0001-9241-9551
+  - name: "**Isabel Carmona-Gallego**"
+    orcid: 0000-0001-8954-4503
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2021
+date: 2021-02-01
+publication: Candollea
+doi: https://doi.org/10.15553/c20121v761a6
+materials: ""
+
+categories:
+  - Aetanthus
+  - Colombia
+  - Hemiparasitic plants
+  - Loranthaceae
+  - Mew species
+  - Nomenclature
+
+---
+
+## Abstract
+
+*Aetanthus alternifolius* F.J. Roldán, Carmona, Alzate & J.S. Murillo (Loranthaceae) is newly described and illustrated from the department of Santander in northeastern Colombia. This new mistletoe species, known only from the type locality, is discriminate by its indeterminate shoots, alternate or subopposite, obovate leaves, cymose inflorescences bearing three dyads, flower buds c. 9 cm long, with a finely toothed and sometimes fissured calyculus. Its morphological affinities are discussed especially in relation to *A. colombianus* A.C. Smith and A. coriaceus Patsch. The rediscovery of original material in P of the poorly known *Phyllostephanus engelsii* Tiegh. (≡ *Aetanthus engelsii* (Tiegh.) Engl.) is discussed. An emended description is provided and a lectotype is designated. An identification key to the ten species of *Aetanthus* (Eichler) Engl. occurring in Colombia is also presented.
+
+## Citation
+
+> Murillo-Serna, J. S., Roldán-Palacio, F. J., Carmona-Gallego, I., & Alzate-Guarin, F. A. (2021). A new species of *Aetanthus* (Loranthaceae) from Colombia with notes on *A. engelsii*. *Candollea*, 76(1). https://doi.org/10.15553/c20121v761a6
