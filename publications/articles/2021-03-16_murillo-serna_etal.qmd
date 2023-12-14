@@ -1,5 +1,5 @@
 ---
-title: "<Novelties in <i>Phoradendron</i> killipii (Viscaceae): an endemic and rare species from Colombia"
+title: "Novelties in <i>Phoradendron</i> killipii (Viscaceae): an endemic and rare species from Colombia"
 type: "article"
 author:
   - name: "**Jhon Steven Murillo-Serna**"
