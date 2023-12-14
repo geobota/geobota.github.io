@@ -1,0 +1,29 @@
+---
+title: "A new species of <i>Allomaieta</i> (Melastomataceae: Cyphostyleae) from Colombia"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+  - name: "**Heriberto Antonio David-Higuita**"
+    orcid: 0000-0002-2430-2973
+year: 2021
+date: 2021-04-12
+publication: Brittonia
+doi: https://doi.org/10.1007/s12228-021-09659-8
+materials: ""
+
+categories:
+  - Antioquia
+  - Cyphostyleae
+  - Endemic species
+  - Threatened species
+
+---
+
+## Abstract
+
+*Allomaieta pterocalycina*, a new species registered for the department of Antioquia, Colombia is described and illustrated. It differs from other species of the genus by the presence of winged-like conspicuous projections in both the hypanthium and calyptra. This new taxon grows in ombrophilous environments, inside well-preserved forest remnants, between 400 and 700 m asl. Due to its limited distribution, habitat specificity, surrounding forest fragmentation and degree of threat of its occurrence area, the category “Critically Endangered” (CR) is suggested.
+
+## Citation
+
+> Murillo-Serna, J. S., & David-Higuita, H. A. (2021). A new species of *Allomaieta* (Melastomataceae: Cyphostyleae) from Colombia. *Brittonia*, 73(2), 189–194. https://doi.org/10.1007/s12228-021-09659-8
