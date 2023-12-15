@@ -1,0 +1,28 @@
+---
+title: "Preliminary evaluation of the flammability of some species of cultivated plants in Colombia"
+type: "article"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Lina Marcela Muñoz-Correa**"
+    orcid: 0000-0003-1860-1333
+  - name: Andrés Amell
+year: 2022
+date: 2022-01-24
+publication: Hoehnea
+doi: https://doi.org/10.1590/2236-8906-49/2021
+materials: ""
+
+categories:
+  - Fireproofing
+  - Flame sustainability
+  - Time to ignition
+---
+
+## Abstract
+
+It was assessed the flammability of 11 plant species cultivated in Medellin city in Colombia, using the variables time of ignition and time of flame sustainability, with the aim to know the susceptibility to ignite and burn, making use of Valette methodology, in which foliar surfaces are putting on external heat source at 420 °C and controlled conditions. Of the evaluated species, *Costus guanaiensis* Rusby a *Clusia multiflora* Kunth had the higher time to ignition value and the lowest sustainability value, that is, these plants have a retardant effect of the appearance and of the spread of fires, so it is recommended to use these plants like firewall especially in areas with high frequency and fire impact.
+
+## Citation
+
+> Alzate-Guarín, F., Muñoz-Correa, L. M., & Amell, A. (2022). Preliminary evaluation of the flammability of some species of cultivated plants in Colombia. *Hoehnea*, 49, e492021. https://doi.org/10.1590/2236-8906-49/2021
