@@ -1,0 +1,29 @@
+---
+title: "Conservation status of the angiosperm species of the Antioquia paramos"
+type: "article"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Dora Emilse Cano-Gallego**"
+    orcid: 0000-0002-4498-4908
+  - name: Rosa del C. Ortiz-Gentry
+year: 2021
+date: 2021-12-15
+publication: Acta Biológica Colombiana
+doi: https://doi.org/10.15446/abc.v27n2.89521
+materials: ""
+
+categories:
+  - Conservation
+  - Extension of presence
+  - Herbarium data
+  - Threatened species
+---
+
+## Abstract
+
+The current need to preserve the diversity in the ecosystems of paramo given the multiple threats that affect them, requires a fast recognition of the most vulnerable species. We applied two methodologies for the rapid evaluation of the risk condition of Angiosperm species distributed in six paramo complexes of Antioquia. Both methods use information associated with herbarium collections to obtain a rapid assessment of species at risk. With the first methodology based on the estimation of the extension of presence (EOO), we found 110 species with potential risk of extinction, distributed in 29 families and 57 genera. With the second methodology based on year of collection, geographical data, and number of collections, we found 192 species \"*at risk*\" corresponding to 42 families and 100 genera. The results present here can be useful for the identification of priority areas and the orientation of the efforts of conservation towards those areas and the most vulnerable species.
+
+## Citation
+
+> Alzate-Guarin, F. A., Cano-Gallego, D. E., & Ortiz-Gentry, R. del C. (2021). Conservation status of the angiosperm species of the Antioquia paramos. *Acta Biológica Colombiana*, 27(2). https://doi.org/10.15446/abc.v27n2.89521
