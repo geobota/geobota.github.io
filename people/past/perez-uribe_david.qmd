@@ -1,0 +1,34 @@
+---
+title: "David Pérez Uribe"
+sortby: "Pérez Uribe, David"
+subtitle: "Estudiante de pregrado"
+#image: doe_john.jpg
+started: ""
+ended: ""
+toc: false
+about:
+  id: person-profile
+  template: jolla
+  links:
+    # - href: diana.garcia10@udea.edu.co
+    #   text: Correo
+    # - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001825775
+    #   text: CvLAC
+    # - href: https://scholar.google.com/citations?user=zifByB4AAAAJ
+    #   text: Google Scholar
+    - href: 0000-0002-7381-0165
+      text: ORCID
+    # - href: https://www.researchgate.net/profile/Diana-Garcia-Ruenes
+    #   text: ResearchGate
+---
+
+:::{#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| -2022\
+    Sobre los géneros *Guettarda* L. y *Tournefortiopsis* Rusby. (Rubiaceae) para el departamento de Antioquia
