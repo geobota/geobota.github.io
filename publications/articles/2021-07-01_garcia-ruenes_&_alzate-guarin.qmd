@@ -2,7 +2,7 @@
 title: "The genus <i>Alchornea</i> (Euphorbiaceae) in Antioquia, Colombia"
 type: "article"
 author:
-  - name: "**Diana Cristina García Ruenes**"
+  - name: "**Diana Cristina García-Ruenes**"
     orcid: 0000-0003-0004-1569
   - name: "**Fernando Alveiro Alzate-Guarin**"
     orcid: 0000-0002-4916-8897
