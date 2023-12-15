@@ -1,0 +1,16 @@
+---
+paggetitle: "Noticias"
+toc: false
+listing: 
+  - id: blog
+    type: default
+    # fields: [date, author, title, description, image]
+    contents: blog
+    categories: true
+    sort:
+      - "date desc"
+      - "title"
+    sort-ui: true
+    page-size: 10
+---
+
