@@ -1,0 +1,29 @@
+---
+title: "The genus <i>Alchornea</i> (Euphorbiaceae) in Antioquia, Colombia"
+type: "article"
+author:
+  - name: "**Diana Cristina García Ruenes**"
+    orcid: 0000-0003-0004-1569
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2021
+date: 2021-07-01
+publication: Biota Colombiana
+doi: https://doi.org/10.21068/c2021.v22n02a01
+materials: ""
+
+categories:
+  - Distribution
+  - Diversity
+  - Morphology
+  - Taxonomy
+
+---
+
+## Abstract
+
+A taxonomic study of the genus *Alchornea* in Antioquia, Colombia, is presented. Fifteen species are included, three of which (*Alchornea brittonii*, *A. bogotensis*. and *A. discolor*) are new records for the department. A morphological characterization, a species identification key, full descriptions, and taxonomic and geographic distribution notes of the species are provided.
+
+## Citation
+
+> García-Ruenes, D. C., & Alzate-Guarín, F. A. (2021). The genus *Alchornea* (Euphorbiaceae) in Antioquia, Colombia. *Biota Colombiana*, 22(2), 2–15. https://doi.org/10.21068/c2021.v22n02a01
