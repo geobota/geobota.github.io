@@ -10,16 +10,16 @@ about:
   id: person-profile
   template: jolla
   links:
-    - href: diana.garcia10@udea.edu.co
-      text: Correo
-    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001825775
-      text: CvLAC
-    - href: https://scholar.google.com/citations?user=zifByB4AAAAJ
-      text: Google Scholar
+  #   - href: diana.garcia10@udea.edu.co
+  #     text: Correo
+  #   - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001825775
+  #     text: CvLAC
+  #   - href: https://scholar.google.com/citations?user=zifByB4AAAAJ
+  #     text: Google Scholar
     - href: https://orcid.org/0000-0003-0004-1569
       text: ORCID
-    - href: https://www.researchgate.net/profile/Diana-Garcia-Ruenes
-      text: ResearchGate
+  #   - href: https://www.researchgate.net/profile/Diana-Garcia-Ruenes
+  #     text: ResearchGate
 ---
 
 :::{#person-profile}
@@ -30,5 +30,5 @@ about:
 ## Educación
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
-    Pregrado en Biología \| 2009-2017\
-    El género *Alchornea* Sw. (Euphorbiaceae) en Antioquia, Colombia.
+    Pregrado en Biología \| 2012-2020\
+    El género *Alchornea* Sw. (Euphorbiaceae) en Antioquia, Colombia
