@@ -1,0 +1,17 @@
+---
+title: "En el herbario de la UdeA hay nuevas especies de plantas para la ciencia"
+description: "En los últimos años, distintos profesores, alumnos y personal del lugar lo han explorado y han encontrado allí registros nunca antes descritos."
+
+author: GEOBOTA
+date: 2023-11-11
+
+categories:
+  - El Colombiano
+  - Noticias
+---
+
+![Izquierda: *Tournefortiopsis triflora* descrita por David Pérez. Derecha: *Espeletia restricta* descrita por Fernando Alzate.](image.jpg){fig-align="center"}
+
+En la Universidad de Antioquia hay un herbario con 229.000 especímenes de algas, hongos, líquenes, briofitos, helechos, gimnospermas y angiospermas, organizados en grupos relacionados entre sí por una serie de atributos biológicos o según su forma de almacenamiento, con el fin de documentar la diversidad florística, promover la investigación y apoyar la educación en diferentes áreas. Por eso, no es raro que en los últimos años, alumnos y profesores hayan encontrado en ese lugar especies nuevas para la ciencia.
+
+Leer nota completa [aquí](https://www.elcolombiano.com/medio-ambiente/especies-nuevas-plantas-herbario-universidad-de-antioquia-DA23105446).
