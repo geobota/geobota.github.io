@@ -11,9 +11,10 @@ website:
   title: "Grupo de Estudios Botánicos GEOBOTA"
   site-url: http://geobota.github.io
   repo-url: https://github.com/geobota/geobota.github.io
+  favicon: images/logo/favicon.png
 
   navbar:
-    logo: images/geobota_logo.png
+    logo: images/logo/banner.png
     search: true
     right:
       - href: index.qmd
