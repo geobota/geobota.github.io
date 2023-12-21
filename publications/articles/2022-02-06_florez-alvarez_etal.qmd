@@ -29,4 +29,3 @@ categories:
 ## Citation
 
 > Flórez-Álvarez, L., Martínez-Moreno, J., Zapata-Cardona, M. I., Galeano, E., Alzate-Guarin, F. A., & Zapata, W. (2022). In vitro antiviral activity against SARS-CoV-2 of plant extracts used in Colombian traditional medicine. *Vitae*, 29(1). https://doi.org/10.17533/udea.vitae.v29n1a347854
-
