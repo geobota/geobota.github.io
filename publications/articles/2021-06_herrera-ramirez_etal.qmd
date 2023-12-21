@@ -1,0 +1,33 @@
+---
+title: "In-vitro chemopreventive potential of a chromone from <i>Bomarea setacea</i> (Alstroemeriaceae) against colorectal cancer"
+type: "article"
+author:
+  - name: Angie Herrera-Ramírez
+  - name: Gustavo Moreno
+  - name: Pedronel Araque
+  - name: Isabel Vásquez
+  - name: Elizabeth Naranjo
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Wilson Cardona-Galeano
+year: 2021
+date: 2021-06
+publication: Iranian Journal of Pharmaceutical Research
+doi: https://doi.org/10.22037/ijpr.2020.113745.14466
+materials: ""
+
+categories:
+  - Antiproliferative 
+  - Apoptosis 
+  - Bomarea setacea
+  - Chromone
+  - Colorectal cancer
+---
+
+## Abstract
+
+Chemoprevention with natural products may provide important alternatives in the search for new drugs to treat cancer. Thus, the ethanol extract of *Bomarea setacea* and its secondary metabolite (chromone) were evaluated *in-vitro* in SW480 and SW620 human adenocarcinoma colon cells to identify a possible effect on cell growth, antiproliferative and/or proapoptotic activity. The ethanol extract did not show growth inhibition of these cell lines 48 h after treatment; besides, it required higher concentration and time to have an antiproliferative effect. On the other hand, although the chromone was not as active as the reference drug (5-FU), it displayed a greater selectivity, being 156-fold more selective against SW480 cells (SI =\> 100) and 255-fold against SW620 cells (SI =\> 86,9). Additionally, the chromone caused an important arrest in G2/M (44.18%) with an important accumulation in subG0/G1 phase in SW620 cells, inducing loss in mitochondrial membrane potential and damage in the cell membrane of both cell lines, with activation of caspase 3, suggesting an apoptotic process independent of ROS production and p53 activation.
+
+## Citation
+
+> Herrera-Ramírez, A., Moreno, G., Araque, P., Vasquez, I., Naranjo, E., Alzate-Guarin, F. A., & Cardona-Galeano, W. (2021). In-vitro chemopreventive potential of a chromone from *Bomarea setacea* (Alstroemeriaceae) against colorectal cancer. *Iranian Journal of Pharmaceutical Research*, 20(2). https://doi.org/10.22037/ijpr.2020.113745.14466

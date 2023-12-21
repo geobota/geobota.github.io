@@ -1,0 +1,29 @@
+---
+title: "Comparative transcriptomics of a monocotyledonous geophyte reveals shared molecular mechanisms of underground storage organ formation"
+type: "article"
+author:
+  - name: Carrie M Tribble
+  - name: Jesús Martínez-Gómez
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Carl J Rothfels
+  - name: Chelsea D Specht
+year: 2021
+date: 2021-01-19
+publication: Evolution & Development
+doi: https://doi.org/10.1111/ede.12369
+materials: ""
+
+categories:
+  - Comparative transcriptomics
+  - Geophytes
+  - Tuberous roots
+---
+
+## Abstract
+
+Many species from across the vascular plant tree-of-life have modified standard plant tissues into tubers, bulbs, corms, and other underground storage organs (USOs), unique innovations which allow these plants to retreat underground. Our ability to understand the developmental and evolutionary forces that shape these morphologies is limited by a lack of studies on certain USOs and plant clades. We take a comparative transcriptomics approach to characterizing the molecular mechanisms of tuberous root formation in *Bomarea multiflora* (Alstroemeriaceae) and compare these mechanisms to those identified in other USOs across diverse plant lineages; *B. multiflora* fills a key gap in our understanding of USO molecular development as the first monocot with tuberous roots to be the focus of this kind of research. We sequenced transcriptomes from the growing tip of four tissue types (aerial shoot, rhizome, fibrous root, and root tuber) of three individuals of *B. multiflora*. We identified differentially expressed isoforms between tuberous and non-tuberous roots and tested the expression of a priori candidate genes implicated in underground storage in other taxa. We identify 271 genes that are differentially expressed in root tubers versus non-tuberous roots, including genes implicated in cell wall modification, defense response, and starch biosynthesis. We also identify a phosphatidylethanolamine-binding protein, which has been implicated in tuberization signalling in other taxa and, through gene-tree analysis, place this copy in a phylogenetic context. These findings suggest that some similar molecular processes underlie the formation of USOs across flowering plants despite the long evolutionary distances among taxa and non-homologous morphologies (e.g., bulbs vs. tubers). (Plant development, tuberous roots, comparative transcriptomics, geophytes).
+
+## Citation
+
+> Tribble, C. M., Martínez‐Gómez, J., Alzate-Guarin, F. A., Rothfels, C. J., & Specht, C. D. (2021). Comparative transcriptomics of a monocotyledonous geophyte reveals shared molecular mechanisms of underground storage organ formation. *Evolution & Development*, 23(3), 155--173. https://doi.org/10.1111/ede.12369
