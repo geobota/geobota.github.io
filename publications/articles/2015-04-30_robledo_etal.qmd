@@ -1,0 +1,33 @@
+---
+title: "Antileishmanial effect of 5,3′-hydroxy-7,4′-dimethoxyflavanone of <i>Picramnia gracilis</i> Tul. (Picramniaceae) fruit: <i>in vitro</i> and <i>in vivo</i> studies"
+type: "article"
+author:
+  - name: Sara Maria Robledo
+  - name: Wilson Cardona-Galeano
+  - name: Karen Ligardo
+  - name: Jéssica Henao
+  - name: Natalia Arbeláez
+  - name: Andrés Montoya
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Juan Manuel Pérez
+  - name: Victor Arango
+  - name: Iván D. Vélez
+  - name: Jairo Sáez
+year: 2015
+date: 2015-04-30
+publication: Advances in Pharmacological Sciences
+doi: https://doi.org/10.1155/2015/978379
+materials: ""
+
+# categories:
+#   - 
+---
+
+## Abstract
+
+Species of *Picramnia* genus are used in folk medicine to treat or prevent skin disorders, but only few species have been studied for biological activity and chemical composition.*P. gracilis* Tul. is a native species from Central and South America and although its fruits are edible, phytochemical analysis or medicinal uses of this species are not known. In the search of candidates to antileishmanial drugs, this work aimed to evaluate the antileishmanial activity of *P. gracilis* Tul. in *in vitro* and *in vivo* studies. Only ethanolic extract of fruits showed leishmanicidal activity. The majoritarian metabolite was *5,3*′*-hydroxy-7,4*′*-dimethoxyflavanone* ether that exhibited high activity against *L. (V.) panamensis* (EC~50~ 17.0 + 2.8 mg/mL, 53.7 *μ*M) and low toxicity on mammalian U-937 cells, with an index of selectivity \>11.8. *In vivo* studies showed that the flavanone administered in solution (2 mg/kg/day) or cream (2%) induces clinical improvement and no toxicity in hamsters with CL. In conclusion, this is the first report about isolation of*5,3*′*-hydroxy-7,4*′*-dimethoxyflavanone* of *P. gracilis* Tul. The leishmanicidal activity attributed to this flavanone is also reported for the first time. Finally, the *in vitro* and *in vivo* leishmanicidal activity reported here for *5,3*′*-hydroxy-7,4*′*-dimethoxyflavanone*offers a greater prospect towards antileishmanial drug discovery and development.
+
+## Citation
+
+> Robledo, S. M., Cardona-Galeano, W., Ligardo, K., Henao, J., Arbeláez, N., Montoya, A., Alzate-Guarin, F. A., Pérez, J. M., Arango, V., Vélez, I. D., & Sáez, J. (2015). Antileishmanial effect of 5,3′-hydroxy-7,4′-dimethoxyflavanone of Picramnia gracilis Tul. (Picramniaceae) fruit: In vitro and in vivo studies. *Advances in Pharmacological Sciences*, 2015, 1--8. https://doi.org/10.1155/2015/978379
