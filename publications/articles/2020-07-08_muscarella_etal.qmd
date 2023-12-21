@@ -1,0 +1,61 @@
+---
+title: "The global abundance of tree palms"
+type: "article"
+author:
+  - name: Robert Muscarella, Thaise Emilio, Oliver L. Phillips, Simon L. Lewis, Ferry Slik, William J. Baker, Thomas L. P. Couvreur, Wolf L. Eiserhardt, Jens-Christian Svenning, Kofi Affum-Baffoe, Shin-Ichiro Aiba, Everton C. de Almeida, Samuel S. de Almeida, Edmar Almeida de Oliveira, Esteban Álvarez-Dávila, Luciana F. Alves, Carlos Mariano Alvez-Valles, Fabrício Alvim Carvalho,
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Ana Andrade, Luis E. O. C. Aragão, Alejandro Araujo Murakami, Luzmila Arroyo, Peter S. Ashton, Gerardo A. Aymard Corredor, Timothy R. Baker, Plinio Barbosa de Camargo, Jos Barlow, Jean-François Bastin, Natacha Nssi Bengone, Erika Berenguer, Nicholas Berry, Lilian Blanc, Katrin Böhning-Gaese, Damien Bonal, Frans Bongers, Matt Bradford, Fabian Brambach, Francis Q. Brearley, Steven W. Brewer, Jose L. C. Camargo, David G. Campbell, Carolina V. Castilho, Wendeson Castro, Damien Catchpole, Carlos E. Cerón Martínez, Shengbin Chen, Phourin Chhang, Percival Cho, Wanlop Chutipong, Connie Clark, Murray Collins, James A. Comiskey, Massiel Nataly Corrales Medina, Flávia R. C. Costa, Heike Culmsee,
+  - name: "**Heriberto Antonio David-Higuita**"
+    orcid: 0000-0002-2430-2973
+  - name: Priya Davidar, Jhon del Aguila-Pasquel, Géraldine Derroire, Anthony Di Fiore, Tran Van Do, Jean-Louis Doucet, Aurélie Dourdain, Donald R. Drake, Andreas Ensslin, Terry Erwin, Corneille E. N. Ewango, Robert M. Ewers, Sophie Fauset, Ted R. Feldpausch, Joice Ferreira, Leandro Valle Ferreira, Markus Fischer, Janet Franklin, Gabriella M. Fredriksson, Thomas W. Gillespie, Martin Gilpin, Christelle Gonmadje, Arachchige Upali Nimal Gunatilleke, Khalid Rehman Hakeem, Jefferson S. Hall, Keith C. Hamer, David J. Harris, Rhett D. Harrison, Andrew Hector, Andreas Hemp, Bruno Herault, Carlos Gabriel Hidalgo Pizango, Eurídice N. Honorio Coronado, Wannes Hubau, Mohammad Shah Hussain, Faridah-Hanum Ibrahim, Nobuo Imai, Carlos A. Joly, Shijo Joseph, Anitha K, Kuswata Kartawinata, Justin Kassi, Timothy J. Killeen, Kanehiro Kitayama, Bente Bang Klitgård, Robert Kooyman, Nicolas Labrière, Eileen Larney, Yves Laumonier, Susan G. Laurance, William F. Laurance, Michael J. Lawes, Aurora Levesley, Janvier Lisingo, Thomas Lovejoy, Jon C. Lovett, Xinghui Lu, Anne Mette Lykke, William E. Magnusson, Ni Putu Diana Mahayani, Yadvinder Malhi, Asyraf Mansor, Jose Luis Marcelo Peña, Ben H. Marimon-Junior, Andrew R. Marshall, Karina Melgaco, Casimiro Mendoza Bautista, Vianet Mihindou, Jérôme Millet, William Milliken, D. Mohandass, Abel Lorenzo Monteagudo Mendoza, Badru Mugerwa, Hidetoshi Nagamasu, Laszlo Nagy, Naret Seuaturien, Marcelo T. Nascimento, David A. Neill, Luiz Menini Neto, Rueben Nilus, Mario Percy Núñez Vargas, Eddy Nurtjahya, R. Nazaré O. de Araújo, Onrizal Onrizal, Walter A. Palacios, Sonia Palacios-Ramos, Marc Parren, Ekananda Paudel, Paulo S. Morandi, R. Toby Pennington, Georgia Pickavance, John J. Pipoly III, Nigel C. A. Pitman, Erny Poedjirahajoe, Lourens Poorter, John R. Poulsen, P. Rama Chandra Prasad, Adriana Prieto, Jean-Philippe Puyravaud, Lan Qie, Carlos A. Quesada, Hirma Ramírez-Angulo, Jean Claude Razafimahaimodison, Jan Meindert Reitsma, Edilson J. Requena-Rojas, Zorayda Restrepo Correa, Carlos Reynel Rodriguez, Anand Roopsind, Francesco Rovero, Andes Rozak, Agustín Rudas Lleras, Ervan Rutishauser, Gemma Rutten, Ruwan Punchi-Manage, Rafael P. Salomão, Hoang Van Sam, Swapan Kumar Sarker, Manichanh Satdichanh, Juliana Schietti, Christine B. Schmitt, Beatriz Schwantes Marimon, Feyera Senbeta, Lila Nath Sharma, Douglas Sheil, Rodrigo Sierra, Javier E. Silva-Espejo, Marcos Silveira, Bonaventure Sonké, Marc K. Steininger, Robert Steinmetz, Tariq Stévart, Raman Sukumar, Aisha Sultana, Terry C. H. Sunderland, Hebbalalu Satyanarayana Suresh, Jianwei Tang, Edmund Tanner, Hans ter Steege, John W. Terborgh, Ida Theilade, Jonathan Timberlake, Armando Torres-Lezama, Peter Umunay, María Uriarte, Luis Valenzuela Gamarra, Martin van de Bult, Peter van der Hout, Rodolfo Vasquez Martinez, Ima Célia Guimarães Vieira, Simone A. Vieira, Emilio Vilanova, Jeanneth Villalobos Cayo, Ophelia Wang, Campbell O. Webb, Edward L. Webb, Lee White, Timothy J. S. Whitfeld, Serge Wich, Simon Willcock, Susan K. Wiser, Kenneth R. Young, Rahmad Zakaria, Runguo Zang, Charles E. Zartman, Irié Casimir Zo-Bi, Henrik Balslev
+year: 2020
+date: 2020-07-08
+publication: Global Ecology and Biogeography
+doi: https://doi.org/10.1111/geb.13123
+materials: ""
+
+categories:
+  - above-ground biomass 
+  - Abundance patterns 
+  - Arecaceae 
+  - Local abiotic conditions 
+  - Neotropics 
+  - Pantropical biogeography 
+  - Tropical rainforest 
+  - Wood density
+---
+
+## Abstract
+
+### Aim
+
+Palms are an iconic, diverse and often abundant component of tropical ecosystems that provide many ecosystem services. Being monocots, tree palms are evolutionarily, morphologically and physiologically distinct from other trees, and these differences have important consequences for ecosystem services (e.g., carbon sequestration and storage) and in terms of responses to climate change. We quantified global patterns of tree palm relative abundance to help improve understanding of tropical forests and reduce uncertainty about these ecosystems under climate change.
+
+### Location
+
+Tropical and subtropical moist forests.
+
+### Time period
+
+Current.
+
+### Major taxa studied
+
+Palms (Arecaceae).
+
+### Methods
+
+We assembled a pantropical dataset of 2,548 forest plots (covering 1,191 ha) and quantified tree palm (i.e., ≥10 cm diameter at breast height) abundance relative to co-occurring non-palm trees. We compared the relative abundance of tree palms across biogeographical realms and tested for associations with palaeoclimate stability, current climate, edaphic conditions and metrics of forest structure.
+
+### Results
+
+On average, the relative abundance of tree palms was more than five times larger between Neotropical locations and other biogeographical realms. Tree palms were absent in most locations outside the Neotropics but present in \>80% of Neotropical locations. The relative abundance of tree palms was more strongly associated with local conditions (e.g., higher mean annual precipitation, lower soil fertility, shallower water table and lower plot mean wood density) than metrics of long-term climate stability. Life-form diversity also influenced the patterns; palm assemblages outside the Neotropics comprise many non-tree (e.g., climbing) palms. Finally, we show that tree palms can influence estimates of above-ground biomass, but the magnitude and direction of the effect require additional work.
+
+### Conclusions
+
+Tree palms are not only quintessentially tropical, but they are also overwhelmingly Neotropical. Future work to understand the contributions of tree palms to biomass estimates and carbon cycling will be particularly crucial in Neotropical forests.
+
+## Citation
+
+> Muscarella, R., Emilio, T., Phillips, O. L., Lewis, S. L., Slik, F., Baker, W. J., Couvreur, T. L. P., Eiserhardt, W. L., Svenning, J., Affum‐Baffoe, K., Aiba, S., De Almeida, E. C., De Almeida, S. S., De Oliveira, E. A., Álvarez‐Dávila, E., Alves, L. F., Alvez‐Valles, C. M., Carvalho, F. A., Alzate-Guarin, F. A., ... Balslev, H. (2020). The global abundance of tree palms. *Global Ecology and Biogeography*, 29(9), 1495--1514. https://doi.org/10.1111/geb.13123
