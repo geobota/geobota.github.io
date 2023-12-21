@@ -1,0 +1,33 @@
+---
+title: "Nutricional and physicochemical aspects of <i>Ilex laurina</i> Kunth (Aquifoliaceae): a comparative study with <i>Ilex Paraguariensis</i>"
+type: "article"
+author:
+  - name: Juan Manuel Pérez
+  - name: Wilson Cardona-Galeano
+  - name: Luz Urango
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Benjamín Rojano
+  - name: Maria Elena Maldonado
+year: 2017
+date: 2017-02-02
+publication: Perspectivas en Nutrición Humana
+doi: https://doi.org/10.17533/udea.penh.v19n1a04
+materials: ""
+
+categories:
+  - lex paraguariensis
+  - Mate
+  - Sensory test
+  - Phytochemicals
+  - Minerals
+  - Macronutrients
+---
+
+## Abstract
+
+**Background:** *Ilex laurina* K., a Colombian plant whose infusion presents antioxidant and antiproliferative properties, belongs to a species of Yerba Mate tea. **Objective:** Evaluate the nutritional and physiochemical properties of an infu-sion using *Ilex laurina* K. leaves as a potential raw material, functional food and substitute for the conventional *Ilex paraguariensis* tea. **Materials and Methods:** Phytochemicals and carbohydrates by HPLC analysis, solubility, mineral measurement us-ing atomic absorption spectrophotometry, and sensorial analysis. **Results:** The *Ilex laurina* K. infusión compared with *Ilex paraguariensis* infusion found higher concentrations of chlorogenic acid (429.2 ± 20.2 versus 47.4 ± 1.9 mg / kg), p-coumaric (47.3 ± 2.4 versus 24.4 ± 0.9 mg / kg), xanthines (1.4-1.8 times), iron, copper, zinc, and the likes of caffeic acid (52.6 ± 18.8 versus 47.4 ± 1.9 mg / L) (p\> 0.05). Ferulic acid (21.5 ± 1.6 mg / L) and fructose (0.4 ± 0.003 g / L) were detected, while glucose (0.8 ± 0.007 g / L) and higher concentrations of magnesium and manganese (p\<0.05) we found in the *Ilex paraguariensis*. *Ilex laurina* K. infusion was accepted by 64% of consumers, regardless of gender; and respective acceptability of the following characteristics: color (51%), smell (47%), flavor (42%) and sweetness (47%). **Conclusions:** *Ilex laurina* K. infusion is well accepted by consumers, and contains a higher concentration of phenol compounds, xanthines, iron, copper, zinc and fructose than Ilex paraguariensis infusion, and contributes less glucose, magnesium and manganese.
+
+## Citation
+
+> Pérez, J. M., Cardona-Galeano, W., Urango, L., Alzate-Guarin, F. A., Rojano, B., & Maldonado, M. E. (2017). Nutricional and physicochemical aspects of Ilex laurina Kunth (Aquifoliaceae): A comparative study with Ilex Paraguariensis. *Perspectivas En Nutrición Humana*, 19(1), 41--54. https://doi.org/10.17533/udea.penh.v19n1a04
