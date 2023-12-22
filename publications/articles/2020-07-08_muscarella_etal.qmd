@@ -16,7 +16,7 @@ doi: https://doi.org/10.1111/geb.13123
 materials: ""
 
 categories:
-  - above-ground biomass 
+  - Above-ground biomass 
   - Abundance patterns 
   - Arecaceae 
   - Local abiotic conditions 
