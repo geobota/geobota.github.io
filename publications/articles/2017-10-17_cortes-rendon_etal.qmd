@@ -1,0 +1,49 @@
+---
+title: "Alkaloids of Amaryllidaceae as inhibitors of cholinesterases (AChEs and BChEs): an integrated bioguided study"
+type: "article"
+author:
+  - name: Natalie Charlotte Cortés-Rendón
+  - name: Karina Andrea Sierra-Henao
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Edison Javier Osorio-Durango
+year: 2017
+date: 2017-10-17
+publication: Phytochemical Analysis
+doi: https://doi.org/10.1002/pca.2736
+materials: ""
+
+categories:
+  - Alzheimer disease
+  - Amaryllidaceae alkaloids
+  - Acetylcholinesterase
+  - Butyrylcholinesterase
+  - Bioautography
+  - Molecular docking
+---
+
+## Abstract
+
+### Introduction
+
+Enzymatic inhibition of acetylcholinesterase (AChE) is an essential therapeutic target for the treatment of Alzheimer's disease (AD) and AChE inhibitors are the first-line drugs for it treatment. However, butyrylcholinesterase (BChE), contributes critically to cholinergic dysfunction associated with AD. Thus, the development of novel therapeutics may involve the inhibition of both cholinesterase enzymes.
+
+### Objective
+
+To evaluate, in an integrated bioguided study, cholinesterases alkaloidal inhibitors of Amaryllidaceae species.
+
+### Methodology
+
+The proposed method combines high-performance thin-layer chromatography (HPTLC) with data analysis by densitometry, enzymatic bioautography with different AChEs and BChEs, the detection of bioactive molecules through gas chromatography mass spectrometry (GC--MS) analysis of spots of interest, and theoretical *in silico* studies.
+
+### Results
+
+To evaluate the bioguided method, the AChE and BChE inhibitory activities of seven Amaryllidaceae plant extracts were evaluated. The alkaloid extracts of *Eucharis bonplandii*exhibited a high level of inhibitory activity (IC~50~ = 0.72 ± 0.05 μg/mL) against *human recombinant* AChE (*h*AChE). Regarding *human serum* BChE (*h*BChE), the bulb and leaf extracts of *Crinum jagus* had the highest activity (IC~50~ = 8.51 ± 0.56 μg/mL and 11.04 ± 1.21 μg/mL, respectively). In the HPTLC spots with high inhibitory activity, several alkaloids were detected using GC--MS, and some of these alkaloids were identified. Galanthamine, galanthamine *N*-oxide and powelline should be the most prominent inhibitors of substrate accommodation in the active site of the *Torpedo californica* AChE (*Tc*AChE), *h*AChE and *h*BChE enzymes.
+
+### Conclusions
+
+These results are evidence of the chemical relevance of the Colombian's Amaryllidaceae species for the inhibition of cholinesterases and as potent sources for the palliative treatment of AD.
+
+## Citation
+
+> Cortés-Rendón, N. C., Sierra-Henao, K. A., Alzate-Guarin, F. A., & Osorio-Durango, E. J. (2017). Alkaloids of Amaryllidaceae as inhibitors of cholinesterases (AChEs and BChEs): An integrated bioguided study. *Phytochemical Analysis*, 29(2), 217–227. https://doi.org/10.1002/pca.2736

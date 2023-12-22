@@ -1,0 +1,34 @@
+---
+title: "Structural and ultrastructural characters of the gametogenesis of <i>Chara hydropitys</i> (Charophyceae)"
+type: "article"
+author:
+  - name: "**Edgar Javier Rincón-Barón**"
+    orcid: 0000-0003-1347-171X
+  - name: Yenny Magaly Castrillón-Bolaños
+  - name: Gerardo Andrés Torres-Rodríguez
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Silvia Espinosa-Matías
+year: 2017
+date: 2017-09-19
+publication: Revista de Biología Tropical
+doi: https://doi.org/10.15517/rbt.v65i4.27206
+materials: ""
+
+categories:
+  - Antheridia
+  - Chara
+  - Composed oosporangial wall
+  - Gametogenesis
+  - Oosporangia
+  - Ultrastructure
+
+---
+
+## Abstract
+
+In Charophyceae, the oosporangia and antheridia are the respective female and male structures of sexual reproduction. These organs are characterized by their morphological complexity and usefulness in taxonomy and systematics. Here we described the structural and ultraestructural details of *Chara hydropitys* gametogenesis. The fertile material from the algae was collected in a tributary stream of the Río Meléndez in Cali, Colombia (3º21´23´´N - 76º32´5.2´´W) in March 2011. The specimens were fixed and processed following the standard protocols for inclusion in resin. Thin sections (0.3-0.5 μm) were stained with toluidine O, and were observed by photonic microscopy, and additional ultrathin sections (60-90 nm) were observed by transmission electron microscopy (TEM); other samples were processed and observed by scanning electron microscopy (SEM). We found that the oosporangia are covered with spiral cells, forming 10-12 convolutions and ends in five coronula cells. The immature oosporangia wall is formed by two layers that correspond to the wall of the spiral cells and to the oosphere. In mature stages, the oosporangia wall is composed by six additional layers, three of them are provided by the oosphere and the other three are provided by the spiral cells. Oosphere size increases progressively while the spiral cells grow and divide. The cytoplasm of the immature oosphere does not exhibit conspicuous cytoplasmic inclusions, nevertheless, with the maturation, the number of starch granules increases, occupying most of the cell volume. In the spiral cells of the mature oosporangia we observed large number of chloroplast with starch accumulations, between thylakoid lamellae and a vacuole that occupies almost the entire cell. By using SEM it was possible to appreciate, that the external wall of the oospore, more accurately, on the fossa area, shows verrucose micro-ornamentations with verrucae elevations. In mature antheridia, shield cells are strongly pigmented orange due to the presence of a large number of plastoglobules between thylakoid lamellae. The spermatogenous filaments are developed from cells of the secondary capitulum; those, by unidirectional and sincronic mitotic divisions develop the spermatocytes. The biflagellate antherozoids are developed from the haploid cells by spermiogenesis. The subcellular events related with these division and differentiation processes, include first, chromatin condensation, loss of nucleoli and more activity in dictyosomes. Subsequently, retracts the cytoplasm and the organelles are aligned along the condensed nucleus and flagellar apparatus. Mature antherozoids emerge through a side wall pore of the spermatocytes. All the described events showed that the gametogenesis processes and the gametes structural details in general, are widely conserved in this algae group.
+
+## Citation
+
+> Rincón-Barón, E. J., Castrillón-Bolaños, Y. M., Torres-Rodríguez, G. A., Alzate-Guarin, F. A., & Espinosa-Matías, S. (2017). Structural and ultrastructural characters of the gametogenesis of *Chara hydropitys* (Charophyceae). Revista de Biología Tropical, 65(4), 1507. https://doi.org/10.15517/rbt.v65i4.27206
