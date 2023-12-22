@@ -1,0 +1,30 @@
+---
+title: "<i>Psittacanthus longerectus</i> (Loranthaceae), a new showy species from Colombia"
+type: "article"
+author:
+  - name: "**Francisco Javier Roldán-Palacio**"
+    orcid: 0000-0001-9241-9551
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2014
+date: 2014-05
+publication: Actualidades Biológicas
+doi: https://doi.org/10.17533/udea.acbi.329079
+materials: ""
+
+categories:
+  - Andean flora
+  - Colombian flora
+  - Neotropical mistletoes
+  - Santalales
+  - Taxonomy
+
+---
+
+## Abstract
+
+We describe *Psittacanthus longerectus* (Loranthaceae), a species so far only known from Antioquia (Colombia) and discuss the taxonomic affinities of the new species with *P. acinarius* and *P. cyclophyllus*. *Psittacanthus longerectus* is characterized by having cordate leaves, erect branches, and terminal inflorescences.
+
+## Citation
+
+> Roldán-Palacios, F. J., & Alzate-Guarin, F. A. (2014). *Psittacanthus longerectus* (Loranthaceae), a new showy species from Colombia. *Actualidades Biológicas*, 36(101), 119–122. https://doi.org/10.17533/udea.acbi.329079

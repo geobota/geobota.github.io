@@ -1,0 +1,36 @@
+---
+title: "Comparative antioxidant, antiproliferative and apoptotic effects of <i>Ilex laurina</i> and <i>Ilex paraguariensis</i> on colon cancer cells"
+type: "article"
+author:
+  - name: Juan Manuel Pérez
+  - name: María Elena Maldonado-Celis
+  - name: Benjamín Alberto Rojano
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Jairo Antonio Sáez-Vega
+  - name: Wilson Cardona-Galeano
+year: 2014
+date: 2014-09-09
+publication: Tropical Journal of Pharmaceutical Research
+doi: https://doi.org/10.4314/tjpr.v13i8.12
+materials: ""
+
+categories:
+  - Ilex laurina
+  - Ilex paraguariensis
+  - Antioxidant
+  - Antiproliferative
+  - Apoptosis
+  - Colon cancer
+---
+
+## Abstract
+
+**Purpose**: To determine and compare the antioxidant, antiproliferative and apoptotic effects of leaf infusions of *Ilex laurina* and *Ilex paraguariensis* in colon cancer cells.\
+**Methods**: Antioxidant activity was determined by ORAC (Oxygen Radical Absorbance Capacity) and FRAP (Ferric Reducing Antioxidant Power). Cytotoxic and antiproliferative effects were analyzed using MTT ((3-(4, 5-dimethylthiazolyl-2)-2,5-diphenyltetrazolium bromide) and sulfhorodamine-B respectively. Cell death and apoptosis of human colon adenocarcinoma cells SW480 and their metastatic-derived SW620 cells, were analyzed by flow cytometry using propidium iodide and Annexin-V.\
+**Results**: Although their flavonoid levels were similar, *I. laurina* infusion contained 2.2 and 4.4 times higher amounts of total phenolic and caffeoyl derivatives, respectively, than *I. paraguariensis*. FRAP and ORAC values for *I. laurina* infusion were 1.6 and 2.0 more active than *I. paraguariensis*. Both plant infusions inhibited viability and cell growth of SW480 and SW620 cells. These results may be associated to cell cycle-arrest and apoptosis because of the comparable increase of hypodiploid and annexin-V positive colon cancer cells.\
+**Conclusion**: These data highlight the antioxidant and promising anticancer activities of *I. laurina* and *Ilex paraguariensis.*
+
+## Citation
+
+> Pérez, J. M., Maldonado-Celis, M. E., Rojano, B. A., Alzate-Guarin, F. A., Sáez-Vega, J. A., & Cardona-Galeano, W. I. (2014). Comparative antioxidant, antiproliferative and apoptotic effects of *Ilex laurina* and *Ilex paraguariensis* on colon cancer cells. *Tropical Journal of Pharmaceutical Research*, 13(8), 1279. https://doi.org/10.4314/tjpr.v13i8.12

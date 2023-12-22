@@ -1,0 +1,32 @@
+---
+title: "Ontogeny of the sporangium, spore formation and cytochemistry in Colombian Lycopodials (Lycopodiaceae)"
+type: "article"
+author:
+  - name: "**Edgar Javier Rincón-Barón**"
+    orcid: 0000-0003-1347-171X
+  - name: Cristina Hilda Rolleri
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Jacinta Mireya Dorado-Gálvez
+year: 2014
+date: 2014-01-20
+publication: Revista de Biología Tropical
+doi: https://doi.org/10.15517/rbt.v65i4.27206
+materials: ""
+
+categories:
+  - Antheridia
+  - Chara
+  - Composed oosporangial wall
+  - Gametogenesis
+  - Oosporangia
+  - Ultrastructure
+---
+
+## Abstract
+
+Studies on reproductive aspects of Lycopodiaceae are not very abundant in the scientific literature, and constitute essential information to support taxonomic and systematic relationships among the group. Here we present a detailed study of the ontogeny of sporangia and sporogenesis, and the chemical determination of several compounds generated during spore formation. The analyses were performed in 14 taxa of six genera of the family, *Diphasiastrum*, *Diphasium*, *Huperzia* (a genus which is treated here including *Phlegmariurus*), *Lycopodiella, Lycopodium* and *Palhinhaea*. Specimens were collected in three departments from the Colombian Andes between 1 454-3 677m altitude. Ontogeny was studied in small, 1cm long pieces of strobili and axis, which were fixed in glutaraldehyde or FAA, dehydrated in alcohol, embedded in LR White, sectioned in 0.2-0.5μm and stained with toluidine blue (TBO), a metachromatic dye that allows to detect both sporopollenin and lignin or its precursors, during these processes. For other studies, paraplast plus-embedded sections (3-5μm) were stained with safranin-fast green and alcian blue-hematoxylin. Chemical tests were also conducted in sections of fresh sporangia at different stages of maturity using alcian blue (mucopolysaccharides), Lugol solution (starch), Sudan III (lipids), phloroglucinol (lignin) and orcein (chromosomes). Sections were observed with photonic microscope equipped with differential interference contrast (DIC) and fluorescence microscopy (for spore and sporangium walls unstained). Strobili and sporangia were dehydrated with 2.2 dimethoxypropane, critical point dried and coated with gold for scanning electron microscopy (SEM). Our results indicated that the ontogeny of sporangia and sporogenesis were very similar to the previously observed in *Huperzia brevifolia*. Cutinisation occurs in early stages of development of sporangium cell walls, but in their final stages walls become lignified. As for the sporoderm development, the exospore is the first layer formed, composed by sporopollenin. The endospore deposits as a thin inner layer composed of cellulose, pectin and carboxylated polysaccharides. The perispore, if present, deposits at last. Mucopolysaccharides were found on the sporocyte coat and its abundance in sporangial cavity persists up to the immature tetrads stage, and then disappears. The lipids were abundant in the sporocytes, tetrads and spores, representing the main source of energy of the latter. In contrast, starch is not detected in the spores, but is abundant in premeiotic sporocytes and immature tetrads, developmental stages of high cellular metabolic activity. Intrinsic fluorescence corroborates the presence of lignin and cutin in the sporangium wall, while the sporopollenin is restricted to the exospore. The transfusion cells and the perispore are not always present. However, the processes of ontogeny and sporogenesis are extremely similar throughout the taxa studied, suggesting that they represent conservative family traits, nonspecific or generic.
+
+## Citation
+
+> Rincón-Barón, E. J., Rolleri, C. H., Alzate-Guarin, F. A., & Dorado-Gálvez, J. M. (2014). Ontogeny of the sporangium, spore formation and cytochemistry in Colombian Lycopodials (Lycopodiaceae). *Revista de Biología Tropical*, 62(1), 273. https://doi.org/10.15517/rbt.v62i1.9795
