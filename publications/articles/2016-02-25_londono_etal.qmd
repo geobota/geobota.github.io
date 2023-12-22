@@ -1,0 +1,38 @@
+---
+title: "Antiprotozoal activity and cytotoxicity of extracts from <i>Solanum arboreum</i> and <i>S. ovalifolium</i> (Solanaceae)"
+type: "article"
+author:
+  - name: Fernanda Lonodoño
+  - name: Wilson Cardona-Galeano
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Felipe Alfonso Cardona Naranjo**"
+    orcid: 0009-0008-6232-7371
+  - name: Ivan Dario Vélez
+  - name: Yulieth Upegui
+  - name: Victoria Ospina
+  - name: July Andrea Muñoz
+  - name: Sara Maria Robledo
+year: 2016
+date: 2016-02-25
+publication: Journal of Medicinal Plants Research
+doi: https://doi.org/10.5897/JMPR2015.5923
+materials: ""
+
+categories:
+  - Antiprotozoal activity
+  - Antileismanial activity
+  - Trypanocidal activity
+  - Antiplasmodial activity
+  - Solanum arboreum
+  - Solanum ovalifolium
+  - Solanaceae
+---
+
+## Abstract
+
+Leishmaniasis, Chagas and Malaria are a major health problem in Latin America. Medicinal plants constitute viable alternatives to conventional medicine in many developing countries. Several *Solanum* species have shown antimicrobial activity, specifically, *Solanum nudum* has shown *in* *vitro* antimalarial activity. Based on the aforementioned, we determined the antiprotozoal activity and cytotoxicity of alcoholic and non-alcoholic extracts from *Solanum arboreum* and *Solanum ovalifolium.* Extracts were obtained by percolation with solvents of different polarity: hexane, dichloromethane, ethyl acetate and ethanol. All extracts were evaluated *in vitro* for antiprotozoal activity against *Leishmania panamensis*, *Trypanosome cruzi* and *Plasmodium falciparum*. Cytotoxicity was also evaluated. *In vitro* screening showed that dichloromethane (D2) and ethanol (Et2) extracts of *S. arboreum* were the most active against all three protozoa tested here (EC~50~ = 1.2 and 4.6 µg/ml against *L. panamensis,* 13.3 and 2.7 µg/ml against *T. cruzi* and 3.0 and 2.9 µg/ml against *P. falciparum,* respectively). These extract were cytotoxic against human U-937 macrophages (6.1 and 4.4 µg/ml, respectively). Additional studies on toxicity using other cell lines are needed. The activity of the Et2 extract is probably due to the presence of polar compounds such as saponins, flavonoids and coumarins. The activity of D2 extract is probably due to the presence of steroids such as diosgenone. These extracts have potential as a source of compounds for the development of new antiprotozoal therapeutical alternatives and therefore further studies are needed to evaluate and validate the use of the extracts as phytotherapeutics.
+
+## Citation
+
+> Londoño, F., Cardona-Galeano, W., Alzate-Guarin, F. A., Cardona-Naranjo, F. A., Velez, I. D., Upegui, Y., Ospina, V., Muñoz, J. A., & Robledo, S. M. (2016). Antiprotozoal activity and cytotoxicity of extracts from *Solanum arboreum* and *S. ovalifolium* (Solanaceae). *Journal of Medicinal Plants Research*, 10(8), 100--107. https://doi.org/10.5897/JMPR2015.5923

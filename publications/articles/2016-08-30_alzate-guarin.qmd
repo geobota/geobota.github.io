@@ -1,0 +1,26 @@
+---
+title: "Rediscovering <i>Polygala corifolia</i> (Polygalaceae) 170 years after its description"
+type: "article"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2016
+date: 2016-08-30
+publication: Acta Biológica Colombiana
+doi: https://doi.org/10.15446/abc.v21n3.55847
+materials: ""
+
+categories:
+  - Antioquia
+  - Colombia
+  - Páramo
+  - Poygala corifolia
+---
+
+## Abstract
+
+The rediscovery of *Polygala corifolia* Planch. & Triana 170 years after the first and last collection is reported. *Polygala corifolia* was described based on a single collection made in the Sabana de Bogota in 1844. Due to the absence of records after its description, this species was considered extinct. The new record comes from a new locality in the Páramo of the Yarumal municipality, north of Antioquia. The considerable transformation and agricultural activities evidenced in this area, makes unlikely the survival of this population and possibly of the species.
+
+## Citation
+
+> Alzate-Guarin, F. A. (2016). Rediscovering *Polygala corifolia* (Polygalaceae) 170 years after its description. *Acta Biológica Colombiana*, 21(3), 645. https://doi.org/10.15446/abc.v21n3.55847

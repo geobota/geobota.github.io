@@ -1,0 +1,31 @@
+---
+title: "Fruits of selected wild and cultivated Andean plants as sources of potential compounds with antioxidant and anti-aging activity"
+type: "article"
+author:
+  - name: Karent Bravo
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Edison Javier Osorio-Durango
+year: 2016
+date: 2016-07
+publication: Industrial Crops and Products
+doi: https://doi.org/10.1016/j.indcrop.2015.12.074
+materials: ""
+
+categories:
+  - Anti-aging
+  - Collagenase
+  - Elastase
+  - Tyrosinase 
+  - Hyaluronidase 
+  - Anti-oxidant
+  - Fruits of Andean plants
+---
+
+## Abstract
+
+It is known that most of the species growing in high-elevation environments in tropical mountains remain largely unexplored. In particular, little is known from a chemical and biological standpoint. The aim of this study was to conduct a preliminary screening of the effects of selected wild and cultivated Andean plants characterized by small and colorful fruits on collagenase, elastase, hyaluronidase and tyrosinase, along with antioxidant capacity, to identify possible sources of potential anti-aging substances for the development of natural cosmetic products. Sixty-five samples consisting of methanol extracts of the fruits of thirty-five Andean plants at different stages of growth were used in the study. The anti-collagenase, anti-elastase, anti-hyaluronidase and anti-tyrosinase activities were determined by spectrophotometric and fluorometric assays. The antioxidant capacity was measured by oxygen radical absorbance capacity (ORAC) and trolox equivalent anti-oxidant capacity (TEAC) assays. The total phenolic content was determined by the Folin--Ciocalteu method. Liquid--liquid partitions of extracts of interest were performed, and each fraction was tested. The inhibitory activity against skin aging-related enzymes and antioxidant properties has provided evidence for the potential utility of *Alchornea triplinervia*, *Gaultheria erecta*, *Rubus compactus* and *Ugni myricoides*, which were selected as plants of interest. In addition, the maturity state of fruits alters the properties of extracts in a statistically significant manner. In the vast majority of cases, the immature fruits presented a higher antioxidant capacity and enzymatic inhibitory activity. The extracts, fractions and sub-fractions of *G. erecta* and *U. myricoides* fruits showed effective inhibitory activity against skin aging-related enzymes and antioxidant properties, which supports the need to more extensively examine extracts from this plant material. The results of this study illuminated possible ways in which to add value to fruits of thirty-five wild and cultivated Andean plants based on their potential use as anti-aging ingredients in cosmetic formulations. After additional studies of the security and isolation of the active compounds, new cosmetic ingredients useful for anti-aging formulations could be obtained.
+
+## Citation
+
+> Bravo, K., Alzate-Guarin, F. A., & Osorio-Durango, E. J. (2016). Fruits of selected wild and cultivated Andean plants as sources of potential compounds with antioxidant and anti-aging activity. *Industrial Crops and Products*, 85, 341--352. https://doi.org/10.1016/j.indcrop.2015.12.074

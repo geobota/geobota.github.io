@@ -1,0 +1,38 @@
+---
+title: "Nutricional and physicochemical aspects of <i>Ilex laurina</i> Kunth (Aquifoliaceae): a comparative study with <i>Ilex Paraguariensis</i>"
+type: "article"
+author:
+  - name: Juan Manuel Pérez
+  - name: Sara Maria Robledo
+  - name: Wilson Cardona-Galeano
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Diana Muñoz
+  - name: Angie Herrera-Ramírez
+year: 2016
+date: 2016-05-30
+publication: Tropical Journal of Pharmaceutical Research
+doi: https://doi.org/10.4314/tjpr.v15i5.11
+materials: ""
+
+categories:
+  - Leishmaniasis
+  - Antiprotozoal
+  - Saponin
+  - Ilex laurina
+  - Aquifoliaceae
+---
+
+## Abstract
+
+**Purpose:** To evaluate the leishmanicidal and cytotoxic activity of alcohol and non-alcohol extracts and saponins from *Ilex laurina*.
+
+**Methods:** Extracts were obtained by percolation with solvents of different polarities: hexane, dichloromethane, ethyl acetate and ethanol. The ethyl acetate extract was subjected to silica gel column chromatography eluting with a step gradient of dichloromethane-methanol. All products were evaluated *in vitro* for leishmanicidal activity against amastigotes of leishmania panamensis and cytotoxicity on U-937 cells.
+
+**Results:** Two saponins were isolated from the ethyl acetate extract. The ethyl acetate extract showed high leishmanicidal activity against intracellular amastigotes of *L. panamensis* (EC~50~, 7.5 ± 1.5 μg/mL) and low activity against axenic amastigotes (EC~50~, 52.8 ±1.6 μg/mL); this extract showed also high cytotoxicity (LC~50~, 57.7 ± 12.1 μg/mL). Saponin 2 exhibited high activity against intracellular amastigotes (EC~50~, 5.9 ± 0.5 μg/mL) but also showed high cytotoxicity on U-937 cells (EC~50~, 25.7 ± 6.1 μg/mL). This compound showed similar leishmanicidal activity and cytotoxicity to meglumine antimoniate and amphotericin B, respectively, drugs currently used for the treatment of leishmaniasis.
+
+**Conclusions:** Based on these results, *Ilex laurina* is a potential source of compounds that can lead to the development of new therapeutic alternatives against leishmaniasis.
+
+## Citation
+
+> Pérez, J. M., Robledo, S. M., Cardona-Galeano, W., Alzate-Guarin, F. A., Muñoz, D., & Herrera-Ramírez, A. (2016). Leishmanicidal and cytotoxic activity of extracts and saponins from *Ilex laurina* (Aquifoliaceae). *Tropical Journal of Pharmaceutical Research*, 15(5), 973. https://doi.org/10.4314/tjpr.v15i5.11

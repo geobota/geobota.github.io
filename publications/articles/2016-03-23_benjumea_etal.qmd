@@ -1,0 +1,31 @@
+---
+title: "Neuropharmacological effects of the ethanolic extract of <i>Sida acuta</i>"
+type: "article"
+author:
+  - name: Dora María Benjumea-Gutiérrez
+  - name: Isabel C. Gómez-Betancur
+  - name: Julieta Vásquez-Escobar
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Andrea García-Silva
+  - name: José A. Fontenla
+year: 2016
+date: 2016-01-05
+publication: Revista Brasileira de Farmacognosia
+doi: https://doi.org/10.1016/j.bjp.2015.09.011
+materials: ""
+
+categories:
+  - Anxiolytic activity
+  - Anticonvulsant activity
+  - Rota rod
+  - Sodium pentobarbital-induced sleeping time
+---
+
+## Abstract
+
+*Sida acuta* Burm. f., Malvaceae, is regarded as astringent, tonic and useful in treating urinary diseases and blood disorders, bile, liver and as treatment for nervous diseases. Different methods were developed: sodium pentobarbital-induced sleeping time, anxiolytic activity, test for muscle-effects, pentylenetetrazole (PTZ)-induced seizures, effect on normal body temperature. All experiments were performed in an isolated room with 12/12 h light/dark cycles at 22 ± 1 °C. The effects described in this work for Sida acuta are according to what is known in traditional medicine, where is used as sedative agent. At the higher doses used in this work (500 and 1000 mg/kg), the *Sida acuta* extract reduced the latency time (T1) and increased the sleeping time (T2) induced by pentobarbital, indicating a sedative and hypnotic effect of the plant's extract. The extract of *Sida acuta* shows an increase in open arm exploration (anxiolytic activity). Results obtained in the rota-rod test showed that only the elevated dose (750 mg/kg) of *Sida acuta* extract, acutely administered, promotes significant changes, at 60 and 120 min post-administration, in the time of permanence in the rod. The ethanolic extract from the leaves and stems of Sida acuta, causes effects on the central nervous system in experimental animals.
+
+## Citation
+
+> Benjumea-Gutiérrez, D. M., Gómez-Betancur, I. C., Vásquez-Escobar, J., Alzate-Guarin, F. A., García-Silva, A., & Fontenla, J. A. (2016). Neuropharmacological effects of the ethanolic extract of *Sida acuta*. *Revista Brasileira de Farmacognosia*, 26(2), 209–215. https://doi.org/10.1016/j.bjp.2015.09.011
