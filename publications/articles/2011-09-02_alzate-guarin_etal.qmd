@@ -1,0 +1,30 @@
+---
+title: "Antioxidant potential of some species of the genus <i>Bomarea</i> (Alstroemeriaceae)"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Jorge Andrés Gil Q.
+  - name: Nora del Socorro Jiménez-Úsuga
+  - name: Gabriel Jaime Arango-Acosta
+  - name: Bernard Weniger
+year: 2011
+date: 2011-09-02
+publication: Vitae
+doi: https://doi.org/10.17533/udea.vitae.10061
+materials: ""
+
+categories:
+  - Antioxidant
+  - Bomarea
+  - DPPH
+  - Folin-Ciocalteau
+  - Plant TBARS.
+---
+
+## Abstract
+
+This work evaluated the antioxidant activity of ethanol extracts from 11 species of the genus *Bomarea* (Alstroemeriaceae) by means of two *in vitro* methods. Values of CE~50~ between 51 and 333 μg/mL were obtained for DPPH the test, and the highest activity levels were found for *B. glaucescens*, *B. setacea*, *B. pardina* and *B. euryantha*, which presented a similar CE~50~ or lower than the reference used, silymarin (70.6 μg/mL). Likewise, the TBARS method showed that the maximum inhibition of lipid peroxidation of the linoleic acid was produced by *B. hirsuta* (malondialdehyde = 0.429 μM), followed by *B. bredemeyerana* (0.474 μM), *B. callejasiana* (0.479 μM), *B. euryantha* (0.489 μM), *B. glaberrima* (0.497 μM), and *B. setacea* (0.500 μM). Additionally, the concentration of phenol compounds was evaluated by the Folin-Ciocalteau method, finding that *B. setacea* presented the highest content of these (159.75 gallic acid equivalents/mg of extract). *Bomarea setacea* showed the highest antioxidant properties demonstrated by its free-radical scavenging and significant inhibition capacity of the oxidation of linoleic acid.
+
+## Citation
+
+> Alzate-Guarin, F. A., Gil Q., J. A., Jiménez-Úsuga, N. del S., Arango-Acosta, G. J., & Weniger, B. (2011). Antioxidant potential of some species of the genus *Bomarea* (Alstroemeriaceae). *Vitae*, 18(2), 201--207. https://doi.org/10.17533/udea.vitae.10061
