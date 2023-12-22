@@ -16,8 +16,8 @@ about:
       text: CvLAC
     # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
     #   text: Google Scholar
-    # - href: https://orcid.org/0000-0002-4916-8897
-    #   text: ORCID
+    - href: https://orcid.org/0009-0008-6232-7371
+      text: ORCID
     # - href: https://www.researchgate.net/profile/Fernando-Alzate
     #   text: ResearchGate
 ---
