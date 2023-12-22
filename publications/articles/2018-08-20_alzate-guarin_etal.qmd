@@ -1,0 +1,31 @@
+---
+title: "Application of phylogenetic indices in the definition of conservation priorities in the northwest Andes páramos"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Astrid Álvarez-Sánchez**"
+    orcid: 0000-0003-1503-3422
+  - name: Daniel Rafael Miranda-Esquivel
+  - name: Juan José Morrone
+year: 2018
+date: 2018-08-20
+publication: Revista de Biología Tropical
+doi: https://doi.org/10.15517/rbt.v66i4.31049
+materials: ""
+
+categories:
+  - Antioquia
+  - Colombia
+  - Conservation
+  - Paramos
+  - Phylogenetic diversity
+  - Phylogenetic indices
+---
+
+## Abstract
+
+Páramos are High Andean ecosystems that harbor a diverse biota and have high endemicity, because of their extreme environmental conditions. We used different phylogenetic indices to define conservation priorities in the paramos of the department of Antioquia, Colombia, based on measures of their evolutionary individuality and richness complimentary. To perform the analyses, we generated a database including 416 angiosperm taxa and 1 951 localities for a total of 12 897 distributional records compiled from surveys and reviews. Additionally, the available information in the Global Biodiversity Information Facility and the Colombian Biodiversity Information System were included. From these data, priority areas for the conservation of the paramos located in the state of Antioquia were identified, using measures of evolutionary individuality based on nodes and biotic complementarity. Taking into account only the individual phylogenetic indices, the most important paramo for conservation was Frontino-Urrao, followed by Farallones de Citará. If biotic complementarity is considered, the second most important paramo is Sonsón. Priority classifications of areas based on individuality are congruent with areas of greatest species richness. We conclude that it is necessary and urgent to preserve the paramos given their vulnerability and the subsequent loss of the ecosystem services that they provide, if they are exposed to degradation or disappearance.
+
+## Citation
+
+> Alzate-Guarin, F. A., Álvarez-Sánchez, A., Miranda-Esquivel, D. R., & Morrone, J. J. (2018). Application of phylogenetic indices in the definition of conservation priorities in the northwest Andes páramos. *Revista de Biología Tropical*, 66(4), 1353. https://doi.org/10.15517/rbt.v66i4.31049
