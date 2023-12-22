@@ -1,0 +1,30 @@
+---
+title: "Obtaining DNA from Urticaceae: overcoming the challenges associated with chemical compounds and herbarium specimens"
+type: "article"
+author:
+  - name: "**Herber Jassin Sarrazola-Yepes**"
+    orcid: 0000-0003-0312-8424
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2019
+date: 2019-09-05
+publication: International Journal of Molecular Biology
+doi: https://doi.org/10.15406/ijmboa.2019.04.00113
+materials: ""
+
+categories:
+  - Anatomy
+  - Mucilaginous canals
+  - Nettle family
+  - Polyphenols
+  - Polysaccharides
+
+---
+
+## Abstract
+
+Obtaining DNA from herbarium collections sometimes becomes of great importance; especially when dealing with rare specimens or when they inhabit areas that are difficult to access, among others. Literature is full with different protocols to extract plant DNA, but not many of them take in to consideration plant material collected for other purposes than DNA extraction. Plant mucilaginous tissues and polyphenols interfere easily with PCR performance. The majority of DNeasy Plant Mini Kit extraction protocols are suitable to extract DNA from fresh material, but not from herbarium material. CTAB-based protocols perform well when extracting fresh or herbarium material, but not when material contains polysaccharides and polyphenols. Urticaceae members produced high amounts of exudate, which interferes with DNA extraction. In this study, we carried out an anatomical analysis for specimens of Urticaceae. We found the presence of polyphenols and polysaccharides. For instance, we proceeded with the development of a suitable protocol to extract DNA from Urticaceae specimens, using both herbarium and field material. The protocol successfully washed off polysaccharide excess and prevented DNA from co-precipitating with polyphenols. Finally, sequenced matK and trnL-F genes from these samples showed to have high-quality chromatograms.
+
+## Citation
+
+> Sarrazola-Yepes, H. J., & Alzate-Guarin, F. A. (2019). Obtaining DNA from Urticaceae: Overcoming the challenges associated with chemical compounds and herbarium specimens. *International Journal of Molecular Biology*, 4(5), 158–165. https://doi.org/10.15406/ijmboa.2019.04.00113

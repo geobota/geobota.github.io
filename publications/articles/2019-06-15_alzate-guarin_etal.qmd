@@ -1,0 +1,31 @@
+---
+title: "Synopsis of the family Amaryllidaceae in Colombia"
+type: "article"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Manuela Lesmes-Diaz**"
+    orcid: 0000-0003-1503-3422
+  - name: Natalie Charlotte Cortés-Rendón
+  - name: Santiago Varela-Velasquez
+  - name: Edison Javier Osorio-Durango
+year: 2019
+date: 2019-06-15
+publication: Biota Colombiana
+doi: https://doi.org/10.21068/c2019.v20n01a01
+materials: ""
+
+categories:
+  - Andes
+  - Asparagales
+  - Horticulture
+  - Neotropical plants
+---
+
+## Abstract
+
+The family Amaryllidaceae has been postulated as a monophyletic group in different analyses, in which three big clades are recognized as subfamilies (Agapanthoideae, Allioideae and Amaryllidoideae). We examined specimens of the family and explored different areas of the country where there were previous records or potential occurrence of the group, in order to determine the diversity of this family in Colombia. The Amaryllidaceae are represented in Colombia by 18 genera and 48 species, of which 11 genera and 27 species are native, including 9 species endemic to the country. The areas with the largest species diversity are the Western and Eastern Cordillera, and the biogeographic Chocó, especially in the departments of Cauca, Cundinamarca and Valle del Cauca. We present an updated definition of the family, considering its current circumscription, and describe the genera occurring in Colombia, as well as the inventory of the species and their distribution.
+
+## Citation
+
+> Alzate-Guarin, F. A., Lesmes-Diaz, M., Cortés-Rendón, N. C., Varela-Velasquez, A. S., & Osorio-Durango, E. J. (2019). Synopsis of the family Amaryllidaceae in Colombia. *Biota Colombiana*, 20(1), 2–20. https://doi.org/10.21068/c2019.v20n01a01
