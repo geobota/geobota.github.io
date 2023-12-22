@@ -1,0 +1,34 @@
+---
+title: "Leishmanicidal and antioxidant activity of extracts of <i>Piper daniel-gonzalezii</i> Trel. (Piperaceae)"
+type: "article"
+author:
+  - name: Wilson Cardona-Galeano
+  - name: Sara Maria Robledo-Restrepo
+  - name: Benjamín Alberto Rojano
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Diana Lorena Muñoz-Herrera
+  - mame: Jairo Antonio Sáez-Vega
+year: 2013
+date: 2013-06
+publication: Revista Cubana de Plantas Medicinales
+doi: ""
+materials: ""
+
+categories:
+  - Piper daniel-gonzalezii
+  - Leishmaniasis
+  - Antioxidants
+---
+
+## Abstract
+
+**Introduction:** leishmaniasis is the protozoal disease with the highest morbidity and mortality worldwide. The medications used to treat it have serious drawbacks, among which are their high toxicity and severe side effects. On the other hand, production of free radicals due to oxidative stress results in the oxidation of lipids, proteins, DNA and enzymes responsible for cell tissue damage. Some species of the family Piperaceae present a broad spectrum of biological activities, inviting exploration of the antioxidant and antiprotozoal properties of members of the genus *Piper* as an alternative in the search for new drugs against leishmaniasis and new natural antioxidants.\
+**Objective:** evaluate the leishmanicidal, cytotoxic and antioxidant activity of alcoholic and non-alcoholic extracts of *Piper daniel-gonzalezii* Trel.\
+**Methods:** drying of the plant material (stems and leaves) was followed by extraction by percolation with ethanol. The solution thus obtained was concentrated under reduced pressure, and the crude leaf extract was subjected to partition column chromatography with solvents of varying polarity, such as hexane, dichloromethane and ethyl acetate. Leishmanicidal activity in axenic and intracellular amastigotes was evaluated for each fraction and ethanolic extract. An evaluation was conducted of cytotoxicity in U-937 cells and of antioxidant capacity by the FRAP (ferric reducing ability of plasma) method.\
+**Results:** the fraction obtained by percolation with hexane (degreasing fraction) and the ethanolic stem extract were the most active against intracellular amastigotes of *Leishmania panamensis*, a fact that turns them into promising fractions in the search for new compounds with leishmanicidal activity. The two extracts and all the fractions, except for the degreasing fraction, exhibited a high reducing capacity. These fractions, particularly the ethyl acetate fraction, are therefore considered to be potential sources of antioxidant substances.\
+**Conclusions:** results show that *Piper daniel-gonzalezii* has both leishmanicidal and reducing properties, and thus great potential either as a source of compounds for developing new therapeutic alternatives against leishmaniasis, or as a natural source of antioxidants with great potential for use in the pharmaceutical and food industries.
+
+## Citation
+
+> Cardona-Galeano, W. I., Robledo-Restrepo, S. M., Rojano, B. A., Alzate-Guarin, F. A., Muñoz-Herrera, D. L., & Sáez-Vega, J. A. (2013). Leishmanicidal and antioxidant activity of extracts of *Piper daniel-gonzalezii* Trel. (Piperaceae). *Revista Cubana de Plantas Medicinales*, 18(2), 268--277.

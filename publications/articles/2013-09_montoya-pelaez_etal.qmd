@@ -1,0 +1,32 @@
+---
+title: "Pentacyclic triterpenes from <i>Cecropia telenitida</i> with immunomodulatory activity on dendritic cells"
+type: "article"
+author:
+  - name: Guillermo L. Montoya Peláez
+  - name: Jelver A. Sierra
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Ulrike Holzgrabe
+  - name: José R. Ramirez-Pineda
+year: 2013
+date: 2013-09
+publication: Revista Brasileira de Farmacognosia
+doi: https://doi.org/10.1590/S0102-695X2013000500006
+materials: ""
+
+categories:
+  - Cecropia telenitida
+  - Pentacyclic triterpene
+  - Natural product
+  - Cytokine modulation
+  - Anti-inflammatory activity
+  - Dendritic cells
+---
+
+## Abstract
+
+Pentacyclic triterpenes are a large family of plant metabolites that exhibit a wide array of biological activities. The genus *Cecropia,* which encompasses many plant species, has been used as traditional medicine for the treatment of inflammatory diseases and is known to produce many active pentacyclic triterpenes. In this study we investigated the chemical composition of a pentacyclic triterpene fraction from the roots of *Cecropia telenitida* Cuatrec., Urticaceae. A novel compound, which we termed yarumic acid, and four known molecules (serjanic acid, spergulagenic acid A, 20-hydroxy-ursolic acid and goreishic acid I) were isolated and characterised. In a dendritic cell (DC)-based assay, we demonstrated that non-toxic doses of these pentacyclic triterpenes inhibited the secretion of at least one of the proinflammatory cytokines tested (IL-1β, IL-12p40, IL-12p70, TNF-α). Spergulagenic acid A also inhibited nitric oxide production in lipopolysaccharide-stimulated dendritic cell. Serjanic acid and spergulagenic acid A, which were the most potent abundant compounds in the pentacyclic triterpene fraction, showed the most activity in the dendritic cell-based assay. These results show that all pentacyclic triterpenes might contribute to the anti-inflammatory activities of *C. telenitida*. Moreover, yarumic acid as well as the four known pentacyclic triterpenes, can be exploited as potential immunomodulatory/anti-inflammatory agents.
+
+## Citation
+
+> Montoya-Peláez, G. L., Sierra-Restrepo, J. A., Alzate-Guarin, F. A., Holzgrabe, U., & Ramirez-Pineda, J. R. (2013). Pentacyclic triterpenes from *Cecropia telenitida* with immunomodulatory activity on dendritic cells. *Revista Brasileira de Farmacognosia*, 23(5), 754--761. https://doi.org/10.1590/S0102-695X2013000500006
