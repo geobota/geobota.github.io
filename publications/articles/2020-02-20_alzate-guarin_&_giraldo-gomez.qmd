@@ -1,0 +1,32 @@
+---
+title: "<i>Espeletia restricta</i> (Millerieae, Asteraceae), a new species from the páramos of northern Colombia"
+type: "article"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Sebastián Giraldo-Gómez**"
+    orcid: 0000-0003-0312-8424
+year: 2020
+date: 2020-02-20
+publication: Phytotaxa
+doi: https://doi.org/10.11646/phytotaxa.433.4.4
+materials: ""
+
+categories:
+  - Antioquia
+  - Central Cordillera
+  - Compositae
+  - Espeletiinae
+  - Frailejón
+  - Sonsón
+  - Eudicots
+
+---
+
+## Abstract
+
+An intensive exploration of the páramos ecosystem on northwestern Colombia allowed the discovery of a new species of *Espeletia* (Millerieae: Asteraceae), *E. restricta*. *Espeletia* is an endemic taxon to the páramos of Colombia, Venezuela and Ecuador, generally found above 3000 m of elevation. *Espeletia restricta* has a very narrow distribution limited to the northern Central Cordillera of Los Andes. The new species is similar to *Espeletia occidentalis*, species occurring in the Central and Western Cordillera, from which it differs in  the size of its synflorescences relative to the rosette length (less than 1.5 times longer than the rosette vs. 2–3 times longer than the rosette) and indument colour (yellowish vs. greenish-white). The new species was assessed Critically Endangered (CR) due to the small size of its population and the restricted nature of its occurrence, which makes this taxon of great conservation concern.
+
+## Citation
+
+> Alzate-Guarin, F. A., & Giraldo-Gómez, S. (2020). *Espeletia restricta* (Millerieae, Asteraceae), a new species from the páramos of northern Colombia. *Phytotaxa*, 433(4), 288–294. https://doi.org/10.11646/phytotaxa.433.4.4

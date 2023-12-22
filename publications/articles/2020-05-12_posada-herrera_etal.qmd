@@ -1,0 +1,30 @@
+---
+title: "A new species of <i>Meriania</i> of the Brachycera group (Melastomataceae: Merianieae) with dimorphic stamens"
+author:
+  - name: Juan Mauricio Posada-Herrera
+  - name: "**Álvaro Idárraga-Piedrahíta**"
+    orcid: 0000-0002-4823-8849
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2020
+date: 2020-05-12
+publication: Phytotaxa
+doi: https://doi.org/10.11646/phytotaxa.442.3.8
+materials: ""
+
+categories:
+  - Andes
+  - Colombia
+  - Dimorphic stamens
+  - Myrtales
+  - Merianieae
+
+---
+
+## Abstract
+
+*Meriania juan-canoi*, a new species endemic to the northern Andes in Colombia is described and illustrated. This new species belongs to the Brachycera group and can be distinguished from the other species by its apically rounded calyptra, completely free ovary and dimorphic stamens. The description of this new species from a relatively well collected area near a major road in southeastern of Medellín, Colombia, confirms our lack of knowledge on the vegetation of several Neotropical regions. Due to the intense agricultural activity in the area where this species grows and the small area where it occurs, we recommend a conservation classification of Critical Risk (CR).
+
+## Citation
+
+> Posada-Herrera, J. M., Idárraga-Piedrahíta, Á., & Alzate-Guarin, F. A. (2020). A new species of *Meriania* of the Brachycera group (Melastomataceae: Merianieae) with dimorphic stamens. *Phytotaxa*, 442(3), 225–231. https://doi.org/10.11646/phytotaxa.442.3.8
