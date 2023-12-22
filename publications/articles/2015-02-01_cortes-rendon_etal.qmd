@@ -1,0 +1,46 @@
+---
+title: "Neuroprotective activity and acetylcholinesterase inhibition of five Amaryllidaceae species: a comparative study"
+type: "article"
+author:
+  - name: Natalie Charlotte Cortés-Rendón
+  - name: Rafael Andrés Posada-Duque
+  - name: Rafael Mariano Álvarez-Quintero
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Strahil Berkov
+  - name: Gloria Patricia Cardona-Gómez
+  - name: Edison Javier Osorio-Durango
+year: 2015
+date: 2015-02-01
+publication: Life Sciences
+doi: https://doi.org/10.1016/j.lfs.2014.12.011
+materials: ""
+
+categories:
+  - Acetylcholinesterase inhibitors
+  - Alzheimer's disease
+  - Amaryllidaceae alkaloids
+  - Neuroprotective activity
+---
+
+## Abstract
+
+### Aims
+
+Amaryllidaceae alkaloids exhibit a wide range of physiological effects, of which the acetylcholinesterase (AChE) inhibitory activity is the most relevant. However, scientific evidence related to their neuroprotective effectiveness against glutamate-induced toxicity has been lacking. Thus, the purpose of this study was to conduct a comparative study of the neuroprotective activity and the AChE inhibitory activity of species of Amaryllidaceae.
+
+### Main methods
+
+The neuroprotective activity against glutamate-induced toxicity was measured in rat cortical neurons and the Ellman method was employed for the quantification of acetylcholinesterase inhibitory activity of alkaloidal extracts of five species of Amaryllidaceae (Crinum *jagus*, *Crinum bulbispermum*, *Hippeastrum barbatum*, *Hippeastrum puniceum* and *Zephyranthes carinata*). The alkaloid Amaryllidaceae patterns based on GC/MS analyses were also investigated.
+
+### Key findings
+
+The results showed that the alkaloidal extract from *C. jagus* presented a high neuroprotective activity in both pre- and post-treatments against a glutamate excitotoxic stimulus. Furthermore, the alkaloid extracts from *C. jagus* and *Z. carinata* revealed an inhibitory activity of AChE from the electric eel with IC~50~ values of 18.28 ± 0.29 and 17.96 ± 1.22 μg/mL, respectively. In addition, 46 alkaloids were detected by GC/MS, and 20 of them were identified based on their mass spectra and retention index. The results suggest that the neuroprotective effects might be associated with lycorine and crinine-type alkaloids, whereas the acetylcholinesterase enzyme inhibitory activity could be related to galanthamine and lycorine-type alkaloids, although not based on synergistic processes.
+
+### Significance
+
+In summary, Amaryllidaceae species are sources of alkaloids with potential use for Alzheimer's disease.
+
+## Citation
+
+> Cortés-Rendón, N. C., Posada-Duque, R. A., Álvarez-Quintero, R. M., Alzate-Guarin, F. A., Berkov, S., Cardona-Gómez, G. P., & Osorio-Durango, E. J. (2015). Neuroprotective activity and acetylcholinesterase inhibition of five Amaryllidaceae species: A comparative study. *Life Sciences*, 122, 42--50. https://doi.org/10.1016/j.lfs.2014.12.011

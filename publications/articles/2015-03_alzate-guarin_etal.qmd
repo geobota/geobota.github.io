@@ -1,0 +1,31 @@
+---
+title: "Application of phylogenetic indices in the definition of conservation priorities in the northwest Andes páramos"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Mario Alberto Quijano-Abril**"
+    orcid: 0000-0002-4242-8799
+  - name: "**Astrid Álvarez-Sánchez**"
+    orcid: 0000-0003-1503-3422
+  - name: "**Ramiro Fonnegra-Gómez**"
+    orcid: 0000-0002-8218-8136
+year: 2015
+date: 2015-03
+publication: Hoehnea
+doi: https://doi.org/10.1590/2236-8906-52/2013
+materials: ""
+
+categories:
+  - La Niña phenomenon
+  - Palynology
+  - Pollinosis
+  - Tropics
+---
+
+## Abstract
+
+The atmosphere of the urban area of the city of Medellin, Colombia was monitored with the objective of identifying airborne pollen and spores throughout a whole year. Sampling was performed between February 2010 and March 2011, coinciding with the La Niña climate phenomenon, which is characterized by a considerable increase in precipitation. Samples of airborne spores and pollen were obtained from a suction Hirst-type volumetric sampler. A total of 62 pollen and spores types were recorded during sampling, of which 30 were angiosperms, two were gymnosperms, 10 were monilophytes, and 20 were fungi. The families displaying the highest pollen counts were Oleaceae, Poaceae, Cyperaceae, Chenopodiaceae and Polypodiaceae. We recorded an inverse relationship among precipitation and the quantity and diversity of pollen grains and fern spores. The angiosperm and gymnosperm taxa showed the greatest recorded grains throughout the sampling year with respect to the species mentioned herewith, which have been reported as allergenic in various aerobiological studies.
+
+## Citation
+
+> Alzate-Guarin, F. A., Quijano-Abril, M. A., Álvarez-Sánchez, A., & Fonnegra-Gómez, R. (2015). Atmospheric pollen and spore content in the urban area of the city of Medellin, Colombia. *Hoehnea*, 42(1), 9--19. https://doi.org/10.1590/2236-8906-52/2013

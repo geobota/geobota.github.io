@@ -1,0 +1,32 @@
+---
+title: "Alkaloid metabolite profiles by GC/MS and acetylcholinesterase inhibitory activities with binding-mode predictions of five Amaryllidaceae plants"
+type: "article"
+author:
+  - name: Natalie Charlotte Cortés-Rendón
+  - name: Rafael Mariano Álvarez-Quintero
+  - name: Edison Humberto Osorio-López
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Strahil Berkov
+  - name: Edison Javier Osorio-Durango
+year: 2015
+date: 2015-01-05
+publication: Journal of Pharmaceutical and Biomedical Analysis
+doi: https://doi.org/10.1016/j.jpba.2014.09.022
+materials: ""
+
+categories:
+  - Acetylcholinesterase inhibitors
+  - Alzheimer disease
+  - Amaryllidaceae
+  - Amaryllidaceae alkaloids
+  - Docking
+---
+
+## Abstract
+
+Acetylcholinesterase (AChE) enzymatic inhibition is an important target for the management of Alzheimer disease (AD) and AChE inhibitors are the mainstay drugs for its treatment. In order to discover new sources of potent AChE inhibitors, a combined strategy is presented based on AChE-inhibitory activity and chemical profiles by GC/MS, together with in silico studies. The combined strategy was applied on alkaloid extracts of five Amaryllidaceae species that grow in Colombia. Fifty-seven alkaloids were detected using GC/MS, and 21 of them were identified by comparing their mass-spectral fragmentation patterns with standard reference spectra in commercial and private library databases. The alkaloid extracts of Zephyranthes carinata exhibited a high level of inhibitory activity (IC~50~=5.97±0.24μg/mL). Molecular modeling, which was performed using the structures of some of the alkaloids present in this extract and the three-dimensional crystal structures of AChE derived from Torpedo californica, disclosed their binding configuration in the active site of this AChE. The results suggested that the alkaloids 3-epimacronine and lycoramine might be of interest for AChE inhibition. Although the galanthamine group is known for its potential utility in treating AD, the tazettine-type alkaloids should be evaluated to find more selective compounds of potential benefit for AD.
+
+## Citation
+
+> Cortés-Rendón, N. C., Álvarez-Quintero, R. M., Osorio-López, E. H., Alzate-Guarin, F. A., Berkov, S., & Osorio-Durango, E. J. (2015). Alkaloid metabolite profiles by GC/MS and acetylcholinesterase inhibitory activities with binding-mode predictions of five Amaryllidaceae plants. *Journal of Pharmaceutical and Biomedical Analysis*, 102, 222--228. https://doi.org/10.1016/j.jpba.2014.09.022

@@ -1,0 +1,34 @@
+---
+title: "Antileishmanial effect of 5,3′-hydroxy-7,4′-dimethoxyflavanone of <i>Picramnia gracilis</i> Tul. (Picramniaceae) fruit: <i>in vitro</i> and <i>in vivo</i> studies"
+type: "article"
+author:
+  - name: Alejandro Garro
+  - name: Wilson Cardona-Galeano
+  - name: Benjamín Rojano
+  - name: Sara Maria Robledo
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2015
+date: 2015-03
+publication: Revista Cubana de Plantas Medicinales
+doi: ""
+materials: ""
+
+categories:
+  - Pilea
+  - Urticaceae
+  - Cytotoxicity
+  - Antioxidants
+---
+
+## Abstract
+
+**Introduction:** the free radical production due to oxidative stress, causing the oxidation of lipids, proteins, DNA and enzymes, responsibles for cell tissue damage. Some species of the Urticaceae family exhibit a wide spectrum of biological activities, which makes striking exploring the antioxidant property for members of the genus *Pilea* Lindl., as an alternative in the search for new natural antioxidants. \
+**Objective**: to evaluate the cytotoxic and antioxidant activity of alcoholic and non-alcoholic extracts of *Pilea dauciodora* Wedd*.* \
+**Methods:** after drying the plant material, leaves were subjected to a process by soxhlet extraction with solvents of different polarities (dichloromethane, ethyl acetate and ethanol); a similar procedure was used to prepare the ethanol extract. The solutions obtained were concentrated under reduced pressure and were assayed for antioxidant capacity by different methods and cytotoxicity in U-937 cells. \
+**Results:** the ethanol extract of the stems and the ethyl acetate extract of the leaves showed the best reducing capacity and lower cytotoxicity, which makes promising these extracts in the search of new antioxidant compounds. \
+**Conclusion:** *Pilea dauciodora* Wedd*.* shows reductive property, which represents high potential as a natural source of antioxidants for using in pharmaceutical and food industry.
+
+## Citation
+
+> Garro, A., Cardona-Galeano, W. I., Rojano, B., Robledo-Restrepo, S. M., & Alzate-Guarin, F. A. (2015). Antioxidant and cytotoxic activity of extracts of *Pilea dauciodora* Wedd (Urticaceae). *Revista Cubana de Plantas Medicinales*, 20(1), 88--97.

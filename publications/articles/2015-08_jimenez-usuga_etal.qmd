@@ -1,0 +1,32 @@
+---
+title: "Antioxidant capacity and phenolic content of commonly used anti-inflammatory medicinal plants in Colombia"
+type: "article"
+author:
+  - name: Nora del Socorro Jiménez-Úsuga
+  - name: Luis Carrillo-Hormaza
+  - name: Andrea Pujol
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Edison Javier Osorio-Durango
+  - name: Oscar Javier Lara-Guzman
+year: 2015
+date: 2015-03-27
+publication: Industrial Crops and Products
+doi: https://doi.org/10.1016/j.indcrop.2015.03.050
+materials: ""
+
+categories:
+  - Anti-inflammatory medicinal plants
+  - Antioxidant capacity
+  - Electron transfer antioxidant tests
+  - Hydrogen transfer antioxidant tests
+  - Phenolic compounds
+---
+
+## Abstract
+
+Oxidative stress is a major factor related to the development of inflammatory diseases, which have traditionally been treated with medicinal plants. Given this relationship, into the research of natural antioxidant sources, the antioxidant capacity profiles of 11 species used in traditional medicine as anti-inflammatories were determined. The antioxidant capacity profile was investigated by using different methodologies that consider electron transfer mechanisms (ET), such as stabilization of the DPPH• radical, ferric reducing antioxidant power (FRAP), Trolox equivalent antioxidant capacity (TEAC), and hydrogen atom transfer mechanisms (HAT) such as oxygen radical absorption capacity (ORAC) and the inhibition of lipid peroxidation of lipoproteins through the assessment of conjugated dienes and thiobarbituric acid reactive substances (TBARS). Additionally, the total polyphenol content by the Folin--Ciocalteu method was determined, and the correlation between antioxidant capacity and polyphenol content was estimated. The best amounts of total phenolics and maximum values found in DPPH, FRAP, TEAC, and inhibition of lipid oxidation tests were for extracts of *Tibouchina kingii*, *Pseudelephantopus spiralis*, and *Mimosa albida*. Correlation between polyphenol content with ET tests was observed (*r*^2^ \> 0.85, *p* \< 0.001), explaining more than 72% of the antioxidant capacity of the extracts. Additionally, a highly significant correlation was observed between the ORAC and the TBARS tests, confirming that the antioxidant capacity is due in part to transfer mechanisms involving hydrogen atoms. These findings may confirm the interesting potential of these plants as a valuable source of natural bioactive molecules.
+
+## Citation
+
+> Jiménez-Úsuga, N. del S., Carrillo-Hormaza, L., Pujol, A., Alzate-Guarin, F. A., Osorio-Durango, E. J., & Lara-Guzman, O. J. (2015). Antioxidant capacity and phenolic content of commonly used anti-inflammatory medicinal plants in Colombia. *Industrial Crops and Products*, 70, 272--279. https://doi.org/10.1016/j.indcrop.2015.03.050

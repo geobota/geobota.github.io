@@ -1,0 +1,33 @@
+---
+title: "Chemical composition and antibacterial activity against <i>Enterobacter cloacae</i> of essential oils from Asteraceae species growing in the Páramos of Colombia"
+type: "article"
+author:
+  - name: Luis Carrillo-Hormaza
+  - name: Cristina Mora
+  - name: Rafael Alvarez
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: Edison Javier Osorio-Durango
+year: 2015
+date: 2015-09-03
+publication: Industrial Crops and Products
+doi: https://doi.org/10.1016/j.indcrop.2015.08.047
+materials: ""
+
+categories:
+  - Ageratina
+  - Antibacterial activity
+  - Asteraceae
+  - Baccharis
+  - Diplostephium and Pentacalia genres
+  - Enterobacter cloacae
+  - Páramos
+---
+
+## Abstract
+
+Páramos are intertropical montane ecosystems belonging to the Amazonian domain. They are discontinuously located in the Neotropics and have a high rate of endemicity at the species level. Nevertheless, the chemical composition and biological properties of these plants are poorly understood. The aim of the present study was to evaluate the antibacterial activities of essential oils from the aerial parts of eight Asteraceae species that grow in the Páramos of Antioquia-Colombia against Enterobacter cloacae using an in vitro system (clinical isolate and ATCC 13.047 strain). The chemical compounds of these oils were examined by GC/MS. Three essential oils from known species and 23 different compounds commonly found in essential oils were also evaluated for their antibacterial activity. The chemical analysis of the Asteraceae species essential oils led to the identification of 80 components and more than 45 constituents in each essential oil. Monoterpenes and sesquiterpenes were identified as the main components, making up 25 and 70% of the oils, respectively. The relationship between the antimicrobial activity and the chemical composition of the isolated oils was examined. The essential oils from the species growing in the Páramos showed weak antibacterial activity with MIC values greater than 5.0. μg/μL and percentage inhibition, assessed at 10. μg/μL, of 38.7-76.0 and 62.2-92.3% against a clinical isolate of E. cloacae and the E. cloacae ATCC 13.047 strain, respectively. The findings of the present study suggest that phenolic compounds, such as cinnamaldehyde, thymol and carvacrol, and other non-aromatic monoterpenes, such as citronellal, showed higher antibacterial activity compared to the essential oils. Therefore, essential oils with these compounds could be used as products with antimicrobial activity.
+
+## Citation
+
+> Carrillo-Hormaza, L., Mora, C., Alvarez, R., Alzate-Guarin, F. A., & Osorio-Durango, E. J. (2015). Chemical composition and antibacterial activity against *Enterobacter cloacae* of essential oils from Asteraceae species growing in the Páramos of Colombia. *Industrial Crops and Products*, 77, 108--115. https://doi.org/10.1016/j.indcrop.2015.08.047
