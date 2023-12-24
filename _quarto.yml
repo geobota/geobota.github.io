@@ -12,6 +12,10 @@ website:
   site-url: http://geobota.github.io
   repo-url: https://github.com/geobota/geobota.github.io
   favicon: images/logo/favicon.png
+  
+  page-navigation: true
+  back-to-top-navigation: false
+
 
   navbar:
     logo: images/logo/banner.png
