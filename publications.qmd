@@ -5,7 +5,7 @@ listing:
   - id: articles
     type: default
     fields: [date, author, title, description]
-    contents: "publications/*/**.qmd"
+    contents: "publications/articles/**/index.qmd"
     #template: ./ejs/article.ejs
     categories: true
     sort:

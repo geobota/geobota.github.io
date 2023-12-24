@@ -1,5 +1,43 @@
 ---
-title: "GEOBOTA-website"
+pagetitle: "Grupo de Estudios Botánicos GEOBOTA"
+listing:
+  - id: publications
+    contents: "publications/*/**/index.qmd"
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, date]
+    grid-columns: 3
+    page-size: 3
+    max-items: 6
+    feed: false
+    image-placeholder: images/logo/placeholder.png
+  - id: blog
+    contents: /blog
+    sort: "date desc"
+    type: grid
+    fields: [image, title, author, date]
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 3
+    feed: false
 ---
 
-This is a Quarto website.
+<a href="publications.qmd">
+
+## Últimas publicaciones
+</a>
+
+:::{#publications}
+:::
+
+<a href="blog.qmd">
+
+## Últimos post
+</a>
+
+:::{#blog}
+:::
