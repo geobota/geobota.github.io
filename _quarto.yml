@@ -35,7 +35,7 @@ website:
         text: Blog
 
   page-footer: 
-    left: GEOBOTA 2023, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+    left: GEOBOTA 2024, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
     right: by [@alexespinocaco](https://alexespinosaco.github.io) with [Quarto](https://quarto.org/)
 
 format:
