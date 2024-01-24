@@ -1,5 +1,5 @@
 ---
-title: "A new species of <i>Helietta</i> (Pilocarpinae, Zanthoxyloideae, Rutaceae) from Colombia and notes on the morphology and circumscription of <i>H. glaziovii</i>"
+title: "Taxonomic studies in Colombian Picramniaceae (Picramniales): new species of <i>Aenigmanu</i>, <i>Nothotalisia</i> and <i>Picramnia</i> from the Pacific and Magdalena Valley regions"
 type: "article"
 author:
   - name: "**Yeison Londoño-Echeverri**"
