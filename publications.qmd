@@ -7,7 +7,7 @@ listing:
     fields: [date, author, title, description]
     contents: "publications/articles/**/index.qmd"
     #template: ./ejs/article.ejs
-    categories: true
+    categories: false
     sort:
       - "date desc"
       - "author"
@@ -19,6 +19,12 @@ listing:
       publication: "Publication"
       year: "Year"
 ---
+
+::: {.column-screen}
+![](images/banner_publications.jpg)
+:::
+
+## Artículos
 
 :::{#articles}
 :::

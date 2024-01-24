@@ -26,6 +26,10 @@ listing:
     feed: false
 ---
 
+::: {.column-screen}
+![](images/banner_index.jpg)
+:::
+
 <a href="publications.qmd">
 
 ## Últimas publicaciones

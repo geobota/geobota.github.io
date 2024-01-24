@@ -1,7 +1,11 @@
 ---
-title: "Acerca"
+pagetitle: "Acerca"
 toc: true
 ---
+
+::: {.column-screen}
+![](images/banner_about.jpg)
+:::
 
 ## Quiénes somos
 
@@ -51,14 +55,14 @@ leaflet::leaflet() |>
   )
 ```
 
-Instituto de Biología.\
-Facultad de Ciencias Exactas y Naturales.\
-Universidad de Antioquia UdeA.\
-Calle 67 No. 53 - 108 Laboratorio 7-408.\
-Medellín, Colombia.
+Instituto de Biología\
+Facultad de Ciencias Exactas y Naturales\
+Universidad de Antioquia UdeA\
+Calle 67 No. 53 - 108 Laboratorio 7-408\
+Medellín, Colombia
 
 ## Contacto
 
-Fernando Alveiro Alzate Guarin, PhD.\
-Coordinador del grupo.\
+Fernando Alveiro Alzate Guarin, PhD\
+Coordinador del grupo\
 alveiro.alzate\@udea.edu.co

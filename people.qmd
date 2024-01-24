@@ -49,6 +49,10 @@ listing:
       # ended: "Fin"
 ---
 
+::: {.column-screen}
+![](images/banner_people.jpg)
+:::
+
 ## Investigadores
 
 :::{#staff}

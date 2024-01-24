@@ -1,6 +1,12 @@
 ---
-title: "Proyectos"
+pagetitle: "Proyectos"
 ---
+
+::: {.column-screen}
+![](images/banner_projects.jpg)
+:::
+
+## Proyectos
 
 -   Análisis evolutivo de diferentes caracteres en el género Bomarea, biogeografía y edades de divergencia de los diferentes linajes infragenéricos. 2012.
 -   Delimitación de los páramos del departamento de Antioquia. 2014-2015.

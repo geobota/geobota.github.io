@@ -14,3 +14,7 @@ listing:
     page-size: 10
 ---
 
+::: {.column-screen}
+![](images/banner_blog.jpg)
+:::
+
