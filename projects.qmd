@@ -6,11 +6,44 @@ pagetitle: "Proyectos"
 ![](images/banner_projects.jpg)
 :::
 
-## Proyectos
+## Algunos de nuestros proyectos
 
--   Análisis evolutivo de diferentes caracteres en el género Bomarea, biogeografía y edades de divergencia de los diferentes linajes infragenéricos. 2012.
--   Delimitación de los páramos del departamento de Antioquia. 2014-2015.
--   Estudio de saberes populares y sus portadores en medicina tradicional en los cinco corregimientos de la ciudad de Medellín: valoración cultural y potenciación de usos comerciales. 2011.
--   Exploración, inventario florístico y catalogo ilustrado de la flora del parque regional ARVI y de la reserva AROVA. 2011.
--   Inventario de la flora angiosperma de los páramos de Antioquia y su utilización para el establecimiento de prioridades de conservación. 2011-2014
--   Sedimentación Esporopolínica en la Ciudad de Medellín. 2010-2020.
+-   Implementación de estrategias para la construcción y apropiación social del conocimiento sobre la biodiversidad en el Urabá en Antioquia\
+   Ministerio de Ciencia Tecnología e Innovación (Minciencias)\
+   2021- actual
+
+-   Una variable de la calidad atmosférica para una ciudad con alto nivel de contaminación: estudio aerobiológico de la atmósfera de Medellín y determinación de la inmunoreactividad de sus principales biopartículas\
+   Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
+   2019-actual 
+
+-   Drua Wandra. Caracterización de la flora y la fauna de los sitios sagrados de los resguardos embera de Polines y Yaberaradó, Chigorodó, Antioquia\
+   Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias) & Universidad de Antioquia\
+   2018-2021
+
+-   Gestión de la biodiversidad y de sus servicios ecosistémicos en cuencas para la generación eléctrica por EPM\
+   Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias)\
+   2018-2020
+
+-   Delimitación de los páramos del departamento de Antioquia\
+   Instituto de Investigación de Recursos Biológicos Alexander von Humboldt & Universidad de Antioquia\
+   2014-2015  
+
+-   Alcaloides de Amaryllidaceae con actividad neuroprotectora como productos naturales potenciales en el tratamiento de la enfermedad de Alzheimer\
+   Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
+   2011-2014 
+
+-   Inventario de la flora angiosperma de los páramos de Antioquia y su utilización para el establecimiento de prioridades de conservación\
+   Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
+   2011-2014
+
+-   Estudio de saberes populares y sus portadores en medicina tradicional en los cinco corregimientos de la ciudad de Medellín: valoración cultural y potenciación de usos comerciales\
+   Alcaldía de Medellín & Universidad de Antioquia\
+   2011
+
+-   Exploración, inventario florístico y catálogo ilustrado de la flora del parque regional ARVÍ y de la reserva AROVA, centro de Antioquia\
+   Alcaldía de Medellín & Universidad de Antioquia\
+   2011
+
+-   Sedimentación Esporopolínica en la Ciudad de Medellín, Departamento de Antioquia – Colombia\
+   Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
+   2010-2013
