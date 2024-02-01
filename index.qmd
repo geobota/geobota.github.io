@@ -2,7 +2,7 @@
 pagetitle: "Grupo de Estudios Botánicos GEOBOTA"
 listing:
   - id: publications
-    contents: "publications/*/**/index.qmd"
+    contents: publications/*/**/index.qmd
     sort: "date desc"
     type: grid
     categories: false
@@ -13,7 +13,8 @@ listing:
     page-size: 3
     max-items: 6
     feed: false
-    image-placeholder: images/logo/placeholder.png
+    # image-placeholder: placeholder.png
+    
   - id: blog
     contents: /blog
     sort: "date desc"
