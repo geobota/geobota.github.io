@@ -1,25 +1,47 @@
 ---
-title: "Jose Miguel Rojas Villa"
-sortby: "Rojas Villa, Jose Miguel"
+title: &title "**Jose Miguel Rojas-Villa**"
 subtitle: "Estudiante de maestría"
-image: rojas-villa_jose-miguel.jpg
+
+number: "1"
+last: "Rojas-Villa"
+first: "Jose Miguel"
+
+image: profile.jpg
+people_group: "gradstudent"
 started: "2022-07"
 ended: "Actual"
 toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
 about:
   id: person-profile
   template: jolla
   links:
     - href: miguel.rojas4@udea.edu.co
-      text: Correo
+      text: "{{< fa envelope >}} Email"
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002020998
-      text: CvLAC
+      text: "{{< ai cv >}} CvLAC"
     - href: https://scholar.google.com/citations?user=iRhKRKMAAAAJ
-      text: Google Scholar
+      text: "{{< ai google-scholar >}} Google Scholar"
     - href: https://orcid.org/0000-0002-6656-9932
-      text: ORCID
+      text: "{{< ai orcid >}} ORCID"
     - href: https://www.researchgate.net/profile/Jose-M-Rojas-2
-      text: ResearchGate
+      text: "{{< ai researchgate >}} ResearchGate"
 ---
 
 :::{#person-profile}
@@ -36,3 +58,8 @@ Me dedico a estudiar la diversidad vegetal de Colombia, principalmente en los ec
 -   **Universidad de Católica de Oriente** \| Rionegro, Colombia\
     Pregrado en Agronomía \| 2017-2022\
     Latencia y anatomía de semillas: implicaciones en la ecología de especies nativas pioneras e invasoras de bosques andinos del Oriente antioqueño
+
+## Publicaciones
+
+::: {#publications}
+:::

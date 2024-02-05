@@ -1,8 +1,13 @@
 ---
 title: &title "**Fernando Alveiro Alzate-Guarin**"
-sortby: "1"
 subtitle: "Coordinador"
-image: alzate-guarin_fernando-alveiro.jpg
+
+number: "1"
+last: "Alzate-Guarin"
+first: "Fernando Alveiro"
+
+image: profile.jpg
+people_group: "researcher"
 started: "2007-01"
 ended: "Actual"
 toc: false
@@ -28,15 +33,15 @@ about:
   template: jolla
   links:
     - href: mailto:alveiro.alzate@udea.edu.co
-      text: Correo
+      text: "{{< fa envelope >}} Email"
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000034401
-      text: CvLAC
+      text: "{{< ai cv >}} CvLAC"
     - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
-      text: Google Scholar
+      text: "{{< ai google-scholar >}} Google Scholar"
     - href: https://orcid.org/0000-0002-4916-8897
-      text: ORCID
+      text: "{{< ai orcid >}} ORCID"
     - href: https://www.researchgate.net/profile/Fernando-Alzate
-      text: ResearchGate
+      text: "{{< ai researchgate >}} ResearchGate"
 ---
 
 :::{#person-profile}

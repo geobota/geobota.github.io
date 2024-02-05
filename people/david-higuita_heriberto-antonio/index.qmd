@@ -1,0 +1,61 @@
+---
+title: &title "**Heriberto Antonio David-Higuita**"
+subtitle: "Curador colección HUA"
+
+number: "2"
+last: "David-Higuita"
+first: "Heriberto Antonio"
+
+# image: profile.jpg
+people_group: "researcher"
+started: "2003-01"
+ended: "Actual"
+toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: mailto:heriberto.david@udea.edu.co
+      text: "{{< fa envelope >}} Email"
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000706345
+      text: "{{< ai cv >}} CvLAC"
+    # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+    #   text: "{{< ai google-scholar >}} Google Scholar"
+    - href: https://orcid.org/0000-0002-2430-2973
+      text: "{{< ai orcid >}} ORCID"
+    - href: https://www.researchgate.net/profile/Heriberto-David
+      text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| <!--1990-1997\-->
+    <!-- Distribución de epífitas Fanerógamas en bosques de Roble -->
+
+## Publicaciones
+
+::: {#publications}
+:::

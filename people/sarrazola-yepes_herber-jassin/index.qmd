@@ -1,25 +1,47 @@
 ---
-title: "Herber Jassin Sarrazola Yepes"
-sortby: "Sarrazola Yepes, Herber Jassin"
+title: &title "**Herber Jassin Sarrazola-Yepes**"
 subtitle: "Estudiante de doctorado"
-#image: espinosa-correa_alex.jpeg
+
+number: "1"
+last: "Sarrazola-Yepes"
+first: "Herber Jassin"
+
+# image: profile.jpg
+people_group: "gradstudent"
 started: "2019-01"
 ended: "Actual"
 toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
 about:
   id: person-profile
   template: jolla
   links:
     - href: herber.sarrazola@udea.edu.co
-      text: Correo
+      text: "{{< fa envelope >}} Email"
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001333993
-      text: CvLAC
+      text: "{{< ai cv >}} CvLAC"
     # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
-    #   text: Google Scholar
+    #   text: "{{< ai google-scholar >}} Google Scholar"
     - href: https://orcid.org/0000-0003-4418-0181
-      text: ORCID
+      text: "{{< ai orcid >}} ORCID"
     # - href: https://www.researchgate.net/profile/Alex-Espinosa-Correa
-    #   text: ResearchGate
+    #   text: "{{< ai researchgate >}} ResearchGate"
 ---
 
 :::{#person-profile}
@@ -40,3 +62,8 @@ about:
 -   **Universidad de Antioquia** \| Medellín, Colombia\
     Maestría en Biología \| -2012\
     Revisión taxonómica de las especies de *Boehmeria* Jacq. presentes en Antioquia: aspectos morfológicos, anatómicos y palinológicos
+
+## Publicaciones
+
+::: {#publications}
+:::

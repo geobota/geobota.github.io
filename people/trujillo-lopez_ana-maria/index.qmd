@@ -1,25 +1,47 @@
 ---
-title: "Ana María Trujillo López"
-sortby: "Trujillo López, Ana María"
+title: &title "**Ana María Trujillo-López**"
 subtitle: "Estudiante de maestría"
-#image: espinosa_alex.jpeg
+
+number: "1"
+last: "Trujillo-López"
+first: "Ana María"
+
+# image: profile.jpg
+people_group: "gradstudent"
 started: "2020-01"
 ended: "Actual"
 toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
 about:
   id: person-profile
   template: jolla
   links:
     - href: amtrujillol@unal.edu.co
-      text: Correo
+      text: "{{< fa envelope >}} Email"
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001753642
-      text: CvLAC
+      text: "{{< ai cv >}} CvLAC"
     # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
     #   text: Google Scholar
     - href: https://orcid.org/0000-0002-0898-1646
-      text: ORCID
+      text: "{{< ai orcid >}} ORCID"
     - href: https://www.researchgate.net/profile/Ana-Trujillo-Lopez
-      text: ResearchGate
+      text: "{{< ai researchgate >}} ResearchGate"
 ---
 
 ::: {#person-profile}
@@ -36,3 +58,8 @@ about:
 -   **Universidad Nacional de Colombia Sede Medellín** \| Medellín, Colombia\
     Pregrado en Ingeniería Forestal \| 2014-2022\
     <!-- Exploración de la utilidad de la región ITS en estudios filogeográficos de plantas de áreas de Páramo -->
+
+## Publicaciones
+
+::: {#publications}
+:::

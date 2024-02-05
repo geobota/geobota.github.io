@@ -1,25 +1,47 @@
 ---
-title: "Jhon Freddys Pérez Mosquera"
-sortby: "Pérez Mosquera, Jhon Freddys"
+title: &title "**Jhon Freddys Pérez-Mosquera**"
 subtitle: "Estudiante de maestría"
-#image: caro-sanchez_angy_vanesa.jpg
+
+number: "1"
+last: "Pérez-Mosquera"
+first: "Jhon Freddys"
+
+# image: profile.jpg
+people_group: "gradstudent"
 started: "2023-01"
 ended: "Actual"
 toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
 about:
   id: person-profile
   template: jolla
   links:
     - href: jhon.perezm@udea.edu.co
-      text: Correo
+      text: "{{< fa envelope >}} Email"
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001601537
-      text: CvLAC
+      text: "{{< ai cv >}} CvLAC"
     - href: https://scholar.google.com/citations?user=0ant-uAAAAAJ
-      text: Google Scholar
+      text: "{{< ai google-scholar >}} Google Scholar"
     # - href: https://orcid.org/0000-0001-8751-7931
-    #   text: ORCID
+    #   text: "{{< ai orcid >}} ORCID"
     - href: https://www.researchgate.net/profile/Jhon-Perez-Mosquera
-      text: ResearchGate
+      text: "{{< ai researchgate >}} ResearchGate"
 ---
 
 ::: {#person-profile}
@@ -36,3 +58,8 @@ Me interesa tanto la taxonomía de plantas como la etnobotánica, ambas discipli
 -   **Universidad Tecnológica del Chocó** \| Quibdo, Colombia\
     Pregrado en Biología \| 2014-2020\
     Densidad poblacional y distribución espacial de *Cyathea* sm. (Cyatheaceae) en un bosque húmedo tropical, Quibdó, Chocó, Colombia
+
+## Publicaciones
+
+::: {#publications}
+:::

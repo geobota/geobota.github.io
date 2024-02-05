@@ -1,0 +1,65 @@
+---
+title: &title "**Isabel Carmona-Gallego**"
+subtitle: "Investigador"
+
+number: "2"
+last: "Carmona-Gallego"
+first: "Isabel"
+
+# image: profile.jpg
+people_group: "researcher"
+started: "2015-01"
+ended: "2022"
+toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: isabelcg04@gmail.com
+      text: "{{< fa envelope >}} Email"
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000122926
+      text: "{{< ai cv >}} CvLAC"
+    # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+    #   text: "{{< ai google-scholar >}} Google Scholar"
+    - href: https://orcid.org/0000-0001-8954-4503
+      text: "{{< ai orcid >}} ORCID"
+    - href: https://www.researchgate.net/profile/Isabel-Carmona-Gallego
+      text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2018-2022\
+    Filogenia del Género *Oryctanthus* (Griseb.) Eichler
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 2009-2017\
+    Evaluación de caracteres moleculares y morfológicos para la determinación de un posible complejo críptico de especies en *Gaiadendron punctatum* (Ruiz & Pav.) G. Don.
+
+## Publicaciones
+
+::: {#publications}
+:::
