@@ -3,11 +3,13 @@ pagetitle: "Acerca"
 toc: true
 ---
 
-::: {.column-screen}
-![](images/banner_about.jpg)
+::: column-screen
+![](../images/banner_about.jpg)
 :::
 
 ## Quiénes somos
+
+![](../images/logo/geobota_logo.png){fig-align="center"}
 
 El grupo aborda cuestiones relativas a la biología de las plantas, incluyendo su diversidad, estructura y la evolución de linajes y caracteres. Esto facilita la interacción entre docentes, investigadores y estudiantes con el propósito de generar productos científicos de alto impacto en diversas líneas de investigación botánica. Las preguntas de investigación que se abordan se sitúan dentro de diversos temas, tales como sistemática de plantas, anatomía, etnobotánica, bioprospección, florística e inventarios de la diversidad, biogeografía, palinología y biología reproductiva de las plantas.
 

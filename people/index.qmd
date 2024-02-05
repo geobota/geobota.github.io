@@ -3,10 +3,10 @@ pagetitle: "Integrantes"
 toc: false
 listing:
   - id: staff
-    contents: "people/staff/*.qmd"
+    contents: "staff/*.qmd"
     type: grid
     image-height: 225px
-    # image-placeholder: images/logo/placeholder.png
+    image-placeholder: /images/logo/placeholder.png
     grid-columns: 3
     fields: [image, title, subtitle]
     grid-item-align: center
@@ -14,10 +14,10 @@ listing:
     field-display-names: 
       started: "Started"
   - id: graduate
-    contents: "people/graduate/*.qmd"
+    contents: "graduate/*.qmd"
     type: grid
     image-height: 225px
-    # image-placeholder: images/logo/placeholder.png
+    image-placeholder: /images/logo/placeholder.png
     grid-columns: 3
     sort: sortby
     fields: [image, title, subtitle]
@@ -25,8 +25,8 @@ listing:
       started: "Started"
     grid-item-align: center
   - id: undergraduate
-    contents: "people/undergraduate/*.qmd"
-    # image-placeholder: images/logo/placeholder.png
+    contents: "undergraduate/*.qmd"
+    image-placeholder: /images/logo/placeholder.png
     type: grid
     image-height: 225px
     grid-columns: 3
@@ -36,7 +36,7 @@ listing:
       started: "Started"
     grid-item-align: center
   - id: past
-    contents: "people/past/*.qmd"
+    contents: "past/*.qmd"
     type: table
     sort: sortby
     fields: [title, subtitle] #, started, ended]
@@ -50,7 +50,7 @@ listing:
 ---
 
 ::: {.column-screen}
-![](images/banner_people.jpg)
+![](../images/banner_people.jpg)
 :::
 
 ## Investigadores

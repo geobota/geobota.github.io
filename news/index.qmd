@@ -1,0 +1,30 @@
+---
+paggetitle: "Noticias"
+toc: false
+listing: 
+  - id: news
+    type: default
+    # fields: [date, author, title, description, image]
+    contents: "**/index.qmd"
+    categories: true
+    sort:
+      - "date desc"
+      - "title"
+    sort-ui: false
+    filter-ui: true
+    page-size: 12
+    image-placeholder: /images/logo/placeholder.png
+    image-align: right
+---
+
+::: {.column-screen}
+![](../images/banner_blog.jpg)
+:::
+
+:::: {.g-col-12}
+## Noticias
+
+:::{#news}
+:::
+
+::::

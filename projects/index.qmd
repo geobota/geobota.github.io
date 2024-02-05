@@ -3,7 +3,7 @@ pagetitle: "Proyectos"
 ---
 
 ::: {.column-screen}
-![](images/banner_projects.jpg)
+![](../images/banner_projects.jpg)
 :::
 
 ## Algunos de nuestros proyectos

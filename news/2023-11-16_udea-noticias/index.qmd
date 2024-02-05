@@ -3,7 +3,7 @@ title: "En el Herbario de la UdeA se encontró una nueva especie de árbol"
 description: "El interés de un estudiante por el género de plantas *Tournefortiopsis*, derivado de otro género, llevó al descubrimiento del registro de un individuo que se colectó en 1994 en la base del páramo de Sonsón, y del que hasta ahora solo se conoce la existencia de ese ejemplar. Una muestra más de que los herbarios también son vetas importantes para el descubrimiento de nuevas especies. "
 
 author: GEOBOTA
-date: 2023-11-16
+date: 2024-01-09
 
 categories:
   - UdeA Noticias

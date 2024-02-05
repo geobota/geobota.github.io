@@ -4,8 +4,8 @@ toc: false
 listing:
   - id: articles
     type: default
-    fields: [date, author, title, description]
-    contents: "publications/articles/**/index.qmd"
+    fields: [title, description, date, author]
+    contents: "articles/**/index.qmd"
     #template: ./ejs/article.ejs
     categories: false
     sort:
@@ -14,14 +14,15 @@ listing:
       - "title"
     sort-ui: [title, author, publication, year]
     filter-ui: [title, author, publication, year]
-    page-size: 10
+    image-align: left
+    page-size: 12
     field-display-names:
       publication: "Publication"
       year: "Year"
 ---
 
 ::: {.column-screen}
-![](images/banner_publications.jpg)
+![](../images/banner_publications.jpg)
 :::
 
 ## Artículos
