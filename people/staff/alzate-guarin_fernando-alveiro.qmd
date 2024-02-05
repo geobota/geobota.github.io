@@ -1,16 +1,33 @@
 ---
-title: "Fernando Alveiro Alzate Guarin"
+title: &title "**Fernando Alveiro Alzate-Guarin**"
 sortby: "1"
 subtitle: "Coordinador"
 image: alzate-guarin_fernando-alveiro.jpg
 started: "2007-01"
 ended: "Actual"
 toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
 about:
   id: person-profile
   template: jolla
   links:
-    - href: alveiro.alzate@udea.edu.co
+    - href: mailto:alveiro.alzate@udea.edu.co
       text: Correo
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000034401
       text: CvLAC
@@ -31,7 +48,7 @@ about:
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
     Doctorado en Biología \| 2004-2008\
-    Filogenia y biogeografia del genero *Bomarea* (Alstroemeriaceae)
+    Filogenia y biogeografía del genero *Bomarea* (Alstroemeriaceae)
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
     Maestría en Biología \| 2000-2004\
@@ -44,3 +61,8 @@ about:
 -   **Universidad Nacional de Colombia Sede Medellín** \| Medellín, Colombia\
     Pregrado en Zootecnia \| 1991-1995\
     Incidencia de las aflatoxinas en la producción avícola
+
+## Publicaciones
+
+::: {#publications}
+:::

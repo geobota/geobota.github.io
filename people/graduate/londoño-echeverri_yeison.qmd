@@ -1,11 +1,28 @@
 ---
-title: "Yeison Londoño Echeverri"
+title: &title "**Yeison Londoño-Echeverri**"
 sortby: "Londoño Echeverri, Yeison"
 subtitle: "Estudiante de maestría"
 #image: rojas-villa_jose-miguel.jpg
 started: "2020-01"
 ended: "Actual"
 toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+  
 about:
   id: person-profile
   template: jolla
@@ -36,3 +53,8 @@ about:
 -   **Universidad Nacional de Colombia Sede Medellín** \| Medellín, Colombia\
     Pregrado en Ingeniería Forestal \| 2014-2022\
     <!-- Exploración de la utilidad de la región ITS en estudios filogeográficos de plantas de áreas de Páramo -->
+
+## Publicaciones
+
+::: {#publications}
+:::
