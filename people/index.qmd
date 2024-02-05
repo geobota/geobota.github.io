@@ -3,38 +3,53 @@ pagetitle: "Integrantes"
 toc: false
 listing:
   - id: staff
-    contents: "staff/*.qmd"
+    include: 
+      people_group: "researcher"
     type: grid
-    image-height: 225px
-    image-placeholder: /images/logo/placeholder.png
     grid-columns: 3
-    fields: [image, title, subtitle]
     grid-item-align: center
-    sort: sortby
+    fields: [image, title, subtitle]
     field-display-names: 
       started: "Started"
+    image-height: 225px
+    image-placeholder: /images/logo/placeholder.png
+    sort: 
+      - "number"
+      - "last"
+      - "first"
+
   - id: graduate
-    contents: "graduate/*.qmd"
+    include: 
+      people_group: "gradstudent"
     type: grid
-    image-height: 225px
-    image-placeholder: /images/logo/placeholder.png
     grid-columns: 3
-    sort: sortby
+    grid-item-align: center
     fields: [image, title, subtitle]
     field-display-names: 
       started: "Started"
-    grid-item-align: center
+    image-height: 225px
+    image-placeholder: /images/logo/placeholder.png
+    sort: 
+      - "number"
+      - "last"
+      - "first"
+
   - id: undergraduate
-    contents: "undergraduate/*.qmd"
-    image-placeholder: /images/logo/placeholder.png
+    include: 
+      people_group: "undergraduatestudent"
     type: grid
-    image-height: 225px
     grid-columns: 3
-    sort: sortby
+    grid-item-align: center
     fields: [image, title, subtitle]
     field-display-names: 
       started: "Started"
-    grid-item-align: center
+    image-height: 225px
+    image-placeholder: /images/logo/placeholder.png
+    sort: 
+      - "number"
+      - "last"
+      - "first"
+
   - id: past
     contents: "past/*.qmd"
     type: table
