@@ -14,25 +14,28 @@ website:
   favicon: images/logo/favicon.png
   
   page-navigation: true
-  back-to-top-navigation: false
+  back-to-top-navigation: true
 
+  google-analytics: 
+    tracking-id: "G-6X3G195Q2V"
+    anonymize-ip: true
 
   navbar:
-    logo: images/logo/banner.png
+    logo: images/logo/geobota_logo.png
     search: true
     right:
       - href: index.qmd
         text: Inicio
-      - href: about.qmd
+      - href: about/index.qmd
         text: Acerca
-      - href: people.qmd
+      - href: people/index.qmd
         text: Integrantes
-      - href: projects.qmd
+      - href: projects/index.qmd
         text: Proyectos
-      - href: publications.qmd
+      - href: publications/index.qmd
         text: Publicaciones
-      - href: blog.qmd
-        text: Blog
+      - href: news/index.qmd
+        text: Noticias
 
   page-footer: 
     left: GEOBOTA 2024, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -41,5 +44,6 @@ website:
 format:
   html:
     theme: simplex
-    css: styles.css
     toc: false
+
+resources: images/logo/placeholder.png
