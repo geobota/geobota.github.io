@@ -15,6 +15,7 @@ website:
   
   page-navigation: true
   back-to-top-navigation: true
+  bread-crumbs: true
 
   google-analytics: 
     tracking-id: "G-6X3G195Q2V"
@@ -36,10 +37,12 @@ website:
         text: Publicaciones
       - href: news/index.qmd
         text: Noticias
+      - href: https://github.com/geobota
+        text: "{{< fa brands github >}}"
 
   page-footer: 
-    left: GEOBOTA 2024, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-    right: by [@alexespinocaco](https://alexespinosaco.github.io) with [Quarto](https://quarto.org/)
+    left: GEOBOTA © 2024 is licensed under [CC BY 4.0 {{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}}](https://creativecommons.org/licenses/by/4.0/)
+    right: Made by [@alexespinocaco](https://alexespinosaco.github.io) with {{< fa brands r-project >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
 
 format:
   html:
