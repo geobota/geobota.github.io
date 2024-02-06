@@ -1,5 +1,10 @@
 ---
 pagetitle: "Grupo de Estudios Botánicos GEOBOTA"
+title: "Bienvenido a GEOBOTA"
+title-block-banner: images/banner_index.jpg
+title-block-banner-color: body
+# page-layout: full
+
 listing:
   - id: publications
     contents: publications/*/**/index.qmd
@@ -15,7 +20,7 @@ listing:
     # page-size: 3
     max-items: 3
     feed: false
-    
+
   - id: news
     contents: news/*/index.qmd
     sort: "date desc"
@@ -31,9 +36,9 @@ listing:
     feed: false
 ---
 
-::: {.column-screen}
-![](images/banner_index.jpg)
-:::
+<!-- ::: {.column-screen} -->
+<!-- ![](images/banner_index.jpg) -->
+<!-- ::: -->
 
 :::: {.g-col-12}
 

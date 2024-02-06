@@ -1,6 +1,10 @@
 ---
 pagetitle: "Publicaciones"
+title: "Publicaciones"
+title-block-banner: ../images/banner_publications.jpg
+title-block-banner-color: "#FFFFFF"
 toc: false
+
 listing:
   - id: articles
     type: default
@@ -20,10 +24,6 @@ listing:
       publication: "Publication"
       year: "Year"
 ---
-
-::: {.column-screen}
-![](../images/banner_publications.jpg)
-:::
 
 ## Artículos
 
