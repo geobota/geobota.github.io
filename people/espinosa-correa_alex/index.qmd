@@ -2,7 +2,7 @@
 title: &title "**Álex Espinosa-Correa**"
 subtitle: "Estudiante de doctorado"
 
-number: "1"
+number: "3"
 last: "Espinosa-Correa"
 first: "Álex"
 
@@ -12,27 +12,27 @@ started: "2015-01"
 ended: "Actual"
 toc: false
 
-listing: 
-  id: publications
-  type: default
-  fields: [title, description, categories, date, author]
-  contents: ../../publications/*/**/index.qmd
-  categories: false
-  sort:
-    - "date desc"
-    - "author"
-    - "title"
-  filter-ui: [title, author, publication, year]
-  image-align: left
-  page-size: 10
-  include:
-    author: *title
+# listing: 
+#   id: publications
+#   type: default
+#   fields: [title, description, categories, date, author]
+#   contents: ../../publications/*/**/index.qmd
+#   categories: false
+#   sort:
+#     - "date desc"
+#     - "author"
+#     - "title"
+#   filter-ui: [title, author, publication, year]
+#   image-align: left
+#   page-size: 10
+#   include:
+#     author: *title
 
 about:
   id: person-profile
   template: jolla
   links:
-    - href: alex.espinosa@udea.edu.co
+    - href: mailto:alex.espinosa@udea.edu.co
       text: "{{< fa envelope >}} Email"
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000117836
       text: "{{< ai cv >}} CvLAC"
@@ -59,7 +59,7 @@ Mi investigación trata sobre el polen y esporas que se encuentran en la atmósf
     Pregrado en Biología \| 2011-2018\
     Exploración de la utilidad de la región ITS en estudios filogeográficos de plantas de áreas de Páramo
 
-## Publicaciones
+<!-- ## Publicaciones -->
 
-::: {#publications}
-:::
+<!-- ::: {#publications} -->
+<!-- ::: -->

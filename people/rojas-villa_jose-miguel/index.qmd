@@ -2,7 +2,7 @@
 title: &title "**Jose Miguel Rojas-Villa**"
 subtitle: "Estudiante de maestría"
 
-number: "1"
+number: "3"
 last: "Rojas-Villa"
 first: "Jose Miguel"
 
@@ -12,27 +12,27 @@ started: "2022-07"
 ended: "Actual"
 toc: false
 
-listing: 
-  id: publications
-  type: default
-  fields: [title, description, categories, date, author]
-  contents: ../../publications/*/**/index.qmd
-  categories: false
-  sort:
-    - "date desc"
-    - "author"
-    - "title"
-  filter-ui: [title, author, publication, year]
-  image-align: left
-  page-size: 10
-  include:
-    author: *title
+# listing: 
+#   id: publications
+#   type: default
+#   fields: [title, description, categories, date, author]
+#   contents: ../../publications/*/**/index.qmd
+#   categories: false
+#   sort:
+#     - "date desc"
+#     - "author"
+#     - "title"
+#   filter-ui: [title, author, publication, year]
+#   image-align: left
+#   page-size: 10
+#   include:
+#     author: *title
 
 about:
   id: person-profile
   template: jolla
   links:
-    - href: miguel.rojas4@udea.edu.co
+    - href: mailto:miguel.rojas4@udea.edu.co
       text: "{{< fa envelope >}} Email"
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002020998
       text: "{{< ai cv >}} CvLAC"
@@ -59,7 +59,7 @@ Me dedico a estudiar la diversidad vegetal de Colombia, principalmente en los ec
     Pregrado en Agronomía \| 2017-2022\
     Latencia y anatomía de semillas: implicaciones en la ecología de especies nativas pioneras e invasoras de bosques andinos del Oriente antioqueño
 
-## Publicaciones
+<!-- ## Publicaciones -->
 
-::: {#publications}
-:::
+<!-- ::: {#publications} -->
+<!-- ::: -->
