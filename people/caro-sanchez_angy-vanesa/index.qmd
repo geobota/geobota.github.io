@@ -2,7 +2,7 @@
 title: &title "**Angy Vanesa Caro-Sánchez**"
 subtitle: "Estudiante de maestría"
 
-number: "1"
+number: "3"
 last: "Caro-Sánchez"
 first: "Angy Vanesa"
 
@@ -32,7 +32,7 @@ about:
   id: person-profile
   template: jolla
   links:
-    - href: angy.caro@udea.edu.co
+    - href: mailto:angy.caro@udea.edu.co
       text: "{{< fa envelope >}} Email"
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001800877
       text: "{{< ai cv >}} CvLAC"

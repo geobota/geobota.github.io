@@ -2,7 +2,7 @@
 title: &title "**Ana María Trujillo-López**"
 subtitle: "Estudiante de maestría"
 
-number: "1"
+number: "3"
 last: "Trujillo-López"
 first: "Ana María"
 
@@ -32,7 +32,7 @@ about:
   id: person-profile
   template: jolla
   links:
-    - href: amtrujillol@unal.edu.co
+    - href: mailto:amtrujillol@unal.edu.co
       text: "{{< fa envelope >}} Email"
     - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001753642
       text: "{{< ai cv >}} CvLAC"
