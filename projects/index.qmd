@@ -1,49 +1,68 @@
 ---
 pagetitle: "Proyectos"
+title: "Proyectos"
+title-block-banner: ../images/banner_projects.jpg
+title-block-banner-color: body
 ---
-
-::: {.column-screen}
-![](../images/banner_projects.jpg)
-:::
 
 ## Algunos de nuestros proyectos
 
--   Implementación de estrategias para la construcción y apropiación social del conocimiento sobre la biodiversidad en el Urabá en Antioquia\
-   Ministerio de Ciencia Tecnología e Innovación (Minciencias)\
-   2021- actual
+{{< fa file-lines >}} Implementación de estrategias para la construcción y apropiación social del conocimiento sobre la biodiversidad en el Urabá en Antioquia\
+{{< fa sack-dollar >}} Ministerio de Ciencia Tecnología e Innovación (Minciencias)\
+{{< fa calendar >}} 2021-actual
+   
+***
 
--   Una variable de la calidad atmosférica para una ciudad con alto nivel de contaminación: estudio aerobiológico de la atmósfera de Medellín y determinación de la inmunoreactividad de sus principales biopartículas\
-   Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
-   2019-actual 
+{{< fa file-lines >}} Una variable de la calidad atmosférica para una ciudad con alto nivel de contaminación: estudio aerobiológico de la atmósfera de Medellín y determinación de la inmunoreactividad de sus principales biopartículas\
+{{< fa sack-dollar >}} Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
+{{< fa calendar >}} 2019-actual 
+   
+***
 
--   Drua Wandra. Caracterización de la flora y la fauna de los sitios sagrados de los resguardos embera de Polines y Yaberaradó, Chigorodó, Antioquia\
-   Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias) & Universidad de Antioquia\
-   2018-2021
+{{< fa file-lines >}} Drua Wandra. Caracterización de la flora y la fauna de los sitios sagrados de los resguardos embera de Polines y Yaberaradó, Chigorodó, Antioquia\
+{{< fa sack-dollar >}} Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias) & Universidad de Antioquia\
+{{< fa calendar >}} 2018-2021
 
--   Gestión de la biodiversidad y de sus servicios ecosistémicos en cuencas para la generación eléctrica por EPM\
-   Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias)\
-   2018-2020
+***
 
--   Delimitación de los páramos del departamento de Antioquia\
-   Instituto de Investigación de Recursos Biológicos Alexander von Humboldt & Universidad de Antioquia\
-   2014-2015  
+{{< fa file-lines >}} Gestión de la biodiversidad y de sus servicios ecosistémicos en cuencas para la generación eléctrica por EPM\
+{{< fa sack-dollar >}} Departamento Administrativo de Ciencia, Tecnología e Innovación (Colciencias)\
+{{< fa calendar >}} 2018-2020
 
--   Alcaloides de Amaryllidaceae con actividad neuroprotectora como productos naturales potenciales en el tratamiento de la enfermedad de Alzheimer\
-   Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
-   2011-2014 
+***
 
--   Inventario de la flora angiosperma de los páramos de Antioquia y su utilización para el establecimiento de prioridades de conservación\
-   Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
-   2011-2014
+{{< fa file-lines >}} Delimitación de los páramos del departamento de Antioquia\
+{{< fa sack-dollar >}} Instituto de Investigación de Recursos Biológicos Alexander von Humboldt & Universidad de Antioquia\
+{{< fa calendar >}} 2014-2015  
 
--   Estudio de saberes populares y sus portadores en medicina tradicional en los cinco corregimientos de la ciudad de Medellín: valoración cultural y potenciación de usos comerciales\
-   Alcaldía de Medellín & Universidad de Antioquia\
-   2011
+***
 
--   Exploración, inventario florístico y catálogo ilustrado de la flora del parque regional ARVÍ y de la reserva AROVA, centro de Antioquia\
-   Alcaldía de Medellín & Universidad de Antioquia\
-   2011
+{{< fa file-lines >}} Alcaloides de Amaryllidaceae con actividad neuroprotectora como productos naturales potenciales en el tratamiento de la enfermedad de Alzheimer\
+{{< fa sack-dollar >}} Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
+{{< fa calendar >}} 2011-2014 
 
--   Sedimentación Esporopolínica en la Ciudad de Medellín, Departamento de Antioquia – Colombia\
-   Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
-   2010-2013
+***
+
+{{< fa file-lines >}} Inventario de la flora angiosperma de los páramos de Antioquia y su utilización para el establecimiento de prioridades de conservación\
+{{< fa sack-dollar >}} Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
+{{< fa calendar >}} 2011-2014
+
+***
+
+{{< fa file-lines >}} Estudio de saberes populares y sus portadores en medicina tradicional en los cinco corregimientos de la ciudad de Medellín: valoración cultural y potenciación de usos comerciales\
+{{< fa sack-dollar >}} Alcaldía de Medellín & Universidad de Antioquia\
+{{< fa calendar >}} 2011
+
+***
+
+{{< fa file-lines >}} Exploración, inventario florístico y catálogo ilustrado de la flora del parque regional ARVÍ y de la reserva AROVA, centro de Antioquia\
+{{< fa sack-dollar >}} Alcaldía de Medellín & Universidad de Antioquia\
+{{< fa calendar >}} 2011
+
+***
+
+{{< fa file-lines >}} Sedimentación Esporopolínica en la Ciudad de Medellín, Departamento de Antioquia – Colombia\
+{{< fa sack-dollar >}} Comité para el Desarrollo de la Investigación (CODI) de la Universidad de Antioquia\
+{{< fa calendar >}} 2010-2013
+
+***

@@ -1,13 +1,10 @@
 ---
 pagetitle: "Acerca"
+title: "Quiénes somos"
+title-block-banner: ../images/banner_about.jpg
+title-block-banner-color: "#FFFFFF"
 toc: true
 ---
-
-::: column-screen
-![](../images/banner_about.jpg)
-:::
-
-## Quiénes somos
 
 ![](../images/logo/geobota_logo.png){fig-align="center"}
 
@@ -63,8 +60,7 @@ Universidad de Antioquia UdeA\
 Calle 67 No. 53 - 108 Laboratorio 7-408\
 Medellín, Colombia
 
-## Contacto
+## Coordinador del grupo
 
-Fernando Alveiro Alzate Guarin, PhD\
-Coordinador del grupo\
-alveiro.alzate\@udea.edu.co
+{{< fa user >}} [Fernando Alveiro Alzate Guarin](../people/alzate-guarin_fernando-alveiro/index.qmd)\
+{{< fa envelope >}} alveiro.alzate\@udea.edu.co
