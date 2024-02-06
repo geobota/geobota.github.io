@@ -1,0 +1,69 @@
+---
+title: &title "**Mario Alberto Quijano-Abril**"
+subtitle: "Estudiante de doctorado"
+
+number: "4"
+last: "Quijano-Abril"
+first: "Mario Alberto"
+
+# image: profile.jpg
+people_group: "grad"
+started: "2005-05"
+ended: "2012-01"
+toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  # links:
+  #   - href: maquijano@uco.edu.co
+  #     text: "{{< fa envelope >}} Email"
+  #   - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000400750
+  #     text: "{{< ai cv >}} CvLAC"
+  #   - href: https://scholar.google.com/citations?user=FARGpCIAAAAJ
+  #     text: "{{< ai google-scholar >}} Google Scholar"
+  #   - href: https://orcid.org/0000-0002-4242-8799
+  #     text: "{{< ai orcid >}} ORCID"
+  #   - href: https://www.researchgate.net/profile/Mario-Quijano-Abril
+  #     text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Doctorado en Biología \| 2008-2014\
+    Análisis filogenético molecular, biogeografía y descripción anatómica caulinar para las especies de *Piper* Subgénero *Enckea* Kunth (Piperaceae)
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2006-2008\
+    Analisis filogenetico y biogeografico de *Piper* subgenero *Enckea* Kunth
+
+-   **Universidad Industrial de Santander** \| Colombia\
+    Pregrado en Biología \| 1998-\
+    <!-- Falta el título. -->
+
+## Publicaciones
+
+::: {#publications}
+:::

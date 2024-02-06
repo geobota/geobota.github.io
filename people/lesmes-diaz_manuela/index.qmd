@@ -1,0 +1,61 @@
+---
+title: &title "**Manuela Lesmes-Diaz**"
+subtitle: "Estudiante de pregrado"
+
+number: "4"
+last: "Lesmes-Diaz"
+first: "Manuela"
+
+# image: profile.jpg
+people_group: "grad"
+started: ""
+ended: ""
+toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  # links:
+  #   - href: mailto:alveiro.alzate@udea.edu.co
+  #     text: "{{< fa envelope >}} Email"
+  #   - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000034401
+  #     text: "{{< ai cv >}} CvLAC"
+  #   - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+  #     text: "{{< ai google-scholar >}} Google Scholar"
+  #   - href: https://orcid.org/0000-0003-1503-3422
+  #     text: "{{< ai orcid >}} ORCID"
+  #   - href: https://www.researchgate.net/profile/Fernando-Alzate
+  #     text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| -2022\
+    El género *Utricularia* L. en el departamento de Antioquia: taxonomía, estado de conservación y propuesta de protocolo de colecta
+
+## Publicaciones
+
+::: {#publications}
+:::

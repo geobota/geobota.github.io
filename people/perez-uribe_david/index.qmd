@@ -1,0 +1,61 @@
+---
+title: &title "**David Pérez-Uribe**"
+subtitle: "Estudiante de pregrado"
+
+number: "4"
+last: "Pérez Uribe"
+first: "David"
+
+# image: profile.jpg
+people_group: "grad"
+started: ""
+ended: ""
+toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  # links:
+  #   - href: mailto:alveiro.alzate@udea.edu.co
+  #     text: "{{< fa envelope >}} Email"
+  #   - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000034401
+  #     text: "{{< ai cv >}} CvLAC"
+  #   - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+  #     text: "{{< ai google-scholar >}} Google Scholar"
+  #   - href: 0000-0002-7381-0165
+  #     text: "{{< ai orcid >}} ORCID"
+  #   - href: https://www.researchgate.net/profile/Fernando-Alzate
+  #     text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| -2022\
+    Sobre los géneros *Guettarda* L. y *Tournefortiopsis* Rusby. (Rubiaceae) para el departamento de Antioquia
+
+## Publicaciones
+
+::: {#publications}
+:::
