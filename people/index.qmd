@@ -1,6 +1,10 @@
 ---
 pagetitle: "Integrantes"
-toc: false
+title: "Integrantes"
+title-block-banner: ../images/banner_people.jpg
+title-block-banner-color: "#FFFFFF"
+toc: true
+
 listing:
   - id: staff
     include: 
@@ -9,8 +13,8 @@ listing:
     grid-columns: 3
     grid-item-align: center
     fields: [image, title, subtitle]
-    field-display-names: 
-      started: "Started"
+    # field-display-names: 
+    #   started: "Started"
     image-height: 225px
     image-placeholder: /images/logo/placeholder.png
     sort: 
@@ -25,8 +29,8 @@ listing:
     grid-columns: 3
     grid-item-align: center
     fields: [image, title, subtitle]
-    field-display-names: 
-      started: "Started"
+    # field-display-names: 
+    #   started: "Started"
     image-height: 225px
     image-placeholder: /images/logo/placeholder.png
     sort: 
@@ -36,13 +40,13 @@ listing:
 
   - id: undergraduate
     include: 
-      people_group: "undergraduatestudent"
+      people_group: "undergradstudent"
     type: grid
     grid-columns: 3
     grid-item-align: center
     fields: [image, title, subtitle]
-    field-display-names: 
-      started: "Started"
+    # field-display-names: 
+    #   started: "Started"
     image-height: 225px
     image-placeholder: /images/logo/placeholder.png
     sort: 
@@ -51,34 +55,34 @@ listing:
       - "first"
 
   - id: past
-    contents: "past/*.qmd"
+    include: 
+      people_group: "grad"
     type: table
-    sort: sortby
     fields: [title, subtitle] #, started, ended]
-    sort-ui: [title, subtitle] #, started, ended]
-    filter-ui: [title, subtitle] #, started, ended]
+    sort-ui: false # [title, subtitle, started, ended]
+    filter-ui: false #[title, subtitle, started, ended]
     field-display-names: 
       title: "Nombre"
       subtitle: "Rol"
       # started: "Inicio"
       # ended: "Fin"
+    sort: 
+      - "number"
+      - "last"
+      - "first"
 ---
-
-::: {.column-screen}
-![](../images/banner_people.jpg)
-:::
 
 ## Investigadores
 
 :::{#staff}
 :::
 
-## Estudiantes de Posgrado
+## Estudiantes de posgrado
 
 :::{#graduate}
 :::
 
-## Estudiantes de Pregrado
+## Estudiantes de pregrado
 
 :::{#undergraduate}
 :::
