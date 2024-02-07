@@ -29,6 +29,8 @@ website:
         text: Inicio
       - href: about/index.qmd
         text: Acerca
+      - href: herbarium/index.qmd
+        text: Herbario
       - href: people/index.qmd
         text: Integrantes
       - href: projects/index.qmd

@@ -1,0 +1,57 @@
+---
+pagetitle: "Herbario Universidad de Antioquia (HUA)"
+tite: "Herbario"
+# title-block-banner: ../images/banner_projects.jpg
+# title-block-banner-color: body
+toc: false
+
+image: ../images/logo/hua_logo.png
+
+about:
+  id: person-profile
+  template: jolla
+  image-shape: rectangle
+  links:
+    - href: mailto:herbario@udea.edu.co
+      text: "{{< fa envelope >}} Email"
+    - href: https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ciencias-exactas-naturales/herbario
+      text: "{{< fa link >}} Web"
+---
+
+:::{#person-profile}
+:::
+
+El Herbario de la Universidad de Antioquia (HUA) fue fundado en el año 1969 por el Dr. Djaja D. Soejarto, con el objetivo de documentar la flora del departamento de Antioquia y otras regiones de Colombia. El herbario cuenta con más de 230000 especímenes debidamente curados y almacenados, que constituyen un patrimonio documental de la  diversidad de flora de Antioquia y Colombia.
+
+## Ubicación
+
+```{r}
+#| label: map-ubication
+#| echo: false
+#| message: false
+
+
+if (!require("leaflet")) install.packages("leaflet")
+leaflet::leaflet() |> 
+  leaflet::addTiles() |>   # Add default OpenStreetMap map tiles
+  leaflet::addMarkers(
+    lng = -75.567908,
+    lat = 6.265727,
+    popup = "Herbario Universidad de Antioquia (HUA)"
+  )
+```
+
+***
+
+Instituto de Biología\
+Facultad de Ciencias Exactas y Naturales\
+Universidad de Antioquia UdeA\
+Calle 67 No. 53 - 108 Bloque 2 Oficina 411\
+Medellín, Colombia
+
+## Contacto
+
+{{< fa user >}} [Felipe Alfonso Cardona-Naranjo](../people/cardona-naranjo_felipe-alfonso/index.qmd)\
+{{< fa id-badge >}} Jefe sección herbario\
+{{< fa envelope >}} herbario\@udea.edu.co\
+{{< fa phone >}} +57 (604) 219-56-14\
