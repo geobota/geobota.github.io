@@ -1,14 +1,14 @@
 ---
-pagetitle: "Acerca"
+pagetitle: "Quiénes somos"
 title: "Quiénes somos"
 title-block-banner: ../images/banner_about.jpg
 title-block-banner-color: "#FFFFFF"
-toc: true
+toc: false
 ---
 
 ![](../images/logo/geobota_logo.png){fig-align="center"}
 
-El grupo aborda cuestiones relativas a la biología de las plantas, incluyendo su diversidad, estructura y la evolución de linajes y caracteres. Esto facilita la interacción entre docentes, investigadores y estudiantes con el propósito de generar productos científicos de alto impacto en diversas líneas de investigación botánica. Las preguntas de investigación que se abordan se sitúan dentro de diversos temas, tales como sistemática de plantas, anatomía, etnobotánica, bioprospección, florística e inventarios de la diversidad, biogeografía, palinología y biología reproductiva de las plantas.
+El Grupo de Estudios Botánicos GEOBOTA aborda cuestiones relativas a la biología de las plantas, incluyendo su diversidad, estructura, y la evolución de linajes y caracteres. Esto facilita la interacción entre docentes, investigadores y estudiantes con el propósito de generar productos científicos de alto impacto en diversas líneas de investigación botánica. Las preguntas de investigación que se abordan se sitúan dentro de diversos temas, tales como sistemática de plantas, anatomía, etnobotánica, bioprospección, florística e inventarios de la diversidad, biogeografía, palinología y biología reproductiva de las plantas.
 
 ## Objetivos
 
@@ -27,14 +27,14 @@ Ser reconocido como un grupo de investigación líder en el estudio de la biolog
 
 ## Servicios
 
--   Anatomía de plantas.
--   Biogeografía de plantas neotropicales.
--   Biología reproductiva de plantas.
--   Bioprospección.
--   Etnobotánica.
--   Florística e inventarios de la diversidad.
--   Palinología.
--   Sistemática de plantas.
+-   Anatomía de plantas
+-   Biogeografía de plantas neotropicales
+-   Biología reproductiva de plantas
+-   Bioprospección
+-   Etnobotánica
+-   Florística e inventarios de la diversidad
+-   Palinología
+-   Sistemática de plantas
 
 ## Ubicación
 
@@ -54,13 +54,16 @@ leaflet::leaflet() |>
   )
 ```
 
+------------------------------------------------------------------------
+
 Instituto de Biología\
 Facultad de Ciencias Exactas y Naturales\
 Universidad de Antioquia UdeA\
-Calle 67 No. 53 - 108 Laboratorio 7-408\
+Calle 67 No. 53 - 108 Bloque 7 Laboratorio 408\
 Medellín, Colombia
 
-## Coordinador del grupo
+## Contacto
 
 {{< fa user >}} [Fernando Alveiro Alzate Guarin](../people/alzate-guarin_fernando-alveiro/index.qmd)\
-{{< fa envelope >}} alveiro.alzate\@udea.edu.co
+{{< fa id-badge >}} Coordinador del grupo\
+{{< fa envelope >}} alveiro.alzate@udea.edu.co\
