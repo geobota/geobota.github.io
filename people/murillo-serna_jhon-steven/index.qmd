@@ -6,7 +6,7 @@ number: "3"
 last: "Murillo-Serna"
 first: "Jhon Steven"
 
-# image: profile.jpg
+image: profile.jpg
 people_group: "gradstudent"
 started: "2015-01"
 ended: "Actual"
@@ -47,13 +47,13 @@ about:
 ::: {#person-profile}
 :::
 
-
+Me interesa la sistemática y taxonomía de plantas con flor, especialmente Melastomataceae y Muérdagos (Santalales).
 
 ## Educación
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
     Maestría en Biología \| 2021-actual\
-    <!-- Estudio aerobiológico en la ciudad de Medellín (Colombia): una variable biológica de la calidad del aire en una ciudad altamente contaminada -->
+    Estudios en evolución, sistemática y taxonomía de *Graffenrieda* DC. y *Centronia* D.Don (Melastomataceae: Merianieae)
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
     Pregrado en Biología \| 2011-2020\
