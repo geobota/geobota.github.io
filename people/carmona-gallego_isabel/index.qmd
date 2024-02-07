@@ -9,7 +9,7 @@ first: "Isabel"
 # image: profile.jpg
 people_group: "researcher"
 started: "2015-01"
-ended: "2022"
+ended: "actual"
 toc: false
 
 listing: 
@@ -52,7 +52,7 @@ about:
 ## Educación
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
-    Maestría en Biología \| 2018-2022\
+    Maestría en Biología \| 2018-2023\
     Filogenia del Género *Oryctanthus* (Griseb.) Eichler
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
