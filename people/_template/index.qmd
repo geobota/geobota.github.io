@@ -1,0 +1,90 @@
+---
+# `title` se agrega el nombre completo o como aparezca en `publicaciones`.
+title: &title "**First Name Last-Name**"
+# `subtitle` se escoge el rol correspondiente (se pueden agregar otros), se eliminan los otros.
+subtitle: "Investigador | Estudiante de doctorado | Estudiante de maestría | Estudiante de pregrado"
+
+# `number`, `last`, `first`, sirven para ordenar en el `listing` de `people`.
+# primero por el número asignado, después por "Last-Name", seguido por "First Name"
+# Coordinador: 1, Investigador: 2, Estudiante de doctorado o maestría: 3, Estudiante de pregrado: 4
+number: 3"
+# `last` y `first`debe coincidir con lo agregado a `title`.
+last: "Last-Name"
+first: "First Name"
+
+# `image` es la imagen del perfil, dimensiones 500x500 px. Se ha de quitar la #.
+# image: profile.jpg
+# `people_group` se útiliza en el `listing` de `people` para crear cada grupo
+# ha de escogerse de acuerdo al `subtitle`: "Investigador": "researcher" 
+# "Estudiante de doctorado": "gradstudent" | "Estudiante de maestría": "undergradstudent"
+# "Estudiante de pregrado": "grad"
+people_group: "researcher | gradstudent | undergradstudent | grad"
+# `started` y `ended`son las fechas de ingreso y salida al grupo.
+started: "2007-01"
+ended: "Actual"
+toc: false
+
+# `listing` para mostrar las públicaciones. Se ha de comentar (#) si no hay publicacones.
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+# `about` es la plantilla del perfil. `id` y `template` son fijos, no se cambian.
+about:
+  id: person-profile
+  template: jolla
+# `links` muestra las opciones para "Email", "CvLAC", "Google Scholar", "ORCID", "ResearchGate"
+# Se ha de descomentar (quitar #) de `links`y la opción que se desee/pueda agregar
+# Sólo se cambia la opcion `href`correspondiente por el correo o enlace adecuado.
+# La opción `text`no se modifica.
+  # links:
+  #   - href: mailto:alveiro.alzate@udea.edu.co
+  #     text: "{{< fa envelope >}} Email"
+  #   - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000034401
+  #     text: "{{< ai cv >}} CvLAC"
+  #   - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+  #     text: "{{< ai google-scholar >}} Google Scholar"
+  #   - href: https://orcid.org/0000-0002-4916-8897
+  #     text: "{{< ai orcid >}} ORCID"
+  #   - href: https://www.researchgate.net/profile/Fernando-Alzate
+  #     text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+<!-- Justamente debajo de esta línea se agrega la descripción deseada. -->
+
+
+<!-- Se agregan los capos de educación deseados. Siguiendo los ejemplos. Los campos no utilizados se pueden comentar o eliminar. -->
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Doctorado en Biología \| 2004-2008\
+    Filogenia y biogeografía del genero *Bomarea* (Alstroemeriaceae)
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2000-2004\
+    Revisión taxonomica del género *Bomarea* para la flora de Colombia
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 1990-1997\
+    Patrones de distribución de epifitas fanerógamas en bosques de roble, en el municipio de Belmira, Antioquia
+
+<!-- No es necesario agregar las públicaciones manualmente. Se genera gracias al `listing` `publications`. Se puede eliminar o comentar si no hay publicaciones.-->
+## Publicaciones
+
+::: {#publications}
+:::
