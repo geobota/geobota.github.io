@@ -1,8 +1,8 @@
 ---
 pagetitle: "Herbario Universidad de Antioquia (HUA)"
-tite: "Herbario"
-# title-block-banner: ../images/banner_projects.jpg
-# title-block-banner-color: body
+title: "Herbario"
+title-block-banner: ../images/banner_herbarium.jpg
+title-block-banner-color: body
 toc: false
 
 image: ../images/logo/hua_logo.png
