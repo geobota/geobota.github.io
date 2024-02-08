@@ -1,5 +1,5 @@
 ---
-title: "<i>Carapa cedrotagua</i> (Cedreloideae, Meliaceae, Sapindales), a new species from surroundings of the Serranía de los Yariguíes in Eastern Andes of Colombia>"
+title: "<i>Carapa cedrotagua</i> (Cedreloideae, Meliaceae, Sapindales), a new species from surroundings of the Serranía de los Yariguíes in Eastern Andes of Colombia"
 type: "article"
 author:
   - name: "**Yeison Londoño-Echeverri**"
@@ -28,4 +28,4 @@ categories:
 
 ## Citation
 
-> Londoño-Echeverri, Y., Trujillo-López, A. M., & Jiménez-Montoya, J. (2024). *Carapa cedrotagua* (Cedreloideae, Meliaceae, Sapindales), a new species from surroundings of the Serranía de los Yariguíes in Eastern Andes of Colombia. Phytotaxa, 636(2), 175–184. https://doi.org/10.11646/phytotaxa.636.2.6
+> Londoño-Echeverri, Y., Trujillo-López, A. M., & Jiménez-Montoya, J. (2024). *Carapa cedrotagua* (Cedreloideae, Meliaceae, Sapindales), a new species from surroundings of the Serranía de los Yariguíes in Eastern Andes of Colombia. *Phytotaxa*, 636(2), 175–184. https://doi.org/10.11646/phytotaxa.636.2.6
