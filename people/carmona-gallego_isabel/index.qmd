@@ -47,9 +47,14 @@ about:
 :::{#person-profile}
 :::
 
-
+En mi proyecto de doctorado estudio aspectos biogeográficos de taxones de plantas parásitas que se distribuyen a lo largo de o alrededor de los Andes, teniendo en cuenta factores bióticos y abióticos que puedan promover su diversificación. Trabajo con datos moleculares y también con modelamiento de nicho.\
+Me interesan temas como la morfología, taxonomía, sistemática y anatomía de plantas, así como las relaciones filogenéticas y evolución de los grupos de plantas.
 
 ## Educación
+
+-   **Universidad Nacional del Comahue** \| Bariloche, Argentina\
+    Doctorado en Biología \| 2022-actual\
+    Biogeografía y diversificación en géneros andinos de Loranthaceae
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
     Maestría en Biología \| 2018-2023\
