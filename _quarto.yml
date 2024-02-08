@@ -9,9 +9,11 @@ execute:
 
 website:
   title: "Grupo de Estudios Botánicos GEOBOTA"
+  description: "Website del Grupo de Estudios Botánicos GEOBOTA"
   site-url: http://geobota.github.io
   repo-url: https://github.com/geobota/geobota.github.io
   favicon: images/logo/favicon.png
+  image: images/logo/geobota_logo.png
   
   page-navigation: true
   back-to-top-navigation: true
@@ -20,6 +22,11 @@ website:
   google-analytics: 
     tracking-id: "G-6X3G195Q2V"
     anonymize-ip: true
+
+  twitter-card: 
+    card-style: summary_large_image
+
+  open-graph: true
 
   navbar:
     logo: images/logo/geobota_logo.png
@@ -39,8 +46,10 @@ website:
         text: Publicaciones
       - href: news/index.qmd
         text: Noticias
+    
+    tools:
       - href: https://github.com/geobota
-        text: "{{< fa brands github >}}"
+        icon: github
 
   page-footer: 
     left: GEOBOTA © 2024 is licensed under [CC BY 4.0 {{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}}](https://creativecommons.org/licenses/by/4.0/)
