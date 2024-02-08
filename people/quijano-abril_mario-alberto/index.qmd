@@ -1,6 +1,6 @@
 ---
 title: &title "**Mario Alberto Quijano-Abril**"
-subtitle: "Estudiante de doctorado"
+subtitle: "Investigador"
 
 number: "4"
 last: "Quijano-Abril"
