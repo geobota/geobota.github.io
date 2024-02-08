@@ -47,7 +47,7 @@ listing:
 ::: {#news}
 :::
 
-[Ver todos las noticias](../news)
+[Ver todas las noticias](../news)
 ::::
 
 :::: {.g-col-12}

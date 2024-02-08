@@ -71,7 +71,7 @@ about:
 <!-- Se agregan los capos de educación deseados. Siguiendo los ejemplos. Los campos no utilizados se pueden comentar o eliminar. -->
 ## Educación
 
--   **Universidad del Valle Sede Cali** \| Santiago de Cali, Colombia\
+-   **Universidad del Valle Sede Cali** \| Cali, Colombia\
     Doctorado en en Ciencias - Biología \| 2016-2021\
     Sistemática del género *Killipia* Gleason y evolución floral del clado *Miconia* III (Melastomataceae)
 
