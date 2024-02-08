@@ -1,0 +1,31 @@
+---
+title: "<i>Carapa cedrotagua</i> (Cedreloideae, Meliaceae, Sapindales), a new species from surroundings of the Serranía de los Yariguíes in Eastern Andes of Colombia>"
+type: "article"
+author:
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+  - name: Jaider Jiménez-Montoya
+year: 2024
+date: 2024-02-07
+publication: Phytotaxa
+doi: https://doi.org/10.11646/PHYTOTAXA.636.2.6
+materials: ""
+
+categories:
+  - Eudicots
+  - Andiroba
+  - Biodiversity
+  - Endangered species
+  - Swietenioideae
+  - Timber species
+---
+
+## Abstract
+
+*Carapa cedrotagua*, a new species from the surroundings of Serranía de los Yariguíes, in the Eastern Andes of Colombia, is described and illustrated. Notes about its geographical distribution, phenology, uses, conservation status and taxonomic affinities are provided. The new species is similar to *C. alticola*, *C. guianensis*, and *C. pariensis*, but differs from these species mainly by its morphological combination of shorter petiolules 3.4–6(–7) mm long, leaflets secondary veins flat in the abaxial surface, stipitate and beaked fruits with valves bearing warty excrescences, and the spheroid or slightly compressed seeds with hilum 8.2–12.1 × 4.5–6.1 mm. *Carapa cedrotagua* is a common and economically important species in the area where it occurs, and it is commonly confused with *C. guianensis*.
+
+## Citation
+
+> Londoño-Echeverri, Y., Trujillo-López, A. M., & Jiménez-Montoya, J. (2024). *Carapa cedrotagua* (Cedreloideae, Meliaceae, Sapindales), a new species from surroundings of the Serranía de los Yariguíes in Eastern Andes of Colombia. Phytotaxa, 636(2), 175–184. https://doi.org/10.11646/phytotaxa.636.2.6
