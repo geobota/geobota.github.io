@@ -1,5 +1,5 @@
 ---
-title: "En el herbario de la UdeA hay nuevas especies de plantas para la ciencia"
+title: "En el Herbario de la UdeA hay nuevas especies de plantas para la ciencia"
 description: "En los últimos años, distintos profesores, alumnos y personal del lugar lo han explorado y han encontrado allí registros nunca antes descritos."
 
 author: GEOBOTA
