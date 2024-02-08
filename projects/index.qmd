@@ -2,7 +2,7 @@
 pagetitle: "Proyectos"
 title: "Proyectos"
 title-block-banner: ../images/banner_projects.jpg
-title-block-banner-color: body
+title-block-banner-color: "#FFFFFF"
 ---
 
 ## Algunos de nuestros proyectos

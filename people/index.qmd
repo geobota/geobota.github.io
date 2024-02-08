@@ -3,7 +3,7 @@ pagetitle: "Integrantes"
 title: "Integrantes"
 title-block-banner: ../images/banner_people.jpg
 title-block-banner-color: "#FFFFFF"
-toc: true
+toc: false
 
 listing:
   - id: staff
@@ -57,13 +57,14 @@ listing:
   - id: past
     include: 
       people_group: "grad"
-    type: table
+    type: grid
+    grid-columns: 4
     fields: [title, subtitle] #, started, ended]
     sort-ui: false # [title, subtitle, started, ended]
     filter-ui: false #[title, subtitle, started, ended]
-    field-display-names: 
-      title: "Nombre"
-      subtitle: "Rol"
+    # field-display-names: 
+    #   title: "Nombre"
+      # subtitle: "Rol"
       # started: "Inicio"
       # ended: "Fin"
     sort: 

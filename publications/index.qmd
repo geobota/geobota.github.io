@@ -8,7 +8,7 @@ toc: false
 listing:
   - id: articles
     type: default
-    fields: [title, description, categories, date, author]
+    fields: [title, categories, description, publication, date, author]
     contents: "articles/**/index.qmd"
     #template: ./ejs/article.ejs
     categories: false
