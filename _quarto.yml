@@ -49,6 +49,7 @@ website:
     
     tools:
       - href: https://github.com/geobota
+        text: GitHub
         icon: github
 
   page-footer: 
@@ -60,4 +61,5 @@ format:
     theme: simplex
     toc: false
 
-resources: images/logo/placeholder.png
+resources:
+  - images/logo/placeholder.png
