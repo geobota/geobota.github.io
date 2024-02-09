@@ -140,8 +140,19 @@ gtag('config', 'G-6X3G195Q2V', { 'anonymize_ip': true});
 </script>
 <style>
 
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #212529;
+      }
+
       .quarto-title-block .quarto-title-banner {
-        background-image: url(images/banner_index.jpg);
+        color: #212529;
+background-image: url(images/banner_index.jpg);
 background-size: cover;
       }
 </style>
@@ -277,7 +288,8 @@ window.Quarto = {
 <!-- ::: {.column-screen} -->
 <!-- ![](images/banner_index.jpg) -->
 <!-- ::: -->
-<section id="últimas-noticias" class="level2 g-col-12">
+<!-- :::: {.g-col-12} -->
+<section id="últimas-noticias" class="level2">
 <h2 class="anchored" data-anchor-id="últimas-noticias">Últimas noticias</h2>
 <div id="listing-news" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
@@ -326,9 +338,10 @@ GEOBOTA
 No hay resultados
 </div>
 </div>
-<p><a href="../news">Ver todas las noticias</a></p>
+<p><a href="../news">Ver todas las noticias</a> <!-- :::: --></p>
+<!-- :::: {.g-col-12} -->
 </section>
-<section id="últimas-publicaciones" class="level2 g-col-12">
+<section id="últimas-publicaciones" class="level2">
 <h2 class="anchored" data-anchor-id="últimas-publicaciones">Últimas publicaciones</h2>
 <div id="listing-publications" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
@@ -388,11 +401,11 @@ Taxonomic studies in Colombian Picramniaceae (Picramniales): new species of <i>A
 No hay resultados
 </div>
 </div>
-<p><a href="../publications">Ver todas las publicaciones</a></p>
+<p><a href="../publications">Ver todas las publicaciones</a> <!-- :::: --></p>
+
+
+
 </section>
-
-
-
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
