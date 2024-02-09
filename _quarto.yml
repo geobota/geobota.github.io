@@ -15,7 +15,7 @@ website:
   favicon: images/logo/favicon.png
   image: images/logo/geobota_logo.png
   
-  page-navigation: true
+  page-navigation: false
   back-to-top-navigation: true
   bread-crumbs: true
 
@@ -30,6 +30,7 @@ website:
 
   navbar:
     logo: images/logo/geobota_logo.png
+    background: light
     search: true
     right:
       - href: index.qmd
@@ -52,13 +53,59 @@ website:
         text: GitHub
         icon: github
 
+  sidebar:
+
+    - id: home
+      contents:
+        - href: index.qmd
+          text: Inicio
+
+    - id: about
+      contents:
+        - href: about/index.qmd
+          text: Acerca
+
+    - id: herbarium
+      contents:
+        - href: herbarium/index.qmd
+          text: Herbario
+
+    # - id: people
+    #   contents:
+    #     - section: Integrantes
+    #       href: people/index.qmd
+    #       contents:
+    #         - auto: people/**/index.qmd
+
+    - id: projects
+      contents:
+        - href: projects/index.qmd
+          text: Proyectos
+
+    - id: publications
+      contents:
+        - section: Publications
+          href: publications/index.qmd
+          contents: 
+            - section: Articles
+              href: publications/index.qmd#articles
+              contents:
+              - auto: publications/articles/**/index.qmd
+
+    - id: news
+      contents:
+        - section: News
+          href: news/index.qmd
+          contents:
+            - auto: news/*/index.qmd
+
   page-footer: 
     left: GEOBOTA © 2024 is licensed under [CC BY 4.0 {{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}}](https://creativecommons.org/licenses/by/4.0/)
     right: Made by [@alexespinocaco](https://alexespinosaco.github.io) with {{< fa brands r-project >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
 
 format:
   html:
-    theme: simplex
+    theme: cosmo
     toc: false
 
 resources:
