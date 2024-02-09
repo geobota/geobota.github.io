@@ -2,7 +2,8 @@
 pagetitle: "Grupo de Estudios Botánicos GEOBOTA"
 title: "Bienvenido a GEOBOTA"
 title-block-banner: images/banner_index.jpg
-title-block-banner-color: body
+title-block-banner-color: "#212529"
+sidebar: false
 # page-layout: full
 
 listing:
@@ -40,7 +41,7 @@ listing:
 <!-- ![](images/banner_index.jpg) -->
 <!-- ::: -->
 
-:::: {.g-col-12}
+<!-- :::: {.g-col-12} -->
 
 ## Últimas noticias
 
@@ -48,13 +49,13 @@ listing:
 :::
 
 [Ver todas las noticias](../news)
-::::
+<!-- :::: -->
 
-:::: {.g-col-12}
+<!-- :::: {.g-col-12} -->
 
 ## Últimas publicaciones
 
 ::: {#publications}
 :::
 [Ver todas las publicaciones](../publications)
-::::
+<!-- :::: -->
