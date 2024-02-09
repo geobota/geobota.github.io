@@ -2,7 +2,7 @@
 pagetitle: "Publicaciones"
 title: "Publicaciones"
 title-block-banner: ../images/banner_publications.jpg
-title-block-banner-color: "#FFFFFF"
+title-block-banner-color: "#212529"
 toc: false
 
 listing:
@@ -25,7 +25,7 @@ listing:
       year: "Year"
 ---
 
-## Artículos
+## Artículos {#sec-articles}
 
 :::{#articles}
 :::
