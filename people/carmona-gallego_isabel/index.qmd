@@ -6,7 +6,7 @@ number: "2"
 last: "Carmona-Gallego"
 first: "Isabel"
 
-# image: profile.jpg
+image: profile.jpg
 people_group: "researcher"
 started: "2015-01"
 ended: "actual"
