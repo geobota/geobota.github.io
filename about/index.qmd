@@ -4,6 +4,7 @@ title: "Quiénes somos"
 title-block-banner: ../images/banner_about.jpg
 title-block-banner-color: "#FFFFFF"
 toc: false
+# sidebar: false
 ---
 
 ![](../images/logo/geobota_logo.png){fig-align="center"}
