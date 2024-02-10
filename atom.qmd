@@ -9,7 +9,7 @@ search: false
 listing:
   - id: latest-content
     contents:
-      - publications/*/**/index.qmd
+      # - publications/articles/**/index.qmd
       - news/*/index.qmd
     sort: "date desc"
     type: grid
