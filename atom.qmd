@@ -1,0 +1,22 @@
+---
+pagetitle: GEOBOTA RSS FEED
+title: GEOBOTA RSS FEED
+title-block-banner: false
+# title-block-banner-color:
+sidebar: false
+search: false
+
+listing:
+  - id: latest-content
+    contents:
+      - publications/*/**/index.qmd
+      - news/*/index.qmd
+    sort: "date desc"
+    type: grid
+    image-height: 225px
+    image-placeholder: /images/logo/placeholder.png
+    categories: false
+    sort-ui: true
+    filter-ui: true
+    feed: true
+---

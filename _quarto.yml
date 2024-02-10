@@ -47,11 +47,12 @@ website:
         text: Publicaciones
       - href: news/index.qmd
         text: Noticias
-    
-    tools:
       - href: https://github.com/geobota
-        text: GitHub
-        icon: github
+        text: "{{< fa brands github >}}"
+        # icon: github
+      - href: atom.xml
+        text: "{{< fa square-rss >}}"
+        # icon: rss
 
   sidebar:
 
