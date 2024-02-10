@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Grupo de Estudios Botánicos GEOBOTA</title>
+<link>http://geobota.github.io/atom.html</link>
+<atom:link href="http://geobota.github.io/atom.xml" rel="self" type="application/rss+xml"/>
+<description>Website del Grupo de Estudios Botánicos GEOBOTA</description>
+<image>
+<url>http://geobota.github.io/images/logo/geobota_logo.png</url>
+<title>Grupo de Estudios Botánicos GEOBOTA</title>
+<link>http://geobota.github.io/atom.html</link>
+<height>48</height>
+<width>144</width>
+</image>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Tue, 09 Jan 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>En el Herbario de la UdeA se encontró una nueva especie de árbol</title>
+  <dc:creator>GEOBOTA </dc:creator>
+  <link>http://geobota.github.io/news/2023-11-16_udea-noticias/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://geobota.github.io/news/2023-11-16_udea-noticias/image.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption>A la ficha de este especimen, en el Herbario Universidad de Antioquia desde 1994, se le agregó una anotación con su nueva clasificación. Foto Dirección de Comunicaciones UdeA / Alejandra Uribe Fernández</figcaption>
+</figure>
+</div>
+<p>Entre 2021 y 2022, David Pérez, entonces estudiante de Biología, investigaba en el Herbario Universidad de Antioquia —HUA— con el fin de <strong>revisar todas las especies del género Tournefortiopsis para el neotrópico —región que va más allá de los trópicos— que estaban allí, un grupo que se desprendió de Guettarda, por lo que también analizó algunas especies de este género</strong>. De manera simultánea miraba en las colecciones del Jardín Botánico de Medellín y de la Universidad Nacional Sede Medellín.</p>
+<p>Leer nota completa <a href="https://www.udea.edu.co/wps/portal/udea/web/inicio/udea-noticias/udea-noticia/!ut/p/z0/fUy9DoIwEH4VF0ZzVbHqSBxMjIODMdDFnOUip9ArpRofX9DBuLh8-f7BQA7G4YMvGFkc1r0ujD4tV-vpJEvVTulUq0zv0_liupkdjgq2YP4X-ge-tq3JwFhxkZ4Rci8hYn0vCROF3a-qpKEPH3DkJLJl7BL1XjsuZWh9bU-BpWQrWDfYYKSQKOo8WaZxReGMfQz-ZooX2teP6g!!/">aquí</a>.</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>UdeA Noticias</category>
+  <category>Noticias</category>
+  <guid>http://geobota.github.io/news/2023-11-16_udea-noticias/</guid>
+  <pubDate>Tue, 09 Jan 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>En el Herbario de la UdeA hay nuevas especies de plantas para la ciencia</title>
+  <dc:creator>GEOBOTA </dc:creator>
+  <link>http://geobota.github.io/news/2023-11-11_el-colombiano/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://geobota.github.io/news/2023-11-11_el-colombiano/image.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img"></p>
+<figcaption>Izquierda: <em>Tournefortiopsis triflora</em> descrita por David Pérez. Derecha: <em>Espeletia restricta</em> descrita por Fernando Alzate.</figcaption>
+</figure>
+</div>
+<p>En la Universidad de Antioquia hay un herbario con 229.000 especímenes de algas, hongos, líquenes, briofitos, helechos, gimnospermas y angiospermas, organizados en grupos relacionados entre sí por una serie de atributos biológicos o según su forma de almacenamiento, con el fin de documentar la diversidad florística, promover la investigación y apoyar la educación en diferentes áreas. Por eso, no es raro que en los últimos años, alumnos y profesores hayan encontrado en ese lugar especies nuevas para la ciencia.</p>
+<p>Leer nota completa <a href="https://www.elcolombiano.com/medio-ambiente/especies-nuevas-plantas-herbario-universidad-de-antioquia-DA23105446">aquí</a>.</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>El Colombiano</category>
+  <category>Noticias</category>
+  <guid>http://geobota.github.io/news/2023-11-11_el-colombiano/</guid>
+  <pubDate>Sat, 11 Nov 2023 05:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
