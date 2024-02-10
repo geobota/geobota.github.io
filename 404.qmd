@@ -1,0 +1,9 @@
+---
+pagetitle: "404"
+title: "404 Colección no encontrada"
+---
+
+Lo que estás buscando aún no lo hemos colectado.
+Ya estamos en campo buscándolo.
+
+Regresa al [inicio](index.qmd) o prueba usando el botón de búsqueda {{< fa magnifying-glass >}} en la parte superior.
