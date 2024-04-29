@@ -2,6 +2,8 @@
   {
     "listing": "/atom.html",
     "items": [
+      "/news/2024-04-11_alma-mater/index.html",
+      "/news/2024-03-17_el-colombiano/index.html",
       "/news/2024-03-14_udea-noticias/index.html",
       "/news/2023-11-16_udea-noticias/index.html",
       "/news/2023-11-11_el-colombiano/index.html"
@@ -108,6 +110,16 @@
     ]
   },
   {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/2024-04-11_alma-mater/index.html",
+      "/news/2024-03-17_el-colombiano/index.html",
+      "/news/2024-03-14_udea-noticias/index.html",
+      "/news/2023-11-16_udea-noticias/index.html",
+      "/news/2023-11-11_el-colombiano/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/publications/articles/2024-02-07_londono-echeverri_etal/index.html",
@@ -174,6 +186,8 @@
       "/publications/articles/2013-09_montoya-pelaez_etal/index.html",
       "/publications/articles/2013-06_cardona-galeano_etal/index.html",
       "/publications/articles/2011-09-02_alzate-guarin_etal/index.html",
+      "/news/2024-04-11_alma-mater/index.html",
+      "/news/2024-03-17_el-colombiano/index.html",
       "/news/2024-03-14_udea-noticias/index.html",
       "/news/2023-11-16_udea-noticias/index.html",
       "/news/2023-11-11_el-colombiano/index.html"
@@ -246,14 +260,6 @@
       "/publications/articles/2013-09_montoya-pelaez_etal/index.html",
       "/publications/articles/2013-06_cardona-galeano_etal/index.html",
       "/publications/articles/2011-09-02_alzate-guarin_etal/index.html"
-    ]
-  },
-  {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/2024-03-14_udea-noticias/index.html",
-      "/news/2023-11-16_udea-noticias/index.html",
-      "/news/2023-11-11_el-colombiano/index.html"
     ]
   },
   {
