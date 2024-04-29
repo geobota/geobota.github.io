@@ -1,0 +1,15 @@
+---
+title: "#VocesAlmaMater: El poder medicinal de las plantas"
+description: "Los seres humanos han utilizado durante miles de años las plantas medicinales para hacer terapias. El ajenjo, el hinojo, el higuerillo, la marihuana, el sauco, son algunas especies aprobadas en Colombia con fines terapéuticos. En este Voces Alma Mater, dos biólogos de la UdeA exponen con bases científicas los usos de algunas plantas, formas de preparar y posologias recomendadas."
+
+author: GEOBOTA
+date: 2024-04-17
+
+categories:
+  - Alma Mater
+  - Webinar
+---
+
+![Hablemos de los usos terapéuticos y la aplicación correcta de 137 plantas reseñadas en un nuevo libro con sello UdeA.](image.jpeg){fig-align="center"}
+
+Puedes ver la grabación [aquí](https://www.facebook.com/universidaddeantioquia/videos/el-poder-medicinal-de-las-plantas/1416232965755764/).
