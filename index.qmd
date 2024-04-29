@@ -37,23 +37,17 @@ listing:
     feed: false
 ---
 
-<!-- ::: {.column-screen} -->
-<!-- ![](images/banner_index.jpg) -->
-<!-- ::: -->
+{{< include xii-ccb/index.qmd >}}
 
-<!-- :::: {.g-col-12} -->
 
-## Últimas noticias
+# Últimas noticias
 
 ::: {#news}
 :::
 
 [Ver todas las noticias](../news)
-<!-- :::: -->
 
-<!-- :::: {.g-col-12} -->
-
-## Últimas publicaciones
+# Últimas publicaciones
 
 ::: {#publications}
 :::
