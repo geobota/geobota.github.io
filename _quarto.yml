@@ -33,26 +33,36 @@ website:
     background: light
     search: true
     right:
-      - href: index.qmd
-        text: Inicio
-      - href: about/index.qmd
-        text: Acerca
-      - href: herbarium/index.qmd
-        text: Herbario
-      - href: people/index.qmd
-        text: Integrantes
-      - href: projects/index.qmd
-        text: Proyectos
-      - href: publications/index.qmd
-        text: Publicaciones
-      - href: news/index.qmd
-        text: Noticias
-      - href: https://github.com/geobota
-        text: "{{< fa brands github >}}"
-        # icon: github
-      - href: atom.xml
-        text: "{{< fa square-rss >}}"
-        # icon: rss
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Acerca"
+        href: about/index.qmd
+      - text: "Herbario"
+        href: herbarium/index.qmd
+      - text: "Integrantes"
+        href: people/index.qmd
+      - text: "Proyectos"
+        href: projects/index.qmd
+      - text: "Publicaciones"
+        href: publications/index.qmd
+      - text: "Noticias"
+        href: news/index.qmd
+      - text: "XII CCB"
+        menu:
+          - text: "XII CCB"
+            href: xii-ccb/index.qmd
+          - text: "Etnobotánica Cuantitativa en R"
+            href: https://geobota.github.io/xii-ccb-etnobotanica/
+          - text: "Introducción a la Aerobiología"
+            href: https://geobota.github.io/xii-ccb-aerobiologia/
+          - text: "Investigación Reproducible con Quarto"
+            href: https://geobota.github.io/xii-ccb-quarto/
+      - icon: github
+        # text: "{{< fa brands github >}}"
+        href: https://github.com/geobota
+      - icon: rss-fill
+        # text: "{{< fa square-rss >}}"
+        href: atom.xml
 
   sidebar:
 
