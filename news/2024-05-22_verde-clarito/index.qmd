@@ -1,0 +1,19 @@
+---
+title: "Verde Clarito: Que estamos respirando en nuestras ciudades, calidad del aire más allá de lo evidente"
+description: "Hace unos días, uno de nuestros integrantes participó en el programa radial Verde Clarito: Diálogos Ambientales de la Universidad Católica de Oriente. En este programa se hablo de aerobiología y de la calidad del aire de nuestras ciudades."
+
+author: GEOBOTA
+date: 2024-05-22
+
+image: image.jpg
+
+categories:
+  - Podcast
+  - Verde Clarito
+---
+
+![Verde Clarito: Diálogos Ambientales. Que estamos respirando en nuestras ciudades: calidad del aire más alla de lo evidente.](image.jpg){fig-align="center"}
+
+{{< youtube yp59FZ6_B8U >}}
+
+Si no puedes ver el vídeo del programa, míralo en [YouTube](https://www.youtube.com/live/yp59FZ6_B8U).
