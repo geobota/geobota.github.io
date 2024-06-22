@@ -1,0 +1,87 @@
+---
+# `title` se agrega el nombre completo o como aparezca en `publicaciones`.
+title: &title "**Mayra Alejandra Herrera-Pacheco**"
+# `subtitle` se escoge el rol correspondiente (se pueden agregar otros), se eliminan los otros.
+subtitle: "Estudiante de maestría"
+
+# `number`, `last`, `first`, sirven para ordenar en el `listing` de `people`.
+# primero por el número asignado, después por "Last-Name", seguido por "First Name"
+# Coordinador: 1, Investigador: 2, Estudiante de doctorado o maestría: 3, Estudiante de pregrado: 4
+number: 3"
+# `last` y `first`debe coincidir con lo agregado a `title`.
+last: "Herrera-Pacheco"
+first: "Mayra Alejandra"
+
+# `image` es la imagen del perfil, dimensiones 500x500 px. Se ha de quitar la #.
+image: profile.jpeg
+# `people_group` se útiliza en el `listing` de `people` para crear cada grupo
+# ha de escogerse de acuerdo al `subtitle`: "Investigador": "researcher" 
+# "Estudiante de doctorado": "gradstudent" | "Estudiante de maestría": "undergradstudent"
+# "Estudiante de pregrado": "grad"
+people_group: "gradstudent"
+# `started` y `ended`son las fechas de ingreso y salida al grupo.
+started: "2024"
+ended: "Actual"
+toc: false
+
+# `listing` para mostrar las públicaciones. Se ha de comentar (#) si no hay publicacones.
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+# `about` es la plantilla del perfil. `id` y `template` son fijos, no se cambian.
+about:
+  id: person-profile
+  template: jolla
+# `links` muestra las opciones para "Email", "CvLAC", "Google Scholar", "ORCID", "ResearchGate"
+# Se ha de descomentar (quitar #) de `links`y la opción que se desee/pueda agregar
+# Sólo se cambia la opcion `href`correspondiente por el correo o enlace adecuado.
+# La opción `text`no se modifica.
+  links:
+    - href: mailto:mayraalehpa@gmail.com
+      text: "{{< fa envelope >}} Email"
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001698968
+      text: "{{< ai cv >}} CvLAC"
+  #   - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+  #     text: "{{< ai google-scholar >}} Google Scholar"
+    - href: https://orcid.org/0009-0009-5005-0405
+      text: "{{< ai orcid >}} ORCID"
+    - href: https://www.researchgate.net/profile/Mayra-Herrera-Pacheco
+      text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+<!-- Justamente debajo de esta línea se agrega la descripción deseada. -->
+
+Mis intereses e investigaciones se centran principalmente en la taxonomía y sistemática de angiospermas, específicamente de la familia Clusiaceae. También en el uso de lenguajes de programación como R para el análisis y visualización de datos. Me interesa la difusión y divulgación enfocada a la botánica. 
+
+<!-- Se agregan los capos de educación deseados. Siguiendo los ejemplos. Los campos no utilizados se pueden comentar o eliminar. -->
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2000-actual\
+    Revisión y actualización taxonómica del Género *Arawakia* (Clusiaceae s.s.) para Colombia
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 2016-2023\
+    Estructura y composición florística de diferentes coberturas vegetales en el sector norte de la Serranía de Los Yariguíes (Santander)
+
+<!-- No es necesario agregar las públicaciones manualmente. Se genera gracias al `listing` `publications`. Se puede eliminar o comentar si no hay publicaciones.-->
+<!-- ## Publicaciones -->
+
+<!-- ::: {#publications} -->
+<!-- ::: -->
