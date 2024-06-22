@@ -57,9 +57,13 @@ website:
             href: https://geobota.github.io/xii-ccb-aerobiologia/
           - text: "Investigación Reproducible con Quarto"
             href: https://geobota.github.io/xii-ccb-quarto/
+      - icon: facebook
+        href: https://www.facebook.com/geobotaudea
       - icon: github
         # text: "{{< fa brands github >}}"
         href: https://github.com/geobota
+      - icon: instagram
+        href: https://www.instagram.com/geobotaudea/
       - icon: rss-fill
         # text: "{{< fa square-rss >}}"
         href: atom.xml
