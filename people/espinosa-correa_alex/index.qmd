@@ -47,7 +47,7 @@ about:
 :::{#person-profile}
 :::
 
-Mi investigación trata sobre el polen y esporas que se encuentran en la atmósfera (aerobiología) de la ciudad de Medellín, Colombia. Soy un apasionado de la botánica, la palinología, la educación, GIS, R, Quarto, la visualización de datos, la ciencia abierta y reproducible. 
+Mi investigación trata sobre el polen y esporas que se encuentran en la atmósfera (aerobiología) de la ciudad de Medellín, Colombia. Soy un apasionado de la botánica, la palinología, la educación, GIS, R, Quarto, la visualización de datos, la Ciencia Abierta y Reproducible, y el software libre y de código abierto (FLOSS). 
 
 ## Educación
 
