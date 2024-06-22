@@ -1,6 +1,6 @@
-# Sitio web del Grupo de Estudios Botánicos
+# Sitio web del Grupo de Estudios Botánicos GEOBOTA
 
-Bienvenido al repositorio del sitio web del **Grupo de Estudios Botánicos**, un grupo de investigación de la Facultad de Ciencias Exactas y Naturales de la Universidad de Antioquia.
+Bienvenido al repositorio del sitio web del **Grupo de Estudios Botánicos GEOBOTA**, un grupo de investigación de la Facultad de Ciencias Exactas y Naturales de la Universidad de Antioquia.
 
 ## Descripción
 
