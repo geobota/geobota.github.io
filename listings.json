@@ -23,7 +23,8 @@
       "/publications/articles/2022-01-14_murillo-serna_etal/index.html",
       "/publications/articles/2021-05-19_murillo-serna_etal/index.html",
       "/publications/articles/2021-04-12_murillo-serna_&_david-higuita/index.html",
-      "/publications/articles/2020-07-08_muscarella_etal/index.html"
+      "/publications/articles/2020-07-08_muscarella_etal/index.html",
+      "/publications/books/2019-10-21_david-higuita_etal/index.html"
     ]
   },
   {
@@ -35,6 +36,7 @@
       "/publications/articles/2022-11-22_caro-sanchez_etal/index.html",
       "/publications/articles/2022-02-06_florez-alvarez_etal/index.html",
       "/publications/articles/2022-01-24_alzate-guarin_etal/index.html",
+      "/publications/books/2021_salazar-gil_etal/index.html",
       "/publications/articles/2021-12-15_alzate-guarin_etal/index.html",
       "/publications/articles/2021-07-01_garcia-ruenes_&_alzate-guarin/index.html",
       "/publications/articles/2021-06_herrera-ramirez_etal/index.html",
@@ -80,12 +82,15 @@
       "/publications/articles/2013-09_montoya-pelaez_etal/index.html",
       "/publications/articles/2013-06_cardona-galeano_etal/index.html",
       "/publications/books/2012-04-12_alzate-guarin_etal/index.html",
+      "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html",
       "/publications/articles/2011-09-02_alzate-guarin_etal/index.html"
     ]
   },
   {
     "listing": "/people/cardona-naranjo_felipe-alfonso/index.html",
     "items": [
+      "/publications/books/2021_salazar-gil_etal/index.html",
+      "/publications/books/2019-10-21_david-higuita_etal/index.html",
       "/publications/books/2018-08-03_alzate-guarin_etal/index.html",
       "/publications/books/2017-03-24_alzate-guarin_etal/index.html"
     ]
@@ -114,7 +119,8 @@
       "/publications/articles/2021-02-01_murillo-serna_etal/index.html",
       "/publications/articles/2020-11-03_carmona-gallego_etal/index.html",
       "/publications/articles/2019-11-15_carmona-gallego_etal/index.html",
-      "/publications/articles/2014-05_roldan-palacio_&_alzate-guarin/index.html"
+      "/publications/articles/2014-05_roldan-palacio_&_alzate-guarin/index.html",
+      "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html"
     ]
   },
   {
@@ -191,9 +197,12 @@
       "/publications/articles/2013-09_montoya-pelaez_etal/index.html",
       "/publications/articles/2013-06_cardona-galeano_etal/index.html",
       "/publications/articles/2011-09-02_alzate-guarin_etal/index.html",
+      "/publications/books/2021_salazar-gil_etal/index.html",
+      "/publications/books/2019-10-21_david-higuita_etal/index.html",
       "/publications/books/2018-08-03_alzate-guarin_etal/index.html",
       "/publications/books/2017-03-24_alzate-guarin_etal/index.html",
-      "/publications/books/2012-04-12_alzate-guarin_etal/index.html"
+      "/publications/books/2012-04-12_alzate-guarin_etal/index.html",
+      "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html"
     ]
   },
   {
@@ -216,6 +225,7 @@
       "/publications/articles/2022-02-02_trujillo-lopez_etal/index.html",
       "/publications/articles/2022-01-24_alzate-guarin_etal/index.html",
       "/publications/articles/2022-01-14_murillo-serna_etal/index.html",
+      "/publications/books/2021_salazar-gil_etal/index.html",
       "/publications/articles/2021-12-15_alzate-guarin_etal/index.html",
       "/publications/articles/2021-07-01_garcia-ruenes_&_alzate-guarin/index.html",
       "/publications/articles/2021-06_herrera-ramirez_etal/index.html",
@@ -236,6 +246,7 @@
       "/publications/articles/2020-05-12_posada-herrera_etal/index.html",
       "/publications/articles/2020-02-20_alzate-guarin_&_giraldo-gomez/index.html",
       "/publications/articles/2019-11-15_carmona-gallego_etal/index.html",
+      "/publications/books/2019-10-21_david-higuita_etal/index.html",
       "/publications/articles/2019-09-05_sarrazola-yepes_&_alzate-guarin/index.html",
       "/publications/articles/2019-06-15_alzate-guarin_etal/index.html",
       "/publications/articles/2019-02-01_murillo-serna_etal/index.html",
@@ -266,6 +277,7 @@
       "/publications/articles/2013-09_montoya-pelaez_etal/index.html",
       "/publications/articles/2013-06_cardona-galeano_etal/index.html",
       "/publications/books/2012-04-12_alzate-guarin_etal/index.html",
+      "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html",
       "/publications/articles/2011-09-02_alzate-guarin_etal/index.html",
       "/news/2024-06-11_celebracion-oceanos/index.html",
       "/news/2024-05-22_verde-clarito/index.html",
@@ -324,6 +336,7 @@
       "/publications/articles/2020-12-31_murillo-serna_etal/index.html",
       "/publications/articles/2020-11-03_carmona-gallego_etal/index.html",
       "/publications/articles/2019-11-15_carmona-gallego_etal/index.html",
+      "/publications/books/2019-10-21_david-higuita_etal/index.html",
       "/publications/articles/2019-02-01_murillo-serna_etal/index.html",
       "/publications/articles/2018-12_murillo-serna_etal/index.html",
       "/publications/articles/2018-01-01_carmona-gallego_etal/index.html",
@@ -424,7 +437,8 @@
   {
     "listing": "/people/fonnegra-gomez_ramiro/index.html",
     "items": [
-      "/publications/articles/2015-03_alzate-guarin_etal/index.html"
+      "/publications/articles/2015-03_alzate-guarin_etal/index.html",
+      "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html"
     ]
   },
   {
