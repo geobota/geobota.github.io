@@ -1,5 +1,5 @@
 ---
-title: "“All Within the Same Thought”: Embera People Relations with Sacred Places in Polines and Yaberaradó Reservations in Chigorodó (Antioquia)"
+title: "“All within the same thought”: embera people relations with sacred places in Polines and Waberaradó reservations in Chigorodó (Antioquia)"
 type: "article"
 author:
   - name: Javier Rosique-Gracia
@@ -33,4 +33,4 @@ The spiritual and environmental importance of the sacred places at the headwater
 
 ## Citation
 
-> Rosique-García, J., Gálvez-Abadía, A., Turbay, S., Domicó, N., Domicó, A., Chavarí, P., Domicó, J., Alzate-Guarin, F. A., Navarro, J. F., & Rojas-Mora, S. (2020). “All Within the Same Thought”: Embera People Relations with Sacred Places in Polines and Yaberaradó Reservations in Chigorodó (Antioquia). *Tabula Rasa*. https://doi.org/10.25058/20112742.n36.08
+> Rosique-García, J., Gálvez-Abadía, A., Turbay, S., Domicó, N., Domicó, A., Chavarí, P., Domicó, J., Alzate-Guarin, F. A., Navarro, J. F., & Rojas-Mora, S. (2020). “All within the same thought”: embera people relations with sacred places in Polines and Waberaradó reservations in Chigorodó (Antioquia). *Tabula Rasa*. https://doi.org/10.25058/20112742.n36.08

@@ -1,5 +1,5 @@
 ---
-title: "A New Species of <i>Zanthoxylum</i> (Rutaceae) from Colombia and Brazil"
+title: "A new species of <i>Zanthoxylum</i> (Rutaceae) from Colombia and Brazil"
 type: "article"
 author:
   - name: Carlos Reynel-Rodríguez
@@ -28,4 +28,4 @@ A new species of *Zanthoxylum* L. (Rutaceae) from Colombia and Brazil is describ
 
 ## Citation
 
-> Reynel-Rodríguez, C., & Londoño-Echeverri, Y. (2023). A New Species of *Zanthoxylum* (Rutaceae) from Colombia and Brazil. *Novon, A Journal for Botanical Nomenclature*, 31, 114–117. https://doi.org/10.3417/2023838
+> Reynel-Rodríguez, C., & Londoño-Echeverri, Y. (2023). A new species of *Zanthoxylum* (Rutaceae) from Colombia and Brazil. *Novon, A Journal for Botanical Nomenclature*, 31, 114–117. https://doi.org/10.3417/2023838

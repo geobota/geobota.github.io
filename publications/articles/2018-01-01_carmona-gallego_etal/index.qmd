@@ -1,5 +1,5 @@
 ---
-title: "Comparative leaf anatomy of three species of <i>Furcraea</i> (Asparagaceae: Agavoideae)"
+title: "Comparative leaf anatomy of <i>Gaiadendron punctatum</i> and <i>Tripodanthus belmirensis</i> (Loranthaceae)"
 type: "article"
 author:
   - name: "**Isabel Carmona-Gallego**"
@@ -31,4 +31,4 @@ Leaf anatomy of *Gaiadendron punctatum* and *Tripodanthus belmirensis* species i
 
 ## Citation
 
-> Carmona-Gallego, I., Murillo-Serna, J. S., Rincón-Barón, E. J., & Alzate-Guarín, F. A. (2018). Comparative Leaf Anatomy of *Gaiadendron punctatum* and *Tripodanthus belmirensis* (LORANTHACEAE). *Acta Biológica Colombiana*, 23(1), 66–72. https://doi.org/10.15446/abc.v23n1.66598
+> Carmona-Gallego, I., Murillo-Serna, J. S., Rincón-Barón, E. J., & Alzate-Guarín, F. A. (2018). Comparative leaf anatomy of *Gaiadendron punctatum* and *Tripodanthus belmirensis* (Loranthaceae). *Acta Biológica Colombiana*, 23(1), 66–72. https://doi.org/10.15446/abc.v23n1.66598

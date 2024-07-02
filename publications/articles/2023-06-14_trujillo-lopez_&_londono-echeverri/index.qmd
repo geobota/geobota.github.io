@@ -1,5 +1,5 @@
 ---
-title: "New and Noteworthy Records of Angiosperms from Pacific Biogeographical Region at Department of Chocó in Colombia, Including Four New Records for the Country"
+title: "New and noteworthy records of Angiosperms from Pacific Biogeographical Region at department of Chocó in Colombia, including four new records for the country"
 type: "article"
 author:
   - name: "**Ana María Trujillo-López**"
@@ -28,4 +28,4 @@ Six new or noteworthy records of Angiosperms from Colombia are presented based i
 
 ## Citation
 
-> Trujillo-López, A. M., & Londoño-Echeverri, Y. (2023). New and Noteworthy Records of Angiosperms from Pacific Biogeographical Region at Department of Chocó in Colombia, Including Four New Records for the Country. *Asian Plant Research Journal*, 11(3), 41–56. https://doi.org/10.9734/aprj/2023/v11i3214
+> Trujillo-López, A. M., & Londoño-Echeverri, Y. (2023). New and noteworthy records of Angiosperms from Pacific Biogeographical Region at department of Chocó in Colombia, including four new records for the country. *Asian Plant Research Journal*, 11(3), 41–56. https://doi.org/10.9734/aprj/2023/v11i3214
