@@ -1,5 +1,6 @@
 ---
 title: "Memorias Primer Simposio Colombiano en Sistemática y Evolución de Plantas"
+type: "book"
 author:
   - name: "**Fernando Alveiro Alzate-Guarin**"
     orcid: 0000-0002-4916-8897
@@ -11,6 +12,7 @@ year: 2017
 date: 2017-03-24
 publication: "Universidad de Antioquia"
 # doi: https:
+# isbn: 
 # materials: 
 
 categories:

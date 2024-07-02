@@ -1,0 +1,42 @@
+---
+title: "Flora de los bosques montanos de Medellín"
+type: "book"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Álvaro Idárraga-Piedrahíta**"
+    orcid: 0000-0002-4823-8849
+  - name: "Oswaldo Díaz-Vasco"
+  - name: "Wilson Rodríguez-Duque"
+year: 2012
+date: 2012-04-12
+publication: "Universidad de Antioquia"
+# doi: https://doi.org/
+isbn: 978-958-8748-52-8
+# materials: ""
+
+categories:
+  - Guía de campo # Informe técnico, Guía de campo, Manual, Memorias, etc.
+---
+
+## Abstract
+
+En un contundente pero poco circulado artículo, del biólogo Nigel Collar publicado en el año 2003, notaba que el mayor obstáculo para la conservación de la biodiversidad radica en la pobre apreciación del ser humano como miembro de esa biodiversidad, como producto de la evolución, y en consecuencia ignora que históricamente está ligado a otros organismos en el planeta.
+
+Informar sobre organismos vivientes resaltando lo que son, no es fácil, la mayoría justifica leer algo sobre la naturaleza con la expectativa de encontrar algo de utilidad, alguna información que sirva para un futuro uso particular. Las guías de campo deben ser elaboradas pensando, en producir asombro, admiración, curiosidad, en celebrar la vida por lo que es, no por lo que debe ser.
+
+La guía presentada, adorna sus páginas con la flora de la región denominada Arví-Arova, remanentes de una flora hoy casi desaparecida, relictos de bosques, especies en peligro de extinción que es factible por última vez se presentan a esta generación. Los autores y editores han hecho un notable esfuerzo en adornar el libro con esta muy impactante flora y no al contrario, son las plantas y no los autores los protagonistas del libro.
+
+El lector habrá de encontrar, si su capacidad de asombro está intacta, que cada especie se debe leer con el espíritu gracias a que se acicala de manera grafica y escrita, con lujo de detalles. Es el documento gráfico de los bosques montanos de Antioquia más completo jamás publicado, muchas especies aquí presentadas son conocidas de unos pocos individuos, otras son más comunes, pero no menos sorprendentes, y otras, casi antes desconocidas, todas en extremo bellas y protagónicas.
+
+Construir guías de campo como la aquí presentada toma una considerable cantidad de esfuerzo, de paciencia y de colaboración, es el fruto de un trabajo mancomunado de miembros de comunidades, investigadores y académicos pero también de entes gubernamentales, todos ellos conscientes de la enorme responsabilidad que nos cabe a todos de dar a conocer e informar sobre nuestra biodiversidad.
+
+La guía fue pensada para que el lector mediante una visita a los bosques de la región tenga información de primera mano que lo familiarice con las diferentes especies, sus características más sobresalientes, su distribución, nombres comunes y usos, y que descubra lo que antes sus ojos no habían visto. El lector debe reflexionar entonces si se justifica erradicar toda esa expresión de vida en nuestro maltrecho planeta.
+
+*Ricardo Callejas Posada*
+
+## Citation
+
+> Alzate-Guarin, F. A., Idárraga-Piedrahíta, Á., Díaz-Vasco, O., & Rodríguez-Duque, W. (2012). *Flora de los bosques montanos de Medellín*. Universidad de Antioquia.
+
+<!-- ## [Download {{< fa file-pdf >}}](https://geobota.github.io) -->

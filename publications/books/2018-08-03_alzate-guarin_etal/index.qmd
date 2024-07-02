@@ -1,0 +1,29 @@
+---
+title: "Memorias Segundo Simposio Colombiano en Sistemática y Evolución de Plantas"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Isabel Carmona-Gallego**"
+    orcid: 0000-0001-8954-4503
+  - name: "**Felipe Alfonso Cardona-Naranjo**"
+    orcid: 0009-0008-6232-7371
+year: 2018
+date: 2018-08-04
+publication: "Universidad de Antioquia"
+# doi: https:
+# isbn: 
+# materials: 
+
+categories:
+  - Memorias
+---
+
+<!-- ## Abstract -->
+
+
+
+## Citation
+
+> Alzate-Guarin, F. A., Carmona-Gallego, I., & Cardona-Naranjo, F. A. (Eds.). (2018). *Memorias Segundo Simposio Colombiano en Sistemática y Evolución de Plantas*. Universidad de Antioquia. http://geobota.github.io/publications/books/2017-08-03_alzate-guarin_etal/
+
+## [Download {{< fa file-pdf >}}](/resources/books/memorias_segundo-simposio-colombiano-sistematica-evolucion-plantas.pdf)
