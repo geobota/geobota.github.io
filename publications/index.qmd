@@ -3,7 +3,7 @@ pagetitle: "Publicaciones"
 title: "Publicaciones"
 title-block-banner: ../images/banner_publications.jpg
 title-block-banner-color: "#212529"
-toc: false
+toc: true
 
 listing:
   - id: articles
@@ -17,7 +17,7 @@ listing:
       - "author"
       - "title"
     sort-ui: [title, author, publication, year]
-    filter-ui: [title, author, publication, year]
+    # filter-ui: [title, author, publication, year]
     image-align: left
     page-size: 10
     field-display-names:
@@ -25,7 +25,7 @@ listing:
       year: "Year"
   - id: books
     type: default
-    fields: [title, description, publication, date, author]
+    fields: [title, description, publication, year, author]
     contents: "books/**/index.qmd"
     #template: ./ejs/article.ejs
     categories: false
@@ -34,7 +34,7 @@ listing:
       - "author"
       - "title"
     sort-ui: [title, author, publication, year]
-    filter-ui: [title, author, publication, year]
+    # filter-ui: [title, author, publication, year]
     image-align: left
     page-size: 10
     field-display-names:
@@ -42,12 +42,16 @@ listing:
       year: "Year"
 ---
 
-## Artículos {#sec-articles}
+# Artículos {#sec-articles}
+
+***
 
 ::: {#articles}
 :::
 
-## Libros {#sec-books}
+# Libros {#sec-books}
+
+***
 
 ::: {#books}
 :::

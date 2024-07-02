@@ -59,11 +59,11 @@ website:
             href: https://geobota.github.io/xii-ccb-quarto/
       - icon: facebook
         href: https://www.facebook.com/geobotaudea
+      - icon: instagram
+        href: https://www.instagram.com/geobotaudea/
       - icon: github
         # text: "{{< fa brands github >}}"
         href: https://github.com/geobota
-      - icon: instagram
-        href: https://www.instagram.com/geobotaudea/
       - icon: rss-fill
         # text: "{{< fa square-rss >}}"
         href: atom.xml
@@ -106,6 +106,10 @@ website:
               href: publications/index.qmd#articles
               contents:
               - auto: publications/articles/**/index.qmd
+            - section: Books
+              href: publications/index.qmd#books
+              contents:
+              - auto: publications/books/**/index.qmd
 
     - id: news
       contents:
@@ -125,3 +129,4 @@ format:
 
 resources:
   - images/logo/placeholder.png
+  - resources

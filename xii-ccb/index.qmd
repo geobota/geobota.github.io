@@ -1,6 +1,6 @@
 ---
-pagetitle: "XII Congreso Colombiano de Botánica"
-# title: "XII Congreso Colombiano de Botánica"
+# pagetitle: "XII Congreso Colombiano de Botánica"
+title: "XII Congreso Colombiano de Botánica"
 # title-block-banner: ../images/banner_about.jpg
 # title-block-banner-color: "#FFFFFF"
 toc: false
