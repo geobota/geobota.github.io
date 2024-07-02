@@ -37,6 +37,6 @@ La guía fue pensada para que el lector mediante una visita a los bosques de la 
 
 ## Citation
 
-> Alzate-Guarin, F. A., Idárraga-Piedrahíta, Á., Díaz-Vasco, O., & Rodríguez-Duque, W. (2012). *Flora de los bosques montanos de Medellín*. Universidad de Antioquia.
+> Alzate-Guarin, F. A., Idárraga-Piedrahíta, Á., Díaz-Vasco, O., & Rodríguez-Duque, W. (2012). *Flora de los bosques montanos de Medellín*. Universidad de Antioquia. https://www.udea.edu.co/wps/wcm/connect/udea/7e2366b5-36c0-48cb-b86c-c9a389964a12/Flora+de+los+bosques+montanos+de+Medellin_compressed_reduce-comprimido.pdf?MOD=AJPERES&CVID=mMKuMTF
 
-<!-- ## [Download {{< fa file-pdf >}}](https://geobota.github.io) -->
+## [Download {{< fa file-pdf >}}](https://www.udea.edu.co/wps/wcm/connect/udea/7e2366b5-36c0-48cb-b86c-c9a389964a12/Flora+de+los+bosques+montanos+de+Medellin_compressed_reduce-comprimido.pdf?MOD=AJPERES&CVID=mMKuMTF)
