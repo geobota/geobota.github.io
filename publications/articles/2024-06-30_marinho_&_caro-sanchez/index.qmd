@@ -1,0 +1,26 @@
+---
+title: "<i>Clusia aequatoriensis</i>, a new comination based on <i>Tovomita aequatoriensis</i> (Clusiaceae)"
+type: "article"
+author:
+  - name: "Lucas Cardoso Marinho"
+  - name: "**Angy Vanesa Caro-Sánchez**"
+    orcid: 0000-0001-8751-7931
+
+year: 2024
+date: 2024-06-30
+publication: "Harvard Papers in Botany"
+doi: https://doi.org/10.3100/hpib.v29iss1.2024.n13
+materials: ""
+
+# categories:
+#   - Palabras
+#   - Claves
+---
+
+## Abstract
+
+During the investigation of some taxa of Clusiaceae from the Andean region, as part of the taxonomic review of *Tovomita* Aubl. by the senior author and the review of *Chrysochlamys* Poepp. from Colombia by the junior author, we found that the type collection of *Tovomita aequatoriensis* Benoist, consisting of at least two isosyntypes, does not exhibit a few critical characters of the genus. Although it is hard to determine the identity of the members of the sections of *Clusia* in the absence of staminate flowers, we assert that the leaf venation and coloration, the 5-carpellate ovary with thick and angular stigmas emerging from short styles, and the Andean distribution are indicative of the fact that the species *T. aequatoriensis* belongs to *Clusia* sect. *Anandrogyne* Planch. & Triana. Therefore, we transfer T. aequatoriensis to the genus Clusia, and we herewith propose the new combination *Clusia aequatoriensis* (Benoist) L. Marinho & A. Caro.
+
+## Citation
+
+> Marinho, L. C., & Caro-Sánchez, A. V. (2024). *Clusia aequatoriensis*, a new comination based on *Tovomita aequatoriensis* (Clusiaceae). *Harvard Papers in Botany*, 29(1), 119-120. https://doi.org/10.3100/hpib.v29iss1.2024.n13
