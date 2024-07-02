@@ -29,6 +29,6 @@ El simposio contó con una nutrida participación de asistentes de diferentes ci
 
 ## Citation
 
-> Alzate-Guarin, F. A., Carmona-Gallego, I., & Cardona-Naranjo, F. A. (Eds.). (2017). *Memorias Primer Simposio Colombiano en Sistemática y Evolución de Plantas*. Universidad de Antioquia.
+> Alzate-Guarin, F. A., Carmona-Gallego, I., & Cardona-Naranjo, F. A. (Eds.). (2017). *Memorias Primer Simposio Colombiano en Sistemática y Evolución de Plantas*. Universidad de Antioquia. http://geobota.github.io/publications/books/2017-03-24_alzate-guarin_etal/
 
 ## [Download {{< fa file-pdf >}}](/resources/books/memorias_primer-simposio-colombiano-sistematica-evolucion-plantas.pdf)
