@@ -1,0 +1,32 @@
+---
+title: "Etnobotánica de las comunidades campesinas: área de influencia de los embalses Porce II y Porce III"
+author:
+  - name: "Natalia Andrea Salazar-Gíl"
+  - name: "**Felipe Alfonso Cardona-Naranjo**"
+    orcid: 0009-0008-6232-7371
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2021
+date: 2021-12-31
+publication: "EPM, Universidad de Antioquia"
+# doi: https:
+# isbn: 
+# materials: 
+
+categories:
+  - Guía de campo
+---
+
+## Abstract
+
+Los usos dados a las plantas han constituido importantes recursos en la vida cotidiana de muchas comunidades, sin embargo su transferencia y valoración ha disminuido en las últimas décadas.
+
+Con el fin de documentar dichos saberes tradicionales en las veredas ubicadas en el área de influencia de las centrales hidroeléctricas Porce II y Porce III de EPM, entre agosto de 2019 y febrero de 2020 se llevaron a cabo entrevistas semiestructuradas con 29 personas reconocidas por la comunidad como conocedores de los usos de las plantas, en medio de las cuales se realizaron colecciones y registros fotográficos de las especies mencionadas para realizar su determinación taxonómica en el herbario de la Universidad de Antioquia. Se registraron 111 especies pertenecientes a 53 familias y 97 géneros, para usos principalmente medicinales, seguidos por tecnología, alimento, construcción, colorantes, artesanales y agropecuarios.
+
+Adicionalmente por medio de la metodología de sumatoria de usos se observó que las especies con mayor valor de uso fueron la guayaba (Psidium guajava L.) y el algarrobo (Hymenaea courbaril L.), además de otras especies que a largo de la historia han sido reportadas en numerosos estudios con usos similares, algunos de los cuales han llevado al estudio de sus propiedades químicas y biológicas. Se concluye que la documentación etnobotánica y su estudio multidisciplinar, refleja las relaciones de las comunidades con las plantas y contribuye a la gestión y conservación de la diversidad biológica y cultural, la divulgación de los saberes tradicionales y valoración de la biodiversidad.
+
+## Citation
+
+> Salazar-Gíl, N. A., Cardona-Naranjo, F. A., & Alzate-Guarin, F. A. (2021). *Etnobotánica de las comunidades campesinas: Área de influencia de los embalses Porce II y Porce III*. EPM, Universidad de Antioquia.
+
+## [Download {{< fa file-pdf >}}](https://www.udea.edu.co/wps/wcm/connect/udea/f6a4d444-b822-49ca-87bd-ccbb735aef45/CartillaEtnobotanica_Hoja_02032022_compressed.pdf?MOD=AJPERES&CVID=nZgwGUC)

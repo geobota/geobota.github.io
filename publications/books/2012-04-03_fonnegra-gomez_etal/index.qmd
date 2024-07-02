@@ -1,0 +1,39 @@
+---
+title: "Medicina tradicional en los corregimientos de Medellín: historias de vidas y plantas"
+type: "book"
+author:
+  - name: "**Ramiro Fonnegra-Gómez**"
+    orcid: 0000-0002-8218-8136
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "Carlos Orozco-Castañeda"
+  - name: "Carlos Vásquez-Londoño"
+  - name: "Adolfo Correa-Silva"
+  - name: "Jorge Suárez-Quirós"
+  - name: "Valeria García-López"
+  - name: "**Francisco Javier Roldán-Palacio**"
+    orcid: 0000-0001-9241-9551
+  - name: "Carlos Vasco-Correa"
+year: 2012
+date: 2012-04-03
+publication: "Universidad de Antioquia"
+# doi: https://doi.org/
+isbn: 978-958-8748-53-5
+# materials: ""
+
+categories:
+  - Guía de campo # Informe técnico, Guía de campo, Manual, Memorias, etc.
+---
+
+## Abstract
+
+El programa de estudios “Expedición Antioquia, 2013”, propuesto por las instituciones académicas del departamento de Antioquia, especialmente la Universidad de Antioquia y los entes gubernamentales regionales, se ha enfocado en identificar e inventariar los recursos materiales e inmateriales con que cuenta el departamento.
+
+Dentro de este programa de investigación, la Universidad de Antioquia y la Alcaldía de Medellín, unieron esfuerzos para realizar el “Estudio de saberes populares y sus portadores en medicina tradicional en los cinco corregimientos de la ciudad de Medellín: valoración cultural y potenciación de usos comerciales”. Esta investigación se dedico a inventariar los conocimientos, las percepciones, conceptos locales y estado actual de los saberes populares, en torno a la medicina tradicional y a sus aproximaciones populares en los cinco corregimientos del Municipio de Medellín.
+
+## Citation
+
+> Fonnegra-Gómez, R., Alzate-Guarin, F. A., Orozco-Castañeda, C., Vásquez-Londoño, C., Correa-Silva, A., Suárez-Quirós, J., García-López, V., Roldán-Palacio, F. J., & Vasco-Correa, C. (2012). *Medicina tradicional en los corregimientos de Medellín: Historias de vidas y plantas*. Universidad de Antioquia. https://www.udea.edu.co/wps/wcm/connect/udea/6d319bcc-0d6e-48c5-bcf1-de46bf8ea270/Medicina+tradicional+en+los+corregimientos+de+Medellin.pdf?MOD=AJPERES&CVID=mPTwVZu
+
+
+## [Download {{< fa file-pdf >}}](https://www.udea.edu.co/wps/wcm/connect/udea/6d319bcc-0d6e-48c5-bcf1-de46bf8ea270/Medicina+tradicional+en+los+corregimientos+de+Medellin.pdf?MOD=AJPERES&CVID=mPTwVZu)

@@ -1,0 +1,31 @@
+---
+title: "HUA Herbario Universidad de Antioquia: 50 años documentando algas, hongos y plantas de Colombia"
+author:
+  - name: "**Heriberto Antonio David-Higuita**"
+    orcid: 0000-0002-2430-2973
+  - name: "**Felipe Alfonso Cardona-Naranjo**"
+    orcid: 0009-0008-6232-7371
+  - name: "Ana Marcela Calderón-Arias"
+  - name: "Yeny María Martínez-Figueroa"
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+year: 2019
+date: 2019-10-21
+publication: "Universidad de Antioquia"
+# doi: https:
+# isbn: 
+# materials: 
+
+categories:
+  - General
+---
+
+<!-- ## Abstract -->
+
+
+
+## Citation
+
+> David-Higuita, H. A., Cardona-Naranjo, F. A., Calderón-Arias, A. M., Martínez-Figueroa, Y. M., & Murillo-Serna, J. S. (2019). *HUA Herbario Universidad de Antioquia: 50 años documentando algas, hongos y plantas de Colombia*. Universidad de Antioquia. https://www.udea.edu.co/wps/wcm/connect/udea/05ca142e-cbae-4318-90d7-04660cec3738/herbario_final_50_años_compressed.pdf?MOD=AJPERES&CVID=obRbQpa
+
+## [Download {{< fa file-pdf >}}](https://www.udea.edu.co/wps/wcm/connect/udea/05ca142e-cbae-4318-90d7-04660cec3738/herbario_final_50_años_compressed.pdf?MOD=AJPERES&CVID=obRbQpa)
