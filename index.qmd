@@ -39,7 +39,6 @@ listing:
 
 {{< include xii-ccb/index.qmd >}}
 
-
 # Últimas noticias
 
 ::: {#news}
