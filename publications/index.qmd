@@ -19,7 +19,24 @@ listing:
     sort-ui: [title, author, publication, year]
     filter-ui: [title, author, publication, year]
     image-align: left
-    page-size: 12
+    page-size: 10
+    field-display-names:
+      publication: "Publication"
+      year: "Year"
+  - id: books
+    type: default
+    fields: [title, description, publication, date, author]
+    contents: "books/**/index.qmd"
+    #template: ./ejs/article.ejs
+    categories: false
+    sort:
+      - "date desc"
+      - "author"
+      - "title"
+    sort-ui: [title, author, publication, year]
+    filter-ui: [title, author, publication, year]
+    image-align: left
+    page-size: 10
     field-display-names:
       publication: "Publication"
       year: "Year"
@@ -27,5 +44,10 @@ listing:
 
 ## Artículos {#sec-articles}
 
-:::{#articles}
+::: {#articles}
+:::
+
+## Libros {#sec-books}
+
+::: {#books}
 :::
