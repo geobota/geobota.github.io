@@ -58,6 +58,7 @@
       "/publications/articles/2018-01-01_carmona-gallego_etal/index.html",
       "/publications/articles/2017-10-17_cortes-rendon_etal/index.html",
       "/publications/articles/2017-09-19_rincon-baron_etal/index.html",
+      "/publications/books/2017-03-24_alzate-guarin_etal/index.html",
       "/publications/articles/2017-02-02_perez_etal/index.html",
       "/publications/articles/2016-09-30_alzate-guarin_&_murillo-serna/index.html",
       "/publications/articles/2016-08-30_alzate-guarin/index.html",
@@ -82,7 +83,9 @@
   },
   {
     "listing": "/people/cardona-naranjo_felipe-alfonso/index.html",
-    "items": []
+    "items": [
+      "/publications/books/2017-03-24_alzate-guarin_etal/index.html"
+    ]
   },
   {
     "listing": "/people/perez-uribe_david/index.html",
@@ -183,7 +186,8 @@
       "/publications/articles/2014-01-20_rincon-baron_etal/index.html",
       "/publications/articles/2013-09_montoya-pelaez_etal/index.html",
       "/publications/articles/2013-06_cardona-galeano_etal/index.html",
-      "/publications/articles/2011-09-02_alzate-guarin_etal/index.html"
+      "/publications/articles/2011-09-02_alzate-guarin_etal/index.html",
+      "/publications/books/2017-03-24_alzate-guarin_etal/index.html"
     ]
   },
   {
@@ -233,6 +237,7 @@
       "/publications/articles/2018-01-01_carmona-gallego_etal/index.html",
       "/publications/articles/2017-10-17_cortes-rendon_etal/index.html",
       "/publications/articles/2017-09-19_rincon-baron_etal/index.html",
+      "/publications/books/2017-03-24_alzate-guarin_etal/index.html",
       "/publications/articles/2017-02-02_perez_etal/index.html",
       "/publications/articles/2016-09-30_alzate-guarin_&_murillo-serna/index.html",
       "/publications/articles/2016-08-30_alzate-guarin/index.html",
@@ -330,7 +335,8 @@
       "/publications/articles/2021-12-07_carmona-gallego_etal/index.html",
       "/publications/articles/2020-11-03_carmona-gallego_etal/index.html",
       "/publications/articles/2019-11-15_carmona-gallego_etal/index.html",
-      "/publications/articles/2018-01-01_carmona-gallego_etal/index.html"
+      "/publications/articles/2018-01-01_carmona-gallego_etal/index.html",
+      "/publications/books/2017-03-24_alzate-guarin_etal/index.html"
     ]
   },
   {
