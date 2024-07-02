@@ -125,6 +125,7 @@ website:
 format:
   html:
     theme: cosmo
+    css: styles.scss
     toc: false
 
 resources:
