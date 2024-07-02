@@ -1,0 +1,34 @@
+---
+title: "Memorias Primer Simposio Colombiano en Sistemática y Evolución de Plantas"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Isabel Carmona-Gallego**"
+    orcid: 0000-0001-8954-4503
+  - name: "**Felipe Alfonso Cardona-Naranjo**"
+    orcid: 0009-0008-6232-7371
+year: 2017
+date: 2017-03-24
+publication: "Universidad de Antioquia"
+# doi: https:
+# materials: 
+
+categories:
+  - Memorias
+---
+
+## Abstract
+
+La sistemática de plantas como un área de la biología busca esclarecer las relaciones y la historia evolutiva de estos organismos. Con esta finalidad recurre a diferentes disciplinas y áreas tanto biológicas cómo alternas que permitan elucidar la evolución y las relaciones biológicas. Considerando que en la sistemática confluyen una amplia cantidad de áreas, herramientas y paradigmas, se constituye en una ciencia de síntesis que se aprovecha de múltiples fuentes de datos y aproximaciones.
+
+Enmarcado en este amplio panorama se propuso establecer un espacio científico donde se divulgará el trabajo que realizan los investigadores colombianos ocupados en esta apasionante tarea y que facilitara así mismo la interacción entre los taxónomos nacionales y los científicos internacionales invitados de reconocida trayectoria.
+
+En esta oportunidad se presentaron 23 ponencias y 4 conferencias magistrales, en temas muy variados referentes a la sistemática y evolución de plantas. Los invitados internacionales estuvieron representados por los doctores Susana Magallón del Instituto de Biología de la Universidad Nacional Autónoma de México, John Kress del Departamento de Botánica del museo Smithsonian, Michael Donoghue del Departamento de Ecología y Biología Evolutiva la Universidad de Yale y Peter Stevens del Jardín Botánico de Saint Louis Missouri.
+
+El simposio contó con una nutrida participación de asistentes de diferentes ciudades e instituciones, lo cual favoreció la diversidad de contenidos temáticos presentados. El simposio pudo ser realizado gracias a la participación de instituciones y personas, sin cuya colaboración hubiera sido imposible llevar a cabo. Queremos expresar nuestro agradecimiento a la Facultad de Ciencias, Exactas y Naturales, así como al Instituto de Biología de la Universidad de Antioquia, a la Asociación Colombiana de Herbarios (ACH), al Instituto de Investigaciones Biológicas Alexander von Humboldt y a un amplio número de colaboradores del Herbario de la Universidad de Antioquia y del Grupo de Estudios Botánicos
+
+## Citation
+
+> Alzate-Guarin, F. A., Carmona-Gallego, I., & Cardona-Naranjo, F. A. (Eds.). (2017). *Memorias Primer Simposio Colombiano en Sistemática y Evolución de Plantas*. Universidad de Antioquia.
+
+## [Download {{< fa file-pdf >}}](/resources/books/memorias_primer-simposio-colombiano-sistematica-evolucion-plantas.pdf)
