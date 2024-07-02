@@ -8,7 +8,7 @@ author:
   - name: "**Felipe Alfonso Cardona-Naranjo**"
     orcid: 0009-0008-6232-7371
 year: 2018
-date: 2018-08-04
+date: 2018-08-03
 publication: "Universidad de Antioquia"
 # doi: https:
 # isbn: 
