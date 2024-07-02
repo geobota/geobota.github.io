@@ -1,5 +1,5 @@
 ---
-title: "Novelties in <i>Macrolobium</i> (Detarioideae, Fabaceae) for Northern South America: Two new species and new chorological records from Colombia and Ecuador"
+title: "Novelties in <i>Macrolobium</i> (Detarioideae, Fabaceae) for Northern South America: two new species and new chorological records from Colombia and Ecuador"
 type: "article"
 author:
   - name: "**Ana María Trujillo-López**"
@@ -29,4 +29,4 @@ Two new species from Colombia are described and illustrated, *Macrolobium cerife
 
 ## Citation
 
-> Trujillo-López, A. M., & Londoño-Echeverri, Y. (2023). Novelties in *Macrolobium* (Detarioideae, Fabaceae) for Northern South America: Two new species and new chorological records from Colombia and Ecuador. *Phytotaxa*, 599(3), 155–170. https://doi.org/10.11646/phytotaxa.599.3.3
+> Trujillo-López, A. M., & Londoño-Echeverri, Y. (2023). Novelties in *Macrolobium* (Detarioideae, Fabaceae) for Northern South America: two new species and new chorological records from Colombia and Ecuador. *Phytotaxa*, 599(3), 155–170. https://doi.org/10.11646/phytotaxa.599.3.3
