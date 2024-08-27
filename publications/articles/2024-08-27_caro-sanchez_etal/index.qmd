@@ -1,0 +1,32 @@
+---
+title: "Miscellaneous nomenclatural notes on Andean <i>Chrysochlamys</i> (Clusiaceae: Clusieae)"
+type: "article"
+author:
+  - name: "**Angy Vanesa Caro-Sánchez**"
+    orcid: 0000-0001-8751-7931
+  - name: "Lucas Cardoso Marinho"
+  - name: "Álvaro Idárraga-Piedrahíta"
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2024
+date: 2024-08-27
+publication: "Phytotaxa"
+doi: https://doi.org/10.11646/phytotaxa.663.4.4
+materials: ""
+
+categories:
+  - Balboa
+  - Andean species
+  - Lectotypifications
+  - Tovomita
+  - Tovomitopsis
+  - Eudicots
+---
+
+## Abstract
+
+*Chrysochlamys* (Clusiaceae) is a strictly Neotropical genus that comprises between 35 and 55 species. The taxonomy of the genus is poorly-known in South American region, especially in Andean countries. During the taxonomic revision of *Chrysochlamys* and related genera in Colombia we observed two mainly gaps: the unclear nomenclatural history of Andean *Chrysochlamys* and the necessity of lectotypification of some species published by Pax, Poeppig, Planchon and Triana. To solve both issues, we provide a *Chrysochlamys* nomenclatural history summary and reduce nomenclatural ambiguities on a few Andean flora. For this, we carried out an exhaustive analysis of *Chrysochlamys* and related genera type collections and protologues. We propose a new combination, *Chrysochlamys microcarpa* comb. nov., originally published in *Tovomita*, designated six lectotypes, propose a numbering for three Triana’s type collections, and discuss a case of inadvertent lectotypification. This paper provides relevant information about problematic or understudied *Chrysochlamys* species, which will be useful for subsequent taxonomic studies.
+
+## Citation
+
+> Caro-Sánchez, A. V., Marinho, L. C., Idárraga-Piedrahíta, Á., & Alzate-Guarín, F. A. (2024). Miscellaneous nomenclatural notes on Andean *Chrysochlamys* (Clusiaceae: Clusieae). *Phytotaxa*, 663(4), 221–230. https://doi.org/10.11646/phytotaxa.663.4.4
