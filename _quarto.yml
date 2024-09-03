@@ -120,7 +120,7 @@ website:
 
   page-footer: 
     left: GEOBOTA © 2024 is licensed under [CC BY 4.0 {{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}}](https://creativecommons.org/licenses/by/4.0/)
-    right: Made by [@alexespinocaco](https://alexespinosaco.github.io) with {{< fa brands r-project >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
+    right: Made by [@alexespinosaco](https://alexespinosaco.github.io) with {{< fa brands r-project >}} and [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/)
 
 format:
   html:
