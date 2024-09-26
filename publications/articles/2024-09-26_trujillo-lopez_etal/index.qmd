@@ -1,0 +1,33 @@
+---
+title: "<i>Dahlstedtia colombiana</i> (Millettieae, Papilionoideae, Fabaceae), a new species and first record of the genus from Colombia and its Seasonally Tropical Dry Forest"
+type: "article"
+author:
+  - name: "**Ana María Trujillo-López**"
+    orcid: 0000-0002-0898-1646
+  - name: "William Ariza-Cortés"
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+year: 2024
+date: 2023-09-26
+publication: Phytotaxa
+doi: https://doi.org/10.11646/phytotaxa.666.1.3
+materials: ""
+
+categories:
+  - Inter Andean Valleys
+  - Eudicots
+  - Leguminosae
+  - Lonchocarpus
+  - Muellera
+  - Mutis
+  - Real Expedición Botánica del Nuevo Reino de Granada
+
+---
+
+## Abstract
+
+A new species of *Dahlstedtia* from Colombia is described and illustrated with notes about its geographical distribution, phenology, conservation status and taxonomic affinities. *Dahlstedtia colombiana* shares with *D. muehlbergiana* their leaves often with 9–11 opposite leaflets, leaflets abaxially silky as well as wide samaroid fruits coriaceous to woody, indumented with few seeds. However, the new species can be distinguished by its leaflet bases truncate to rounded, leaflet secondary veins not reaching at the secondary marginal vein, shorter secondary bracts and bracteoles, longer flowering pedicels, and its fruits silky and khaki colored. *Dahlstedtia colombiana* inhabits the Seasonally Tropical Dry Forest in the Cauca and Magdalena Rivers Valleys, a highly disturbed ecosystem inside the country. This new species represents the first record of *Dahlstedtia* from Colombia although other species have been recorded from all neighboring countries. Some specimens of *D. colombiana* were collected on an unknown date between the ending of the 18th and beginning of the 19th centuries in the expedition led by Jose Celestino Mutis, which geographical provenance is briefly discussed here.
+
+## Citation
+
+> Trujillo-López, A. M., Ariza-Cortés, W., & Londoño-Echeverri, Y. (2024). *Dahlstedtia colombiana* (Millettieae, Papilionoideae, Fabaceae), a new species and first record of the genus from Colombia and its Seasonally Tropical Dry Forest. *Phytotaxa*, 666(1), 31-41. https://doi.org/10.11646/phytotaxa.666.1.3
