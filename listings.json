@@ -2,7 +2,7 @@
   {
     "listing": "/atom.html",
     "items": [
-      "/news/2024-06-11_celebracion-oceanos/index.html",
+      "/news/2024-06-29_evento/index.html",
       "/news/2024-05-22_verde-clarito/index.html",
       "/news/2024-04-11_alma-mater/index.html",
       "/news/2024-03-17_el-colombiano/index.html",
@@ -129,6 +129,18 @@
     "listing": "/people/lesmes-diaz_manuela/index.html",
     "items": [
       "/publications/articles/2019-06-15_alzate-guarin_etal/index.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": [
+      "/news/2024-06-29_evento/index.html",
+      "/news/2024-05-22_verde-clarito/index.html",
+      "/news/2024-04-11_alma-mater/index.html",
+      "/news/2024-03-17_el-colombiano/index.html",
+      "/news/2024-03-14_udea-noticias/index.html",
+      "/news/2023-11-16_udea-noticias/index.html",
+      "/news/2023-11-11_el-colombiano/index.html"
     ]
   },
   {
@@ -289,19 +301,7 @@
       "/publications/books/2012-04-12_alzate-guarin_etal/index.html",
       "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html",
       "/publications/articles/2011-09-02_alzate-guarin_etal/index.html",
-      "/news/2024-06-11_celebracion-oceanos/index.html",
-      "/news/2024-05-22_verde-clarito/index.html",
-      "/news/2024-04-11_alma-mater/index.html",
-      "/news/2024-03-17_el-colombiano/index.html",
-      "/news/2024-03-14_udea-noticias/index.html",
-      "/news/2023-11-16_udea-noticias/index.html",
-      "/news/2023-11-11_el-colombiano/index.html"
-    ]
-  },
-  {
-    "listing": "/news/index.html",
-    "items": [
-      "/news/2024-06-11_celebracion-oceanos/index.html",
+      "/news/2024-06-29_evento/index.html",
       "/news/2024-05-22_verde-clarito/index.html",
       "/news/2024-04-11_alma-mater/index.html",
       "/news/2024-03-17_el-colombiano/index.html",
