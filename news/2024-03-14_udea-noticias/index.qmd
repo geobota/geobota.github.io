@@ -6,8 +6,8 @@ author: GEOBOTA
 date: 2024-03-14
 
 categories:
-  - UdeA Noticias
   - Noticias
+  - UdeA Noticias
 ---
 
 ![El libro de Ramiro Fonnegra Gómez puede ser el primer paso para consolidar el vademécum colombiano de las plantas medicinales. Foto: Dirección de Comunicaciones UdeA / Alejandra Uribe F. ](image.jpg){fig-align="center"}

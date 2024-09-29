@@ -6,8 +6,8 @@ author: GEOBOTA
 date: 2023-11-11
 
 categories:
-  - El Colombiano
   - Noticias
+  - El Colombiano
 ---
 
 ![Izquierda: *Tournefortiopsis triflora* descrita por David Pérez. Derecha: *Espeletia restricta* descrita por Fernando Alzate.](image.jpg){fig-align="center"}

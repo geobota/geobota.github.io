@@ -6,8 +6,8 @@ author: GEOBOTA
 date: 2024-03-17
 
 categories:
-  - El Colombiano
   - Noticias
+  - El Colombiano
 ---
 
 ![Ramiro Fonnegra es biólogo de la Universidad de Antioquia y doctor en Botábica de la Universidad de Sao Pablo. Foto Jaime Pérez](image.jpg){fig-align="center"}

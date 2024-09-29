@@ -1,0 +1,27 @@
+---
+title: "¡Los páramos: donde empiezan los mares!"
+# description: "¿Sabes cuál es la relación de los Páramos con los Océanos? Conócela en esta charla dada por el [coordinador](../../people/alzate-guarin_fernando-alveiro/index.qmd) de nuestro grupo en el marco de la Celebración por los Océanos #ElOcéanoNosUne."
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-06-29
+citation: true
+
+image: image.jpeg
+
+categories:
+  - Evento
+  - Webinar
+---
+
+Durante todo el mes de junio, se llevó a cabo la Celebración por los Océanos, y nuestro coordinador, [Fernando Alzate Guarin](../../people/alzate-guarin_fernando-alveiro/index.qmd), participó con la charla "Los Páramos y su relación con los océanos". En esta charla, destacó la intrincada conexión y el papel crucial de estos ecosistemas de alta montaña 🏔 en el ciclo del agua.
+
+![Celebración por los Océanos #ElOcéanoNosUne.](image.jpeg){fig-align="center"}
+
+Los océanos de nuestro planeta no son entidades aisladas; están interconectados con diversos ecosistemas, incluyendo los páramos. Estos, a menudo llamados "fábricas de agua", actúan como esponjas naturales, capturando y almacenando el agua de lluvia, que luego se libera gradualmente en ríos y arroyos, llegando finalmente a los océanos. Esto resalta la importancia de proteger y restaurar los páramos, no solo por su biodiversidad, sino también por su contribución vital a la salud y el bienestar de nuestros océanos.
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ffcenudea%2Fvideos%2F3739856199590422%2F&show_text=false&width=560&t=0" width="800" height="446" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+Si no puedes ver el vídeo de la charla, mírala en [Facebook](https://www.facebook.com/fcenudea/videos/3739856199590422).

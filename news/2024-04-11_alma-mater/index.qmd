@@ -6,8 +6,8 @@ author: GEOBOTA
 date: 2024-04-17
 
 categories:
-  - Alma Mater
   - Webinar
+  - Alma Mater
 ---
 
 ![Hablemos de los usos terapéuticos y la aplicación correcta de 137 plantas reseñadas en un nuevo libro con sello UdeA.](image.jpeg){fig-align="center"}
