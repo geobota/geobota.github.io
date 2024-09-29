@@ -1,0 +1,32 @@
+---
+title: "¡Explorando la diversidad de las Clusiaceae!"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-07-04
+citation: true
+
+image: images/post_000.1.jpeg
+
+categories:
+  - Publicación
+---
+
+Desde hace un tiempo, nuestra estudiante de maestría [Angy Caro Sánchez](../../people/caro-sanchez_angy-vanesa/index.qmd) ha estado investigando la diversidad y clasificación de las especies de la familia del Mangostino y el Madroño ([Clusiaceae](https://es.wikipedia.org/wiki/Clusiaceae)). Esta investigación la ha llevado a colaborar con reconocidos investigadores del [grupo TaxA](https://gptaxa.wixsite.com/taxa/) (Brasil) y de instituciones como [Kew Gardens](https://www.kew.org/) (Reino Unido) y el [Jardín Botánico de Medellín](https://www.botanicomedellin.org) (Colombia)
+
+![](images/post_000.1.jpeg){fig-align="center" fig-alt="La imagen muestra en el centro una captura de pantalla de la primera página del artículo científico "Clusia aequatoriensis, a new combination based on Tovomita aequatoriensis (Clusiaceae)" publicado en la revista Harvard Papers in Botany por Lucas Cardoso Marinho y Angy Caro Sánchez. La imagen tiene un fondo claro. En la esquina superior derecha, sobre un fondo rojo aparece en negro la palabra "GEOBOTA". En la esquina inferior izquierda sobre un fordo rojo aparece en negro la palabra  "PUBLICACIÓN". En la esquina inferior derecha aparecen en blanco los logotipos de Facebook e Instagram de @geobotaudea."}
+
+¡Hoy estamos emocionados de compartir una publicación liderada por el profesor Lucas Cardoso Marinho! A través de un análisis morfológico meticuloso, se propone reclasificar una especie descrita hace 91 años en un género diferente. 
+
+![](images/post_000.2.jpeg){fig-align="center" fig-align="center" fig-alt="Fotografías de una muestra de herbario con varias partes de una planta, incluyendo hojas y flores, montadas en ella. Hay etiquetas y anotaciones que proporcionan información científica sobre el espécimen. La muestra incluye una etiqueta principal en la esquina inferior izquierda con texto manuscrito e impreso, etiquetas más pequeñas y un recuadro en la esquina superior derecha que muestra una vista ampliada de las flores de la planta."}
+
+Este tipo de estudios no solo nos ayuda a entender mejor la historia evolutiva de estos grupos de plantas, sino que también destaca la importancia de las colecciones biológicas. 
+
+![](images/post_000.3.jpeg){fig-align="center" fig-align="center" fig-alt="Captura de pantalla de una reunión de Angy Caro Sánchez con su comité tutorial."}
+
+Enlace al artículo: <https://huh.harvard.edu/sites/hwpi.harvard.edu/files/herbaria/files/29_1_119_marinho_caro-saunchez.pdf>
+
+![](images/post_000.4.jpeg){fig-align="center" fig-align="center" fig-alt="Imagen con fondo claro. En la parte superior aparece en rojo el texto “Escanea el QR y lee la publicación”. En el centro aparece un código QR de color rojo. En la parte inferior aparecen en rojo el doi del artículo https://reduced.to/hwtsi y en negro los logotipos de Facebook e Instagram de @geobotaudea."}
