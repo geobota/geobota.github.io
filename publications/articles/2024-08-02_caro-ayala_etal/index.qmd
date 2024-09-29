@@ -1,0 +1,30 @@
+---
+title: "Contribution of non-arboreal growth habits to the diversity of oak forests in the Eastern Cordillera, Colombia"
+author:
+  - name: "Heidy Caterine Caro-Ayala"
+  - name: "**Susana María Arango-Carvajal**"
+    orcid: 0000-0003-2660-311X
+  - name: "Diego Suescún-Carvajal"
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "Boris Stefan Villanueva-Tamayo"
+year: 2024
+date: 2024-08-02
+publication: "Acta Biológica Colombiana"
+doi: https://doi.org/10.15446/abc.v29n3.107862
+materials: ""
+
+categories:
+  - Andeanforest
+  - Biodiversity
+  - Habitat fragmentation
+  - Herbaceous plants
+---
+
+## Abstract
+
+Floristic studies carried out in forests tend to focus on woody plants with diameter at breast height (DBH)≥2.5 cm, so non-tree components, important in the composition and structure of forests, are excluded from the sampling and, therefore, from the floristic analysis. We evaluate the contribution of the different growth habits to the total richness of terrestrial species in three oak forests (high Andean forests dominated by *Quercus humboldtii*) located to the Northwest of the Eastern Cordillera, Santander. The modified RAP methodology was implemented, including all individuals with DBH<2.5 cm on the right side of each transect. In total, 769 individuals distributed in 38 families of angiosperms with 133 species, and ten families with 37 species of monilophyte plants were recorded. Non-tree species represented between 73.9 and 87.0 % of the total terrestrial richness, which shows their importance in the composition, structure,and diversity of the oak forests studied. Similar results in other Colombian oak forests support the inclusion of individuals with smaller diameters compared to traditional methodologies, and thus more accurately estimate the total richness of species. The richness and diversity found are related to the sampled diameters and the location altitude, and comparatively present high values compared to other oak-forest; this validates that the expansion of the minimum sampling diameter expands knowledge about the flora of a place, becoming a useful instrument for the generation of policies for the conservation and sustainable management of Andean forests.
+
+## Citation
+
+> Caro-Ayala, H. C., Arango-Carvajal, S. M., Suescún-Carvajal, D., Alzate-Guarin, F. A., & Villanueva-Tamayo, B. S. (2024). Contribution of non-arboreal growth habits to the diversity of oak forests in the Eastern Cordillera, Colombia. *Acta Biológica Colombiana*, 29(3). https://doi.org/10.15446/abc.v29n3.107862

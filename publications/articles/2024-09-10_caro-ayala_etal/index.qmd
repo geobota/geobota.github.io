@@ -1,0 +1,30 @@
+---
+title: "Unhiding Colombian orchid treasures: a new <i>Lepanthes</i> (Orchidaceae) from the northeastern Andes in Colombia"
+author:
+  - name: "Heidy Caterine Caro-Ayala"
+  - name: "**Susana María Arango-Carvajal**"
+    orcid: 0000-0003-2660-311X
+  - name: "Diego Suescún-Carvajal"
+  - name: "Eugenio Restrepo"
+year: 2024
+date: 2024-09-10
+publication: "Phytotaxa"
+doi: https://doi.org/10.11646/phytotaxa.664.3.4
+materials: ""
+
+categories:
+  - Endemic species
+  - Oak-forest
+  - Monocots
+  - Plant taxonomy
+  - Pleurothallidinae
+
+---
+
+## Abstract
+
+A new species of *Lepanthes* from the eastern Colombian Andes from the department of Santander has been discovered. Here it is described, illustrated, and compared with species with morphological affinities, particularly with the sympatric *Lepanthes rabei*, from which it can be separated by a combination of traits: the larger plant length, reaching up to 8.28 cm in height, the elliptical-lanceolate leaves, concolor, the sepals not denticulate, the lip blades ovate-oblong, obtuse, slightly falcate at the apex, the long cilia at the lip tip and the appendix minute, reflexed downwards, pubescent. Information about its distribution, phenology, and conservation status is also provided.
+
+## Citation
+
+> Caro-Ayala, H. C., Arango-Carvajal, S., Suescún-Carvajal, D., & Restrepo, E. (2024). Unhiding Colombian orchid treasures: A new *Lepanthes* (Orchidaceae) from the northeastern Andes in Colombia. *Phytotaxa*, 664(3), 191-199. https://doi.org/10.11646/phytotaxa.664.3.4
