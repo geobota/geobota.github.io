@@ -1,0 +1,34 @@
+---
+title: "¡No te pierdas nuestro curso de Etnobotánica Cuantitativa en R!"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-08-13
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+¿Te interesa aprender a manipular, visualizar y analizar datos etnobotánicos usando R? Este curso es perfecto para ti. Durante los días 2 y 3 de noviembre, en el marco del XII Congreso Colombiano de Botánica en Popayán, Colombia , te enseñaremos las habilidades básicas de programación en R para abordar datos etnobotánicos.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional del curso «Etnobotánica Cuantitativa en R» que se llevará a cabo los días 2 y 3 de noviembre en Popayán, Colombia, como parte del XII Congreso Colombiano de Botánica. La imagen incluye gráficos de datos etnobotánicos, un código QR para más información y los logos de las instituciones organizadoras."}
+
+¿Qué aprenderás?
+
+-   Manipulación de datos en R.
+-   Técnicas de visualización para entender mejor tus datos.
+-   Análisis cuantitativos aplicados a la etnobotánica.
+
+Costo: Desde $100.000 COP.
+
+¡Inscríbete ahora y no te quedes sin tu cupo!
+
+Para más información, escanea el código QR en la imagen o visita nuestra página web: <https://geobota.github.io/xii-ccb-etnobotanica/>
+
+¡Nos vemos en Popayán!
