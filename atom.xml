@@ -369,6 +369,51 @@ llevó.”</span> August 16, 2024. <a href="http://geobota.github.io/news/2024-0
   <media:content url="http://geobota.github.io/news/2024-08-16_planta-mes/image.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>¡No te pierdas nuestro curso de Etnobotánica Cuantitativa en R!</title>
+  <dc:creator>Álex Espinosa-Correa</dc:creator>
+  <link>http://geobota.github.io/news/2024-08-13_xii-ccb/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¿Te interesa aprender a manipular, visualizar y analizar datos etnobotánicos usando R? Este curso es perfecto para ti. Durante los días 2 y 3 de noviembre, en el marco del XII Congreso Colombiano de Botánica en Popayán, Colombia , te enseñaremos las habilidades básicas de programación en R para abordar datos etnobotánicos.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://geobota.github.io/news/2024-08-13_xii-ccb/image.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Imagen promocional del curso «Etnobotánica Cuantitativa en R» que se llevará a cabo los días 2 y 3 de noviembre en Popayán, Colombia, como parte del XII Congreso Colombiano de Botánica. La imagen incluye gráficos de datos etnobotánicos, un código QR para más información y los logos de las instituciones organizadoras."></p>
+</figure>
+</div>
+<p>¿Qué aprenderás?</p>
+<ul>
+<li>Manipulación de datos en R.</li>
+<li>Técnicas de visualización para entender mejor tus datos.</li>
+<li>Análisis cuantitativos aplicados a la etnobotánica.</li>
+</ul>
+<p>Costo: Desde $100.000 COP.</p>
+<p>¡Inscríbete ahora y no te quedes sin tu cupo!</p>
+<p>Para más información, escanea el código QR en la imagen o visita nuestra página web: <a href="https://geobota.github.io/xii-ccb-etnobotanica/" class="uri">https://geobota.github.io/xii-ccb-etnobotanica/</a></p>
+<p>¡Nos vemos en Popayán!</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2024,
+  author = {Espinosa-Correa, Álex},
+  title = {¡No te pierdas nuestro curso de Etnobotánica Cuantitativa en
+    R!},
+  date = {2024-08-13},
+  url = {http://geobota.github.io/news/2024-08-13_xii-ccb/},
+  langid = {es}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2024" class="csl-entry quarto-appendix-citeas">
+Espinosa-Correa, Álex. 2024. <span>“¡No te pierdas nuestro curso de
+Etnobotánica Cuantitativa en R!”</span> August 13, 2024. <a href="http://geobota.github.io/news/2024-08-13_xii-ccb/">http://geobota.github.io/news/2024-08-13_xii-ccb/</a>.
+</div></div></section></div> ]]></description>
+  <category>XII CCB</category>
+  <guid>http://geobota.github.io/news/2024-08-13_xii-ccb/</guid>
+  <pubDate>Tue, 13 Aug 2024 05:00:00 GMT</pubDate>
+  <media:content url="http://geobota.github.io/news/2024-08-13_xii-ccb/image.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>La importancia de las definiciones en botánica</title>
   <dc:creator>Álex Espinosa-Correa</dc:creator>
   <link>http://geobota.github.io/news/2024-08-10_diccionario-botanico/</link>
@@ -467,7 +512,7 @@ August 10, 2024. <a href="http://geobota.github.io/news/2024-09-23_diccionario-b
 <p>Como cada dos años, la comunidad botánica colombiana se reúne, ¡y nosotros no podíamos faltar! La cita será en la Ciudad Blanca (Popayán) entre el 4 y el 8 de noviembre. Además de charlas, pósteres y muy buenos momentos, estaremos presentes con tres cursos precongreso (2 y 3 de noviembre).</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="http://geobota.github.io/news/2024-08-01_xii-ccb/image.png" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Anuncio del XII Congreso Colombiano de Botánica con información sobre cursos precongreso. La imagen tiene el título «¡Nos estamos preparando!» en la parte superior. Luego, se menciona el XII Congreso Colombiano de Botánica que se celebrará en Popayán, Cauca, del 4 al 8 de noviembre de 2024, con el lema «Botánica y biocultura para la sostenibilidad de los territorios». Se destacan tres cursos precongreso: Etnobotánica Cuantitativa en R, Introducción a la Aerobiología e Investigación Reproducible en Quarto. Se incluye un QR para obtener más información y el logo de GEOBOTA en la parte inferior."></p>
+<p><img src="http://geobota.github.io/news/2024-08-01_xii-ccb/image.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Anuncio del XII Congreso Colombiano de Botánica con información sobre cursos precongreso. La imagen tiene el título «¡Nos estamos preparando!» en la parte superior. Luego, se menciona el XII Congreso Colombiano de Botánica que se celebrará en Popayán, Cauca, del 4 al 8 de noviembre de 2024, con el lema «Botánica y biocultura para la sostenibilidad de los territorios». Se destacan tres cursos precongreso: Etnobotánica Cuantitativa en R, Introducción a la Aerobiología e Investigación Reproducible en Quarto. Se incluye un QR para obtener más información y el logo de GEOBOTA en la parte inferior."></p>
 </figure>
 </div>
 <ul>
@@ -494,7 +539,7 @@ Colombiano de Botánica!”</span> August 1, 2024. <a href="http://geobota.githu
   <category>XII CCB</category>
   <guid>http://geobota.github.io/news/2024-08-01_xii-ccb/</guid>
   <pubDate>Thu, 01 Aug 2024 05:00:00 GMT</pubDate>
-  <media:content url="http://geobota.github.io/news/2024-08-01_xii-ccb/image.png" medium="image" type="image/png" height="144" width="144"/>
+  <media:content url="http://geobota.github.io/news/2024-08-01_xii-ccb/image.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Explorando la diversidad de las Clusiaceae</title>
