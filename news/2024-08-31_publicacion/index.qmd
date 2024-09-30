@@ -1,0 +1,34 @@
+---
+title: "¡Nueva publicación en Chrysochlamys!"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-08-31
+citation: true
+
+image: images/image_01.jpeg
+
+categories:
+  - Publicación
+---
+
+Anteriormente, mencionamos que nuestra estudiante de maestría [Angy Caro Sánchez](../../people/caro-sanchez_angy-vanesa/index.qmd) ha estado investigando la diversidad y clasificación de las especies de la familia [Clusiaceae](https://es.wikipedia.org/wiki/Clusiaceae), que incluye plantas como el Mangostino y el Madroño. Fruto de esta investigación, recientemente se publicó un nuevo artículo en colaboración con su director de tesis, [Fernando Alzate Guarin](../../people/alzate-guarin_fernando-alveiro/index.qmd), e investigadores del [Jardín Botánico de Medellín](https://www.botanicomedellin.org) y del [grupo TaxA](https://gptaxa.wixsite.com/taxa/) de la [Universidade Federal do Maranhão](https://portalpadrao.ufma.br/site). En este trabajo, publicado en la revista Phytotaxa, se presentan importantes novedades nomenclaturales en este grupo de plantas.
+
+![](images/image_01.jpeg){fig-align="center" fig-alt="La imagen muestra una captura del artículo titulado 'Miscellaneous nomenclatural notes on Andean Chrysochlamys (Clusiaceae: Clusieae)' publicado en la revista Phytotaxa. La imagen tiene un fondo negro. En la esquina superior derecha, sobre un fondo rojo aparece en blanco la palabra «GEOBOTA». En la esquina inferior izquierda aparece en blanco la palabra  «PUBLICACIÓN». En la esquina inferior derecha aparecen en blanco los logotipos de Facebook e Instagram de @geobotaudea. El artículo listado muestra a Angy V. Caro-Sánchez como primera autora, junto con Lucas K. Marinho, Alvaro Idárraga-Piedrahíta, y Fernando Alzate-Guarín. El resumen del artículo describe las principales novedades nomenclaturales relacionadas con especies andinas de Chrysochlamys"}
+
+En el artículo, se explora a fondo la historia nomenclatural de las especies de *Chrysochlamys* presentes en los Andes, y se proporciona información clave sobre ellas. Además, se introduce una nueva combinación, *Chrysochlamys microcarpa*; se designan seis lectotipos; se establecen números para tres colecciones tipo; y se analiza un caso de lectotipificación inadvertida. 
+
+![](images/image_02.jpeg){fig-align="center" fig-alt="Fotografía de una muestra de herbario correspondiente a Chrysochlamys microcarpa (Poepp.) L. Marinho & A. Caro, lectotipo alojado en el Herbario W (W-051859). Se observa una hoja grande y desgastada, con varias piezas de la planta adheridas y etiquetadas. A la izquierda, una carta de colores y una regla para referencia. Texto en el borde derecho: 'Chrysochlamys microcarpa (Poepp.) L. Marinho & A. Caro, lectotype housed at W (W-051859)'."}
+
+Este trabajo abre las puertas para el desarrollo de nuevas investigaciones sobre este fascinante grupo de plantas.
+
+![](images/image_03.jpeg){fig-align="center" fig-alt="Comparación de dos imágenes. A la izquierda, una hoja de herbario correspondiente a Chrysochlamys multiflora Poepp., lectotipo alojado en el Herbario W (W-048907), que muestra una planta con hojas y flores en estado de descomposición. A la derecha, una ilustración original publicada por Poeppig en 1840 que muestra la misma especie con hojas y flores detalladas. Texto en la parte inferior: «Chrysochlamys multiflora Poepp. A. C. multiflora lectotype housed at W (W-048907). B. Original illustration published by Poeppig (1840)»."}
+
+Enlace al artículo: <https://doi.org/10.11646/phytotaxa.663.4.4>
+
+![](images/image_04.jpeg){fig-align="center" fig-alt="La imagen tiene un fondo negro. En la parte superior aparece en blanco el texto «Escanea el QR y lee la publicación». En el centro aparece un código QR de color rojo. En la parte inferior aparecen en rojo el doi del artículo y en blanco los logotipos de Facebook e Instagram de @geobotaudea."}
+
+¡Síguenos para mantenerte al tanto de nuestras investigaciones y publicaciones!
