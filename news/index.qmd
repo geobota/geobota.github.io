@@ -10,7 +10,7 @@ listing:
     type: default
     fields: [date, author, title, categories, description, image]
     contents: "*/index.qmd"
-    categories: false
+    categories: true
     sort:
       - "date desc"
       - "title"
