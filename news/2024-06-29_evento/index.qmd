@@ -1,6 +1,6 @@
 ---
-title: "¡Los páramos: donde empiezan los mares!"
-# description: "¿Sabes cuál es la relación de los Páramos con los Océanos? Conócela en esta charla dada por el [coordinador](../../people/alzate-guarin_fernando-alveiro/index.qmd) de nuestro grupo en el marco de la Celebración por los Océanos #ElOcéanoNosUne."
+title: "Los páramos: donde empiezan los mares"
+# description: ""
 
 author: 
   - name: "Álex Espinosa-Correa"
