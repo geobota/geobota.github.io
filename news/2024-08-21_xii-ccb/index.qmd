@@ -1,0 +1,37 @@
+---
+title: "¡Descubre el fascinante mundo de la Aerobiología!"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-08-21
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+¿Sabías que el aire está lleno de partículas biológicas que pueden influir en tu salud y en el medio ambiente? La aerobiología es la ciencia que estudia estas partículas y su impacto en los ecosistemas.
+
+Te invitamos a participar en nuestro curso «Introducción a la Aerobiología», que se llevará a cabo el 4 de noviembre en Popayán, Colombia, durante el [XII Congreso Colombiano de Botánica](https://congresobotanica.org). Aquí aprenderás los fundamentos de esta disciplina y su relación con la botánica, la ecología y la salud pública. 
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional del curso «Introducción a la Aerobiología» en el XII Congreso Colombiano de Botánica. En la parte superior izquierda, el logo del congreso, acompañado de imágenes de granos de polen. A la derecha, un código QR que dirige a la página web del curso. El texto central destaca dice: «Introducción a la aerobiología. Popayán, Colombia. Noviembre 4. Desde $20.000 COP. ¿Sabías que el estudio de las partículas de origen biológico presentes en el aire se llama aerobiología? ¡Aprende más inscribiéndote en nuestro curso!». En la parte inferior, aparecen los logos de las instituciones organizadoras."}
+
+¿Qué aprenderás?
+
+-   Historia de la aerobiología
+-   La ruta aerobiológica
+-   Métodos de muestreo aerobiológico
+-   Identificación de las principales biopartículas
+
+Inversión: Desde $20.000 COP
+
+¡Inscríbete ahora y asegura tu cupo!
+
+Para más información, escanea el código QR en la imagen o visita nuestra página web: <https://geobota.github.io/xii-ccb-aerobiologia/>
+
+¡Nos vemos en el curso!

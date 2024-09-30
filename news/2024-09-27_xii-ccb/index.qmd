@@ -1,0 +1,33 @@
+---
+title: "Etnobotánica Cuantitativa y R"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-09-27
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+En una [publicación anterior](../2024-09-04_xii-ccb/index.qmd), definimos la etnobotánica como un campo interdisciplinario que estudia las interacciones entre las personas y las plantas. Pero, ¿te has preguntado por qué hacemos énfasis en etnobotánica cuantitativa y por qué utilizar R para ello?
+
+![](image.jpeg){fig-align="center" fig-alt="Afiche promocional del curso «Etnobotánica Cuantitativa en R» en el XII Congreso Colombiano de Botánica. En el lado izquierdo, aparecen dos gráficos circulares que muestran la relación entre plantas y sus usos, además de un código QR sobre las palabras «geobota.github.io». En el lado derecho aparece el texto: «ETNOBOTÁNICA CUANTITATIVA EN R. Popayán, Colombia. 2-3 de noviembre. Desde $100.000 COP. Transforma datos en valiosos conocimientos etnobotánicos con herramientas avanzadas de R en RStudio». En la esquina superior derecha aparece el logo del congreso. En la parte inferior aparecen los logos de las instituciones organizadoras."}
+
+La etnobotánica cuantitativa ha sido definida como «la aplicación de técnicas cuantitativas para analizar datos sobre el uso de plantas». Gracias a su capacidad de integrar y analizar datos estadísticos, ofrece una perspectiva única sobre la relación entre plantas y humanos. Por ejemplo, permite evaluar la importancia de la vegetación para una comunidad, comparar el uso de las plantas entre diferentes regiones y establecer la importancia relativa de los diferentes usos que tienen las plantas.
+
+Por otro lado, realizar estos análisis en R te permite utilizar uno de los lenguajes más potentes en estadística y visualización de datos. R es accesible incluso para quienes no tienen conocimientos avanzados en programación, y ofrece herramientas que superan a las hojas de cálculo tradicionales. Además, se integra perfectamente con entornos como RStudio, facilitando el análisis y visualización de grandes volúmenes de datos de manera reproducible.
+
+¿Quieres aprender a realizar análisis etnobotánicos cuantitativos en R? Aún estás a tiempo de inscribirte en el curso «Etnobotánica Cuantitativa en R», que se llevará a cabo en el [XII Congreso Colombiano de Botánica](https://congresobotanica.org).
+
+-   Fecha: 2-3 de noviembre de 2024
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $100.000 COP
+-   Información: escanea el código QR o visita nuestro pagina web: <https://geobota.github.io/xii-ccb-etnobotanica/>
+
+¡Inscríbete ahora y asegura tu cupo!

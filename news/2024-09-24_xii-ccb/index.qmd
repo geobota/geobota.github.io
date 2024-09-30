@@ -1,0 +1,32 @@
+---
+title: "¿Qué es Quarto?"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-09-24
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+¿Usas Excel y Word para escribir tus manuscritos? ¡Es hora de descubrir una mejor manera de hacerlo! Te invitamos a conocerla en nuestro curso «Investigación Reproducible con Quarto», que se llevará a cabo en Popayán, Colombia, el 3 de noviembre durante el [XII Congreso Colombiano de Botánica](https://congresobotanica.org). En este curso, aprenderás a utilizar Quarto para crear documentos científicos reproducibles, desde el análisis de datos hasta la redacción final del manuscrito.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional del curso «Investigación Reproducible con Quarto», que se realizará el 3 de noviembre en Popayán durante el XII Congreso Colombiano de Botánica. En el centro, aparece el logo de Quarto sobre un fondo beige. A la izquierda, el texto: «Investigación Reproducible con Quarto. Popayán, Colombia. Noviembre 3. Desde $50.000 COP». A la derecha, un código QR junto al texto «¿Utilizas MS Excel y MS Word para escribir tus manuscritos? ¡Descubre una mejor manera inscribiéndote en nuestro curso!». En la esquina superior derecha, se lee «XII Congreso Colombiano de Botánica». Los logos de las instituciones organizadoras se encuentran en la parte inferior."}
+
+Pero, ¿qué es Quarto? [Quarto](https://quarto.org) es un sistema de escritura y publicación técnica y académica de código abierto, que te permite integrar datos, resultados y texto en un mismo entorno. Podrás generar documentos en distintos formatos como docx, pdf, tex, entre otros, asegurando la reproducibilidad de tu trabajo científico.
+
+¡No pierdas la oportunidad de mejorar tus habilidades en investigación y asegurar la reproducibilidad de tu trabajo! Inscríbete ahora y lleva tu investigación al siguiente nivel.
+
+-   Fecha: 3 de noviembre
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $50.000 COP
+-   Más información: Escanea el código QR en la imagen o visita nuestro pagina web:
+ <https://geobota.github.io/xii-ccb-quarto/>
+
+¡Nos vemos en el curso!

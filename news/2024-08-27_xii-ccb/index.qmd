@@ -1,0 +1,36 @@
+---
+title: "Hablemos de reproducibilidad en la ciencia"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-08-27
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+¿Sabías que la ciencia enfrenta una crisis de reproducibilidad? Muchos estudios publicados no pueden ser replicados y republicados, lo que genera preocupaciones sobre la confiabilidad de los resultados. Pero ¡no te preocupes! Existen soluciones para mejorar la reproducibilidad, y queremos enseñártelas.
+
+Te invitamos a nuestro curso «Investigación Reproducible con Quarto», que se llevará a cabo el 3 de noviembre en Popayán, Colombia, durante el [XII Congreso Colombiano de Botánica](https://congresobotanica.org). Aquí aprenderás cómo adoptar buenas prácticas de la ciencia abierta y reproducible, utilizando un potente sistema de escritura y publicación técnica que garantiza que tus investigaciones sean fácilmente reproducibles. 
+
+![](image.jpeg){fig-align="center" fig-alt="La imagen muestra información sobre el curso «Investigación Reproducible con Quarto» que se realizará en Popayán, Colombia, el 3 de noviembre durante el XII Congreso Colombiano de Botánica. El fondo es blanco y en el centro hay un conjunto de hexágonos con logotipos de diversas herramientas científicas como Julia, Python, R, Quarto, GitHub, Jupyter, RStudio, Tidyverse, y ggplot2. A la izquierda, un código QR y la URL «geobota.github.io». A la derecha, texto que dice: «¿Realizas análisis en Python o R y copias los resultados en MS Word? ¡Aprende a hacerlo todo en un solo lugar inscribiéndote en nuestro curso!» El costo del curso es desde $50.000 COP. En la parte inferior, se encuentran los logos de las organizaciones participantes, incluyendo la Universidad de Antioquia y GEOBOTA."}
+
+¿Qué aprenderás?
+
+-   Fundamentos de la ciencia abierta y reproducible
+-   Conceptos y herramientas esenciales de Quarto
+-   Buenas prácticas para realizar investigaciones reproducibles
+
+Inversión: Desde $50.000 COP
+
+¡Inscríbete ahora y asegura tu cupo!
+
+Para más información, escanea el código QR en la imagen o visita nuestra página web: <https://geobota.github.io/xii-ccb-quarto/>
+
+¡Nos vemos en el curso!

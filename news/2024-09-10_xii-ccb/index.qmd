@@ -1,0 +1,34 @@
+---
+title: "¿Qué son las biopartículas?"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-09-10
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+En una [publicación anterior](../2024-08-21_xii-ccb/index.qmd) hablamos de la aerobiología como la ciencia que estudia las partículas de origen biológico en el aire y su impacto en los ecosistemas. Pero, ¿qué son exactamente esas partículas?
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional del curso «Introducción a la Aerobiología» que se realizará en el XII Congreso Colombiano de Botánica. La imagen muestra granos de polen en un color púrpura brillante en la parte izquierda y un código QR en la parte inferior izquierda que dirige geobota.github.io. El texto central dice: «¿Quieres conocer qué partículas de origen biológico hay en el aire que respiras? ¡Conócelas inscribiéndote en nuestro curso!». Debajo el texto: «Introducción a la Aerobiología. Popayán, Colombia. Noviembre 4. Desde $20.000 COP». En la esquina superior derecha se encuentra el logotipo del XII Congreso Colombiano de Botánica y en la parte inferior, los logos de las instituciones organizadoras, incluida la Universidad de Antioquia y GEOBOTA.
+"}
+
+Estas partículas, también conocidas como biopartículas, bioaerosoles o Aerosoles Biológicos Primarios (PBA), son partículas atmosféricas liberadas directamente desde la biosfera hacia la atmósfera️. Entre ellas encontramos organismos vivos y muertos (como algas, arqueas y bacterias), unidades de dispersión (como esporas de hongos y polen) y fragmentos o excreciones vegetales o animales.
+
+Como puedes ver, ¡hay una gran variedad de bioaerosoles! Si quieres conocer más sobre estas fascinantes partículas, te invitamos a inscribirte en el curso «Introducción a la Aerobiología» que se realizará en el [XII Congreso Colombiano de Botánica](https://congresobotanica.org).
+
+¡Inscríbete y descubre más sobre estas biopartículas!
+
+-   Fecha: 4 de noviembre de 2024
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $20.000 COP
+-   Información: Escanea el código QR en la imagen o visita nuestra página web: <https://geobota.github.io/xii-ccb-aerobiologia/>
+
+¡Nos vemos en el curso!
