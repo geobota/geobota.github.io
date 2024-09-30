@@ -110,8 +110,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-author','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      valueNames: ['listing-image','listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      page: 18,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
@@ -383,64 +384,45 @@ window.Quarto = {
 <h1>Últimas noticias</h1>
 <div id="listing-news" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Evento,Webinar" data-listing-date-sort="1719637200000" data-listing-file-modified-sort="1727645027489" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
-<a href="./news/2024-06-29_evento/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1727662086557">
+<a href="./news/2024-08-13_xii-ccb/index.qmd" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="La botánica - El Botánico" data-listing-date-sort="1727672400000" data-listing-file-modified-sort="1727676931848" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="376">
+<a href="./news/2024-09-30_botanica-botanico/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./news/2024-06-29_evento/image.jpeg" class="thumbnail-image card-img" style="height: 225px;">
+<img loading="lazy" src="./news/2024-09-30_botanica-botanico/image.jpeg" class="thumbnail-image card-img" style="height: 225px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title" data-anchor-id="últimas-noticias">
-¡Los páramos: donde empiezan los mares!
+Djaja Djendoel Soejarto
 </h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Álex Espinosa-Correa
-</div>
+<div class="card-attribution card-text-small end">
 <div class="listing-date">
-2024-06-29
+2024-09-30
 </div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Podcast,Verde Clarito" data-listing-date-sort="1716354000000" data-listing-file-modified-sort="1727645124025" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
-<a href="./news/2024-05-22_verde-clarito/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-categories="La planta del mes" data-listing-date-sort="1727326800000" data-listing-file-modified-sort="1727677169089" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
+<a href="./news/2024-09-26_planta-mes/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./news/2024-05-22_verde-clarito/image.jpg" class="thumbnail-image card-img" style="height: 225px;">
+<img loading="lazy" src="./news/2024-09-26_planta-mes/image.jpeg" class="thumbnail-image card-img" style="height: 225px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Verde Clarito: Que estamos respirando en nuestras ciudades, calidad del aire más allá de lo evidente
+La planta que quizás no notaste en tu ramo de flores
 </h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-GEOBOTA
-</div>
+<div class="card-attribution card-text-small end">
 <div class="listing-date">
-2024-05-22
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Webinar,Alma Mater" data-listing-date-sort="1713330000000" data-listing-file-modified-sort="1727645112040" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
-<a href="./news/2024-04-11_alma-mater/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="news/2024-04-11_alma-mater/image.jpeg" style="height: 225px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-VocesAlmaMater: El poder medicinal de las plantas
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-GEOBOTA
-</div>
-<div class="listing-date">
-2024-04-17
+2024-09-26
 </div>
 </div>
 </div>
@@ -458,12 +440,29 @@ No hay resultados
 <h1>Últimas publicaciones</h1>
 <div id="listing-publications" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Endemic species,Oak-forest,Monocots,Plant taxonomy,Pleurothallidinae" data-listing-date-sort="1725944400000" data-listing-file-modified-sort="1727636999957" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
-<a href="./publications/articles/2024-09-10_caro-ayala_etal/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Inter Andean Valleys,Eudicots,Leguminosae,Lonchocarpus,Muellera,Mutis,Real Expedición Botánica del Nuevo Reino de Granada" data-listing-date-sort="1727326800000" data-listing-file-modified-sort="1727678447411" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
+<a href="./publications/articles/2024-09-26_trujillo-lopez_etal/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title" data-anchor-id="últimas-publicaciones">
+<i>Dahlstedtia colombiana</i> (Millettieae, Papilionoideae, Fabaceae), a new species and first record of the genus from Colombia and its Seasonally Tropical Dry Forest
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+2024-09-26
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Endemic species,Oak-forest,Monocots,Plant taxonomy,Pleurothallidinae" data-listing-date-sort="1725944400000" data-listing-file-modified-sort="1727636999957" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
+<a href="./publications/articles/2024-09-10_caro-ayala_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Unhiding Colombian orchid treasures: a new <i>Lepanthes</i> (Orchidaceae) from the northeastern Andes in Colombia
 </h5>
 <div class="card-attribution card-text-small end">
@@ -475,7 +474,7 @@ Unhiding Colombian orchid treasures: a new <i>Lepanthes</i> (Orchidaceae) from t
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Balboa,Andean species,Lectotypifications,Tovomita,Tovomitopsis,Eudicots" data-listing-date-sort="1724734800000" data-listing-file-modified-sort="1724738803563" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
+<div class="g-col-1" data-index="2" data-categories="Balboa,Andean species,Lectotypifications,Tovomita,Tovomitopsis,Eudicots" data-listing-date-sort="1724734800000" data-listing-file-modified-sort="1724738803563" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
 <a href="./publications/articles/2024-08-27_caro-sanchez_etal/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
@@ -486,23 +485,6 @@ Miscellaneous nomenclatural notes on Andean <i>Chrysochlamys</i> (Clusiaceae: Cl
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 2024-08-27
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Andeanforest,Biodiversity,Habitat fragmentation,Herbaceous plants" data-listing-date-sort="1722574800000" data-listing-file-modified-sort="1727636663443" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="274">
-<a href="./publications/articles/2024-08-02_caro-ayala_etal/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Contribution of non-arboreal growth habits to the diversity of oak forests in the Eastern Cordillera, Colombia
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-2024-08-02
 </div>
 </div>
 </div>

@@ -82,8 +82,9 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-author','listing-title','listing-categories','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+      page: 12,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -167,7 +168,7 @@ window.Quarto = {
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -285,7 +286,8 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(20)</span></div><div class="category" data-category="Alma Mater">Alma Mater <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Diccionario Botánico">Diccionario Botánico <span class="quarto-category-count">(2)</span></div><div class="category" data-category="El Colombiano">El Colombiano <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Evento">Evento <span class="quarto-category-count">(4)</span></div><div class="category" data-category="La botánica - El Botánico">La botánica - El Botánico <span class="quarto-category-count">(2)</span></div><div class="category" data-category="La planta del mes">La planta del mes <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Noticias">Noticias <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Podcast">Podcast <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Publicación">Publicación <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UdeA Noticias">UdeA Noticias <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Verde Clarito">Verde Clarito <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Webinar">Webinar <span class="quarto-category-count">(2)</span></div><div class="category" data-category="XII CCB">XII CCB <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 
@@ -301,15 +303,432 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Evento,Webinar" data-listing-date-sort="1719637200000" data-listing-file-modified-sort="1727645027489" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1727662086557">
+<div class="thumbnail">
+<p><a href="../news/2024-08-13_xii-ccb/index.qmd" class="no-external"></a></p><a href="../news/2024-08-13_xii-ccb/index.qmd" class="no-external">
+</a><p><a href="../news/2024-08-13_xii-ccb/index.qmd" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-08-13_xii-ccb/index.qmd" class="no-external"></a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-08-13_xii-ccb/index.qmd" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="../news/2024-08-13_xii-ccb/index.qmd" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="../news/2024-08-13_xii-ccb/index.qmd" class="no-external"></a></p><a href="../news/2024-08-13_xii-ccb/index.qmd" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="La botánica - El Botánico" data-listing-date-sort="1727672400000" data-listing-file-modified-sort="1727676931848" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="376">
+<div class="thumbnail">
+<p><a href="../news/2024-09-30_botanica-botanico/index.html" class="no-external"></a></p><a href="../news/2024-09-30_botanica-botanico/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-09-30_botanica-botanico/image.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-09-30_botanica-botanico/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-09-30_botanica-botanico/index.html" class="no-external">Djaja Djendoel Soejarto</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-09-30_botanica-botanico/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('La botánica - El Botánico'); return false;">
+La botánica - El Botánico
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-09-30_botanica-botanico/index.html" class="no-external">Terminamos el mes de septiembre con nuestra sección «La Botánica - El Botánico», un espacio donde rendimos homenaje a personas clave para la botánica, tanto a nivel local…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-09-30_botanica-botanico/index.html" class="no-external">
+<div class="listing-date">
+2024-09-30
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="La planta del mes" data-listing-date-sort="1727326800000" data-listing-file-modified-sort="1727677169089" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
+<div class="thumbnail">
+<p><a href="../news/2024-09-26_planta-mes/index.html" class="no-external"></a></p><a href="../news/2024-09-26_planta-mes/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-09-26_planta-mes/image.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-09-26_planta-mes/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-09-26_planta-mes/index.html" class="no-external">La planta que quizás no notaste en tu ramo de flores</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-09-26_planta-mes/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('La planta del mes'); return false;">
+La planta del mes
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-09-26_planta-mes/index.html" class="no-external">Septiembre es el mes del Día del Amor y la Amistad en Colombia, una celebración en la que las flores suelen ser protagonistas. Aunque ya casi se nos termina el mes, no…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-09-26_planta-mes/index.html" class="no-external">
+<div class="listing-date">
+2024-09-26
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Evento" data-listing-date-sort="1727240400000" data-listing-file-modified-sort="1727675699634" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
+<div class="thumbnail">
+<p><a href="../news/2024-09-25_evento/index.html" class="no-external"></a></p><a href="../news/2024-09-25_evento/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-09-25_evento/images/image_01.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-09-25_evento/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-09-25_evento/index.html" class="no-external">¡GEOBOTA en el Día del Biólogo!</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-09-25_evento/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Evento'); return false;">
+Evento
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-09-25_evento/index.html" class="no-external">Cada 17 de septiembre, Colombia celebra el Día del Biólogo, conmemorando 40 años de avances en esta profesión vital para el estudio de la vida. En esta ocasión, la Facultad…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-09-25_evento/index.html" class="no-external">
+<div class="listing-date">
+2024-09-25
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="Evento" data-listing-date-sort="1725598800000" data-listing-file-modified-sort="1727677071720" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="293">
+<div class="thumbnail">
+<p><a href="../news/2024-09-06_evento/index.html" class="no-external"></a></p><a href="../news/2024-09-06_evento/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-09-06_evento/image.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-09-06_evento/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-09-06_evento/index.html" class="no-external">De semillas y páramos</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-09-06_evento/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Evento'); return false;">
+Evento
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-09-06_evento/index.html" class="no-external">Sabemos que las semillas son fundamentales para la propagación de muchas plantas. Y también conocemos los páramos, esos ecosistemas donde vive Ernesto Pérez, caracterizados…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-09-06_evento/index.html" class="no-external">
+<div class="listing-date">
+2024-09-06
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="Evento" data-listing-date-sort="1725253200000" data-listing-file-modified-sort="1727677054204" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="273">
+<div class="thumbnail">
+<p><a href="../news/2024-09-02_evento/index.html" class="no-external"></a></p><a href="../news/2024-09-02_evento/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-09-02_evento/image.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-09-02_evento/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-09-02_evento/index.html" class="no-external">Etnobotánica y jardinería</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-09-02_evento/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Evento'); return false;">
+Evento
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-09-02_evento/index.html" class="no-external">Este septiembre, en el marco del Mes del Patrimonio, se realizará en Medellín el evento “Saberes Elementales: Feria de prácticas y saberes asociados a la jardinería”.…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-09-02_evento/index.html" class="no-external">
+<div class="listing-date">
+2024-09-02
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="Publicación" data-listing-date-sort="1725080400000" data-listing-file-modified-sort="1727666892364" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="477">
+<div class="thumbnail">
+<p><a href="../news/2024-08-31_publicacion/index.html" class="no-external"></a></p><a href="../news/2024-08-31_publicacion/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-08-31_publicacion/images/image_01.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-08-31_publicacion/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-08-31_publicacion/index.html" class="no-external">¡Nueva publicación en Chrysochlamys!</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-08-31_publicacion/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Publicación'); return false;">
+Publicación
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-08-31_publicacion/index.html" class="no-external">Anteriormente, mencionamos que nuestra estudiante de maestría Angy Caro Sánchez ha estado investigando la diversidad y clasificación de las especies de la familia Clusiaceae…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-08-31_publicacion/index.html" class="no-external">
+<div class="listing-date">
+2024-08-31
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-categories="La botánica - El Botánico" data-listing-date-sort="1724389200000" data-listing-file-modified-sort="1727673828833" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="362">
+<div class="thumbnail">
+<p><a href="../news/2024-08-23_botanica-botanico/index.html" class="no-external"></a></p><a href="../news/2024-08-23_botanica-botanico/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-08-23_botanica-botanico/image.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-08-23_botanica-botanico/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-08-23_botanica-botanico/index.html" class="no-external">Linda Katherine Albert de Escobar</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-08-23_botanica-botanico/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('La botánica - El Botánico'); return false;">
+La botánica - El Botánico
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-08-23_botanica-botanico/index.html" class="no-external">Hoy iniciamos una nueva serie de publicaciones llamada «La Botánica - El Botánico», donde rendiremos homenaje a personas que han sido fundamentales para la botánica, tanto a…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-08-23_botanica-botanico/index.html" class="no-external">
+<div class="listing-date">
+2024-08-23
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-categories="La planta del mes" data-listing-date-sort="1723784400000" data-listing-file-modified-sort="1727670462963" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="338">
+<div class="thumbnail">
+<p><a href="../news/2024-08-16_planta-mes/index.html" class="no-external"></a></p><a href="../news/2024-08-16_planta-mes/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-08-16_planta-mes/image.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-08-16_planta-mes/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-08-16_planta-mes/index.html" class="no-external">Las plantas que el viento se llevó</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-08-16_planta-mes/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('La planta del mes'); return false;">
+La planta del mes
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-08-16_planta-mes/index.html" class="no-external">Hoy damos inicio a una nueva serie de publicaciones llamada «La Planta del Mes». En esta sección, exploraremos una planta en particular, destacando aquellas que a menudo…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-08-16_planta-mes/index.html" class="no-external">
+<div class="listing-date">
+2024-08-16
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-categories="Diccionario Botánico" data-listing-date-sort="1723266000000" data-listing-file-modified-sort="1727665745818" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="527">
+<div class="thumbnail">
+<p><a href="../news/2024-09-23_diccionario-botanico/index.html" class="no-external"></a></p><a href="../news/2024-09-23_diccionario-botanico/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-09-23_diccionario-botanico/image.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-09-23_diccionario-botanico/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-09-23_diccionario-botanico/index.html" class="no-external">La definición más difícil</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-09-23_diccionario-botanico/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Diccionario Botánico'); return false;">
+Diccionario Botánico
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-09-23_diccionario-botanico/index.html" class="no-external">¿Alguna vez te has preguntado qué es una planta? Los científicos, especialmente los botánicos, han tratado de responder esta pregunta desde los inicios del estudio y…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-09-23_diccionario-botanico/index.html" class="no-external">
+<div class="listing-date">
+2024-08-10
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-categories="Diccionario Botánico" data-listing-date-sort="1723266000000" data-listing-file-modified-sort="1727665609366" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
+<div class="thumbnail">
+<p><a href="../news/2024-08-10_diccionario-botanico/index.html" class="no-external"></a></p><a href="../news/2024-08-10_diccionario-botanico/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-08-10_diccionario-botanico/image.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-08-10_diccionario-botanico/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-08-10_diccionario-botanico/index.html" class="no-external">La importancia de las definiciones en botánica</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-08-10_diccionario-botanico/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Diccionario Botánico'); return false;">
+Diccionario Botánico
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-08-10_diccionario-botanico/index.html" class="no-external">Hoy comenzamos una serie de publicaciones llamada «Diccionario Botánico», donde proporcionaremos definiciones concisas y didácticas sobre conceptos, ideas, términos y…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-08-10_diccionario-botanico/index.html" class="no-external">
+<div class="listing-date">
+2024-08-10
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-categories="XII CCB" data-listing-date-sort="1722488400000" data-listing-file-modified-sort="1727662086557" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
+<div class="thumbnail">
+<p><a href="../news/2024-08-01_xii-ccb/index.html" class="no-external"></a></p><a href="../news/2024-08-01_xii-ccb/index.html" class="no-external">
+<p><img loading="lazy" src="../news/2024-08-01_xii-ccb/image.png" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-08-01_xii-ccb/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-08-01_xii-ccb/index.html" class="no-external">¡Estamos en el XII Congreso Colombiano de Botánica!</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-08-01_xii-ccb/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('XII CCB'); return false;">
+XII CCB
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-08-01_xii-ccb/index.html" class="no-external">Como cada dos años, la comunidad botánica colombiana se reúne, ¡y nosotros no podíamos faltar! La cita será en la Ciudad Blanca (Popayán) entre el 4 y el 8 de noviembre.…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-08-01_xii-ccb/index.html" class="no-external">
+<div class="listing-date">
+2024-08-01
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-categories="Publicación" data-listing-date-sort="1720069200000" data-listing-file-modified-sort="1727669447634" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="365">
+<div class="thumbnail">
+<p><a href="../news/2024-07-04_publicacion/index.html" class="no-external"></a></p><a href="../news/2024-07-04_publicacion/index.html" class="no-external">
+<p><img loading="lazy" data-src="../news/2024-07-04_publicacion/images/image_01.jpeg" class="thumbnail-image"></p>
+</a><p><a href="../news/2024-07-04_publicacion/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../news/2024-07-04_publicacion/index.html" class="no-external">Explorando la diversidad de las Clusiaceae</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../news/2024-07-04_publicacion/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Publicación'); return false;">
+Publicación
+</div>
+</div>
+<div class="listing-description">
+<a href="../news/2024-07-04_publicacion/index.html" class="no-external">Desde hace un tiempo, nuestra estudiante de maestría Angy Caro Sánchez ha estado investigando la diversidad y clasificación de las especies de la familia del Mangostino y el…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../news/2024-07-04_publicacion/index.html" class="no-external">
+<div class="listing-date">
+2024-07-04
+</div>
+<div class="listing-author">
+Álex Espinosa-Correa
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="Evento,Webinar" data-listing-date-sort="1719637200000" data-listing-file-modified-sort="1727675689519" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
 <div class="thumbnail">
 <p><a href="../news/2024-06-29_evento/index.html" class="no-external"></a></p><a href="../news/2024-06-29_evento/index.html" class="no-external">
-<p><img loading="lazy" src="../news/2024-06-29_evento/image.jpeg" class="thumbnail-image"></p>
+<p><img loading="lazy" data-src="../news/2024-06-29_evento/image.jpeg" class="thumbnail-image"></p>
 </a><p><a href="../news/2024-06-29_evento/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../news/2024-06-29_evento/index.html" class="no-external">¡Los páramos: donde empiezan los mares!</a>
+<a href="../news/2024-06-29_evento/index.html" class="no-external">Los páramos: donde empiezan los mares</a>
 </h3>
 <div class="listing-subtitle">
 <a href="../news/2024-06-29_evento/index.html" class="no-external"></a>
@@ -337,10 +756,10 @@ Webinar
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Podcast,Verde Clarito" data-listing-date-sort="1716354000000" data-listing-file-modified-sort="1727645124025" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
+<div class="quarto-post image-right" data-index="14" data-categories="Podcast,Verde Clarito" data-listing-date-sort="1716354000000" data-listing-file-modified-sort="1727645124025" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="31">
 <div class="thumbnail">
 <p><a href="../news/2024-05-22_verde-clarito/index.html" class="no-external"></a></p><a href="../news/2024-05-22_verde-clarito/index.html" class="no-external">
-<p><img loading="lazy" src="../news/2024-05-22_verde-clarito/image.jpg" class="thumbnail-image"></p>
+<p><img loading="lazy" data-src="../news/2024-05-22_verde-clarito/image.jpg" class="thumbnail-image"></p>
 </a><p><a href="../news/2024-05-22_verde-clarito/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -373,10 +792,10 @@ GEOBOTA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="Webinar,Alma Mater" data-listing-date-sort="1713330000000" data-listing-file-modified-sort="1727645112040" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
+<div class="quarto-post image-right" data-index="15" data-categories="Webinar,Alma Mater" data-listing-date-sort="1713330000000" data-listing-file-modified-sort="1727645112040" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
 <div class="thumbnail">
 <p><a href="../news/2024-04-11_alma-mater/index.html" class="no-external"></a></p><a href="../news/2024-04-11_alma-mater/index.html" class="no-external">
-<p class="card-img-top"><img src="2024-04-11_alma-mater/image.jpeg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img data-src="2024-04-11_alma-mater/image.jpeg"  class="thumbnail-image card-img"/></p>
 </a><p><a href="../news/2024-04-11_alma-mater/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -409,10 +828,10 @@ GEOBOTA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="Noticias,El Colombiano" data-listing-date-sort="1710651600000" data-listing-file-modified-sort="1727645093828" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
+<div class="quarto-post image-right" data-index="16" data-categories="Noticias,El Colombiano" data-listing-date-sort="1710651600000" data-listing-file-modified-sort="1727645093828" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
 <div class="thumbnail">
 <p><a href="../news/2024-03-17_el-colombiano/index.html" class="no-external"></a></p><a href="../news/2024-03-17_el-colombiano/index.html" class="no-external">
-<p class="card-img-top"><img src="2024-03-17_el-colombiano/image.jpg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img data-src="2024-03-17_el-colombiano/image.jpg"  class="thumbnail-image card-img"/></p>
 </a><p><a href="../news/2024-03-17_el-colombiano/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -445,10 +864,10 @@ GEOBOTA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="Noticias,UdeA Noticias" data-listing-date-sort="1710392400000" data-listing-file-modified-sort="1727645083723" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
+<div class="quarto-post image-right" data-index="17" data-categories="Noticias,UdeA Noticias" data-listing-date-sort="1710392400000" data-listing-file-modified-sort="1727645083723" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
 <div class="thumbnail">
 <p><a href="../news/2024-03-14_udea-noticias/index.html" class="no-external"></a></p><a href="../news/2024-03-14_udea-noticias/index.html" class="no-external">
-<p class="card-img-top"><img src="2024-03-14_udea-noticias/image.jpg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img data-src="2024-03-14_udea-noticias/image.jpg"  class="thumbnail-image card-img"/></p>
 </a><p><a href="../news/2024-03-14_udea-noticias/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -481,10 +900,10 @@ GEOBOTA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="Noticias,UdeA Noticias" data-listing-date-sort="1704776400000" data-listing-file-modified-sort="1727645073170" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
+<div class="quarto-post image-right" data-index="18" data-categories="Noticias,UdeA Noticias" data-listing-date-sort="1704776400000" data-listing-file-modified-sort="1727645073170" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
 <div class="thumbnail">
 <p><a href="../news/2023-11-16_udea-noticias/index.html" class="no-external"></a></p><a href="../news/2023-11-16_udea-noticias/index.html" class="no-external">
-<p class="card-img-top"><img src="2023-11-16_udea-noticias/image.jpg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img data-src="2023-11-16_udea-noticias/image.jpg"  class="thumbnail-image card-img"/></p>
 </a><p><a href="../news/2023-11-16_udea-noticias/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -517,10 +936,10 @@ GEOBOTA
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="Noticias,El Colombiano" data-listing-date-sort="1699678800000" data-listing-file-modified-sort="1727645050675" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<div class="quarto-post image-right" data-index="19" data-categories="Noticias,El Colombiano" data-listing-date-sort="1699678800000" data-listing-file-modified-sort="1727645050675" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
 <div class="thumbnail">
 <p><a href="../news/2023-11-11_el-colombiano/index.html" class="no-external"></a></p><a href="../news/2023-11-11_el-colombiano/index.html" class="no-external">
-<p class="card-img-top"><img src="2023-11-11_el-colombiano/image.jpg"  class="thumbnail-image card-img"/></p>
+<p class="card-img-top"><img data-src="2023-11-11_el-colombiano/image.jpg"  class="thumbnail-image card-img"/></p>
 </a><p><a href="../news/2023-11-11_el-colombiano/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
@@ -557,6 +976,9 @@ GEOBOTA
 <div class="listing-no-matching d-none">
 No hay resultados
 </div>
+<nav id="news-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 
 
