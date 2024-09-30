@@ -1,0 +1,32 @@
+---
+title: "¡GEOBOTA en el Día del Biólogo!"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-09-25
+citation: true
+
+image: images/image_01.jpeg
+
+categories:
+  - Evento
+---
+
+Cada 17 de septiembre, Colombia celebra el Día del Biólogo, conmemorando 40 años de avances en esta profesión vital para el estudio de la vida. En esta ocasión, la Facultad de Ciencias Exactas y Naturales y el Instituto de Biología organizaron «[Muestra Biológica](https://www.instagram.com/p/C_3JxpLuM0I/)», un evento donde diversos grupos de investigación compartieron sus conocimientos y exhibieron sus colecciones biológicas.
+
+![](images/image_01.jpeg){fig-align="center" fig-alt="Afiche conmemorativo del Día Nacional del Biólogo, celebrado el 17 de septiembre, mostrando elementos representativos de la biología como un microscopio, ADN, células y organismos. Organizado por la Facultad de Ciencias Exactas y Naturales de la Universidad de Antioquia."}
+
+Nuestro grupo GEOBOTA participó activamente, abordando temas como la botánica, especialmente en áreas como la anatomía vegetal, aerobiología, arquitectura foliar, etnobotánica y palinología.
+
+![](images/image_02.jpeg){fig-align="center" fig-alt="Dashboard interactivo mostrando los resultados de la encuesta etnobotánica realizada por GEOBOTA en el evento del Día del Biólogo 2024. Se incluyen gráficos de barras sobre el porcentaje de plantas conocidas por los informantes y el uso de cada planta."}
+
+Además, para contribuir a la lucha contra la ceguera vegetal, invitamos a los asistentes a participar en una breve encuesta etnobotánica sobre su conocimiento de plantas y sus usos. Los datos recopilados fueron analizados y presentados en un dashboard interactivo creado con Quarto. ¡Puedes explorarlo escaneando el QR o visitando el siguiente enlace: <https://geobota.github.io/dia-biologo-2024/>
+
+![](images/image_03.jpeg){fig-align="center" fig-alt="Código QR para acceder al dashboard de resultados de la encuesta etnobotánica del Día del Biólogo 2024, acompañado del logo de GEOBOTA y enlaces a sus redes sociales en Facebook e Instagram."}
+
+Agradecemos a todos los participantes por su interés y esperamos haber despertado la curiosidad sobre las plantas que nos rodean. Asimismo, agradecemos a Bladimir Vera por su valiosa colaboración al proporcionar las preguntas para la encuesta etnobotánica. También extendemos nuestro agradecimiento a la Facultad y al Instituto por fomentar estos espacios de interacción entre la comunidad científica y universitaria.
+
+¡Síguenos para descubrir más sobre la botánica!

@@ -1,0 +1,31 @@
+---
+title: "De semillas y páramos"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-09-06
+citation: true
+
+image: image.jpeg
+
+categories:
+  - Evento
+---
+
+Sabemos que las semillas son fundamentales para la propagación de muchas plantas. Y también conocemos los páramos, esos ecosistemas donde vive Ernesto Pérez, caracterizados por condiciones extremas y cambiantes. Pero, ¿alguna vez te has preguntado cómo logran las plantas crecer y reproducirse en un entorno tan desafiante como los páramos?
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional del evento de sustentación pública de tesis de maestría en Biología del estudiante José Miguel Rojas. El fondo está compuesto por varias microfotografías de cortes histológicos de tejidos vegetales en colores azul, rosa y morado. En la parte superior derecha aparece el logotipo de GEOBOTA en un fondo naranja. El texto central en azul y blanco dice: 'Sustentación pública del estudiante de maestría en Biología José Miguel Rojas, septiembre 20, 09:00' seguido del enlace de Google Meet: 'meet.google.com/nbg-iwdt-yjr'. A la derecha, hay un código QR en amarillo que dirige a la misma reunión virtual. En la parte inferior izquierda, un banner naranja con la palabra 'EVENTO'. En la esquina inferior derecha se encuentran los íconos de redes sociales: Facebook e Instagram, junto al usuario @geobotaudea."}
+
+Nuestro estudiante de maestría en Biología, [José Miguel Rojas Villa](../../people/rojas-villa_jose-miguel/index.qmd), se hizo esa misma pregunta. Para resolverla, trabajó con 15 especies de plantas propias de los páramos, analizando sus características anatómicas, morfológicas e histoquímicas para entender cómo sus semillas y plántulas logran germinar y crecer en estas condiciones tan difíciles.
+
+José está a punto de culminar su maestría y quiere compartir con nosotros los fascinantes resultados de su investigación. ¡Acompáñanos en su sustentación pública! Será una gran oportunidad para aprender más sobre la resiliencia de las plantas en estos ecosistemas únicos.
+
+-   Fecha: 20 de septiembre
+-   Hora: 9:00 a. m. (hora de Colombia)
+-   Enlace: <https://meet.google.com/nbg-iwdt-yjr>
+-   Lugar: 7-327
+
+¡No te lo pierdas! 
