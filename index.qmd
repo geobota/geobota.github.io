@@ -28,7 +28,7 @@ listing:
     type: grid
     image-height: 225px
     image-placeholder: /images/logo/placeholder.png
-    fields: [image, title, author, date]
+    fields: [image, title, date]
     categories: false
     sort-ui: false
     filter-ui: false

@@ -1,0 +1,28 @@
+---
+title: "La importancia de las definiciones en botánica"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-08-10
+citation: true
+
+image: image.jpeg
+
+categories:
+  - Diccionario Botánico
+---
+
+Hoy comenzamos una serie de publicaciones llamada «Diccionario Botánico», donde proporcionaremos definiciones concisas y didácticas sobre conceptos, ideas, términos y palabras fundamentales para la botánica y su comprensión. Nuestro objetivo es ayudar a mejorar los conocimientos botánicos de todos, así como contribuir a superar la ceguera hacia las plantas, un problema moderno en el que muchas personas no son conscientes de las plantas que las rodean ni de su importancia.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen con el título «BOTÁNICA» en letras amarillas grandes. Debajo, en texto amarillo, se lee: «Ciencia que estudia las plantas, su estructura, funciones, crecimiento, evolución y su importancia para el planeta.» El fondo presenta una flor de tonos rosados y púrpuras. En la parte inferior derecha, están el logo de GEOBOTA y los íconos de las redes sociales del grupo."}
+
+La primera definición que traemos es Botánica: la ciencia que estudia las plantas, su estructura, funciones, crecimiento, evolución y su vital importancia para el planeta. La botánica es tan amplia como las plantas mismas, dando lugar a divisiones o subdisciplinas como la anatomía, fisiología, morfología, palinología, taxonomía, entre muchas otras.
+
+Entonces, ¿por qué son importantes las definiciones? En botánica, existen cientos de conceptos, ideas y términos que a menudo son confusos o difíciles de entender. Una buena definición nos proporciona claridad y comprensión, facilitando el estudio de las plantas y mejorando la comunicación en la ciencia.
+
+¡Síguenos para más definiciones!
+
+Fotografía: [Jhon Steven Murillo Serna](../../people/murillo-serna_jhon-steven/index.qmd)

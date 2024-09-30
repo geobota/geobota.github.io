@@ -1,0 +1,42 @@
+---
+title: "La definición más difícil"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-08-10
+citation: true
+
+image: image.jpeg
+
+categories:
+  - Diccionario Botánico
+---
+
+¿Alguna vez te has preguntado qué es una planta? Los científicos, especialmente los botánicos, han tratado de responder esta pregunta desde los inicios del estudio y clasificación de los seres vivos, ¡y aún no hay una definición que satisfaga a todos! Aunque las plantas son el objeto de estudio de la botánica, no contamos con una definición exacta y universalmente aceptada. Para entender por qué, necesitamos explorar otras definiciones, la biodiversidad y la practicidad.
+
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen de la sección «Diccionario Botánico» de GEOBOTA. El fondo es negro con una fotografía de una planta verde a la izquierda y una flor de hibisco roja a la derecha. En el centro se encuentra el texto: «PLANTA. Organismo eucariota, autótrofo, inmóvil, con células de pared celular, que realiza fotosíntesis y tiene alternancia de generaciones». En la esquina superior derecha aparece el logotipo de GEOBOTA, y en la esquina inferior izquierda, el título «Diccionario Botánico». En la esquina inferior derecha están los iconos de Facebook e Instagram junto al usuario @geobotaudea."}
+
+La RAE define «definir» como «fijar con claridad, exactitud y precisión el significado de una palabra o la naturaleza de una cosa». Sin embargo, cuando consideramos que actualmente existen más de 400.000 especies de plantas (sin contar las extintas) 🌿, cada una con características propias y a menudo únicas, esa tarea de «fijar con claridad y exactitud» se vuelve titánica 🏔️. Más aún cuando los factores económicos influyen en qué se investiga 💰.
+
+Además, no debemos olvidar que la biología es una ciencia natural e histórica, donde términos como generalmente, aproximadamente y depende (lo que llamamos el «GAD») son comunes 📚. Al igual que otras grandes preguntas en biología, como «¿qué es la vida?» o «¿qué es un organismo?», definir exactamente qué es una planta sigue siendo un reto.
+
+Entonces, ¿qué caracteriza a las plantas? 🌱 Cuando hablamos de plantas, generalmente nos referimos a las plantas terrestres o embriofitas (sobre las que profundizaremos en otra publicación). La mayoría de ellas comparten las siguientes características:
+
+1.    Alternancia de generaciones: Su ciclo de vida incluye una fase gametofítica (que produce gametos) y una fase esporofítica (que produce esporas).
+2.    Autótrofas: Realizan fotosíntesis para producir su propio alimento, transformando dióxido de carbono y agua en glucosa y oxígeno, utilizando la energía solar.
+3.    Células con pared celular: Poseen paredes celulares compuestas de celulosa, lo que les proporciona rigidez y estructura. Además, contienen una vacuola central que ayuda a mantener la forma celular y almacenar sustancias.
+4.    Cormo: La mayoría de las plantas presentan un cuerpo organizado en raíz, tallo y hojas, conocido como cormo.
+5.    Glioxisomas: Orgánulos exclusivos de las células vegetales que convierten lípidos en carbohidratos durante la germinación de las semillas.
+6.    Inmóviles: Las plantas no tienen capacidad locomotora, aunque algunas partes pueden moverse en respuesta a estímulos (tropismos).
+7.    Reproducción: Se reproducen mediante semillas y esporas, aunque también pueden hacerlo asexualmente por medios vegetativos.
+
+A pesar de estas características generales, seguimos descubriendo nuevas excepciones y particularidades que desafían cualquier definición «exacta». ¡Eso es lo que hace tan fascinante el estudio de las plantas!
+
+¡Síguenos para más definiciones botánicas!
+
+Fotografía: [Jhon Steven Murillo Serna](../../people/murillo-serna_jhon-steven/index.qmd)
+
