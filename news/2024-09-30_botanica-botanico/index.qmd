@@ -1,0 +1,36 @@
+---
+title: "Djaja Djendoel Soejarto"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-09-30
+citation: true
+
+image: image.jpeg
+
+categories:
+  - La botánica - El Botánico
+---
+
+Terminamos el mes de septiembre con nuestra sección «La Botánica - El Botánico», un espacio donde rendimos homenaje a personas clave para la botánica, tanto a nivel local como global. Queremos destacar que detrás del estudio de las plantas, hay personas que han dejado una huella imborrable.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen de fondo oscuro con detalles en tonos rosados y amarillos. En la parte superior izquierda, se encuentra el logo de GEOBOTA. A la derecha, en letras grandes y amarillas, se lee «Linda Escobar». Debajo, el texto: «(1940-1993) Bióloga estadounidense. Profesora de la UdeA entre 1976-1990.» A la derecha, una fotografía en blanco y negro de Linda Escobar, sonriendo, con gafas y el rostro apoyado en su mano. En la parte inferior, se observa la leyenda «La Botánica» y los íconos de las redes sociales @geobotauadea en Instagram y Facebook."}
+
+Hoy celebramos la trayectoria de [Djaja Djendoel Soejarto](https://en.wikipedia.org/wiki/Djaja_Soejarto) (1939), un botánico nacido en Indonesia y ciudadano estadounidense. Además de ser un destacado botánico, es etnobotánico, farmacognosista, académico y autor. Actualmente, es profesor emérito en la Universidad de Illinois en Chicago (UIC) y curador adjunto en el Museo Field de Historia Natural️.
+
+Formación: Djaja obtuvo un Magíster y Doctorado en Biología en la Universidad de Harvard. Entre sus mentores se encuentran André Kosterman y Richard Evans Schultes, dos grandes de la botánica.
+
+Aportes a la ciencia: Entre sus trabajos más destacados se incluyen la revisión del género [*Saurauia*](https://es.wikipedia.org/wiki/Saurauia) ([Actinidiaceae](https://es.wikipedia.org/wiki/Actinidiaceae)), la identificación de plantas tropicales para el desarrollo de fármacos contra el cáncer y el VIH, y sus investigaciones etnobotánicas.
+
+Legado en Colombia: Djaja fue profesor en la [Facultad de Ciencias Exactas y Naturales de la Universidad de Antioquia](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ciencias-exactas-naturales) entre 1969 y 1976. Fundó el [Herbario Universidad de Antioquia](../../herbarium/index.qmd) (HUA) y fue su primer director, sentando las bases para convertirlo en un referente para el estudio de la flora del Neotrópico. Su impacto ha sido fundamental para el reconocimiento del HUA y de la comunidad de botánicos formados allí.
+
+¿Te gustaría saber más sobre Djaja D. Soejarto? Te invitamos a leer «HUA Herbario Universidad de Antioquia: 50 años documentando algas, hongos y plantas de Colombia» en la [sección de publicaciones](../../publications/books/2019-10-21_david-higuita_etal/index.qmd) de nuestro sitio web.
+
+¿Conocías a este botánico?
+
+¡Síguenos para descubrir más sobre los botánicos que han transformado el estudio de las plantas!
+
+Fotografía: [Universidad de Illinois en Chicago](https://pharmacognosy.pharmacy.uic.edu/events/atkins-garden-walk-2023/)

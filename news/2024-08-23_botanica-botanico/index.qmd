@@ -1,0 +1,34 @@
+---
+title: "Linda Katherine Albert de Escobar"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-08-23
+citation: true
+
+image: image.jpeg
+
+categories:
+  - La botánica - El Botánico
+---
+
+Hoy iniciamos una nueva serie de publicaciones llamada «La Botánica - El Botánico», donde rendiremos homenaje a personas que han sido fundamentales para la botánica, tanto a nivel local como global. Con esta serie, queremos destacar que detrás de la botánica hay personas que han dejado una huella imborrable en el estudio de las plantas.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen de fondo oscuro con detalles en tonos rosados y amarillos. En la parte superior izquierda, se encuentra el logo de GEOBOTA. A la derecha, en letras grandes y amarillas, se lee «Linda Escobar». Debajo, el texto: «(1940-1993) Bióloga estadounidense. Profesora de la UdeA entre 1976-1990.» A la derecha, una fotografía en blanco y negro de Linda Escobar, sonriendo, con gafas y el rostro apoyado en su mano. En la parte inferior, se observa la leyenda «La Botánica» y los íconos de las redes sociales @geobotauadea en Instagram y Facebook."}
+
+En esta ocasión, nuestra botánica destacada es [Linda Katherine Albert de Escobar](https://es.wikipedia.org/wiki/Linda_Katherine_Escobar) (1940-1993). Linda fue Bióloga de la Universidad de New Hampshire (1962), Magíster en Ecología Vegetal de la Universidad Purdue (1971) y Doctora en Botánica de la Universidad de Texas en Austin (1980).
+
+Se incorporó como docente al Departamento de Biología (ahora [Instituto de Biología](https://www.udea.edu.co/wps/portal/udea/web/inicio/unidades-academicas/ciencias-exactas-naturales/acerca-facultad/institutos/instituto-biologia)) de la Universidad de Antioquia, donde impartió cursos de Ecología y Ecología Vegetal entre 1976 y 1990. Durante su trayectoria, dirigió el [Herbario Universidad de Antioquia](../../herbarium/index.qmd) (HUA) entre 1981 y 1988. Su pasión y especialización en la familia Passifloraceae (pasifloráceas) la llevaron a realizar importantes investigaciones en Sistemática Vegetal y Composición y Estructura de Comunidades Vegetales.
+
+Varias especies han sido nombradas en su honor, entre ellas: *Stenospermation escobariae* Croat & D.C.Bay (Araceae), *Passiflora linda* Panero (Passifloraceae), *Passiflora escobariana* J.M.MacDougal (Passifloraceae), *Ampelocera albertiae* Todzia (Ulmaceae).
+
+Si eres o has sido estudiante de Biología en la Universidad de Antioquia, probablemente hayas recibido clase en el Laboratorio de Botánica (7-203), que lleva su nombre. En su entrada se encuentra una placa conmemorativa que reza: «En memoria de Linda K. Escobar (1940-1993), quien tuvo la capacidad de transmitir el conocimiento y estimular con entusiasmo el estudio de la flora Neotropical.»
+
+¿Conocías a esta botánica?
+
+¡Síguenos para descubrir más sobre los botánicos y su impacto en el mundo de las plantas!
+
+Fotografía: [Tropicos](https://tropicos.org/image/100501801)
