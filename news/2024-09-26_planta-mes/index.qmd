@@ -1,0 +1,34 @@
+---
+title: "La planta que quizás no notaste en tu ramo de flores"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-09-26
+citation: true
+
+image: image.jpeg
+
+categories:
+  - La planta del mes
+---
+
+Septiembre es el mes del Día del Amor y la Amistad en Colombia, una celebración en la que las flores suelen ser protagonistas. Aunque ya casi se nos termina el mes, no podemos dejar de hablar de nuestra Planta del Mes.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen de la sección«La Planta del Mes» con el título«Rumohra adiantiformis». Se observa una foto detallada del helecho con texto en el centro:«Helecho de cuero o calaguala. Usado como cubresuelos y en floristería. Familia Dryopteridaceae.» En la parte superior derecha, el logo de GEOBOTA. En la parte inferior, los íconos de Instagram y Facebook con el usuario @geobotaudea."}
+
+Es posible que hayas visto este helecho en ramos que recibiste o compraste. Entre los colores vibrantes de las rosas, girasoles y claveles, el helecho [*Rumohra adiantiformis*](https://es.wikipedia.org/wiki/Rumohra_adiantiformis) ha estado allí, dándole equilibrio y realce al conjunto floral. Aunque no siempre llama la atención, este helecho es esencial en floristería por su capacidad de resaltar las flores y proporcionar una base verde y duradera
+
+*Rumohra adiantiformis*, comúnmente conocida como helecho de cuero, pereg o calaguala, pertenece a la familia [Dryopteridaceae](https://es.wikipedia.org/wiki/Dryopteridaceae). Es una planta nativa, ampliamente cultivada por su valor ornamental y por ser un excelente cubresuelos. Sus frondas de un verde oscuro brillante pueden mantenerse frescas durante semanas, lo que lo hace ideal para arreglos florales duraderos. Además de su uso decorativo, también ha sido aprovechada como planta medicinal.
+
+A diferencia de las plantas con flores, los helechos como *Rumohra adiantiformis* se reproducen mediante esporas en lugar de semillas. Este es solo uno de los aspectos fascinantes que los distingue de otros grupos de plantas. ¡Pero dejaremos esos detalles para una futura publicación!
+
+¿Habías notado antes este helecho?
+
+¡Síguenos para descubrir más sobre las plantas que te rodean! 
+
+Fotografía: <a href="https://commons.wikimedia.org/wiki/File:Rumohra_adiantiformis,_Manie_van_der_Schijff_BT.jpg">JMK</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>.
+
+¡Síguenos para descubrir más sobre las plantas que te rodean!

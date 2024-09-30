@@ -1,0 +1,30 @@
+---
+title: "Las plantas que el viento se llevó"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-08-16
+citation: true
+
+image: image.jpeg
+
+categories:
+  - La planta del mes
+---
+
+Hoy damos inicio a una nueva serie de publicaciones llamada «La Planta del Mes». En esta sección, exploraremos una planta en particular, destacando aquellas que a menudo pasan desapercibidas, aquellas que se han convertido en emblemas por alguna razón especial, o aquellas con las que nuestros integrantes han trabajado. Con esta iniciativa, buscamos ayudar a superar la ceguera hacia las plantas y a conocer mejor las especies que nos rodean.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen de una ilustración botánica de Tillandsia recurvata, una planta epífita con hojas finas y curvadas, que crece sobre otras plantas, cables o alambradas. La ilustración muestra la estructura detallada de las hojas y el crecimiento característico de esta especie. Sobre la ilustración, en la parte superior, aparece el nombre científico Tillandsia recurvata en color azul claro, acompañado de un texto en letras más pequeñas que describe a la planta como epífita y perteneciente a la familia Bromeliaceae, la misma familia botánica de la piña. En la esquina superior derecha, el logo de GEOBOTA está en un recuadro verde. En la parte inferior de la imagen, un texto que dice 'La Planta del Mes' está ubicado dentro de una franja verde."}
+
+En este mes de vientos y cometas, nuestra protagonista es [*Tillandsia recurvata*](https://es.wikipedia.org/wiki/Tillandsia_recurvata) (L.) L. Esta planta epífita (a veces llamadas plantas aéreas), pertenece a la familia [Bromeliaceae](https://es.wikipedia.org/wiki/Bromeliaceae), la misma que la piña. *T. recurvata* se distribuye desde el sur de Estados Unidos hasta el centro de Argentina. Suele crecer sobre árboles, alambradas, cables de transmisión eléctrica o vallas.
+
+Pero, ¿cómo logra crecer en estos lugares tan diversos? *T. recurvata* tiene varias adaptaciones notables que le permiten colonizar y sobrevivir en estas superficies. Sus semillas, diminutas (2–3 mm), son dispersadas por el viento (un proceso conocido como anemocoria). Además, alberga bacterias endosimbiontes fijadoras de nitrógeno en su tejido vascular, cuenta con tricomas absorbentes para captar agua de la neblina, y posee mecanismos sofisticados para regular la pérdida de agua por evapotranspiración.
+
+¿Alguna vez has visto esta planta?
+
+¡Síguenos para descubrir más sobre las plantas que te rodean!
+
+Ilustración de <a href="https://commons.wikimedia.org/wiki/File:Summer_Energy_-_Tillandsia_recurvata,_silverpoint,_watercolour,_Jeannine_Cook.jpg">Michedomi</a>, <a href="http://www.gnu.org/copyleft/fdl.html">GFDL</a>.
