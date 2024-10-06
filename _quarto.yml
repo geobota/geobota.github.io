@@ -41,12 +41,12 @@ website:
         href: herbarium/index.qmd
       - text: "Integrantes"
         href: people/index.qmd
+      - text: "Noticias"
+        href: news/index.qmd
       - text: "Proyectos"
         href: projects/index.qmd
       - text: "Publicaciones"
         href: publications/index.qmd
-      - text: "Noticias"
-        href: news/index.qmd
       - text: "XII CCB"
         menu:
           - text: "XII CCB"
@@ -117,6 +117,21 @@ website:
           href: news/index.qmd
           contents:
             - auto: news/*/index.qmd
+
+    - id: xii-ccb
+      contents:
+        - section: "XII CCB"
+          href: xii-ccb/index.qmd
+          contents: 
+            - section: Ponencias
+              href: xii-ccb/index.qmd#presentations
+              contents:
+              - auto: xii-ccb/presentations/**/index.qmd
+            - section: Pósters
+              href: xii-ccb/index.qmd#posters
+              contents:
+              - auto: xii-ccb/posters/**/index.qmd
+
 
   page-footer: 
     left: GEOBOTA © 2024 is licensed under [CC BY 4.0 {{< fa brands creative-commons >}}{{< fa brands creative-commons-by >}}](https://creativecommons.org/licenses/by/4.0/)
