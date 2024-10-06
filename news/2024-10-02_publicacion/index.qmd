@@ -14,7 +14,7 @@ image: images/image_01.jpeg
 categories:
   - Publicación
 
-draft: true
+draft: false
 ---
 
 En el marco de estudios recientes en la familia Fabaceae (fabáceas o leguminosas), nos complace anunciar la publicación en la revista Phytotaxa del artículo "*Dahlstedtia colombiana* (Millettieae, Papilionoideae, Fabaceae), a new species and first record of the genus from Colombia and its Seasonally Tropical Dry Forest" por nuestros estudiantes de maestría, [Ana María Trujillo López](../../people/trujillo-lopez_ana-maria/index.qmd) y [Yeison Londoño Echeverri](../../people/londono-echeverri_yeison/index.qmd), junto al profesor William Ariza-Cortés de la [Universidad Distrital Francisco José de Caldas](https://www.udistrital.edu.co/inicio). 
