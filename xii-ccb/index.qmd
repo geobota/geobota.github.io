@@ -1,13 +1,40 @@
 ---
-# pagetitle: "XII Congreso Colombiano de Botánica"
-# title: "XII Congreso Colombiano de Botánica"
+pagetitle: "GEOBOTA en el XII Congreso Colombiano de Botánica"
+title: "GEOBOTA en el XII Congreso Colombiano de Botánica"
 # title-block-banner: ../images/banner_about.jpg
 # title-block-banner-color: "#FFFFFF"
-toc: false
+toc: true
 # sidebar: false
----
 
-# GEOBOTA en el XII Congreso Colombiano de Botánica
+listing:
+  - id: presentations
+    contents: presentations/**/index.qmd
+    sort:
+      - "title"
+      - "author"
+      - "date desc"
+    type: grid
+    image-height: 225px
+    image-placeholder: /images/logo/placeholder.png
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, author]
+    grid-columns: 3
+    # page-size: 10
+
+  - id: posters
+    contents: posters/**/index.qmd
+    type: grid
+    image-height: 225px
+    image-placeholder: /images/logo/placeholder.png
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, author]
+    grid-columns: 3
+    # page-size: 10
+---
 
 :::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
@@ -55,3 +82,13 @@ Conoce todos los detallas haciendo clic en el nombre o en la imagen del curso.
 :::
 ::::
 :::::
+
+<!-- ## Ponencias {#sec-presentations} -->
+
+::: {#presentations}
+:::
+
+<!-- ## Pósters {#sec-posters} -->
+
+::: {#posters}
+:::
