@@ -1,0 +1,34 @@
+---
+title: "Una situación que conocemos bien"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-10-07
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+¿Te ha pasado que un profesor, asesor o jefe te pide hacer ajustes «simples» en un análisis o informe y te enfrentas a todo tipo de obstáculos? No recordar cómo obtuviste ciertos resultados en Excel, rehacer gráficos desde cero, no saber cuál es la versión correcta de los archivos o tener problemas con documentos en Word.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional del curso "Investigación Reproducible con Quarto" a realizarse el 3 de noviembre en Popayán, Colombia. En la parte superior aparecen los logos de diferentes herramientas científicas como Julia, Python, R, Jupyter, RStudio, y Quarto, junto con un código QR que enlaza geobota.github.io. En la parte inferior, sobre un fondo rosado, aparece: «INVESTIGACIÓN REPRODUCIBLE CON QUARTO. Popayán, Colombia. Noviembre 3. Desde $50.000 COP. ¿Has internado reanalizar tus datos y has tenido problemas? ¡Evítalos inscribiéndote en nuestro curso!». En la parte inferior aparecen los logos de las instituciones organizadoras."}
+
+Muchos de estos inconvenientes se pueden evitar usando una herramienta integral que promueva la reproducibilidad en tu trabajo. Y aquí es donde Quarto entra en juego.
+
+Quarto te permite integrar en un solo espacio diferentes lenguajes de programación, facilitando la creación de gráficos, tablas y mucho más. Además, puedes combinar texto, imágenes, vídeos y referencias bibliográficas, y generar múltiples formatos de salida (docx, pdf, etc.) desde un solo archivo. Lo mejor: con solo modificar ese archivo principal, puedes actualizar todos tus resultados y documentos de manera rápida y eficiente. 
+
+
+Aprende a utilizar Quarto en nuestro curso "Investigación Reproducible con Quarto", que tendrá lugar durante el [XII Congreso Colombiano de Botánica](https://congresobotanica.org).
+
+-   Fecha: 3 de noviembre de 2024
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $50.000 COP
+-   Información: escanea el código QR o visita nuestro pagina web: <https://geobota.github.io/xii-ccb-quarto/>
+
+¡Nos vemos en el curso!

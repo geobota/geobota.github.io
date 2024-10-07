@@ -1,0 +1,33 @@
+---
+title: "Polen y esporas: las estrellas de la aerobiología"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-10-04
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+En el fascinante mundo de la aerobiología, las biopartículas más estudiadas son el polen y las esporas de los hongos. ¿Sabes por qué? Estas partículas son claves no solo por su importancia biológica, sino también por razones históricas, prácticas y económicas.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional del curso «Introducción a la Aerobiología», que se llevará a cabo el 4 de noviembre de 2024 en Popayán, Colombia, como parte del XII Congreso Colombiano de Botánica. En la parte superior se encuentra un QR hacia geobota.github.io y el logro del congreso. En la parte izquierda se encuentra la fotografía de un grano de polen. El texto principal dice: «¿Sabías que el polen y las esporas son las partículas más estudiadas por la aerobiología? ¡Estúdialas inscribiéndote en nuestro curso! INTRODUCCIÓN A LA AEROBIOLOGÍA. Popayán, Colombia. Noviembre 4. Desde $20.000 COP. En la parte inferior se encuentran los logos de las instituciones organizadoras. "}
+
+El polen es el elemento reproductivo masculino de las plantas con semillas (espermatófitas: gimnospermas y plantas con flor). Estas diminutas células, rodeadas de una pared protectora resistente, son liberadas de las anteras de las flores para ser transportadas por viento, agua o animales (insectos, aves e incluso murciélagos). Su misión es fecundar la parte femenina de la flor para asegurar la continuidad de la especie. Aunque el polen es vital para las plantas, en algunos casos también puede provocar alergias conocidas como polinosis.
+
+Las esporas, por su parte, son unidades de diseminación de los hongos, siendo de origen sexual como asexual. Su tamaño reducido y su resistencia les permiten viajar largas distancias por el aire, y sus concentraciones pueden ser hasta 10 veces mayores que las del polen en la atmósfera.
+
+¿Quieres aprender más sobre estas fascinantes biopartículas? Inscríbete en nuestro curso «Introducción a la Aerobiología», que se llevará a cabo en el [XII Congreso Colombiano de Botánica](https://congresobotanica.org).
+
+-   Fecha: 3 de noviembre de 2024
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $20.000 COP
+-   Información: escanea el código QR o visita nuestro pagina web: <https://geobota.github.io/xii-ccb-aerobiologia/>
+
+¡No pierdas la oportunidad de aprender y sumergirte en el mundo de la aerobiología!
