@@ -12,7 +12,7 @@ citation: true
 image: image.jpeg
 
 categories:
-  - Diccionario Botánico
+  - Diccionario botánico
 ---
 
 ¿Alguna vez te has preguntado qué es una planta? Los científicos, especialmente los botánicos, han tratado de responder esta pregunta desde los inicios del estudio y clasificación de los seres vivos, ¡y aún no hay una definición que satisfaga a todos! Aunque las plantas son el objeto de estudio de la botánica, no contamos con una definición exacta y universalmente aceptada. Para entender por qué, necesitamos explorar otras definiciones, la biodiversidad y la practicidad.

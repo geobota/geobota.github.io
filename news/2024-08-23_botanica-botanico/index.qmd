@@ -12,7 +12,7 @@ citation: true
 image: image.jpeg
 
 categories:
-  - La botánica - El Botánico
+  - La botánica - El botánico
 ---
 
 Hoy iniciamos una nueva serie de publicaciones llamada «La Botánica - El Botánico», donde rendiremos homenaje a personas que han sido fundamentales para la botánica, tanto a nivel local como global. Con esta serie, queremos destacar que detrás de la botánica hay personas que han dejado una huella imborrable en el estudio de las plantas.

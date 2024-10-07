@@ -12,7 +12,7 @@ citation: true
 image: image.jpeg
 
 categories:
-  - La botánica - El Botánico
+  - La botánica - El botánico
 ---
 
 Terminamos el mes de septiembre con nuestra sección «La Botánica - El Botánico», un espacio donde rendimos homenaje a personas clave para la botánica, tanto a nivel local como global. Queremos destacar que detrás del estudio de las plantas, hay personas que han dejado una huella imborrable.

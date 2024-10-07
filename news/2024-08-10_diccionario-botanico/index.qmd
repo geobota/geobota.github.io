@@ -12,7 +12,7 @@ citation: true
 image: image.jpeg
 
 categories:
-  - Diccionario Botánico
+  - Diccionario botánico
 ---
 
 Hoy comenzamos una serie de publicaciones llamada «Diccionario Botánico», donde proporcionaremos definiciones concisas y didácticas sobre conceptos, ideas, términos y palabras fundamentales para la botánica y su comprensión. Nuestro objetivo es ayudar a mejorar los conocimientos botánicos de todos, así como contribuir a superar la ceguera hacia las plantas, un problema moderno en el que muchas personas no son conscientes de las plantas que las rodean ni de su importancia.
