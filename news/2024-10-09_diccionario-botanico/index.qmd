@@ -1,0 +1,34 @@
+---
+title: "Las que conquistaron la tierra"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-10-09
+citation: true
+
+image: image.jpeg
+
+categories:
+  - Diccionario Botánico
+
+draft: true
+---
+
+En una [publicación anterior](../2024-09-23_diccionario-botanico) mencionamos a las plantas terrestres o embriofitas. Hoy, en nuestro Diccionario Botánico, te contamos más sobre ellas.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen con varias plantas de fondo que representan a las Embryophyta, un grupo de plantas que produce embriones y está conformado por las briofitas y plantas vasculares, conocidas como plantas terrestres. El texto principal dice: "Embryophyta: Grupo de plantas que producen embriones y está conformado por las briofitas y las plantas vasculares. Conocidas como plantas terrestres". En la esquina superior derecha aparece el logotipo de GEOBOTA, y en la esquina inferior izquierda, el título «Diccionario Botánico». En la esquina inferior derecha están los iconos de Facebook e Instagram junto al usuario @geobotaudea."}
+
+Embryophyta es el nombre científico que agrupa a las plantas terrestres, que incluyen desde los musgos (Bryophyta) hasta las plantas vasculares (Tracheophyta). ¡Son más de 370.000 especies de plantas!
+
+Entre sus características principales se encuentra la alternancia de generaciones: el esporofito (fase diploide) y el gametofito (fase haploide). Además, las embriofitas desarrollan un embrión, un esporofito inmaduro que se nutre del gametofito. También presentan estructuras especializadas como el anteridio (para los gametos masculinos) y el arquegonio (para los gametos femeninos).
+
+Otras adaptaciones importantes incluyen la cutina y la cutícula, que ayudan a protegerlas del ambiente terrestre, y los flavonoides, compuestos esenciales para su desarrollo.
+
+¿Conocías este nombre científico?
+
+Síguenos para más definiciones botánicas!
+
+Fotografía: <a href="https://commons.wikimedia.org/wiki/File:Embryophyta_1.png">Bildzusammenstellung von Sciencia58, Einzelbilder: Manfred Morgner (ka-em-zwei-ein), B.navez, Nefronus, Rob Hille, JJ Harrison (https://www.jjharrison.com.au/), Cayambe, User:BotBln, Englemann Spruce, Ed Ogle, www.biolib.de, SonoranDesertNPS from Tucson, Saguaro cactus, Andreas Eils, Christoph Neumüller,  Kurt Stueber, Syrio, Gideon Pisanty Gidip, Maya Kandler,</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, 

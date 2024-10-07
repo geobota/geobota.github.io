@@ -1,0 +1,37 @@
+---
+title: "Análisis y técnicas en etnobotánica cuantitativa"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+  - name: "Bladimir Vera-Marín"
+date: 2024-10-11
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+
+draft: true
+---
+
+Ya que [hemos explorado](../2024-09-04_xii-ccb) qué es la etnobotánica cuantitativa y por qué hacerla en R, ahora profundizaremos en los métodos y análisis que nos permiten comprender mejor las relaciones entre los seres humanos y las plantas.
+
+![](image.jpeg){fig-align="center" fig-alt="Afiche promocional del curso «Etnobotánica Cuantitativa en R» en el XII Congreso Colombiano de Botánica. En la parte superior aparece el logro del congreso, un gráfico circular y un código QR que enlaza a «geobota.github.io». En el centro aparece el texto: «ETNOBOTÁNICA CUANTITATIVA EN R. Popayán, Colombia. 2-3 de noviembre. Desde $100.000 COP. Aprende a realizar análisis etnobotánicos con técnicas cuantitativas que marcan la diferencia». En la parte inferior aparecen los logos de las instituciones organizadoras."}
+
+Entre los análisis más utilizados se encuentran los índices etnobotánicos, que miden la diversidad de plantas y su importancia cultural. También se utilizan modelos univariados y multivariados para explicar la distribución y abundancia de plantas, así como su relación con variables ambientales y culturales.
+
+Estos métodos no solo ayudan en la conservación de la biodiversidad y recursos genéticos, sino también en la formulación de programas sostenibles y políticas para proteger el conocimiento tradicional y los derechos de las comunidades locales.
+
+Aprende estos y otros análisis en nuestro curso "Etnobotánica Cuantitativa en R", que se llevará a cabo en el
+ [XII Congreso Colombiano de Botánica](https://congresobotanica.org).
+
+-   Fecha: 2-3 de noviembre de 2024
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $100.000 COP
+-   Información: escanea el código QR o visita nuestro pagina web: <https://geobota.github.io/xii-ccb-etnobotanica/>
+
+¡Inscríbete ahora y asegura tu cupo!
