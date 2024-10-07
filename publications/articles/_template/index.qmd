@@ -1,0 +1,31 @@
+---
+title: "Título del artículo"
+type: "article"
+author:
+  - name: "**Nombre Apellido-Apellido**" # Integrante GEOBOTA
+    orcid: 0000-0000-0000-0000
+  - name: "Nombre Apellido-Apellido" # No integrante GEOBOTA
+year: 2024
+date: 2024-01-01
+publication: Nombre de la revista
+doi: https://doi.org/
+materials: ""
+
+categories:
+  - Palabras
+  - Claves
+  - Del
+  - Artículo
+
+draft: true
+---
+
+## Abstract
+
+TEXTO
+
+## Citation 
+
+<!-- Estilo APA cómo se obtiene de Zotero -->
+
+> Apellido-Apellido, N., Apellido-Apellido, N., & Apellido-Apellido, N. (2024). Título del artículo. *Nombre de la revista*, 000(0), 00-00. https://doi.org/

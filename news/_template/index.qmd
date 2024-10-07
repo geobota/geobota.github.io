@@ -1,0 +1,32 @@
+---
+title: "Título de la publicación"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: ../../people/espinosa-correa_alex/index.qmd
+date: 2024-01-01
+citation: true # Opcional. En Noticias no lo lleva
+
+image: image.jpeg
+
+categories:
+  # - Diccionario botánico
+  # - Evento
+  # - La botánica - El botánico
+  # - La planta del mes
+  # - Noticias
+  # - Podcast
+  # - Publicación
+  # - Webinar
+  # - XII CCB
+
+draft: true
+---
+
+TEXTO
+
+![](image.jpeg){fig-align="center" fig-alt="Texto alternativo"}
+
+TEXTO
