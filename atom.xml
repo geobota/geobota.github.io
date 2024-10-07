@@ -17,7 +17,91 @@
 <width>144</width>
 </image>
 <generator>quarto-1.5.56</generator>
-<lastBuildDate>Wed, 02 Oct 2024 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 07 Oct 2024 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Una situación que conocemos bien</title>
+  <dc:creator>Álex Espinosa-Correa</dc:creator>
+  <link>http://geobota.github.io/news/2024-10-07_xii-ccb/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¿Te ha pasado que un profesor, asesor o jefe te pide hacer ajustes «simples» en un análisis o informe y te enfrentas a todo tipo de obstáculos? No recordar cómo obtuviste ciertos resultados en Excel, rehacer gráficos desde cero, no saber cuál es la versión correcta de los archivos o tener problemas con documentos en Word.</p>
+<p><img src="http://geobota.github.io/news/2024-10-07_xii-ccb/image.jpeg" class="img-fluid">{fig-align=“center” fig-alt=“Imagen promocional del curso”Investigación Reproducible con Quarto” a realizarse el 3 de noviembre en Popayán, Colombia. En la parte superior aparecen los logos de diferentes herramientas científicas como Julia, Python, R, Jupyter, RStudio, y Quarto, junto con un código QR que enlaza geobota.github.io. En la parte inferior, sobre un fondo rosado, aparece: «INVESTIGACIÓN REPRODUCIBLE CON QUARTO. Popayán, Colombia. Noviembre 3. Desde $50.000 COP. ¿Has internado reanalizar tus datos y has tenido problemas? ¡Evítalos inscribiéndote en nuestro curso!». En la parte inferior aparecen los logos de las instituciones organizadoras.”}</p>
+<p>Muchos de estos inconvenientes se pueden evitar usando una herramienta integral que promueva la reproducibilidad en tu trabajo. Y aquí es donde Quarto entra en juego.</p>
+<p>Quarto te permite integrar en un solo espacio diferentes lenguajes de programación, facilitando la creación de gráficos, tablas y mucho más. Además, puedes combinar texto, imágenes, vídeos y referencias bibliográficas, y generar múltiples formatos de salida (docx, pdf, etc.) desde un solo archivo. Lo mejor: con solo modificar ese archivo principal, puedes actualizar todos tus resultados y documentos de manera rápida y eficiente.</p>
+<p>Aprende a utilizar Quarto en nuestro curso “Investigación Reproducible con Quarto”, que tendrá lugar durante el <a href="https://congresobotanica.org">XII Congreso Colombiano de Botánica</a>.</p>
+<ul>
+<li>Fecha: 3 de noviembre de 2024</li>
+<li>Lugar: Popayán, Colombia</li>
+<li>Inversión: Desde $50.000 COP</li>
+<li>Información: escanea el código QR o visita nuestro pagina web: <a href="https://geobota.github.io/xii-ccb-quarto/" class="uri">https://geobota.github.io/xii-ccb-quarto/</a></li>
+</ul>
+<p>¡Nos vemos en el curso!</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2024,
+  author = {Espinosa-Correa, Álex},
+  title = {Una situación que conocemos bien},
+  date = {2024-10-07},
+  url = {http://geobota.github.io/news/2024-10-07_xii-ccb/},
+  langid = {es}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2024" class="csl-entry quarto-appendix-citeas">
+Espinosa-Correa, Álex. 2024. <span>“Una situación que conocemos
+bien.”</span> October 7, 2024. <a href="http://geobota.github.io/news/2024-10-07_xii-ccb/">http://geobota.github.io/news/2024-10-07_xii-ccb/</a>.
+</div></div></section></div> ]]></description>
+  <category>XII CCB</category>
+  <guid>http://geobota.github.io/news/2024-10-07_xii-ccb/</guid>
+  <pubDate>Mon, 07 Oct 2024 05:00:00 GMT</pubDate>
+  <media:content url="http://geobota.github.io/news/2024-10-07_xii-ccb/image.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Polen y esporas: las estrellas de la aerobiología</title>
+  <dc:creator>Álex Espinosa-Correa</dc:creator>
+  <link>http://geobota.github.io/news/2024-10-04_xii-ccb/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>En el fascinante mundo de la aerobiología, las biopartículas más estudiadas son el polen y las esporas de los hongos. ¿Sabes por qué? Estas partículas son claves no solo por su importancia biológica, sino también por razones históricas, prácticas y económicas.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://geobota.github.io/news/2024-10-04_xii-ccb/image.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Imagen promocional del curso «Introducción a la Aerobiología», que se llevará a cabo el 4 de noviembre de 2024 en Popayán, Colombia, como parte del XII Congreso Colombiano de Botánica. En la parte superior se encuentra un QR hacia geobota.github.io y el logro del congreso. En la parte izquierda se encuentra la fotografía de un grano de polen. El texto principal dice: «¿Sabías que el polen y las esporas son las partículas más estudiadas por la aerobiología? ¡Estúdialas inscribiéndote en nuestro curso! INTRODUCCIÓN A LA AEROBIOLOGÍA. Popayán, Colombia. Noviembre 4. Desde $20.000 COP. En la parte inferior se encuentran los logos de las instituciones organizadoras. "></p>
+</figure>
+</div>
+<p>El polen es el elemento reproductivo masculino de las plantas con semillas (espermatófitas: gimnospermas y plantas con flor). Estas diminutas células, rodeadas de una pared protectora resistente, son liberadas de las anteras de las flores para ser transportadas por viento, agua o animales (insectos, aves e incluso murciélagos). Su misión es fecundar la parte femenina de la flor para asegurar la continuidad de la especie. Aunque el polen es vital para las plantas, en algunos casos también puede provocar alergias conocidas como polinosis.</p>
+<p>Las esporas, por su parte, son unidades de diseminación de los hongos, siendo de origen sexual como asexual. Su tamaño reducido y su resistencia les permiten viajar largas distancias por el aire, y sus concentraciones pueden ser hasta 10 veces mayores que las del polen en la atmósfera.</p>
+<p>¿Quieres aprender más sobre estas fascinantes biopartículas? Inscríbete en nuestro curso «Introducción a la Aerobiología», que se llevará a cabo en el <a href="https://congresobotanica.org">XII Congreso Colombiano de Botánica</a>.</p>
+<ul>
+<li>Fecha: 3 de noviembre de 2024</li>
+<li>Lugar: Popayán, Colombia</li>
+<li>Inversión: Desde $20.000 COP</li>
+<li>Información: escanea el código QR o visita nuestro pagina web: <a href="https://geobota.github.io/xii-ccb-aerobiologia/" class="uri">https://geobota.github.io/xii-ccb-aerobiologia/</a></li>
+</ul>
+<p>¡No pierdas la oportunidad de aprender y sumergirte en el mundo de la aerobiología!</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2024,
+  author = {Espinosa-Correa, Álex},
+  title = {Polen y esporas: las estrellas de la aerobiología},
+  date = {2024-10-04},
+  url = {http://geobota.github.io/news/2024-10-04_xii-ccb/},
+  langid = {es}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2024" class="csl-entry quarto-appendix-citeas">
+Espinosa-Correa, Álex. 2024. <span>“Polen y esporas: las estrellas de la
+aerobiología.”</span> October 4, 2024. <a href="http://geobota.github.io/news/2024-10-04_xii-ccb/">http://geobota.github.io/news/2024-10-04_xii-ccb/</a>.
+</div></div></section></div> ]]></description>
+  <category>XII CCB</category>
+  <guid>http://geobota.github.io/news/2024-10-04_xii-ccb/</guid>
+  <pubDate>Fri, 04 Oct 2024 05:00:00 GMT</pubDate>
+  <media:content url="http://geobota.github.io/news/2024-10-04_xii-ccb/image.jpeg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>¡Nueva especie de planta para Colombia!</title>
   <dc:creator>Álex Espinosa-Correa</dc:creator>
@@ -110,7 +194,7 @@ Colombia!”</span> October 2, 2024. <a href="http://geobota.github.io/news/2024
 Espinosa-Correa, Álex. 2024. <span>“Djaja Djendoel Soejarto.”</span>
 September 30, 2024. <a href="http://geobota.github.io/news/2024-09-30_botanica-botanico/">http://geobota.github.io/news/2024-09-30_botanica-botanico/</a>.
 </div></div></section></div> ]]></description>
-  <category>La botánica - El Botánico</category>
+  <category>La botánica - El botánico</category>
   <guid>http://geobota.github.io/news/2024-09-30_botanica-botanico/</guid>
   <pubDate>Mon, 30 Sep 2024 05:00:00 GMT</pubDate>
   <media:content url="http://geobota.github.io/news/2024-09-30_botanica-botanico/image.jpeg" medium="image" type="image/jpeg"/>
@@ -292,6 +376,55 @@ Espinosa-Correa, Álex. 2024. <span>“¿Qué es Quarto?”</span> September
   <media:content url="http://geobota.github.io/news/2024-09-24_xii-ccb/image.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>La definición más difícil</title>
+  <dc:creator>Álex Espinosa-Correa</dc:creator>
+  <link>http://geobota.github.io/news/2024-09-23_diccionario-botanico/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¿Alguna vez te has preguntado qué es una planta? Los científicos, especialmente los botánicos, han tratado de responder esta pregunta desde los inicios del estudio y clasificación de los seres vivos, ¡y aún no hay una definición que satisfaga a todos! Aunque las plantas son el objeto de estudio de la botánica, no contamos con una definición exacta y universalmente aceptada. Para entender por qué, necesitamos explorar otras definiciones, la biodiversidad y la practicidad.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://geobota.github.io/news/2024-09-23_diccionario-botanico/image.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Imagen de la sección «Diccionario Botánico» de GEOBOTA. El fondo es negro con una fotografía de una planta verde a la izquierda y una flor de hibisco roja a la derecha. En el centro se encuentra el texto: «PLANTA. Organismo eucariota, autótrofo, inmóvil, con células de pared celular, que realiza fotosíntesis y tiene alternancia de generaciones». En la esquina superior derecha aparece el logotipo de GEOBOTA, y en la esquina inferior izquierda, el título «Diccionario Botánico». En la esquina inferior derecha están los iconos de Facebook e Instagram junto al usuario @geobotaudea."></p>
+</figure>
+</div>
+<p>La RAE define «definir» como «fijar con claridad, exactitud y precisión el significado de una palabra o la naturaleza de una cosa». Sin embargo, cuando consideramos que actualmente existen más de 400.000 especies de plantas (sin contar las extintas), cada una con características propias y a menudo únicas, esa tarea de «fijar con claridad y exactitud» se vuelve titánica️. Más aún cuando los factores económicos influyen en qué se investiga.</p>
+<p>Además, no debemos olvidar que la biología es una ciencia natural e histórica, donde términos como generalmente, aproximadamente y depende (lo que llamamos el «GAD») son comunes. Al igual que otras grandes preguntas en biología, como «¿qué es la vida?» o «¿qué es un organismo?», definir exactamente qué es una planta sigue siendo un reto.</p>
+<p>Entonces, ¿qué caracteriza a las plantas? Cuando hablamos de plantas, generalmente nos referimos a las plantas terrestres o embriofitas (sobre las que profundizaremos en otra publicación). La mayoría de ellas comparten las siguientes características:</p>
+<ol type="1">
+<li>Alternancia de generaciones: Su ciclo de vida incluye una fase gametofítica (que produce gametos) y una fase esporofítica (que produce esporas).</li>
+<li>Autótrofas: Realizan fotosíntesis para producir su propio alimento, transformando dióxido de carbono y agua en glucosa y oxígeno, utilizando la energía solar.</li>
+<li>Células con pared celular: Poseen paredes celulares compuestas de celulosa, lo que les proporciona rigidez y estructura. Además, contienen una vacuola central que ayuda a mantener la forma celular y almacenar sustancias.</li>
+<li>Cormo: La mayoría de las plantas presentan un cuerpo organizado en raíz, tallo y hojas, conocido como cormo.</li>
+<li>Glioxisomas: Orgánulos exclusivos de las células vegetales que convierten lípidos en carbohidratos durante la germinación de las semillas.</li>
+<li>Inmóviles: Las plantas no tienen capacidad locomotora, aunque algunas partes pueden moverse en respuesta a estímulos (tropismos).</li>
+<li>Reproducción: Se reproducen mediante semillas y esporas, aunque también pueden hacerlo asexualmente por medios vegetativos.</li>
+</ol>
+<p>A pesar de estas características generales, seguimos descubriendo nuevas excepciones y particularidades que desafían cualquier definición «exacta». ¡Eso es lo que hace tan fascinante el estudio de las plantas!</p>
+<p>¡Síguenos para más definiciones botánicas!</p>
+<p>Fotografía: <a href="../../people/murillo-serna_jhon-steven/index.html">Jhon Steven Murillo Serna</a></p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2024,
+  author = {Espinosa-Correa, Álex},
+  title = {La definición más difícil},
+  date = {2024-09-23},
+  url = {http://geobota.github.io/news/2024-09-23_diccionario-botanico/},
+  langid = {es}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2024" class="csl-entry quarto-appendix-citeas">
+Espinosa-Correa, Álex. 2024. <span>“La definición más difícil.”</span>
+September 23, 2024. <a href="http://geobota.github.io/news/2024-09-23_diccionario-botanico/">http://geobota.github.io/news/2024-09-23_diccionario-botanico/</a>.
+</div></div></section></div> ]]></description>
+  <category>Diccionario botánico</category>
+  <guid>http://geobota.github.io/news/2024-09-23_diccionario-botanico/</guid>
+  <pubDate>Mon, 23 Sep 2024 05:00:00 GMT</pubDate>
+  <media:content url="http://geobota.github.io/news/2024-09-23_diccionario-botanico/image.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
   <title>¿Qué son las biopartículas?</title>
   <dc:creator>Álex Espinosa-Correa</dc:creator>
   <link>http://geobota.github.io/news/2024-09-10_xii-ccb/</link>
@@ -381,6 +514,7 @@ September 6, 2024. <a href="http://geobota.github.io/news/2024-09-06_evento/">ht
 <item>
   <title>¿Qué es la etnobotánica?</title>
   <dc:creator>Álex Espinosa-Correa</dc:creator>
+  <dc:creator>Bladimir Vera-Marín</dc:creator>
   <link>http://geobota.github.io/news/2024-09-04_xii-ccb/</link>
   <description><![CDATA[ 
 
@@ -406,15 +540,15 @@ September 6, 2024. <a href="http://geobota.github.io/news/2024-09-06_evento/">ht
 
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2024,
-  author = {Espinosa-Correa, Álex},
+  author = {Espinosa-Correa, Álex and Vera-Marín, Bladimir},
   title = {¿Qué es la etnobotánica?},
   date = {2024-09-04},
   url = {http://geobota.github.io/news/2024-09-04_xii-ccb/},
   langid = {es}
 }
 </code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2024" class="csl-entry quarto-appendix-citeas">
-Espinosa-Correa, Álex. 2024. <span>“¿Qué es la etnobotánica?”</span>
-September 4, 2024. <a href="http://geobota.github.io/news/2024-09-04_xii-ccb/">http://geobota.github.io/news/2024-09-04_xii-ccb/</a>.
+Espinosa-Correa, Álex, and Bladimir Vera-Marín. 2024. <span>“¿Qué es la
+etnobotánica?”</span> September 4, 2024. <a href="http://geobota.github.io/news/2024-09-04_xii-ccb/">http://geobota.github.io/news/2024-09-04_xii-ccb/</a>.
 </div></div></section></div> ]]></description>
   <category>XII CCB</category>
   <guid>http://geobota.github.io/news/2024-09-04_xii-ccb/</guid>
@@ -598,7 +732,7 @@ ciencia.”</span> August 27, 2024. <a href="http://geobota.github.io/news/2024-
 Espinosa-Correa, Álex. 2024. <span>“Linda Katherine Albert de
 Escobar.”</span> August 23, 2024. <a href="http://geobota.github.io/news/2024-08-23_botanica-botanico/">http://geobota.github.io/news/2024-08-23_botanica-botanico/</a>.
 </div></div></section></div> ]]></description>
-  <category>La botánica - El Botánico</category>
+  <category>La botánica - El botánico</category>
   <guid>http://geobota.github.io/news/2024-08-23_botanica-botanico/</guid>
   <pubDate>Fri, 23 Aug 2024 05:00:00 GMT</pubDate>
   <media:content url="http://geobota.github.io/news/2024-08-23_botanica-botanico/image.jpeg" medium="image" type="image/jpeg"/>
@@ -766,153 +900,10 @@ Etnobotánica Cuantitativa en R!”</span> August 13, 2024. <a href="http://geob
 Espinosa-Correa, Álex. 2024. <span>“La importancia de las definiciones
 en botánica.”</span> August 10, 2024. <a href="http://geobota.github.io/news/2024-08-10_diccionario-botanico/">http://geobota.github.io/news/2024-08-10_diccionario-botanico/</a>.
 </div></div></section></div> ]]></description>
-  <category>Diccionario Botánico</category>
+  <category>Diccionario botánico</category>
   <guid>http://geobota.github.io/news/2024-08-10_diccionario-botanico/</guid>
   <pubDate>Sat, 10 Aug 2024 05:00:00 GMT</pubDate>
   <media:content url="http://geobota.github.io/news/2024-08-10_diccionario-botanico/image.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>La definición más difícil</title>
-  <dc:creator>Álex Espinosa-Correa</dc:creator>
-  <link>http://geobota.github.io/news/2024-09-23_diccionario-botanico/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>¿Alguna vez te has preguntado qué es una planta? Los científicos, especialmente los botánicos, han tratado de responder esta pregunta desde los inicios del estudio y clasificación de los seres vivos, ¡y aún no hay una definición que satisfaga a todos! Aunque las plantas son el objeto de estudio de la botánica, no contamos con una definición exacta y universalmente aceptada. Para entender por qué, necesitamos explorar otras definiciones, la biodiversidad y la practicidad.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2024-09-23_diccionario-botanico/image.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Imagen de la sección «Diccionario Botánico» de GEOBOTA. El fondo es negro con una fotografía de una planta verde a la izquierda y una flor de hibisco roja a la derecha. En el centro se encuentra el texto: «PLANTA. Organismo eucariota, autótrofo, inmóvil, con células de pared celular, que realiza fotosíntesis y tiene alternancia de generaciones». En la esquina superior derecha aparece el logotipo de GEOBOTA, y en la esquina inferior izquierda, el título «Diccionario Botánico». En la esquina inferior derecha están los iconos de Facebook e Instagram junto al usuario @geobotaudea."></p>
-</figure>
-</div>
-<p>La RAE define «definir» como «fijar con claridad, exactitud y precisión el significado de una palabra o la naturaleza de una cosa». Sin embargo, cuando consideramos que actualmente existen más de 400.000 especies de plantas (sin contar las extintas) 🌿, cada una con características propias y a menudo únicas, esa tarea de «fijar con claridad y exactitud» se vuelve titánica 🏔️. Más aún cuando los factores económicos influyen en qué se investiga 💰.</p>
-<p>Además, no debemos olvidar que la biología es una ciencia natural e histórica, donde términos como generalmente, aproximadamente y depende (lo que llamamos el «GAD») son comunes 📚. Al igual que otras grandes preguntas en biología, como «¿qué es la vida?» o «¿qué es un organismo?», definir exactamente qué es una planta sigue siendo un reto.</p>
-<p>Entonces, ¿qué caracteriza a las plantas? 🌱 Cuando hablamos de plantas, generalmente nos referimos a las plantas terrestres o embriofitas (sobre las que profundizaremos en otra publicación). La mayoría de ellas comparten las siguientes características:</p>
-<ol type="1">
-<li>Alternancia de generaciones: Su ciclo de vida incluye una fase gametofítica (que produce gametos) y una fase esporofítica (que produce esporas).</li>
-<li>Autótrofas: Realizan fotosíntesis para producir su propio alimento, transformando dióxido de carbono y agua en glucosa y oxígeno, utilizando la energía solar.</li>
-<li>Células con pared celular: Poseen paredes celulares compuestas de celulosa, lo que les proporciona rigidez y estructura. Además, contienen una vacuola central que ayuda a mantener la forma celular y almacenar sustancias.</li>
-<li>Cormo: La mayoría de las plantas presentan un cuerpo organizado en raíz, tallo y hojas, conocido como cormo.</li>
-<li>Glioxisomas: Orgánulos exclusivos de las células vegetales que convierten lípidos en carbohidratos durante la germinación de las semillas.</li>
-<li>Inmóviles: Las plantas no tienen capacidad locomotora, aunque algunas partes pueden moverse en respuesta a estímulos (tropismos).</li>
-<li>Reproducción: Se reproducen mediante semillas y esporas, aunque también pueden hacerlo asexualmente por medios vegetativos.</li>
-</ol>
-<p>A pesar de estas características generales, seguimos descubriendo nuevas excepciones y particularidades que desafían cualquier definición «exacta». ¡Eso es lo que hace tan fascinante el estudio de las plantas!</p>
-<p>¡Síguenos para más definiciones botánicas!</p>
-<p>Fotografía: <a href="../../people/murillo-serna_jhon-steven/index.html">Jhon Steven Murillo Serna</a></p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2024,
-  author = {Espinosa-Correa, Álex},
-  title = {La definición más difícil},
-  date = {2024-08-10},
-  url = {http://geobota.github.io/news/2024-09-23_diccionario-botanico/},
-  langid = {es}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2024" class="csl-entry quarto-appendix-citeas">
-Espinosa-Correa, Álex. 2024. <span>“La definición más difícil.”</span>
-August 10, 2024. <a href="http://geobota.github.io/news/2024-09-23_diccionario-botanico/">http://geobota.github.io/news/2024-09-23_diccionario-botanico/</a>.
-</div></div></section></div> ]]></description>
-  <category>Diccionario Botánico</category>
-  <guid>http://geobota.github.io/news/2024-09-23_diccionario-botanico/</guid>
-  <pubDate>Sat, 10 Aug 2024 05:00:00 GMT</pubDate>
-  <media:content url="http://geobota.github.io/news/2024-09-23_diccionario-botanico/image.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>¡Estamos en el XII Congreso Colombiano de Botánica!</title>
-  <dc:creator>Álex Espinosa-Correa</dc:creator>
-  <link>http://geobota.github.io/news/2024-08-01_xii-ccb/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Como cada dos años, la comunidad botánica colombiana se reúne, ¡y nosotros no podíamos faltar! La cita será en la Ciudad Blanca (Popayán) entre el 4 y el 8 de noviembre en el <a href="https://congresobotanica.org">XII Congreso Colombiano de Botánica</a>. Además de charlas, pósteres y muy buenos momentos, estaremos presentes con tres cursos precongreso (2 y 3 de noviembre).</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2024-08-01_xii-ccb/image.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Anuncio del XII Congreso Colombiano de Botánica con información sobre cursos precongreso. La imagen tiene el título «¡Nos estamos preparando!» en la parte superior. Luego, se menciona el XII Congreso Colombiano de Botánica que se celebrará en Popayán, Cauca, del 4 al 8 de noviembre de 2024, con el lema «Botánica y biocultura para la sostenibilidad de los territorios». Se destacan tres cursos precongreso: Etnobotánica Cuantitativa en R, Introducción a la Aerobiología e Investigación Reproducible en Quarto. Se incluye un QR para obtener más información y el logo de GEOBOTA en la parte inferior."></p>
-</figure>
-</div>
-<ul>
-<li><p><a href="https://geobota.github.io/xii-ccb-etnobotanica/">Etnobotánica Cuantitativa en R</a>: Aprende sobre etnobotánica y descubre el potencial de los análisis cuantitativos potenciados por la poderosas herramientas de R.</p></li>
-<li><p><a href="https://geobota.github.io/xii-ccb-aerobiologia/">Introducción a la Aerobiología</a>: Conoce las partículas de origen biológico que se encuentran en la atmósfera, cómo pueden afectarte a ti y a tu entorno, además de cómo estudiarlas.</p></li>
-<li><p><a href="https://geobota.github.io/xii-ccb-quarto/">Investigación Reproducible con Quarto</a>: Entiende la importancia de la ciencia abierta y reproducible aprendiendo a manejar el sistema de publicación Quarto y software relacionado.</p></li>
-</ul>
-<p>Conoce todos los detalles de estos cursos yendo al <a href="../../index.html">inicio</a> o escaneando el código QR de la imagen.</p>
-<p>¡Te esperamos en Popayán!</p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2024,
-  author = {Espinosa-Correa, Álex},
-  title = {¡Estamos en el XII Congreso Colombiano de Botánica!},
-  date = {2024-08-01},
-  url = {http://geobota.github.io/news/2024-08-01_xii-ccb/},
-  langid = {es}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2024" class="csl-entry quarto-appendix-citeas">
-Espinosa-Correa, Álex. 2024. <span>“¡Estamos en el XII Congreso
-Colombiano de Botánica!”</span> August 1, 2024. <a href="http://geobota.github.io/news/2024-08-01_xii-ccb/">http://geobota.github.io/news/2024-08-01_xii-ccb/</a>.
-</div></div></section></div> ]]></description>
-  <category>XII CCB</category>
-  <guid>http://geobota.github.io/news/2024-08-01_xii-ccb/</guid>
-  <pubDate>Thu, 01 Aug 2024 05:00:00 GMT</pubDate>
-  <media:content url="http://geobota.github.io/news/2024-08-01_xii-ccb/image.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Explorando la diversidad de las Clusiaceae</title>
-  <dc:creator>Álex Espinosa-Correa</dc:creator>
-  <link>http://geobota.github.io/news/2024-07-04_publicacion/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Desde hace un tiempo, nuestra estudiante de maestría <a href="../../people/caro-sanchez_angy-vanesa/index.html">Angy Caro Sánchez</a> ha estado investigando la diversidad y clasificación de las especies de la familia del Mangostino y el Madroño (<a href="https://es.wikipedia.org/wiki/Clusiaceae">Clusiaceae</a>). Esta investigación la ha llevado a colaborar con reconocidos investigadores del <a href="https://gptaxa.wixsite.com/taxa/">grupo TaxA</a> (Brasil) y de instituciones como <a href="https://www.kew.org/">Kew Gardens</a> (Reino Unido) y el <a href="https://www.botanicomedellin.org">Jardín Botánico de Medellín</a> (Colombia)</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2024-07-04_publicacion/images/image_01.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="La imagen muestra en el centro una captura de pantalla de la primera página del artículo científico 'Clusia aequatoriensis, a new combination based on Tovomita aequatoriensis (Clusiaceae)' publicado en la revista Harvard Papers in Botany por Lucas Cardoso Marinho y Angy Caro Sánchez. La imagen tiene un fondo claro. En la esquina superior derecha, sobre un fondo rojo aparece en negro la palabra «GEOBOTA». En la esquina inferior izquierda sobre un fordo rojo aparece en negro la palabra  «PUBLICACIÓN». En la esquina inferior derecha aparecen en blanco los logotipos de Facebook e Instagram de @geobotaudea."></p>
-</figure>
-</div>
-<p>¡Hoy estamos emocionados de compartir una publicación liderada por el profesor Lucas Cardoso Marinho! A través de un análisis morfológico meticuloso, se propone reclasificar una especie descrita hace 91 años en un género diferente.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2024-07-04_publicacion/images/image_02.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Fotografías de una muestra de herbario con varias partes de una planta, incluyendo hojas y flores, montadas en ella. Hay etiquetas y anotaciones que proporcionan información científica sobre el espécimen. La muestra incluye una etiqueta principal en la esquina inferior izquierda con texto manuscrito e impreso, etiquetas más pequeñas y un recuadro en la esquina superior derecha que muestra una vista ampliada de las flores de la planta."></p>
-</figure>
-</div>
-<p>Este tipo de estudios no solo nos ayuda a entender mejor la historia evolutiva de estos grupos de plantas, sino que también destaca la importancia de las colecciones biológicas.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2024-07-04_publicacion/images/image_03.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Captura de pantalla de una reunión de Angy Caro Sánchez con su comité tutorial."></p>
-</figure>
-</div>
-<p>Enlace al artículo: <a href="https://huh.harvard.edu/sites/hwpi.harvard.edu/files/herbaria/files/29_1_119_marinho_caro-saunchez.pdf" class="uri">https://huh.harvard.edu/sites/hwpi.harvard.edu/files/herbaria/files/29_1_119_marinho_caro-saunchez.pdf</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2024-07-04_publicacion/images/image_04.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Imagen con fondo claro. En la parte superior aparece en rojo el texto «Escanea el QR y lee la publicación». En el centro aparece un código QR de color rojo. En la parte inferior aparecen en rojo el doi del artículo https://reduced.to/hwtsi y en negro los logotipos de Facebook e Instagram de @geobotaudea."></p>
-</figure>
-</div>
-<p>¡Síguenos para mantenerte al tanto de nuestras investigaciones y publicaciones!</p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2024,
-  author = {Espinosa-Correa, Álex},
-  title = {Explorando la diversidad de las Clusiaceae},
-  date = {2024-07-04},
-  url = {http://geobota.github.io/news/2024-07-04_publicacion/},
-  langid = {es}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2024" class="csl-entry quarto-appendix-citeas">
-Espinosa-Correa, Álex. 2024. <span>“Explorando la diversidad de las
-Clusiaceae.”</span> July 4, 2024. <a href="http://geobota.github.io/news/2024-07-04_publicacion/">http://geobota.github.io/news/2024-07-04_publicacion/</a>.
-</div></div></section></div> ]]></description>
-  <category>Publicación</category>
-  <guid>http://geobota.github.io/news/2024-07-04_publicacion/</guid>
-  <pubDate>Thu, 04 Jul 2024 05:00:00 GMT</pubDate>
-  <media:content url="http://geobota.github.io/news/2024-07-04_publicacion/images/image_01.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
