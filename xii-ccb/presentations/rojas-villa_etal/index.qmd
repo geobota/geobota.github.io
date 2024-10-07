@@ -10,11 +10,12 @@ author:
     url: /people/rojas-villa_jose-miguel/index.qmd
   - name: "Mario Alberto Quijano-Abril"
     email: maquijano@uco.edu.co
-    orcid: 0000-0002-4242-8799
     affiliation: "Grupo de Estudios Florísticos, Universidad Católica de Oriente"
+    orcid: 0000-0002-4242-8799
   - name: "Jenny Paola Corredor-Prado"
-    orcid: 0000-0002-4605-9740
+    email: jenny.corredor@unisucre.edu.co
     affiliation: "Departamento de Biología y Química, Universidad de Sucre"
+    orcid: 0000-0002-4605-9740
   - name: "Fernando Alveiro Alzate-Guarin"
     email: alveiro.alzate@udea.edu.co
     affiliation:
@@ -23,8 +24,13 @@ author:
     url: /people/alzate-guarin_fernando-alveiro/index.qmd
 # date: ""
 
-# categories:
-#   - 
+categories:
+  - Anatomía de las semillas
+  - Angiosperma
+  - Dormancia morfofisiológica
+  - Embrión subdesarrollado
+  - Endosperma
+  - Proteína
 
 draft: true
 ---
