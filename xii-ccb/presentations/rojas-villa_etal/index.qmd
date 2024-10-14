@@ -10,7 +10,7 @@ author:
     url: /people/rojas-villa_jose-miguel/index.qmd
   - name: "Mario Alberto Quijano-Abril"
     email: maquijano@uco.edu.co
-    affiliation: "Grupo de Estudios Florísticos, Universidad Católica de Oriente"
+    affiliation: "Grupo de Estudios Florísticos, Facultad de Ingenierías, Universidad Católica de Oriente"
     orcid: 0000-0002-4242-8799
   - name: "Jenny Paola Corredor-Prado"
     email: jenny.corredor@unisucre.edu.co
