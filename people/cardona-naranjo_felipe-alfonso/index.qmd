@@ -1,0 +1,65 @@
+---
+title: &title "**Felipe Alfonso Cardona-Naranjo**"
+subtitle: "Jefe sección Herbario"
+
+number: "2"
+last: "Cardona-Naranjo"
+first: "Felipe Alfonso"
+
+image: profile.jpg
+people_group: "researcher"
+started: "2002-12"
+ended: "Actual"
+toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: mailto:felipe.cardona@udea.edu.co
+      text: "{{< fa envelope >}} Email"
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000196568
+      text: "{{< ai cv >}} CvLAC"
+    # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+    #   text: "{{< ai google-scholar >}} Google Scholar"
+    - href: https://orcid.org/0009-0008-6232-7371
+      text: "{{< ai orcid >}} ORCID"
+    # - href: https://www.researchgate.net/profile/Fernando-Alzate
+    #   text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+Especialista en la familia Araceae (Anturios). Autor de varias guías ilustradas de flora de bosques tropicales en los departamentos de Antioquia, Caldas y Santander. Director del Herbario de la Universidad de Antioquia (HUA) desde el 2006 y presidente de la Asociación Colombiana de Herbarios (2007-2011 y 2015-2024).
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2000-2005\
+    Revisión taxonómica del genero *Spathiphyllum* para la flora de Colombia
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 1990-1997\
+    Patrones de distribución de epifitas fanerógamas en bosques de roble, en el municipio de Belmira, Antioquia
+
+## Publicaciones
+
+::: {#publications}
+:::
