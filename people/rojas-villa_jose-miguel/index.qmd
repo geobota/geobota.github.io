@@ -1,0 +1,65 @@
+---
+title: &title "**Jose Miguel Rojas-Villa**"
+subtitle: "Estudiante de maestría"
+
+number: "3"
+last: "Rojas-Villa"
+first: "Jose Miguel"
+
+image: profile.jpg
+people_group: "gradstudent"
+started: "2022-07"
+ended: "Actual"
+toc: false
+
+# listing: 
+#   id: publications
+#   type: default
+#   fields: [title, description, categories, date, author]
+#   contents: ../../publications/*/**/index.qmd
+#   categories: false
+#   sort:
+#     - "date desc"
+#     - "author"
+#     - "title"
+#   filter-ui: [title, author, publication, year]
+#   image-align: left
+#   page-size: 10
+#   include:
+#     author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: mailto:miguel.rojas4@udea.edu.co
+      text: "{{< fa envelope >}} Email"
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0002020998
+      text: "{{< ai cv >}} CvLAC"
+    - href: https://scholar.google.com/citations?user=iRhKRKMAAAAJ
+      text: "{{< ai google-scholar >}} Google Scholar"
+    - href: https://orcid.org/0000-0002-6656-9932
+      text: "{{< ai orcid >}} ORCID"
+    - href: https://www.researchgate.net/profile/Jose-M-Rojas-2
+      text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+Me dedico a estudiar la diversidad vegetal de Colombia, principalmente en los ecosistemas de páramos. Me interesan los estudios morfológicos de las plantas, entender la forma y el desarrollo vegetal. Actualmente trabajo con morfología de semillas y plántulas de Páramo y con morfología de plantas en general.
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2022-actual\
+    Morfología de semillas y plantulas: relaciones evolutivas de caracteres condicionantes en diferentes linajes de Angiosperma en páramos
+
+-   **Universidad de Católica de Oriente** \| Rionegro, Colombia\
+    Pregrado en Agronomía \| 2017-2022\
+    Latencia y anatomía de semillas: implicaciones en la ecología de especies nativas pioneras e invasoras de bosques andinos del Oriente antioqueño
+
+<!-- ## Publicaciones -->
+
+<!-- ::: {#publications} -->
+<!-- ::: -->

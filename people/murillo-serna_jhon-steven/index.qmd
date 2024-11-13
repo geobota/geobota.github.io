@@ -1,0 +1,65 @@
+---
+title: &title "**Jhon Steven Murillo-Serna**"
+subtitle: "Estudiante de maestría"
+
+number: "3"
+last: "Murillo-Serna"
+first: "Jhon Steven"
+
+image: profile.jpg
+people_group: "gradstudent"
+started: "2015-01"
+ended: "Actual"
+toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: mailto:murillojsteven@gmail.com 
+      text: "{{< fa envelope >}} Email"
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000052236
+      text: "{{< ai cv >}} CvLAC"
+    - href: https://scholar.google.com/citations?user=-nW9KTAAAAAJ
+      text: "{{< ai google-scholar >}} Google Scholar"
+    - href: https://orcid.org/0000-0003-4512-5811
+      text: "{{< ai orcid >}} ORCID"
+    - href: https://www.researchgate.net/profile/Jhon-Murillo-Serna
+      text: "{{< ai researchgate >}} ResearchGate"
+---
+
+::: {#person-profile}
+:::
+
+Me interesa la sistemática y taxonomía de plantas con flor, especialmente Melastomataceae y Muérdagos (Santalales).
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2021-actual\
+    Estudios en evolución, sistemática y taxonomía de *Graffenrieda* DC. y *Centronia* D.Don (Melastomataceae: Merianieae)
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 2011-2020\
+    Sinopsis del género *Graffenrieda* DC. (Melastomataceae: Merianieae) en Colombia. Notas nomenclaturales, taxonómicas y geográficas
+
+## Publicaciones
+
+::: {#publications}
+:::

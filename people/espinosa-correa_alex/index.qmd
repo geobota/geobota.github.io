@@ -1,0 +1,65 @@
+---
+title: &title "**Álex Espinosa-Correa**"
+subtitle: "Estudiante de doctorado"
+
+number: "3"
+last: "Espinosa-Correa"
+first: "Álex"
+
+image: profile.jpeg
+people_group: "gradstudent"
+started: "2015-01"
+ended: "Actual"
+toc: false
+
+# listing: 
+#   id: publications
+#   type: default
+#   fields: [title, description, categories, date, author]
+#   contents: ../../publications/*/**/index.qmd
+#   categories: false
+#   sort:
+#     - "date desc"
+#     - "author"
+#     - "title"
+#   filter-ui: [title, author, publication, year]
+#   image-align: left
+#   page-size: 10
+#   include:
+#     author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: mailto:alex.espinosa@udea.edu.co
+      text: "{{< fa envelope >}} Email"
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000117836
+      text: "{{< ai cv >}} CvLAC"
+    # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+    #   text: "{{< ai google-scholar >}} Google Scholar"
+    - href: https://orcid.org/0000-0002-7353-1182
+      text: "{{< ai orcid >}} ORCID"
+    - href: https://www.researchgate.net/profile/Alex-Espinosa-Correa
+      text: "{{< ai researchgate >}} ResearchGate"
+---
+
+:::{#person-profile}
+:::
+
+Mi investigación trata sobre el polen y esporas que se encuentran en la atmósfera (aerobiología) de la ciudad de Medellín, Colombia. Soy un apasionado de la botánica, la palinología, la educación, GIS, R, Quarto, la visualización de datos, la Ciencia Abierta y Reproducible, y el software libre y de código abierto (FLOSS). 
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Doctorado en Biología \| 2019-actual\
+    Estudio aerobiológico en la ciudad de Medellín (Colombia): una variable biológica de la calidad del aire en una ciudad altamente contaminada
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 2011-2018\
+    Exploración de la utilidad de la región ITS en estudios filogeográficos de plantas de áreas de Páramo
+
+<!-- ## Publicaciones -->
+
+<!-- ::: {#publications} -->
+<!-- ::: -->

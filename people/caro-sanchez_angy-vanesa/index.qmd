@@ -1,0 +1,65 @@
+---
+title: &title "**Angy Vanesa Caro-Sánchez**"
+subtitle: "Estudiante de maestría"
+
+number: "3"
+last: "Caro-Sánchez"
+first: "Angy Vanesa"
+
+image: profile.jpg
+people_group: "gradstudent"
+started: "2015-01"
+ended: "Actual"
+toc: false
+
+listing: 
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
+
+about:
+  id: person-profile
+  template: jolla
+  links:
+    - href: mailto:angy.caro@udea.edu.co
+      text: "{{< fa envelope >}} Email"
+    - href: https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001800877
+      text: "{{< ai cv >}} CvLAC"
+    # - href: https://scholar.google.com/citations?user=lOgHTMAAAAAJ
+    #   text: "{{< ai google-scholar >}} Google Scholar"
+    - href: https://orcid.org/0000-0001-8751-7931
+      text: "{{< ai orcid >}} ORCID"
+    - href: https://www.researchgate.net/profile/Angy-V-Caro-Sanchez
+      text: "{{< ai researchgate >}} ResearchGate"
+---
+
+::: {#person-profile}
+:::
+
+Mi experiencia e intereses académicos están enfocados en la taxonomía de plantas, especialmente la nomenclatura, morfología y diversidad de las familias Clusiaceae y Calophyllaceae. También son temas de mi interés la flora de los Andes, el diocismo en angiospermas, el estado de conservación de las especies, el hemiepifitismo, las interacciones ecológicas y la terminología botánica.
+
+## Educación
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Maestría en Biología \| 2023-actual\
+    *Chrysochlamys* (Clusiaceae: Clusieae) de Antioquia, Colombia: abordando la taxonomía de especies dioicas
+
+-   **Universidad de Antioquia** \| Medellín, Colombia\
+    Pregrado en Biología \| 2013-2022\
+    *Chrysochlamys* (Clusiaceae: Clusieae) de Antioquia, Colombia: abordando la taxonomía de especies dioicas
+
+## Publicaciones
+
+::: {#publications}
+:::
