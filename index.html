@@ -74,6 +74,34 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-publications .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-publications'] = new List('listing-publications', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-news .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -212,6 +240,10 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="./projects/index.html"> 
 <span class="menu-text">Proyectos</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications/index.html"> 
+<span class="menu-text">Publicaciones</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-xii-ccb" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -370,10 +402,68 @@ No hay resultados
 </div>
 </div>
 <p><a href="news/">Ver todas las noticias</a></p>
-<!-- # Últimas publicaciones -->
-<!-- ::: {#publications} -->
-<!-- ::: -->
-<!-- [Ver todas las publicaciones](../publications) -->
+</section>
+<section id="últimas-publicaciones" class="level1">
+<h1>Últimas publicaciones</h1>
+<div id="listing-publications" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="R3XtYSBkZSBjYW1wbw==" data-listing-date-sort="1640926800000" data-listing-file-modified-sort="1731345937715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="281">
+<a href="./publications/books/2021_salazar-gil_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title" data-anchor-id="últimas-publicaciones">
+Etnobotánica de las comunidades campesinas: área de influencia de los embalses Porce II y Porce III
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+2021-12-31
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="R2VuZXJhbA==" data-listing-date-sort="1571634000000" data-listing-file-modified-sort="1731345937714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
+<a href="./publications/books/2019-10-21_david-higuita_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+HUA Herbario Universidad de Antioquia: 50 años documentando algas, hongos y plantas de Colombia
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+2019-10-21
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="TWVtb3JpYXM=" data-listing-date-sort="1533272400000" data-listing-file-modified-sort="1731345937714" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
+<a href="./publications/books/2018-08-03_alzate-guarin_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Memorias Segundo Simposio Colombiano en Sistemática y Evolución de Plantas
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+2018-08-03
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div>
+<p><a href="publications/">Ver todas las publicaciones</a></p>
 
 
 

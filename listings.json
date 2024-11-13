@@ -1,6 +1,17 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/books/2021_salazar-gil_etal/index.html",
+      "/publications/books/2019-10-21_david-higuita_etal/index.html",
+      "/publications/books/2018-08-03_alzate-guarin_etal/index.html",
+      "/publications/books/2017-03-24_alzate-guarin_etal/index.html",
+      "/publications/books/2012-04-12_alzate-guarin_etal/index.html",
+      "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
     "items": [
       "/news/2024-10-11_xii-ccb/index.html",
       "/news/2024-10-10_quarto/index.html",
@@ -37,8 +48,14 @@
     ]
   },
   {
-    "listing": "/news/index.html",
+    "listing": "/index.html",
     "items": [
+      "/publications/books/2021_salazar-gil_etal/index.html",
+      "/publications/books/2019-10-21_david-higuita_etal/index.html",
+      "/publications/books/2018-08-03_alzate-guarin_etal/index.html",
+      "/publications/books/2017-03-24_alzate-guarin_etal/index.html",
+      "/publications/books/2012-04-12_alzate-guarin_etal/index.html",
+      "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html",
       "/news/2024-10-11_xii-ccb/index.html",
       "/news/2024-10-10_quarto/index.html",
       "/news/2024-10-09_diccionario-botanico/index.html",
