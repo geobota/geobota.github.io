@@ -15,7 +15,7 @@ image: image.jpeg
 categories:
   - XII CCB
 
-draft: true
+# draft: true
 ---
 
 Ya que [hemos explorado](../2024-09-04_xii-ccb) qué es la etnobotánica cuantitativa y por qué hacerla en R, ahora profundizaremos en los métodos y análisis que nos permiten comprender mejor las relaciones entre los seres humanos y las plantas.

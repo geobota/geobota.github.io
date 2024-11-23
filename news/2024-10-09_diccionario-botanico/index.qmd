@@ -14,7 +14,7 @@ image: image.jpeg
 categories:
   - Diccionario botánico
 
-draft: true
+# draft: true
 ---
 
 En una [publicación anterior](../2024-09-23_diccionario-botanico) mencionamos a las plantas terrestres o embriofitas. Hoy, en nuestro Diccionario Botánico, te contamos más sobre ellas.
