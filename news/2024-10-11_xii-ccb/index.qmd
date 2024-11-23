@@ -26,8 +26,7 @@ Entre los análisis más utilizados se encuentran los índices etnobotánicos, q
 
 Estos métodos no solo ayudan en la conservación de la biodiversidad y recursos genéticos, sino también en la formulación de programas sostenibles y políticas para proteger el conocimiento tradicional y los derechos de las comunidades locales.
 
-Aprende estos y otros análisis en nuestro curso "Etnobotánica Cuantitativa en R", que se llevará a cabo en el
- [XII Congreso Colombiano de Botánica](https://congresobotanica.org).
+Aprende estos y otros análisis en nuestro curso "Etnobotánica Cuantitativa en R", que se llevará a cabo en el [XII Congreso Colombiano de Botánica](https://congresobotanica.org).
 
 -   Fecha: 2-3 de noviembre de 2024
 -   Lugar: Popayán, Colombia
