@@ -1,0 +1,33 @@
+---
+title: "¡Es un hermoso gráfico! ¿Por qué el mío no se ve así?"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-10-22
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+Has encontrado el código perfecto para crear el gráfico que necesitas, pero cuando lo corres… ¡No funciona! ¿Te ha pasado? No te preocupes, es más común de lo que crees.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional para el curso «Investigación Reproducible con Quarto», que se llevará a cabo el 3 de noviembre en Popayán, Colombia, durante el XII Congreso Colombiano de Botánica. En la parte superior aparecen los logos de diferentes herramientas científicas como Julia, Python, R, Jupyter, RStudio, y Quarto, junto con un código QR que enlaza geobota.github.io. En la parte inferior, sobre un fondo amarllio, aparece: «INVESTIGACIÓN REPRODUCIBLE CON QUARTO. Popayán, Colombia. Noviembre 3. Desde $50.000 COP. ¿Has intentado (re)utilizar un script para analizar tus datos sin éxito? ¡Descubre cómo hacerlo inscribiéndote en nuestro curso!». En la parte inferior aparecen los logos de las instituciones organizadoras."}
+
+[La reproducibilidad](../2024-08-27_xii-ccb/) es la capacidad de obtener los mismos resultados usando los mismos datos y el mismo código. Actualmente, este es uno de los mayores desafíos en la ciencia. Muchos estudios no pueden ser replicados, ¡incluso por sus propios autores!
+
+La crisis de reproducibilidad es un problema complejo, pero con algunos cambios pequeños, puedes mejorar la calidad y transparencia de tu investigación.
+
+Inscríbete en el curso «Investigación Reproducible con Quarto» durante el [XII Congreso Colombiano de Botánica](https://congresobotanica.org) en Popayán, Colombia. Aprende a llevar tu trabajo al siguiente nivel con herramientas que facilitan tu día a día.
+
+-   Fecha: 3 de noviembre
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $50.000 COP
+-   Más información: Escanea el código QR en la imagen o visita nuestra página web: <https://geobota.github.io/xii-ccb-quarto/>
+
+¡Nos vemos en el curso!

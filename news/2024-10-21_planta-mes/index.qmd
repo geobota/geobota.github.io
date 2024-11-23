@@ -1,0 +1,33 @@
+---
+title: "Es la gran calabaza, Charlie Brown"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-10-21
+citation: true
+
+image: image.jpeg
+
+categories:
+  - La planta del mes
+---
+
+Entre todas las celebraciones y conmemoraciones de octubre, dos destacan especialmente: el descubrimiento de América y Halloween. Nuestra Planta del Mes tiene algo que conecta ambos eventos.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen de la sección «La Planta del Mes» con el título«Cucurbita maxima». El fondo es una fotografía de la flor de Cucurbita maxima en pleno crecimiento, con flores grandes y amarillas sobre un fondo de hojas verdes y terreno. El texto sobre la imagen dice: «Calabaza o auyama. Planta enredadera con zarcillos, hojas alternas lobuladas y grandes flores amarillas. Familia Cucurbitaceae». En la parte superior derecha, el logo de GEOBOTA. En la parte inferior, los íconos de Instagram y Facebook con el usuario @geobotaudea."}
+
+Seguramente ya conoces esta planta, la habrás visto en decoraciones, en películas, ¡o incluso en tu plato! Se trata de *Cucurbita maxima*, conocida como calabaza, auyama, zapallo, entre otros nombres comunes. Esta planta enredadera es fácil de reconocer por sus grandes flores amarillas y sus frutos, que varían enormemente en tamaño, forma y color.
+
+Pero, ¿cómo está relacionada esta planta con el descubrimiento de América y Halloween?
+
+Originaria de América, *Cucurbita maxima* fue domesticada por los pueblos indígenas, siendo un cultivo clave en las llamadas “[Tres Hermanas](https://es.wikipedia.org/wiki/Las_tres_hermanas_(cultivo))” junto al maíz y frijol. Además, su conexión con Halloween surgió cuando los inmigrantes irlandeses en el siglo XIX llevaron la tradición de tallar nabos, pero al llegar a América encontraron que las calabazas eran más fáciles de tallar, dando origen a las icónicas lámparas de Halloween.
+
+¿Conocías el nombre científico de esta planta? ¿O su relación con Halloween? ¡Cuéntanos en los comentarios!
+
+Síguenos para descubrir más sobre las plantas que te rodean y sus historias fascinantes.
+
+Fotografía: [Huerta Agroecológica Comunitaria "Cantarranas". CC BY 2.0](https://www.flickr.com/photos/huertoagroecologicoucm/5818884613/in/photostream/)
+

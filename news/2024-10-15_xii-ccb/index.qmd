@@ -1,0 +1,40 @@
+---
+title: "Lo que el viento se llevó"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-10-15
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+Ya hemos explorado [qué es la aerobiología](../2024-08-21_xii-ccb/) y cuáles son las [principales partículas que se encuentran en la atmósfera](../2024-10-04_xii-ccb/), pero, ¿te has preguntado cómo llegaron ahí?
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen con fondo magenta vibrante que promociona el curso «Introducción a la Aerobiología» que se realizará en Popayán, Colombia, el 4 de noviembre de 2024, como parte del XII Congreso Colombiano de Botánica. En la parte superior izquierda, se observa el logo del congreso acompañado de una ilustración de hojas de Myrcia popayanensis. A la derecha, un código QR proporciona acceso directo a más información sobre el curso en el sitio web geobota.github.io. En el centro, en texto negro: «INTRODUCCIÓN A LA AEROBIOLOGÍA. Popayán, Colombia. Noviembre 4. Desde $20.000 COP. ¿Sabías que hay partículas de origen biológico que son dispersadas por el viento? ¡Captúralas inscribiéndote en nuestro curso!». Al fondo, a la derecha, aparece una ilustración de una planta con flores blancas y delicadas hojas verdes."}
+
+La aerobiología se ha hecho esta misma pregunta desde sus inicios y ha trazado una respuesta a través de la llamada «ruta aerobiológica». Este concepto esencial engloba todos los pasos necesarios para que una biopartícula, como el polen, llegue a la atmósfera.
+
+Esta ruta incluye: 
+1.  Producción: Donde las biopartículas, como el polen o esporas, se originan.
+2.  Liberación: El momento en que son liberadas, muchas veces por la acción del viento.
+3.  Dispersión: Su viaje a través del aire, guiado por las corrientes de viento y otros factores meteorológicos.
+4.  Deposición: El proceso por el cual estas partículas caen en superficies, impulsadas por la gravedad o la lluvia.
+5.  Impactos: Las consecuencias de su presencia, ya sea en el medio ambiente, plantas, o incluso en animales (¡y en nuestras alergias!).
+
+Imagina un grano de polen: se forma en la planta, es liberado por la antera y viaja largas distancias antes de encontrar un destino, como otra flor o el suelo. Este fascinante ciclo es parte de la ruta aerobiológica.
+
+¿Te gustaría aprender más sobre este proceso y cómo afecta el entorno? ¡Inscríbete en nuestro curso «Introducción a la Aerobiología», parte del [XII Congreso Colombiano de Botánica](https://congresobotanica.org)!
+
+-   Fecha: 4 de noviembre de 2024
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $20.000 COP
+-   Información: Escanea el código QR en la imagen o visita nuestra página web: <https://geobota.github.io/xii-ccb-aerobiologia/>
+
+¡No pierdas la oportunidad de aprender y unirte a esta emocionante ruta aerobiológica!

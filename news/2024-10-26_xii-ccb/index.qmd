@@ -1,0 +1,33 @@
+---
+title: "¿Por qué me persigue la desgracia?"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-10-26
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+APA, Chicago, Harvard, ICONTEC, Vancouver… ¿Te suenan familiares? Seguro que sí, y probablemente has lidiado con varios de estos estilos al escribir tus artículos, ensayos o informes académicos. Todos conocemos el dolor de cabeza que implica organizar citas y referencias bibliográficas en el formato adecuado.
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional del curso «Investigación reproducible con Quarto», que se llevará a cabo el 3 de noviembre de 2024 en Popayán, Colombia, como parte del XII Congreso Colombiano de Botánica. En la parte superior se encuentra un QR hacia geobota.github.io y el logo del congreso. En la parte izquierda se encuentra el logo de Quarto, un círculo dividido en cuatro partes. El texto principal dice: «Investigación reproducible con Quarto. Popayán, Colombia. Noviembre 3. Desde $50.000 COP. ¿Sigues haciendo citas y referencias a mano? ¡Aprende a automatizarlas inscribiéndote en nuestro curso!. En la parte inferior se encuentran los logos de las instituciones organizadoras."}
+
+¡Y puede que lo sigas haciendo a mano! Aunque tal vez ya uses Google Scholar o algún gestor de referencias como EndNote, Mendeley, RefWorks o [Zotero](http://zotero.org). Pero... ¿alguna vez has sentido que no funcionan como esperabas? ¿Que es un proceso lento o complejo?
+
+¡Buenas noticias! [Quarto](../2024-09-24_xii-ccb/) facilita esta tarea de una forma sencilla y poderosa. Con integración directa con DOI, Crossref, DataCite, PubMed y Zotero, y acceso a más de 10,000 estilos de citación diferentes. Todo esto de manera gratuita y libre, además de contar con muchas otras herramientas útiles para la escritura científica.
+
+Si quieres dejar de sufrir con las citas y referencias bibliográficas, ¡este curso es para ti! Inscríbete en el curso «Investigación Reproducible con Quarto» como parte del [XII Congreso Colombiano de Botánica](https://congresobotanica.org).
+
+-   Fecha: 3 de noviembre de 2024
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $50.000 COP
+-   Más información: Escanea el código QR en la imagen o visita nuestra página web: <https://geobota.github.io/xii-ccb-quarto/>
+
+¡Nos vemos en esta cita!

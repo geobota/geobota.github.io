@@ -1,0 +1,32 @@
+---
+title: "Gloria Amparo Galeano Garcés, «la reina de las palmas»"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-10-24
+citation: true
+
+image: image.jpeg
+
+categories:
+  - La botánica - El botánico
+---
+
+En nuestra sección «La Botánica - El Botánico» rendimos homenaje a las personas clave en la botánica, tanto a nivel local como global. Hoy destacamos a una de las figuras más importantes en el estudio de las palmas: [Gloria Galeano](https://es.wikipedia.org/wiki/Gloria_Galeano_Garcés) (1958-2016).
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen de fondo oscuro con detalles en tonos rosados y amarillos. En la parte superior izquierda, se encuentra el logo de GEOBOTA. A la derecha, en letras grandes y amarillas, se lee «GLORIA GALEANO». Debajo, el texto: «(1958-2016) Agrónoma colombiana. Profesora de la UNAl desde 1984. Especialista en las palmas». A la derecha, una foto de Gloria Galeano en un paisaje montañoso. En la parte inferior, se observa la leyenda «La Botánica» y los íconos de las redes sociales @geobotauadea en Instagram y Facebook."}
+
+Gloria fue una agrónoma y botánica colombiana, profesora de la Universidad Nacional de Colombia desde 1984, y una experta en la familia [Arecaceae](https://es.wikipedia.org/wiki/Arecaceae) (palmas). Su enfoque de investigación abarcó la taxonomía, sistemática, etnobotánica, historia natural, ecología, conservación y manejo de las palmas. Su legado incluye una extensa producción de libros y artículos científicos, entre ellos «[Palmas de Colombia: guía de campo](https://agenciadenoticias.unal.edu.co/detalle/palmas-de-colombia-guia-de-campo)» y «[Field Guide to the Palms of the Americas](https://archive.org/details/fieldguidetopalm0000hend)».
+
+Graduada en 1983 con honores de la Universidad Nacional de Colombia, inició su carrera docente en el [Instituto de Ciencias Naturales de Bogotá](https://es.wikipedia.org/wiki/Instituto_de_Ciencias_Naturales_(UN)), donde alcanzó el título de profesora titular. En 1997, obtuvo su doctorado en Ciencias Biológicas en la Universidad de Aarhus, Dinamarca. Su labor investigativa llevó al descubrimiento de varias especies nuevas de palmas, además de consolidar el Grupo de Investigación en Palmas Silvestres Neotropicales.
+
+Entre los honores que recibió, destacan especies nombradas en su honor, como  [*Aiphanes gloria*](https://tropicos.org/name/100485177) R. Bernal, Borchs., Hoyos-Gómez, H.F. Manrique & Sanín; [*Begonia galeanoae*](https://tropicos.org/name/100526606) Jara; [*Eugenia gloriae*](https://tropicos.org/name/100526357) Parra-Os.; [*Geonoma galeanoae*](https://tropicos.org/name/100367693) A.J. Hend.. En 2021, la Universidad Nacional inauguró el [Edificio de Ciencias Gloria Galeano Garcés](https://agenciadenoticias.unal.edu.co/detalle/unal-entrega-el-nuevo-edificio-de-ciencias-gloria-galeano-garces), como reconocimiento a su invaluable contribución científica y académica.
+
+¿Conocías a esta botánica?
+
+Fotografía: [Asociación Colombiana de Botánica](https://www.facebook.com/photo.php?fbid=439990709755711&id=439012843186831)
+
+¡Síguenos para descubrir más sobre las personas que han transformado el estudio de las plantas!

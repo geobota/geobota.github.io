@@ -1,0 +1,33 @@
+---
+title: "Llegaron del mar"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-10-25
+citation: true
+
+image: image.jpeg
+
+categories:
+  - XII CCB
+---
+
+En publicaciones anteriores hemos explorado [qué es la aerobiología](../2024-08-21_xii-ccb/) y su [objeto de estudio](../2024-09-10_xii-ccb/). También hemos hablado sobre [la ruta aerobiológica](../2024-10-15_xii-ccb), un concepto clave que explica la producción, liberación, dispersión e impactos de las biopartículas. Pero, ¿sabías que partículas biológicas pueden viajar kilómetros en el aire?
+
+![](image.jpeg){fig-align="center" fig-alt="Imagen promocional del curso «Introducción a la Aerobiología», parte del XII Congreso Colombiano de Botánica. En la parte central aparece una fotografía de un grano de polen de Poaceae. A la izquierda aparece: «Introducción a la Aerobiología. Popayán, Colombia. Noviembre 4. Desde $20.000 COP.» En la esquina superior derecha aparece: «XII Congreso Colombiano de Botánica. Botánica y biocultura para la sostenibilidad de los territorios». Debajo aparece un QR que lleva a geobota.github.io. A la derecha aparece: «¿Sabías que las partículas de origen biológico pueden viajar kilómetros en el aire? ¡Haz este viaje inscribiéndote en nuestro curso!». En la parte inferior aparecen los logos de las instituciones organizadoras. "}
+
+Un ejemplo increíble es cómo el polvo del Desierto del Sahara, cargado de bacterias y hongos, viaja hasta el Amazonas, enriqueciéndolo con nutrientes. Lo mismo ocurre con biopartículas como el polen y las esporas, que pueden viajar cientos de kilómetros, incluso cruzando océanos.
+
+En todo el mundo, se ha documentado la dispersión de biopartículas a lo largo de continentes e incluso sobre el mar Caribe, donde esporas de hongos de África han sido detectadas. Pero, ¿sabías que estas partículas no solo viajan horizontalmente? ¡También lo hacen a kilómetros sobre el nivel del mar!
+
+La atmósfera es un ecosistema diverso y dinámico, lleno de vida microbiana que aún debemos explorar. Si quieres saber más sobre este fascinante mundo, ¡te invitamos a inscribirte en nuestro curso "Introducción a la Aerobiología", parte del [XII Congreso Colombiano de Botánica](https://congresobotanica.org)!
+
+-   Fecha: 4 de noviembre de 2024
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $20.000 COP
+-   Más información: Escanea el código QR en la imagen o visita nuestra página web: <https://geobota.github.io/xii-ccb-aerobiologia/>
+
+¡Haz como las biopartículas y viaja hasta Popayán!

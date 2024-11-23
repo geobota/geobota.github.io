@@ -1,0 +1,39 @@
+---
+title: "Plantilla de Quarto para el XII CCB"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-10-10
+citation: true
+
+image: images/image_01.jpeg
+
+categories:
+  - XII CCB
+---
+
+Cada vez queda menos tiempo para el evento más importante de la botánica en Colombia, y la emoción está en el aire. Mientras ajustamos los últimos detalles, muchos de nosotros ya estamos afinando nuestras ponencias o presentaciones.
+
+![](images/image_01.jpeg){fig-align="center" fig-alt="Captura de pantalla de una diapositiva que introduce la plantilla de Quarto para el XII Congreso Colombiano de Botánica. La diapositiva tiene un fondo en tonos dorados y beige, con el título «XII Congreso Colombiano de Botánica» en el centro, seguido del subtítulo «Una plantilla de Quarto Revealjs». En la parte inferior se encuentran el nombre del presentador, Álex Espinosa-Correa, su correo electrónico alex.espinosa@udea.edu.co, y la Universidad de Antioquia como afiliación. En la esquina inferior derecha, se puede ver el logotipo del congreso junto con las redes sociales del Grupo de Estudios Botánicos (@geobotaudea)."}
+
+Por eso, los organizadores del XII Congreso Colombiano de Botánica han puesto a disposición una plantilla especial para diapositivas. ¡Pero hay vida más allá de PowerPoint! Hoy te presentamos una alternativa más poderosa y reproducible: Quarto.
+
+![](images/image_02.jpeg){fig-align="center" fig-alt="Demostración del uso de la plantilla de Quarto para el XII Congreso Colombiano de Botánica. La diapositiva muestra cómo insertar enlaces e imágenes, presentando logotipos del Grupo de Estudios Botánicos y de la Universidad de Antioquia. En la parte inferior izquierda, se añaden notas explicativas indicando la posibilidad de incluir prefijos en las figuras y descripciones opcionales."}
+
+Si has estado al tanto de nuestras publicaciones, sabrás que Quarto es mucho más que un simple editor de presentaciones. Con esta herramienta, puedes integrar texto, código, imágenes, videos y mucho más, de una manera completamente reproducible.
+
+![](images/image_03.jpeg){fig-align="center" fig-alt="Imagen cuadrada de fondo dorado que contiene un código QR en el centro, con la invitación «Escanea el QR para ver una demostración en vivo» en la parte superior. Este código dirige a una página web donde se puede visualizar la plantilla de Quarto Revealjs en acción. Debajo del código QR se encuentra el enlace directo al sitio web donde se aloja la demostración (alexespinosaco.github.io/quarto-revealjs-xii-ccb/). En la parte inferior se incluye el handle de las redes sociales del Grupo de Estudios Botánicos (@geobotaudea) con los íconos de Instagram y Facebook."}
+
+Hemos creado una plantilla que se inspira en la propuesta del congreso y le hemos dado nuestro toque especial. Además, no necesitas ser un experto para usarla, ¡con nuestra guía es súper sencillo! Puedes explorar el demo escaneando el código QR o accediendo a <https://alexespinosaco.github.io/quarto-revealjs-xii-ccb/> y todo el código está disponible en [GitHub](https://github.com/alexespinosaco/quarto-revealjs-xii-ccb).
+
+¿Te interesa aprender a crear presentaciones con Quarto?
+
+-   Fecha: 3 de noviembre
+-   Lugar: Popayán, Colombia
+-   Inversión: Desde $50.000 COP
+-   Más información: Escanea el código QR o visita nuestra página web: <https://geobota.github.io/xii-ccb-quarto/>
+
+¡Aún puedes inscribirte en nuestro curso "Investigación Reproducible con Quarto"!

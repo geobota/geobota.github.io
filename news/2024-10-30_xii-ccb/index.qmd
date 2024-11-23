@@ -1,0 +1,53 @@
+---
+title: "¡GEOBOTA en el XII CCB!"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-10-30
+citation: true
+
+image: images/image_01.jpeg
+lightbox: true
+
+categories:
+  - Evento
+  - XII CCB
+---
+
+Como cada dos años, la comunidad botánica de Colombia se reúne en su evento más importante. Estamos a pocos días del inicio del [XII Congreso Colombiano de Botánica](http://congresobotanica.org) organizado por la [Asociación Colombiana de Botánica](https://asociacioncolombianadebotanica.com), un espacio donde las plantas son las protagonistas, y la comunidad científica se une para hablar sobre investigación, conservación y mucho más. Además, ¡es el momento perfecto para reencontrarnos con viejos amigos y hacer nuevas conexiones!
+
+![](images/image_01.jpeg){fig-align="center" group="my-gallery" fig-alt="Imagen promocional de GEOBOTA en el XII Congreso Colombiano de Botánica. El texto principal dice: 'GEOBOTA en el XII Congreso Colombiano de Botánica. Participaremos en el congreso con diversas actividades de investigación desarrolladas por nuestros integrantes. ¡Te invitamos a conocerlas!' En la parte inferior aparece el logo de GEOBOTA."}
+
+El Grupo de Estudios Botánicos GEOBOTA de la Facultad de Ciencias Exactas y Naturales de la Universidad de Antioquia estará presente con 25 actividades desarrolladas por nuestros integrantes, muchas en colaboración con colegas nacionales e internacionales. Entre estas, contaremos con:
+
+-   3 cursos precongreso 
+-   16 ponencias orales 
+-   6 pósters
+
+Nuestras actividades abarcan temas como aerobiología, anatomía, etnobotánica, taxonomía y mucho más.
+
+Para facilitar la divulgación y alcanzar a una mayor audiencia, compartimos el cronograma completo de nuestras actividades durante el congreso. Además, en el sitio web <https://geobota.github.io/xii-ccb-2024/> (accesible escaneando el código QR), pondremos a disposición de todos los resúmenes de las ponencias y pósters, y algunos incluirán la posibilidad de descargar las presentaciones en PDF.
+
+-   Lugar: Popayán, Colombia
+-   Fecha: 4 al 8 de noviembre
+
+::: {layout-ncol=2}
+
+![](images/image_02.jpeg){group="my-gallery" fig-alt="Imagen donde se muestran las actividades de GEOBOTA en el XII Congreso Colombiano de Botánica durante noviembre 2, 3, y 4."}
+
+![](images/image_03.jpeg){group="my-gallery" fig-alt="Imagen donde se muestran las actividades de GEOBOTA en el XII Congreso Colombiano de Botánica durante noviembre 5."}
+
+![](images/image_04.jpeg){group="my-gallery" fig-alt="Imagen donde se muestran las actividades de GEOBOTA en el XII Congreso Colombiano de Botánica durante noviembre 6."}
+
+![](images/image_05.jpeg){group="my-gallery" fig-alt="Imagen donde se muestran las actividades de GEOBOTA en el XII Congreso Colombiano de Botánica durante noviembre 7."}
+
+![](images/image_06.jpeg){group="my-gallery" fig-alt="Imagen donde se muestran las actividades de GEOBOTA en el XII Congreso Colombiano de Botánica durante noviembre 8."}
+
+![](images/image_07.jpeg){group="my-gallery" fig-alt="Imagen de GEOBOTA en el XII Congreso Colombiano de Botánica. El texto dice: 'Consulta toda la información sobre las actividades en geobota.github.io o escanea el código QR.' Incluye un código QR para acceder al sitio web de GEOBOTA."}
+
+:::
+
+¡Nos vemos en Popayán!
