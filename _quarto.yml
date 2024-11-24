@@ -47,16 +47,16 @@ website:
         href: projects/index.qmd
       - text: "Publicaciones"
         href: publications/index.qmd
-      - text: "XII CCB"
-        menu:
-          - text: "XII CCB"
-            href: xii-ccb/index.qmd
-          - text: "Etnobotánica Cuantitativa en R"
-            href: https://geobota.github.io/xii-ccb-etnobotanica/
-          - text: "Introducción a la Aerobiología"
-            href: https://geobota.github.io/xii-ccb-aerobiologia/
-          - text: "Investigación Reproducible con Quarto"
-            href: https://geobota.github.io/xii-ccb-quarto/
+      # - text: "XII CCB"
+      #   menu:
+      #     - text: "XII CCB"
+      #       href: xii-ccb/index.qmd
+      #     - text: "Etnobotánica Cuantitativa en R"
+      #       href: https://geobota.github.io/xii-ccb-etnobotanica/
+      #     - text: "Introducción a la Aerobiología"
+      #       href: https://geobota.github.io/xii-ccb-aerobiologia/
+      #     - text: "Investigación Reproducible con Quarto"
+      #       href: https://geobota.github.io/xii-ccb-quarto/
       - icon: facebook
         href: https://www.facebook.com/geobotaudea
       - icon: instagram
@@ -118,19 +118,19 @@ website:
           contents:
             - auto: news/*/index.qmd
 
-    - id: xii-ccb
-      contents:
-        - section: "XII CCB"
-          href: xii-ccb/index.qmd
-          contents: 
-            - section: Ponencias
-              href: xii-ccb/index.qmd#presentations
-              contents:
-              - auto: xii-ccb/presentations/**/index.qmd
-            - section: Pósters
-              href: xii-ccb/index.qmd#posters
-              contents:
-              - auto: xii-ccb/posters/**/index.qmd
+    # - id: xii-ccb
+    #   contents:
+    #     - section: "XII CCB"
+    #       href: xii-ccb/index.qmd
+    #       contents: 
+    #         - section: Ponencias
+    #           href: xii-ccb/index.qmd#presentations
+    #           contents:
+    #           - auto: xii-ccb/presentations/**/index.qmd
+    #         - section: Pósters
+    #           href: xii-ccb/index.qmd#posters
+    #           contents:
+    #           - auto: xii-ccb/posters/**/index.qmd
 
 
   page-footer: 

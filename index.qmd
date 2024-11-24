@@ -37,50 +37,35 @@ listing:
     feed: false
 ---
 
-# GEOBOTA en el XII Congreso Colombiano de Botánica
+# Participación en eventos
 
-:::: {.grid}
-::: {.g-col-12 .g-col-md-4}
-
-![](images/xii-ccb/xii-ccb-logo.png){fig-align="center"}
-
-:::
-::: {.g-col-12 .g-col-md-8}
-
-Del 4 al 8 de noviembre de 2024, se llevará a cabo el [XII Congreso Colombiano de Botánica](https://congresobotanica.org) en Popayán, Colombia. Estaremos presentes con una variedad de actividades programadas.
-
-:::
-::::
-
-## Cursos
-
-Conoce todos los detallas haciendo clic en el nombre o en la imagen del curso.
+Conoce todos los detalles haciendo clic en el nombre o en la imagen del evento
 
 ::::: {.center-text}
 :::: {.grid}
 ::: {.g-col-12 .g-col-md-4}
 
-### [Etnobotánica Cuantitativa en R](https://geobota.github.io/xii-ccb-etnobotanica/)
+## [74° Congresso Nacional de Botânica](https://geobota.github.io/cnbot-2024/)
 
 \
 
-[![](images/xii-ccb/xii-ccb_etnobotanica-curso_hexsticker_01.svg){fig-align="center"}](http://geobota.github.io/xii-ccb-etnobotanica/)
+[![](images/events/74-cnbot.png){fig-align="center"}](https://geobota.github.io/cnbot-2024/)
 
 :::
 ::: {.g-col-12 .g-col-md-4}
 
-### [Introducción a la Aerobiología](http://geobota.github.io/xii-ccb-aerobiologia/)
+## [XII Congreso Colombiano de Botánica](https://geobota.github.io/xii-ccb-2024/)
 
-\
-
-[![](images/xii-ccb/xii-ccb_aerobiologia-curso_hexsticker.svg){fig-align="center"}](http://geobota.github.io/xii-ccb-aerobiologia/)
+[![](images/events/xii-ccb.png){fig-align="center"}](https://geobota.github.io/xii-ccb-2024/)
 
 :::
 ::: {.g-col-12 .g-col-md-4}
 
-### [Investigación Reproducible con Quarto](http://geobota.github.io/xii-ccb-quarto/)
+## [XX International Botanical Congress](https://geobota.github.io/xx-ibc-2024/)
 
-[![](images/xii-ccb/xii-ccb_quarto-curso_hexsticker_02.svg){fig-align="center"}](http://geobota.github.io/xii-ccb-quarto/)
+\
+
+[![](images/events/xx-ibc.jpeg){fig-align="center"}](https://geobota.github.io/xx-ibc-2024/)
 
 :::
 ::::
