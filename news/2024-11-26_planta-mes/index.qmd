@@ -6,7 +6,7 @@ author:
   - name: "Álex Espinosa-Correa"
     email: alex.espinosa@udea.edu.co
     url: /people/espinosa-correa_alex/index.qmd
-date: 2024-10-21
+date: 2024-11-26
 citation: true
 
 image: images/image_01.jpeg
