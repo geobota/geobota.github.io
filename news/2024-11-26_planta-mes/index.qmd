@@ -1,0 +1,40 @@
+---
+title: "La Planta del Mes: *Zantedeschia aethiopica*"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-10-21
+citation: true
+
+image: images/image_01.jpeg
+
+categories:
+  - La planta del mes
+---
+
+Noviembre ha sido un mes especial para nosotros. Entre el XII Congreso Colombiano de Botánica y la riqueza cultural de este mes, no podíamos olvidarnos de nuestra sección favorita: La Planta del Mes.
+
+![](images/image_01.jpeg){fig-align="center" group="my-gallery" fig-alt="Ilustración de Zantedeschia aethiopica. En la parte izquierda se muestra la ilustración completa, la espata y el fruto. En la parte derecha aparece: «GEOBOTA. Planta del mes. Zantedeschia aethiopica (L.) Spreng.»."}
+
+En noviembre celebramos fechas como el Día de Todos los Santos, la Conmemoración de los Fieles Difuntos y la Independencia de Cartagena. Inspirados en estas tradiciones y en colaboración con La Sopa ([\@es_unasopa en Instagram](https://www.instagram.com/es_unasopa/)), destacamos una planta icónica: la elegante y simbólica [*Zantedeschia aethiopica*](https://es.wikipedia.org/wiki/Zantedeschia_aethiopica), conocida como cartucho o cala.
+
+![](images/image_02.jpeg){fig-align="center" group="my-gallery" fig-alt="Ilustración de la planta completa de Zantedeschia aethiopica. Una representación botánica que muestra la estructura general de esta especie: hojas grandes, brillantes y acorazonadas, y su característica espata blanca rodeando el espádice."}
+
+Esta planta perenne herbácea, de la familia Araceae, puede alcanzar hasta un metro de altura. Sus hojas grandes y brillantes, en forma de flecha o corazón, y su inflorescencia característica (el espádice), envuelta por una espata blanca acampanada, la convierten en un ícono de la flora ornamental.
+
+![](images/image_03.jpeg){fig-align="center" group="my-gallery" fig-alt="Detalle del espádice y la espata de Zantedeschia aethiopica. Ilustración que resalta las diminutas flores agrupadas en el espádice y su envoltura blanca, de forma acampanada."}
+
+Originaria de Sudáfrica, se ha naturalizado en diversas partes del mundo. En nuestra región, la asociamos con los cementerios, donde adorna las tumbas como símbolo de respeto y cariño hacia los fallecidos. Sin embargo, esta planta también tiene múltiples usos: ornamental, medicinal, medioambiental e incluso alimenticio.
+
+![](images/image_04.jpeg){fig-align="center" group="my-gallery" fig-alt="Detalle del fruto de Zantedeschia aethiopica. Ilustración botánica del fruto, que se presenta como una baya en desarrollo, típicamente de color verde."}
+
+¿Sabías de la versatilidad de esta planta? ¡Cuéntanos qué significado tiene para ti el cartucho!
+
+Esta publicación es un homenaje a un amigo de Samuel. 
+
+Gracias por acompañarnos en este viaje botánico.
+
+Ilustración: [Samuel Ochoa U](https://www.instagram.com/es_unasopa/).
