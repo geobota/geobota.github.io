@@ -2,6 +2,7 @@
   {
     "listing": "/atom.html",
     "items": [
+      "/news/2024-11-26_planta-mes/index.html",
       "/news/2024-10-30_xii-ccb/index.html",
       "/news/2024-10-26_xii-ccb/index.html",
       "/news/2024-10-25_xii-ccb/index.html",
@@ -9,7 +10,6 @@
       "/news/2024-10-23_xii-ccb/index.html",
       "/news/2024-10-22_xii-ccb/index.html",
       "/news/2024-10-21_planta-mes/index.html",
-      "/news/2024-11-26_planta-mes/index.html",
       "/news/2024-10-15_xii-ccb/index.html",
       "/news/2024-10-11_xii-ccb/index.html",
       "/news/2024-10-10_xii-ccb/index.html",
@@ -161,6 +161,7 @@
   {
     "listing": "/news/index.html",
     "items": [
+      "/news/2024-11-26_planta-mes/index.html",
       "/news/2024-10-30_xii-ccb/index.html",
       "/news/2024-10-26_xii-ccb/index.html",
       "/news/2024-10-25_xii-ccb/index.html",
@@ -168,7 +169,6 @@
       "/news/2024-10-23_xii-ccb/index.html",
       "/news/2024-10-22_xii-ccb/index.html",
       "/news/2024-10-21_planta-mes/index.html",
-      "/news/2024-11-26_planta-mes/index.html",
       "/news/2024-10-15_xii-ccb/index.html",
       "/news/2024-10-11_xii-ccb/index.html",
       "/news/2024-10-10_xii-ccb/index.html",
@@ -360,6 +360,7 @@
       "/publications/books/2012-04-12_alzate-guarin_etal/index.html",
       "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html",
       "/publications/articles/2011-09-02_alzate-guarin_etal/index.html",
+      "/news/2024-11-26_planta-mes/index.html",
       "/news/2024-10-30_xii-ccb/index.html",
       "/news/2024-10-26_xii-ccb/index.html",
       "/news/2024-10-25_xii-ccb/index.html",
@@ -367,7 +368,6 @@
       "/news/2024-10-23_xii-ccb/index.html",
       "/news/2024-10-22_xii-ccb/index.html",
       "/news/2024-10-21_planta-mes/index.html",
-      "/news/2024-11-26_planta-mes/index.html",
       "/news/2024-10-15_xii-ccb/index.html",
       "/news/2024-10-11_xii-ccb/index.html",
       "/news/2024-10-10_xii-ccb/index.html",
