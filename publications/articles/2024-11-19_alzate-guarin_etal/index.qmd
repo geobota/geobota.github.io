@@ -1,0 +1,30 @@
+---
+title: "A New Species of <i>Heliconia</i> from Colombia: A Proposal Based on Different Characters"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    url: /people/alzate-guarin_fernando-alveiro/index.qmd
+    orcid: 0000-0002-4916-8897
+  - name: "María del Pilar Sepúlveda-Nieto"
+  - name: "Diego Ramírez"
+year: 2024
+date: 2024-11-19
+publication: Systematic Botany
+doi: https://doi.org/10.1600/036364424X17267811220425
+materials: ""
+
+categories:
+  - Andes
+  - Floral morphology
+  - Morphometry
+  - Species key
+  - Staminode
+  - Taxonomy
+---
+
+## Abstract
+
+*Heliconia* (Heliconiaceae) is a genus of giant rhizomatous herbs that have bright and striking bract inflorescences. The family consists of one genus and about 194 species that occur naturally in the tropical regions of the world, concentrating their greatest diversity and endemism in the Andean foothills and the Pacific region of Colombia, with approximately 120 species of the total registered for the world. Within the species of this genus there is high morphological variation, which sometimes makes clear identification of *Heliconia* specimens difficult. So is the case of Heliconia platystachys Baker, which contains two morphologically distinct groups of plants distinguished by the size and color of the bracts, the floral bracts, the mucilage that covers the flowers, and the shape of the staminodium. These structures of floral biology such as staminodium are of great taxonomic value in the study of the species within the genus Heliconia. The main goal of this work was to study *Heliconia* populations, which are found on the western slope of the Central Cordillera of Colombia at elevations between 970 and 1200 m, for which the morpho-anatomical and palynological attributes were analyzed. We want to explore in this work whether the variation exhibited by these populations and their distribution allows us to postulate the occurrence of a new species with sufficient evidence for its separation.
+
+## Citation
+
+> Alzate-Guarín, F. A., Sepúlveda-Nieto, M. del P., & Ramírez, D. (2024). A new species of *Heliconia* from Colombia: A proposal based on different characters. *Systematic Botany*, 49(3), 515–521. https://doi.org/10.1600/036364424X17267811220425
