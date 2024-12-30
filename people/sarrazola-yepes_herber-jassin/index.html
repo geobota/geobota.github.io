@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.32">
+<meta name="generator" content="quarto-1.6.39">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -37,10 +37,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2486e1f0a3ee9ee1fc393803a1361cdb.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-3d9dd3510192c39c04d4d47e64a7a24e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-0be10a02aa56032eb6fe331f79f59765.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
@@ -286,7 +286,7 @@ Revisión taxonómica de las especies de <em>Boehmeria</em> Jacq. presentes en A
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-left" data-index="0" data-categories="QW5hdG9teSxNdWNpbGFnaW5vdXMgY2FuYWxzLE5ldHRsZSBmYW1pbHksUG9seXBoZW5vbHMsUG9seXNhY2NoYXJpZGVz" data-listing-date-sort="1567659600000" data-listing-file-modified-sort="1732645204017" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
+<div class="quarto-post image-left" data-index="0" data-categories="QW5hdG9teSUyQ011Y2lsYWdpbm91cyUyMGNhbmFscyUyQ05ldHRsZSUyMGZhbWlseSUyQ1BvbHlwaGVub2xzJTJDUG9seXNhY2NoYXJpZGVz" data-listing-date-sort="1567659600000" data-listing-file-modified-sort="1732341238689" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="221">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2019-09-05_sarrazola-yepes_&amp;_alzate-guarin/index.html" class="no-external">Obtaining DNA from Urticaceae: overcoming the challenges associated with chemical compounds and herbarium specimens</a>
@@ -298,10 +298,10 @@ Revisión taxonómica de las especies de <em>Boehmeria</em> Jacq. presentes en A
 <div class="listing-category" onclick="window.quartoListingCategory('QW5hdG9teQ=='); return false;">
 Anatomy
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('TXVjaWxhZ2lub3VzIGNhbmFscw=='); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TXVjaWxhZ2lub3VzJTIwY2FuYWxz'); return false;">
 Mucilaginous canals
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('TmV0dGxlIGZhbWlseQ=='); return false;">
+<div class="listing-category" onclick="window.quartoListingCategory('TmV0dGxlJTIwZmFtaWx5'); return false;">
 Nettle family
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('UG9seXBoZW5vbHM='); return false;">
@@ -413,8 +413,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -525,7 +523,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
