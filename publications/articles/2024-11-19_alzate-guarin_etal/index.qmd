@@ -1,5 +1,5 @@
 ---
-title: "A New Species of <i>Heliconia</i> from Colombia: A Proposal Based on Different Characters"
+title: "A new species of <i>Heliconia</i> from Colombia: A proposal based on different characters"
 author:
   - name: "**Fernando Alveiro Alzate-Guarin**"
     url: /people/alzate-guarin_fernando-alveiro/index.qmd
