@@ -1,0 +1,49 @@
+---
+title: "El pino colombiano: *Retrophyllum rospigliosii*"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2024-12-31
+citation: true
+
+image: images/image_01.jpeg
+
+categories:
+  - La planta del mes
+---
+
+Cerramos el mes y el año con nuestra planta del mes. Diciembre es único: el tiempo vuela entre reuniones, vacaciones, natilla y buñuelos. Sin embargo, no podemos olvidar el importante vínculo entre las festividades y las plantas.
+
+![](images/image_01.jpeg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica de la planta del mes, Retrophyllum rospigliosii (Pilg.) C.N. Page, presentada por GEOBOTA. La imagen muestra varias partes de la planta: A. El árbol completo. B. Una rama con hojas y conos. C. Una rama con hojas y frutos. D. Un fruto en vista lateral. E. Una semilla en corte transversal. F. Una semilla en vista lateral. La ilustración incluye detalles de las estructuras vegetales y las dimensiones de los frutos y semillas. En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."}
+
+Uno de los íconos más representativos de la Navidad es el árbol navideño, tradición originada en los pueblos germánicos y adoptada por el cristianismo. Este símbolo llegó a Colombia a mediados del siglo XX, utilizando principalmente especies europeas como los abetos (*Abies*) y las píceas (*Picea*), ambas de la familia [Pinaceae](https://es.wikipedia.org/wiki/Pinaceae), que no crecen naturalmente en nuestro país. Sin embargo, ¿sabías que Colombia tiene sus propios «pinos» nativos?
+
+![](images/image_02.jpeg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica del árbol completo de Retrophyllum rospigliosii (pino colombiano), mostrando su porte majestuoso con forma de cono. En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."}
+
+Hoy les presentamos a [*Retrophyllum rospigliosii* (Pilg.) C.N. Page](https://tropicos.org/name/50216037) (chaquiro, pino romerón o pino colombiano), de la familia [Podocarpaceae](https://es.wikipedia.org/wiki/Podocarpaceae). Este árbol perennifolio habita los bosques de montaña entre los 1.470 y 3.300 msnm. Puede alcanzar hasta 45 m de altura y 2 m de diámetro (ver imagen A).
+
+![](images/image_03.jpeg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica mostrando el detalle de los conos masculinos de Retrophyllum rospigliosii, alargados y agrupados. En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."}
+
+Características principales:
+
+-   Hojas simples, opuestas, coriáceas y pequeñas, dispuestas en un mismo plano.
+
+-   Es una especie dioica: hay árboles masculinos (con conos masculinos, imagen B) y femeninos (con conos que producen un epimatium, o falso fruto, imágenes D-E).
+
+-   Epimatios redondeados, verdes y amarillos al madurar, contienen la semilla (ver imágenes E-F).
+
+![](images/image_04.jpeg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica mostrando el detalle de los falsos frutos (epimacio) de Retrophyllum rospigliosii. En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."}
+
+Estado de conservación:
+Aunque se usa como ornamental y en cercas vivas en ciudades, R. rospigliosii está clasificado como [vulnerable (VU) por la IUCN](https://www.iucnredlist.org/es/species/34110/2846471) debido a la deforestación y tala indiscriminada por su valiosa madera. Actualmente, cuenta con una veda nacional para su protección.
+
+![](images/image_05.jpeg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica mostrando el detalle de los conos femeninos y epimatios de Retrophyllum rospigliosii: (D) epimacio inmaduro, (E) epimacio maduro con semilla y (F) semilla individual. En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."}
+
+¿Conocías al pino colombiano? ¡Comparte este conocimiento!
+
+¡Síguenos para descubrir más sobre las plantas que te rodean!
+
+Ilustración: [Samuel Ochoa U.](https://www.instagram.com/es_unasopa/).
