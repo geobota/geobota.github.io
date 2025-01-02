@@ -1,0 +1,19 @@
+---
+title: "¿La vio alguna vez? Cuna de Noé o espatifilo: una especie extinta que vuelve a florecer en Colombia"
+description: "Tras más de un siglo de haber sido considerada extinta en su estado silvestre, esta planta, conocida como garcita blanca, fue redescubierta en los Montes de María gracias al esfuerzo de dos botánicos colombianos."
+
+author: GEOBOTA
+date: 2024-12-05
+
+categories:
+  - Noticias
+  - El Colombiano
+---
+
+![*Spathiphyllum wallisii* se ha preservado durante siglos al interior de los hogares como planta decorativa y en los antejardines, por su resistencia y belleza para ambientes exteriores. FOTO: Cortesía dirección de comunicaciones UdeA, Alejandra Uribe Fernández](image.jpg){fig-align="center"}
+
+En lo profundo de los Montes de María, entre las brumas y el canto lejano de las aves, una planta que había desaparecido del mapa botánico volvió a aparecer, y este descubrimiento, que a primera vista puede parecer un hallazgo sencillo, encierra una historia de exploración, ciencia y esperanza.
+
+La protagonista de esta historia es *Spathiphyllum wallisii*, una especie de garcita blanca que se creía extinta en su estado silvestre desde hace más de un siglo y que, gracias a los esfuerzos de los botánicos colombianos William Vargas y [Felipe Cardona Naranjo](/people/cardona-naranjo_felipe-alfonso/index.qmd), vuelve a ocupar un lugar en la historia natural del país.
+
+Leer nota completa [aquí](https://www.elcolombiano.com/medio-ambiente/spathiphyllum-wallisii-extinta-flor-garcita-blanca-redescubrimiento-montes-de-maria-EE26003412).
