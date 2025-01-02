@@ -1,0 +1,28 @@
+---
+title: "Essential oils from Colombian <i>Croton</i> spp. exhibit antibacterial activity against methicillin-resistant <i>Staphylococcus aureus</i> (MRSA) and ampicillin- and streptomycin-resistant <i>Escherichia coli</i>"
+type: "article"
+author:
+  - name: "Isabel Cristina Sánchez"
+  - name: "Juan Aicardo Segura-Caro"
+  - name: "Elkin Galeano"
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+    url: /people/alzate-guarin_fernando-alveiro/index.qmd
+  - name: "Ana Claudia Ossa-Giraldo"
+year: 2024
+date: 2024-12-28
+publication: "Scientific Reports"
+doi: https://doi.org/10.1038/s41598-024-65961-x
+materials: ""
+
+# categories:
+#   
+---
+
+## Abstract
+
+Bacterial resistance, a global public health concern prioritized by the World Health Organization, is particularly alarming in *Staphylococcus aureus* and *Escherichia coli*. Urgently addressing this, the search for new antibiotics has turned to plant essential oils. Our study focused essential oils derived from Colombian plants *Croton killipianus*, *Croton smithianus*, *Croton leptostachyus*, *Croton hondensis*, and *Croton gossypiifolius*. We performed antimicrobial susceptibility tests targeting *Staphylococcus aureus*, methicillin-resistant *Staphylococus aureus*, sensitive *Escherichia coli*, and ampicillin- and streptomycin-resistant *Escherichia coli*. Simultaneosly, citotoxic assays and chemical analysis were carried out. The essential oil derived from *C. hondensis* demonstrated superior inhibitory efficacy, effectively targeting methicillin-resistant *S. aureus*, susceptible *S. aureus*, and both sensitive and ampicillin- and streptomycin-resistant strains of *E. coli*. Furthermore, it exhibited notable potential for protective activity in Chinese hamster ovary cells. *C. killipianus* manifested inhibitory effects against MRSA and susceptible *S. aureus*, whereas *C. smithianus* specifically affected susceptible strains of *S. aureus*. Chemical analysis of the essential oils revealed rich content in phenolic compounds, flavonoids, tannins, and steroids. Gas-coupled mass spectrometry identified key compounds like γ-muurolene, α-humulene, (E)-caryophyllene, α-copaene, curcumene, and (E)-nerolidol. These findings underscore *C. hondensis*, *C. killipianus*, and *C. smithianus* as potential natural sources for antibacterial agent development.
+
+## Citation
+
+> Sánchez, I. C., Segura-Caro, J. A., Galeano, E., Alzate-Guarín, F. A., & Ossa-Giraldo, A. C. (2024). Essential oils from Colombian *Croton* spp. Exhibit antibacterial activity against methicillin-resistant *Staphylococcus aureus* (MRSA) and ampicillin- and streptomycin-resistant *Escherichia coli*. *Scientific Reports*, 14(1), 30643. https://doi.org/10.1038/s41598-024-65961-x
