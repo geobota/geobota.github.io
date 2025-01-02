@@ -1,0 +1,17 @@
+---
+title: "El redescubrimiento de una especie de anturio que se creía extinta"
+description: "<i>Spathiphyllum wallisii</i> es una especie de anturio blanco nativo de Colombia que había sido encontrado por Gustav Wallis, recolector alemán de plantas que se internó en las montañas de los Andes cerca de 1872. Esta hierba tropical, reportada como desaparecida en su estado silvestre, fue redescubierta por dos botánicos colombianos, uno de ellos investigador de la Facultad de Ciencias Exactas y Naturales de la UdeA."
+
+author: "GEOBOTA"
+date: 2024-12-02
+
+categories:
+  - Noticias
+  - Alma Mater
+---
+
+![Un ejemplar de *Spathiphyllum wallisii* conservado en la colección del [Herbario UdeA](/herbarium/).](image.jpeg){fig-align="center"}
+
+Durante una caminata en la Serranía de San Jacinto, en el bosque húmedo de los Montes de María, que se extienden entre los departamentos de Córdoba y Sucre, el botánico huilense William Vargas se encontró con una planta de anturio que le resultó sorprendentemente familiar. La planta era muy parecida a una especie que había sido reportada como extinta y sobre la cual había discutido extensamente con su colega [Felipe Cardona Naranjo](/people/cardona-naranjo_felipe-alfonso/index.qmd), especialista en anturios y director del Herbario de la Universidad de Antioquia. Vargas envió una fotografía de la planta a Cardona, quien, tras realizar las verificaciones técnicas pertinentes, confirmó la identidad: ¡se trataba de *Spathiphyllum wallisii*! 
+
+Leer nota completa [aquí](https://www.udea.edu.co/wps/portal/udea/web/inicio/udea-noticias/udea-noticia/!ut/p/z1/xVbbcpswEP2V5sGPROIiLn0jlDh2fcOxg80LI4EANQgRjO3YX1-YZKZNU9vtZGh50G3OnrO7rFhAAFYgKPCOpbhmosB5s18HemhajiLbGhxBXdOhrc80ZCh9dfEAgf8L4KuMoO25s8li6sy-DBUQnLZHEL3awxOPDf_M_gwgOO__AwhAEBV1WWdgXYqqxvk2prgH8ebtLhOcvqzb8VMhahYxvOnBSBQ1LVgsWtSP45JWTMQsEjjnmOOaVj24KXGdsTI75PmWS3uc52zDmFRibmhK60hCopzFYD3YB6sMknSSBT50xgvbtufyvH_0qO4_lTJ63DrG461_s03ChSTfxEmOUqYdbt0yGcbYW48O43s0Ge5D_GyKEFMeRqlb8f7ODY5TX0KjIxHjPvFazTJqFXUTU4uYiYQRxpKmECpZFiESJrFqWZpuQB2fT3abzeD8u_RbvdMM5p3yCph4yJUVB46mA9WFnjVBM7U_UDRDfcfwvuAuebFuojBO-aBCDfg7RvdgWYiKN1fg_i-TdHdRAX1Q4QK90Sl9X-mWXu6WXu2U3tQ_SN-gfWccekt33ij988_Bhei6LVyz28Kdat3S653Sa_CD9MNLnbBp9ezb01NgN_2wbWnPNVj934bYuJzmgrz8htgFUc0UBBVNaEWr623VHGd1XW4-92AP5tcJjigR4vE6ErwHf2eSiU0T01skKPlyueSmyqUVZANpPdzt94uEO8R8Mx3vUMrDsav-PNXmQc3Tq6vvCBUKng!!/).
