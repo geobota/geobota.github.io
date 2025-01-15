@@ -1,0 +1,63 @@
+---
+title: "<i>Heliconia longipedunculata</i>: una nueva especie para Colombia"
+# description: ""
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2025-01-16
+citation: true
+
+image: images/image_01.jpeg
+
+categories:
+  - Publicación
+
+draft: false
+---
+
+Colombia, el país con la mayor diversidad de especies de *Heliconia* en el mundo, tiene un nuevo hallazgo científico. En un reciente artículo publicado en la revista *Systematic Botany*, titulado "A new species of *Heliconia* from Colombia: a proposal based on different characters", investigadores de la Universidad del Quindío y la Universidad de Antioquia presentan a *Heliconia longipedunculata* Sepúlveda, Di.Ramírez & Alzate, una nueva especie endémica.
+
+Este trabajo, realizado por María del Pilar Sepúlveda Nieto, Diego Ramírez y [Fernando Alzate Guarín](/people/alzate-guarin_fernando-alveiro/index.qmd), nuestro director, combina estudios morfológicos, anatómicos y palinológicos para describir esta nueva especie, demostrando la importancia de integrar diferentes enfoques para superar los retos en la identificación de especies dentro del género *Heliconia*.
+
+![](images/image_01.jpeg){fig-align="center" fig-alt="La imagen muestra en el centro una captura de pantalla de la primera página del artículo científico publicado en la revista Systematic Botany, titulado A new species of Heliconia from colombia: a proposal based on different characters. La imagen tiene un fondo oscuro. En la esquina superior derecha, sobre un fondo rojo aparece en blanco la palabra «GEOBOTA». En la esquina inferior izquierda sobre un fordo rojo aparece en blanco la palabra «PUBLICACIÓN». En la esquina inferior derecha aparecen en blanco los logotipos de Facebook e Instagram de @geobotaudea."}
+
+## Un hallazgo en el Quindío
+
+El descubrimiento de *Heliconia longipedunculata* tuvo lugar durante exploraciones en las localidades de Montenegro, La Tebaida y Quimbaya, en el departamento del Quindío. Inicialmente, estas poblaciones fueron identificadas como *H. platystachys*, pero estudios detallados en el [Herbario de la Universidad del Quindío HUQ](https://www.instagram.com/herbario_huq/) revelaron diferencias significativas, incluyendo:
+
+-   Tamaño de las plantas.
+-   Forma y tamaño de las inflorescencias.
+-   Longitud, forma, color y número de brácteas.
+-   Color y longitud del pedúnculo.
+-   Forma y estructura de la flor.
+
+El pedúnculo cilíndrico notablemente largo y las brácteas rojizas-anaranjadas con bordes amarillo verdosos distinguen a esta nueva especie, cuyo rango de distribución está restringido a unas pocas localidades del Quindío.
+
+![](images/image_02.jpeg){fig-align="center" fig-alt="Fotografías que muestran detalles florales de Heliconia platystachys y Heliconia longipedunculata. Se observan vistas del perianto y del estaminodio con diferentes perspectivas y escalas. En el lado derecho se lee: A–D. Heliconia platystachys. A. Perianth. B–D. Staminodium emerging from the base of the perianth in different views. E–H. Heliconia longipedunculata. E. Perianth. F–H. Staminodium emerging from the base of the perianth in different views"}
+
+## ¿Por qué es importante este descubrimiento?
+Con más de 194 especies distribuidas en las regiones tropicales, *Heliconia* es un género fundamental para los ecosistemas de bosques tropicales, sirviendo como fuente de alimento para aves, insectos y otros organismos. Este hallazgo no solo contribuye al conocimiento de la biodiversidad colombiana, sino que también destaca la urgencia de proteger su hábitat, amenazado por actividades antropogénicas.
+
+De hecho, *Heliconia longipedunculata* puede ser clasificada como vulnerable (VU) bajo los criterios de la IUCN. Esto subraya la importancia de implementar medidas de conservación para asegurar su supervivencia.
+
+![](images/image_03.jpeg){fig-align="center" fig-alt="Ilustración botánica de Heliconia longipedunculata, con detalles de hábito, inflorescencias, brácteas florales, y estructura del estaminodio en vistas laterales y frontales. En el lado derecho se lee: Heliconia longipedunculata. A. Plant habit. B. Inﬂorescence. C. Sigmoid perianth. D. Floral bract. E. Staminode in lateral and frontal view. Illustrations by P. Sepulveda"}
+
+## **Ilustraciones y características taxonómicas**  
+El artículo incluye ilustraciones detalladas que muestran el hábito de la planta, las inflorescencias y las estructuras florales. Estas imágenes ayudan a diferenciar esta especie de otras del género *Heliconia*.
+
+Este descubrimiento es un recordatorio del inmenso potencial de biodiversidad que Colombia alberga y de la necesidad de continuar investigando y protegiendo nuestros ecosistemas.
+
+![](images/image_04.jpeg){fig-align="center" fig-alt="Imagen con fondo oscuro. En la parte superior aparece en rojo el texto «Escanea el QR y lee la publicación». En el centro aparece un código QR de color rojo. En la parte inferior aparecen en rojo el doi del artículo https://doi.org/10.1600/036364424X17267811220425 y en blanco los logotipos de Facebook e Instagram de @geobotaudea."}
+
+Enlace al artículo: <https://doi.org/10.1600/036364424X17267811220425>
+
+¡Síguenos para mantenerte al tanto de nuestras investigaciones y publicaciones!
+
+## Referencia 
+
+<?xml version="1.0"?>
+<div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
+  <div class="csl-entry">Alzate-Guar&#xED;n, F. A., Sep&#xFA;lveda-Nieto, M. del P., &amp; Ram&#xED;rez, D. (2024). A new species of <i>Heliconia</i> from Colombia: a proposal based on different characters. <i>Systematic Botany</i>, <i>49</i>(3), 515&#x2013;521. https://doi.org/10.1600/036364424X17267811220425</div>
+</div>
