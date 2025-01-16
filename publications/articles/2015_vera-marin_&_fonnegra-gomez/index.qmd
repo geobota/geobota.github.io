@@ -1,0 +1,32 @@
+---
+title: "Scientific note: floristic composition and diversity of medicinal plants in some gardens at eastern plateau of Antioquia, Colombia"
+author:
+  - name: "**Bladimir Vera-Marín**"
+    orcid: 0000-0003-3275-5611
+    url: /people/vera-marin_bladimir/index.qmd
+  - name: "**Ramiro Fonnegra-Gómez**"
+    orcid: 0000-0002-8218-8136
+    url: /people/fonnegra-gomez_ramiro/index.qmd
+year: 2015
+date: 2015-12-30
+publication: ETNOBIOLOGÍA
+# doi: https://doi.org/10.1590/2236-8906-52/2013
+materials: ""
+
+categories:
+  - Diversity
+  - East Antioquia
+  - Medicinal plants
+  - Traditional knowledge
+---
+
+## Abstract
+
+In the medicinal gardens is found a great diversity of knowledge and of vegetable species sowed by the habitants of the rural communities. The aim of this paper is identify the species richness patterns, the floristic composition and diversity of the medicinal plants on some gardens of the Eastern Plateau at the Department of Antioquia (Colombia). In collaboration with 11 connoisseurs of medicinal plants was conducted an inventory of they, finding a total of 220 species used which belong to the most representative families, such as: Asteraceae, Lamiaceae, Poaceae, Solanaceae and Apiaceae.
+
+The results showed a high diversity of medicinal plants in 17 gardens at the area, as well as similarity of plants with gardens of distant areas. It should be considered forward studies to enhance the inventory of medicinal plants in other zones of the Department of Antioquia, which will help to develop studies in phytochemistry and apply appropriate phytosanitary measures for the adequate use of the vegetable resource.
+
+## Citation
+
+> Vera-Marín, B., & Fonnegra-Gómez, R. (2015). Scientific note: Floristic composition and diversity of medicinal plants in some gardens at eastern plateau of Antioquia, Colombia. *ETNOBIOLOGÍA*, 13(3), 80–95.
+
