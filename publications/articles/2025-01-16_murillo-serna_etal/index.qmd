@@ -1,0 +1,44 @@
+---
+title: "Synopsis of <i>Maracanthus</i> (Loranthaceae) and description of <i>M. kuijtii</i>, a new species from the Eastern Andes of Colombia"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+    url: /people/murillo-serna_jhon-steven/index.qmd
+  - name: "**Isabel Carmona-Gallego**"
+    orcid: 0000-0001-8954-4503
+    url: /people/carmona-gallego_isabel/index.qmd
+  - name: "**Francisco Javier Roldán-Palacio**"
+    orcid: 0000-0001-9241-9551
+    url: /people/roldan-palacio_francisco-javier/index.qmd
+  - name: "Julio Andrés Sierra-Giraldo"
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+    url: /people/alzate-guarin_fernando-alveiro/index.qmd
+year: 2025
+date: 2025-01-16
+publication: "Plant Ecology and Evolution"
+doi: https://doi.org/10.5091/plecevo.127900
+materials: ""
+
+categories:
+  - Flora of Colombia
+  - Flora of Venezuela
+  - Hemiparasitic
+  - Mistletoe
+  - Oryctanthus
+  - Oryctina
+  - Palynology
+  - Santalales
+
+---
+
+## Abstract
+
+**Background and aims** – Ongoing studies on Colombian mistletoes revealed an undescribed species of *Maracanthus* (Loranthaceae) endemic to the Colombian Eastern Cordillera (Cordillera Oriental). This species is described and illustrated here, and a checklist of the species accepted in *Maracanthus* is also provided, including a taxonomic key, references to the known iconography of the genus, and taxonomic and geographic comments.\
+**Material and methods** – This study is based on a literature review according to the International Code of Nomenclature for Algae, Fungi, and Plants, examination of herbarium specimens using physical specimens and digital images, and morphological studies based on samples from dried and rehydrated specimens.\
+**Key results** – A detailed morphological analysis revealed that the new species is part of the little-known genus *Maracanthus*. The dichotomous key, as well as the taxonomic and geographic notes, allow users to recognise the five known species in this genus, showing that they occur in restricted distribution areas.
+
+## Citation
+
+> Murillo-Serna, J. S., Carmona-Gallego, I., Roldán-Palacio, F. J., Sierra-Giraldo, J. A., & Alzate-Guarín, F. A. (2025). Synopsis of *Maracanthus* (Loranthaceae) and description of *M. kuijtii*, a new species from the Eastern Andes of Colombia. *Plant Ecology and Evolution*, 158(1), 14–22. https://doi.org/10.5091/plecevo.127900
