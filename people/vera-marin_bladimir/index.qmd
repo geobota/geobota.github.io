@@ -12,21 +12,21 @@ started: "2025-01"
 ended: "Actual"
 toc: false
 
-# listing:
-#   id: publications
-#   type: default
-#   fields: [title, description, categories, date, author]
-#   contents: ../../publications/*/**/index.qmd
-#   categories: false
-#   sort:
-#     - "date desc"
-#     - "author"
-#     - "title"
-#   filter-ui: [title, author, publication, year]
-#   image-align: left
-#   page-size: 10
-#   include:
-#     author: *title
+listing:
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
 
 about:
   id: person-profile
@@ -43,13 +43,13 @@ about:
     - href: https://www.researchgate.net/profile/Bladimir-Marin
       text: "{{< ai researchgate >}} ResearchGate"
 
-draft: true
+# draft: true
 ---
 
 :::{#person-profile}
 :::
 
-<!-- Descripción -->
+Mi trabajo se ha profundizado en estudiar el uso de las plantas medicinales y conocimiento tradicional con poblaciones campesinas en el departamento de Antioquia, además de centrarme  en la etnobotánica cuantitativa, la ecología vegetal y las plantas de uso alimenticio y sus propiedades nutricionales.
 
 ## Educación
 
@@ -69,7 +69,7 @@ draft: true
     Licenciatura en Ciencias Naturales y Educación Ambiental \| 2003-2009\
     Modelos Mentales al interrelacionar los conceptos de Célula y Ecosistema utilizando los insectos como eje trasnversal
 
-<!-- ## Publicaciones -->
+## Publicaciones
 
-<!-- ::: {#publications} -->
-<!-- ::: -->
+::: {#publications}
+:::
