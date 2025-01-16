@@ -7,7 +7,7 @@ subtitle: "Estudiante de maestría"
 # `number`, `last`, `first`, sirven para ordenar en el `listing` de `people`.
 # primero por el número asignado, después por "Last-Name", seguido por "First Name"
 # Coordinador: 1, Investigador: 2, Estudiante de doctorado o maestría: 3, Estudiante de pregrado: 4
-number: 3"
+number: "3"
 # `last` y `first`debe coincidir con lo agregado a `title`.
 last: "Herrera-Pacheco"
 first: "Mayra Alejandra"
@@ -25,21 +25,21 @@ ended: "Actual"
 toc: false
 
 # `listing` para mostrar las públicaciones. Se ha de comentar (#) si no hay publicacones.
-listing: 
-  id: publications
-  type: default
-  fields: [title, description, categories, date, author]
-  contents: ../../publications/*/**/index.qmd
-  categories: false
-  sort:
-    - "date desc"
-    - "author"
-    - "title"
-  filter-ui: [title, author, publication, year]
-  image-align: left
-  page-size: 10
-  include:
-    author: *title
+# listing: 
+#   id: publications
+#   type: default
+#   fields: [title, description, categories, date, author]
+#   contents: ../../publications/*/**/index.qmd
+#   categories: false
+#   sort:
+#     - "date desc"
+#     - "author"
+#     - "title"
+#   filter-ui: [title, author, publication, year]
+#   image-align: left
+#   page-size: 10
+#   include:
+#     author: *title
 
 # `about` es la plantilla del perfil. `id` y `template` son fijos, no se cambian.
 about:
