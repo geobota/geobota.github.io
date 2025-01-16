@@ -30,7 +30,7 @@ website:
 
   navbar:
     logo: images/logo/geobota_logo.png
-    background: light
+    # background: light
     search: true
     right:
       - text: "Inicio"
