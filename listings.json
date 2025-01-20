@@ -2,6 +2,7 @@
   {
     "listing": "/atom.html",
     "items": [
+      "/news/2025-01-20_publicacion/index.html",
       "/news/2025-01-16_publicacion/index.html",
       "/news/2024-12-31_planta-mes/index.html",
       "/news/2024-12-05_el-colombiano/index.html",
@@ -335,6 +336,7 @@
       "/publications/books/2012-04-12_alzate-guarin_etal/index.html",
       "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html",
       "/publications/articles/2011-09-02_alzate-guarin_etal/index.html",
+      "/news/2025-01-20_publicacion/index.html",
       "/news/2025-01-16_publicacion/index.html",
       "/news/2024-12-31_planta-mes/index.html",
       "/news/2024-12-05_el-colombiano/index.html",
@@ -385,6 +387,7 @@
   {
     "listing": "/news/index.html",
     "items": [
+      "/news/2025-01-20_publicacion/index.html",
       "/news/2025-01-16_publicacion/index.html",
       "/news/2024-12-31_planta-mes/index.html",
       "/news/2024-12-05_el-colombiano/index.html",
