@@ -14,7 +14,7 @@ image: images/image_01.jpeg
 categories:
   - Publicación
 
-draft: true
+# draft: true
 ---
 
 Colombia, con su riqueza natural, es hogar de más de 1.000 especies de la familia Melastomataceae, lo que lo convierte en el segundo país más diverso del mundo para esta familia botánica. En la última década, se han descrito 35 nuevas especies, un logro que resalta el trabajo constante de los investigadores por explorar y documentar nuestra biodiversidad.
