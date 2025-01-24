@@ -17,6 +17,8 @@ categories:
 # draft: true
 ---
 
+<meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
+
 La resistencia a los antimicrobianos (ARM) es uno de los mayores desafíos para la salud global. Este fenómeno ocurre cuando bacterias, virus, hongos y parásitos dejan de responder a los medicamentos, dificultando o imposibilitando el tratamiento de infecciones. Según la OMS, en 2019 las muertes relacionadas con la ARM superaron los cinco millones, convirtiéndola en una crisis prioritaria para esta década. Entre las bacterias más preocupantes están *Escherichia coli* y *Staphylococcus aureus*, con tasas de resistencia del 42 % y 35 %, respectivamente.
 
 ![](images/image_01.jpeg){fig-align="center" fig-alt="La imagen muestra en el centro una captura de pantalla de la primera página del artículo científico publicado en la revista Scientific Reports, titulado Essential oils from Colombian Croton spp. exhibit antibacterial activity against methicillin‑resistant *Staphylococcus aureus* (MRSA) and ampicillin‑ and streptomycin‑resistant *Escherichia coli*. La imagen tiene un fondo oscuro. En la esquina superior derecha, sobre un fondo rojo aparece en blanco la palabra «GEOBOTA». En la esquina inferior izquierda sobre un fondo rojo aparece en negro la palabra «PUBLICACIÓN». En la esquina inferior derecha aparecen en blanco los logotipos de Facebook e Instagram de @geobotaudea."}
