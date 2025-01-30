@@ -19,7 +19,7 @@ categories:
 
 En una [publicación anterior](../2024-09-23_diccionario-botanico) mencionamos a las plantas terrestres o embriofitas. Hoy, en nuestro Diccionario Botánico, te contamos más sobre ellas.
 
-![](image.jpeg){fig-align="center" fig-alt="Imagen con varias plantas de fondo que representan a las Embryophyta, un grupo de plantas que produce embriones y está conformado por las briofitas y plantas vasculares, conocidas como plantas terrestres. El texto principal dice: "Embryophyta: Grupo de plantas que producen embriones y está conformado por las briofitas y las plantas vasculares. Conocidas como plantas terrestres". En la esquina superior derecha aparece el logotipo de GEOBOTA, y en la esquina inferior izquierda, el título «Diccionario Botánico». En la esquina inferior derecha están los iconos de Facebook e Instagram junto al usuario @geobotaudea."}
+![](image.jpeg){fig-align="center" fig-alt="Imagen con varias plantas de fondo que representan a las Embryophyta, un grupo de plantas que produce embriones y está conformado por las briofitas y plantas vasculares, conocidas como plantas terrestres. El texto principal dice: «Embryophyta: Grupo de plantas que producen embriones y está conformado por las briofitas y las plantas vasculares. Conocidas como plantas terrestres». En la esquina superior derecha aparece el logotipo de GEOBOTA, y en la esquina inferior izquierda, el título «Diccionario Botánico». En la esquina inferior derecha están los iconos de Facebook e Instagram junto al usuario @geobotaudea."}
 
 Embryophyta es el nombre científico que agrupa a las plantas terrestres, que incluyen desde los musgos (Bryophyta) hasta las plantas vasculares (Tracheophyta). ¡Son más de 370.000 especies de plantas!
 

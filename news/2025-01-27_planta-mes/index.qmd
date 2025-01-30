@@ -1,5 +1,5 @@
 ---
-title: "La planta del mes: *Pachira sessilis*"
+title: "La planta del mes: <i>Pachira sessilis</i>"
 # description: ""
 
 author: 
