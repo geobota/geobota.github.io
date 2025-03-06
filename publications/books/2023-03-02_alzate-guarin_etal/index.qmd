@@ -1,0 +1,29 @@
+---
+title: "Biología de las plantas: manual de laboratorio"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+  - name: "**Felipe Alfonso Cardona-Naranjo**"
+    orcid: 0009-0008-6232-7371
+  - name: "**Álex Espinosa-Correa**"
+    orcid: 0000-0002-7353-1182
+year: 2023
+date: 2023-03-02
+publication: "Universidad de Antioquia"
+# doi: https:
+# isbn: 
+# materials: 
+
+categories:
+  - Manual de laboratorio
+---
+
+<!-- ## Abstract -->
+
+
+
+## Citation
+
+> Alzate-Guarín, F. A., Cardona-Naranjo, F. A., & Espinosa-Correa, Á. (2025). *Biología de las plantas: manual de laboratorio*. Universidad de Antioquia. https://geobota.github.io/biologia-plantas-manual/
+
+## [Download {{< fa link >}}](https://geobota.github.io/biologia-plantas-manual/)
