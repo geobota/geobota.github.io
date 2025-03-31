@@ -1,0 +1,19 @@
+---
+title: "Descubren nueva especie de árbol en pleno campus de la UdeA: así es la <i>Dahlstedtia colombiana</i>"
+description: "Un grupo de investigadores confirmó que es una especie nueva para la ciencia, pese a que estaba registrada bajo otro nombre, se creía que no existía en el país y florecía a la vista de todos."
+
+author: "GEOBOTA"
+date: 2025-03-27
+
+categories:
+  - Noticias
+  - El Colombiano
+---
+
+![Ejemplar de *Dahlstedtia colombiana* guardado en el herbario de la UdeA. Foto cortesía UdeA.](image.jpg){fig-align="center"}
+
+Un árbol que habita en los fragmentados bosques secos del valle del Magdalena y el Valle del Cauca fue oficialmente reconocido como [una nueva especie para la ciencia](/news/2024-10-02_publicacion/index.qmd). Lo insólito es que, mientras su existencia pasaba inadvertida durante décadas, dos ejemplares crecían frente a los ojos de miles de personas, en pleno campus de la Universidad de Antioquia.
+
+La especie, bautizada *Dahlstedtia colombiana*, fue identificada por [Ana María Trujillo López](/people/trujillo-lopez_ana-maria/index.qmd) y [Yeison Londoño Echeverri](/people/londono-echeverri_yeison/index.qmd), estudiantes de la maestría en Biología de la Facultad de Ciencias Exactas y Naturales de la UdeA, junto con el docente William Ariza Cortés, de la Universidad Distrital Francisco José de Caldas, gracias al trabajo de revisión botánica en herbarios nacionales y a la observación de ejemplares conservados en Medellín.
+
+Leer nota completa [aquí](https://www.elcolombiano.com/medio-ambiente/nueva-especie-arbol-herbario-udea-dahlstedtia-colombiana-HI26950575).
