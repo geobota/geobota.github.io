@@ -1,5 +1,5 @@
 ---
-title: "<New species in Chromolucuma, <i>Chrysophyllum</i>, <i>Pouteria</i> and <i>Pradosia</i> (Chrysophylloideae, Sapotaceae) from the Magdalena and Cauca Rivers basins in Colombia"
+title: "New species in Chromolucuma, <i>Chrysophyllum</i>, <i>Pouteria</i> and <i>Pradosia</i> (Chrysophylloideae, Sapotaceae) from the Magdalena and Cauca Rivers basins in Colombia"
 type: "article"
 author:
   - name: "**Yeison Londoño-Echeverri**"
