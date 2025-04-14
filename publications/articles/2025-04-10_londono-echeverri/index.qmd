@@ -1,0 +1,28 @@
+---
+title: "<New species in Chromolucuma, <i>Chrysophyllum</i>, <i>Pouteria</i> and <i>Pradosia</i> (Chrysophylloideae, Sapotaceae) from the Magdalena and Cauca Rivers basins in Colombia"
+type: "article"
+author:
+  - name: "**Yeison Londoño-Echeverri**"
+    orcid: 0000-0001-5169-598X
+year: 2025
+date: 2025-04-10
+publication: "Phytotaxa"
+doi: https://doi.org/10.11646/phytotaxa.697.1.2
+materials: ""
+
+categories:
+  - Endangered tree species
+  - Ericales
+  - Eudicots
+  - Franchetella
+  - Neotropical trees diversity
+  - Plant taxonomy
+---
+
+## Abstract
+
+Four new species of Sapotaceae subfamily Chrysophylloideae are described and illustrated, belonging to the genera *Chromolucuma*, *Chrysophyllum*, *Pouteria* and *Pradosia.* Comments about their distribution, phenology, common names, conservation status and taxonomic affinities are made. All species are distributed in lowlands of the Cauca or Magdalena rivers basins in Colombia. New species are distinguished from their similar congeners by both vegetative and reproductive features. *Chromolucuma pentagona* is similar to *C. cespedesiiformis* but distinguished by leaves with more secondary veins, cauliflorous to ramiflorous fascicles, shorter pedicels, stamens inserted in the middle of corolla tube, and longer staminodes. *Chrysophyllum caucanum* is similar to *C. parvulum* but distinguished by leaves with less secondary veins, shorter pedicels and calyx, campanulate and shorter corolla, and a lower ratio between tube and lobes length. *Pouteria karsticola* is similar to *P. bulliformis* but distinguished by shorter petioles, pedicels, perianth and androecium; pedicels and sepals persistently villous, corolla lobes 2.1–2.2 times longer than the tube, and anther thecae apically mammiform. *Pradosia tomentirostris* is similar to *P. golfodulcensis* but distinguished by petioles and leaf primary veins sparsely tomentulose, subsessile flowers and fruits, and densely tomentulose, often rostrate fruits. *Chromolucuma pentagona* and *P. karsticola* seem to be endemic to karst reliefs.
+
+## Citation
+
+> Londoño-Echeverri, Y. (2025). New species in *Chromolucuma*, *Chrysophyllum*, *Pouteria* and *Pradosia* (Chrysophylloideae, Sapotaceae) from the Magdalena and Cauca Rivers basins in Colombia. *Phytotaxa*, 697(1), 24–46. https://doi.org/10.11646/phytotaxa.697.1.2
