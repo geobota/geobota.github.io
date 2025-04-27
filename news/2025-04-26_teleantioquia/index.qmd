@@ -1,0 +1,17 @@
+---
+title: "Un hallazgo entre hojas secas: nace una nueva especie de árbol en Sonsón"
+description: "Una tesis de pregrado terminó en un hallazgo botánico mundial. La ciencia joven cambia el mundo. Conoce aquí una nueva especie de árbol."
+
+author: "GEOBOTA"
+date: 2025-04-26
+
+categories:
+  - Noticias
+  - Teleantioquia
+---
+
+![*Tournefortiopsis triflora*. Fotografía: Universidad de Antioquia.](image.jpg){fig-align="center"}
+
+El 9 de enero de 2024 la Universidad de Antioquia publicó un nuevo hallazgo; se trataba de una nueva especie de árbol. Todo empezó cuando [David Pérez](/people/perez-uribe_david/index.qmd), entonces estudiante de Biología de la Universidad de Antioquia, mientras investigaba en el [Herbario de la Universidad de Antioquia (HUA)](/herbarium/index.qmd), sobre el neotrópico. Allí encontró dos géneros: *Tournefortiopsis* y la *Guettarda*.
+
+Leer nota completa [aquí](https://www.teleantioquia.co/noticias/un-hallazgo-entre-hojas-secas-nace-una-nueva-especie-de-arbol-en-sonson/).
