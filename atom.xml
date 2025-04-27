@@ -17,7 +17,33 @@
 <width>144</width>
 </image>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Mon, 31 Mar 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Apr 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Un hallazgo entre hojas secas: nace una nueva especie de árbol en Sonsón</title>
+  <dc:creator>GEOBOTA </dc:creator>
+  <link>http://geobota.github.io/news/2025-04-26_teleantioquia/</link>
+  <description><![CDATA[ 
+
+
+
+
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://geobota.github.io/news/2025-04-26_teleantioquia/image.jpg" class="img-fluid figure-img"></p>
+<figcaption><em>Tournefortiopsis triflora</em>. Fotografía: Universidad de Antioquia.</figcaption>
+</figure>
+</div>
+<p>El 9 de enero de 2024 la Universidad de Antioquia publicó un nuevo hallazgo; se trataba de una nueva especie de árbol. Todo empezó cuando <a href="../../people/perez-uribe_david/index.html">David Pérez</a>, entonces estudiante de Biología de la Universidad de Antioquia, mientras investigaba en el <a href="../../herbarium/index.html">Herbario de la Universidad de Antioquia (HUA)</a>, sobre el neotrópico. Allí encontró dos géneros: <em>Tournefortiopsis</em> y la <em>Guettarda</em>.</p>
+<p>Leer nota completa <a href="https://www.teleantioquia.co/noticias/un-hallazgo-entre-hojas-secas-nace-una-nueva-especie-de-arbol-en-sonson/">aquí</a>.</p>
+
+
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
+  <category>Noticias</category>
+  <category>Teleantioquia</category>
+  <guid>http://geobota.github.io/news/2025-04-26_teleantioquia/</guid>
+  <pubDate>Sat, 26 Apr 2025 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>La planta del mes: Vanilla pompona</title>
   <dc:creator>Bladimir Vera-Marín</dc:creator>
@@ -1058,50 +1084,6 @@ October 23, 2024. <a href="http://geobota.github.io/news/2024-10-23_xii-ccb/">ht
   <guid>http://geobota.github.io/news/2024-10-23_xii-ccb/</guid>
   <pubDate>Wed, 23 Oct 2024 05:00:00 GMT</pubDate>
   <media:content url="http://geobota.github.io/news/2024-10-23_xii-ccb/image.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>¡Es un hermoso gráfico! ¿Por qué el mío no se ve así?</title>
-  <dc:creator>Álex Espinosa-Correa</dc:creator>
-  <link>http://geobota.github.io/news/2024-10-22_xii-ccb/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Has encontrado el código perfecto para crear el gráfico que necesitas, pero cuando lo corres… ¡No funciona! ¿Te ha pasado? No te preocupes, es más común de lo que crees.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2024-10-22_xii-ccb/image.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Imagen promocional para el curso «Investigación Reproducible con Quarto», que se llevará a cabo el 3 de noviembre en Popayán, Colombia, durante el XII Congreso Colombiano de Botánica. En la parte superior aparecen los logos de diferentes herramientas científicas como Julia, Python, R, Jupyter, RStudio, y Quarto, junto con un código QR que enlaza geobota.github.io. En la parte inferior, sobre un fondo amarllio, aparece: «INVESTIGACIÓN REPRODUCIBLE CON QUARTO. Popayán, Colombia. Noviembre 3. Desde $50.000 COP. ¿Has intentado (re)utilizar un script para analizar tus datos sin éxito? ¡Descubre cómo hacerlo inscribiéndote en nuestro curso!». En la parte inferior aparecen los logos de las instituciones organizadoras."></p>
-</figure>
-</div>
-<p><a href="../2024-08-27_xii-ccb/">La reproducibilidad</a> es la capacidad de obtener los mismos resultados usando los mismos datos y el mismo código. Actualmente, este es uno de los mayores desafíos en la ciencia. Muchos estudios no pueden ser replicados, ¡incluso por sus propios autores!</p>
-<p>La crisis de reproducibilidad es un problema complejo, pero con algunos cambios pequeños, puedes mejorar la calidad y transparencia de tu investigación.</p>
-<p>Inscríbete en el curso «Investigación Reproducible con Quarto» durante el <a href="https://congresobotanica.org">XII Congreso Colombiano de Botánica</a> en Popayán, Colombia. Aprende a llevar tu trabajo al siguiente nivel con herramientas que facilitan tu día a día.</p>
-<ul>
-<li>Fecha: 3 de noviembre</li>
-<li>Lugar: Popayán, Colombia</li>
-<li>Inversión: Desde $50.000 COP</li>
-<li>Más información: Escanea el código QR en la imagen o visita nuestra página web: <a href="https://geobota.github.io/xii-ccb-quarto/" class="uri">https://geobota.github.io/xii-ccb-quarto/</a></li>
-</ul>
-<p>¡Nos vemos en el curso!</p>
-
-
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2024,
-  author = {Espinosa-Correa, Álex},
-  title = {¡Es un hermoso gráfico! ¿Por qué el mío no se ve así?},
-  date = {2024-10-22},
-  url = {http://geobota.github.io/news/2024-10-22_xii-ccb/},
-  langid = {es}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2024" class="csl-entry quarto-appendix-citeas">
-Espinosa-Correa, Álex. 2024. <span>“¡Es un hermoso gráfico! ¿Por qué el
-mío no se ve así?”</span> October 22, 2024. <a href="http://geobota.github.io/news/2024-10-22_xii-ccb/">http://geobota.github.io/news/2024-10-22_xii-ccb/</a>.
-</div></div></section></div> ]]></description>
-  <category>XII CCB</category>
-  <guid>http://geobota.github.io/news/2024-10-22_xii-ccb/</guid>
-  <pubDate>Tue, 22 Oct 2024 05:00:00 GMT</pubDate>
-  <media:content url="http://geobota.github.io/news/2024-10-22_xii-ccb/image.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
