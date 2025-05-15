@@ -1,0 +1,19 @@
+---
+title: "Descubren que Medellín respira polen todo el año (y nadie lo había medido antes)"
+description: "Un estudio pionero de la Universidad de Antioquia revela que la presencia del polen en el aire de Medellín no solo es constante, sino comparable a la de ciudades de clima templado, cambiando por completo lo que se sabía sobre salud respiratoria en zonas tropicales."
+
+author: "GEOBOTA"
+date: 2025-05-14
+
+categories:
+  - Noticias
+  - El Colombiano
+---
+
+![El yarumo (*Cecropia sp.*), especie nativa de rápido crecimiento, libera grandes cantidades de polen en Medellín y fue una de las que provocó reacciones alérgicas confirmadas en pacientes.](image.jpg){fig-align="center"}
+
+Durante décadas, la presencia de polen en la atmósfera de Medellín fue una incógnita ambiental, pues la percepción generalizada de que en los trópicos no existe una dispersión significativa de polen por el viento llevó a ignorar esta variable en estudios de calidad del aire, diagnósticos clínicos y planificación urbana. Pero un reciente estudio desarrollado por el Grupo de Estudios Botánicos de la Universidad de Antioquia, con apoyo de instituciones españolas y médicos alergólogos, revela una realidad completamente distinta: la ciudad respira polen todo el año, y en concentraciones tan altas como las de regiones templadas.
+
+“El desconocimiento ha sido total. En salud pública nunca se han incluido tipos polínicos locales para el diagnóstico de enfermedades respiratorias. Se diagnostica con base en pólenes de Europa o Norteamérica, que no son los que respiramos aquí”, afirma [Fernando Alzate Guarín](/people/alzate-guarin_fernando-alveiro/index.qmd), biólogo, docente del Instituto de Biología de la Universidad de Antioquia y líder del estudio. Y es que la idea predominante en la biología tropical era que las plantas locales, por sus características reproductivas, no dispersaban polen por vía anemófila, una suposición errónea que contribuyó, durante años, a que no se midiera ni se reconociera el polen como un factor ambiental relevante en urbes como esta.
+
+Leer nota completa [aquí](https://www.elcolombiano.com/medio-ambiente/medellin-contaminacion-polen-estudio-universidad-antioquia-MB27402934).
