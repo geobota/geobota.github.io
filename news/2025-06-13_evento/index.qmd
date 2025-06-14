@@ -1,0 +1,30 @@
+---
+title: "Etnobotánica de helechos del Alto Atrato"
+
+author: 
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2025-06-13
+citation: true
+
+image: image.jpg
+
+categories:
+  - Evento
+---
+
+![](image.jpg){fig-align="center" fig-alt="Imagen promocional del evento de sustentación pública del trabajo de grado en la maestría en Biología del estudiante Jhon Freddys Pérez Mosquera. El fondo está compuesto por el tronco de un helecho. En la parte superior derecha aparece en negro la palabra «GEOBOTA» en un fondo naranja. El texto central negro dice: «Sustentación pública del estudiante de maestría en Biología Jhon Freddys Pérez Mosquera. Monilofitos del Alto Atrato-Chocó: diversidad taxonómica y etnobotánica. Junio 17, 10:00 horas. Ciudad Universitaria, Udea. meet.google.com/jsj-cqct-oqo»l. En la parte inferior izquierda, un banner naranja con la palabra «EVENTO». En la esquina inferior derecha se encuentran los íconos de redes sociales: Facebook e Instagram, junto al usuario @geobotaudea."}
+
+En muchas de nuestras publicaciones hacemos mención a los diversos usos que tienen las plantas. La disciplina encargada de estudiar estos usos y las relaciones entre las personas y las plantas se llama etnobotánica. Teniendo en cuenta que existen más de 400.000 especies de plantas y una gran diversidad de comunidades humanas, cada estudio etnobotánico representa una experiencia única.
+
+Tradicionalmente, los estudios etnobotánicos se han centrado en las plantas con flor (angiospermas), por lo que explorar el uso de otros grupos de plantas representa una valiosa oportunidad para ampliar el conocimiento. En Colombia, muchas de las comunidades que más intensamente interactúan con las plantas son comunidades rurales, campesinas, indígenas y afrodescendientes.
+
+Durante los últimos dos años, [Jhon Freddys Pérez Mosquera](/people/perez-mosquera_jhon-freddys/index.qmd), estudiante de la Maestría en Biología de la Universidad de Antioquia, ha trabajado en su tesis sobre el uso de los helechos por parte de las comunidades afrodescendientes del Alto Atrato (Chocó). Esta investigación es pionera en documentar la riqueza de saberes tradicionales en torno a un grupo de plantas frecuentemente ignorado en los estudios etnobotánicos.
+
+Te invitamos a acompañar a Jhon en la presentación pública de los resultados de su trabajo. Será una excelente oportunidad para aprender sobre los múltiples usos de los helechos y conocer más a fondo la relación entre una comunidad afrocolombiana y su entorno natural.
+
+🗓 Fecha: 17 de junio\
+🕙 Hora: 10:00 a. m. (hora de Colombia)\
+📍 Lugar: Aula 7-327, Universidad de Antioquia\
+🔗 Enlace virtual: [meet.google.com/jsj-cqct-oqo](https://meet.google.com/jsj-cqct-oqo)
