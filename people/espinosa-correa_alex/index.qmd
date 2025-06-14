@@ -1,13 +1,13 @@
 ---
 title: &title "**Álex Espinosa-Correa**"
-subtitle: "Estudiante de doctorado"
+subtitle: "Investigador"
 
-number: "3"
+number: "2"
 last: "Espinosa-Correa"
 first: "Álex"
 
 image: profile.jpeg
-people_group: "gradstudent"
+people_group: "researcher"
 started: "2015-01"
 ended: "Actual"
 toc: false
@@ -52,7 +52,7 @@ Mi investigación trata sobre el polen y esporas que se encuentran en la atmósf
 ## Educación
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
-    Doctorado en Biología \| 2019-actual\
+    Doctorado en Biología \| 2019-2025\
     Estudio aerobiológico en la ciudad de Medellín (Colombia): una variable biológica de la calidad del aire en una ciudad altamente contaminada
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\

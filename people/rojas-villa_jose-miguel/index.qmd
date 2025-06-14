@@ -1,13 +1,13 @@
 ---
 title: &title "**Jose Miguel Rojas-Villa**"
-subtitle: "Estudiante de maestría"
+subtitle: "Investigador"
 
-number: "3"
+number: "2"
 last: "Rojas-Villa"
 first: "Jose Miguel"
 
 image: profile.jpg
-people_group: "gradstudent"
+people_group: "researcher"
 started: "2022-07"
 ended: "Actual"
 toc: false
@@ -52,7 +52,7 @@ Me dedico a estudiar la diversidad vegetal de Colombia, principalmente en los ec
 ## Educación
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
-    Maestría en Biología \| 2022-actual\
+    Maestría en Biología \| 2022-2025\
     Morfología de semillas y plantulas: relaciones evolutivas de caracteres condicionantes en diferentes linajes de Angiosperma en páramos
 
 -   **Universidad de Católica de Oriente** \| Rionegro, Colombia\

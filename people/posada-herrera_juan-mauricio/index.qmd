@@ -60,6 +60,8 @@ about:
       text: "{{< ai orcid >}} ORCID"
     - href: https://www.researchgate.net/profile/Juan-Posada-Herrera
       text: "{{< ai researchgate >}} ResearchGate"
+
+draft: true
 ---
 
 :::{#person-profile}
