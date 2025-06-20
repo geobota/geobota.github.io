@@ -12,21 +12,21 @@ started: ""
 ended: "Actual"
 toc: false
 
-# listing: 
-#   id: publications
-#   type: default
-#   fields: [title, description, categories, date, author]
-#   contents: ../../publications/*/**/index.qmd
-#   categories: false
-#   sort:
-#     - "date desc"
-#     - "author"
-#     - "title"
-#   filter-ui: [title, author, publication, year]
-#   image-align: left
-#   page-size: 10
-#   include:
-#     author: *title
+listing:
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
 
 about:
   id: person-profile
