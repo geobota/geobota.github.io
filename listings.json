@@ -146,6 +146,12 @@
     ]
   },
   {
+    "listing": "/people/marin-fernandez_laura-strefany/index.html",
+    "items": [
+      "/publications/books/2023-08_marin-fernandez_etal/index.html"
+    ]
+  },
+  {
     "listing": "/people/cardona-naranjo_felipe-alfonso/index.html",
     "items": [
       "/publications/books/2023-03-02_alzate-guarin_etal/index.html",
@@ -206,6 +212,7 @@
       "/publications/articles/2023-11-03_londono-echeverri_&_trujillo-lopez/index.html",
       "/publications/articles/2023-10-13_tribble_etal/index.html",
       "/publications/articles/2023-08-22_perez-uribe_&_alzate-guarin/index.html",
+      "/publications/books/2023-08_marin-fernandez_etal/index.html",
       "/publications/articles/2023-07-07_londono-echeverri_etal/index.html",
       "/publications/articles/2023-06-14_trujillo-lopez_&_londono-echeverri/index.html",
       "/publications/articles/2023-06-07_trujillo-lopez_&_londono-echeverri/index.html",
@@ -412,6 +419,7 @@
       "/publications/articles/2013-09_montoya-pelaez_etal/index.html",
       "/publications/articles/2013-06_cardona-galeano_etal/index.html",
       "/publications/articles/2011-09-02_alzate-guarin_etal/index.html",
+      "/publications/books/2023-08_marin-fernandez_etal/index.html",
       "/publications/books/2023-03-02_alzate-guarin_etal/index.html",
       "/publications/books/2021_salazar-gil_etal/index.html",
       "/publications/books/2019-10-21_david-higuita_etal/index.html",
@@ -647,6 +655,7 @@
   {
     "listing": "/people/sarrazola-yepes_herber-jassin/index.html",
     "items": [
+      "/publications/books/2023-08_marin-fernandez_etal/index.html",
       "/publications/articles/2019-09-05_sarrazola-yepes_&_alzate-guarin/index.html"
     ]
   },
