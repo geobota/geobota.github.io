@@ -1,0 +1,29 @@
+---
+title: "Vegetación espontánea urbana: especies de Medellín"
+author:
+  - name: "**Laura Stefany Marín-Fernández**"
+    # orcid: 0000-0002-2430-2973
+  - name: "**Herber Jassin Sarrazola-Yepes**"
+    orcid: 0000-0003-4418-0181
+  - name: "Jonatan Castro-Hernández"
+  - name: "Álvaro Idárraga-Piedrahita"
+  - name: "Dubán Canal-Gallego"
+  - name: "Manuela Moreno-Carvajalo"
+year: 2023
+date: 2023-08
+publication: "Distrito de Ciencia, Tecnología e Innovación de Medellín"
+# doi: https:
+isbn: 978-958-5448-98-8
+# materials: 
+
+categories:
+  - Guía de campo
+---
+
+La vegetación herbácea ruderal en el sector urbano del Distrito de Medellín está constituida por las especies de plantas que crecen de forma espontánea. Estas plantas ocurren en una variedad de sitios, tales como andenes, entre grietas de concreto, separadores viales, alcantarillas, techos, muros, puentes e incluso, crecen sobre cables eléctricos. Sin embargo, con cierta frecuencia pasan inadvertidas o son relacionadas con el abandono o deterioro de estos espacios. Uno de los principales atributos de la vegetación urbana espontánea es su capacidad de establecerse en ambientes con condiciones adversas por la escasez de nutrientes, agua o luz. Con el objetivo de contribuir al conocimiento de la vegetación del Distrito, se presenta el catálogo Vegetación espontánea urbana, especies de Medellín. Esta publicación es producto del estudio: Inventario y análisis de patrones de diversidad de la vegetación espontánea y ornamental herbácea del sector urbano de la ciudad de Medellín. Se reportaron 214 especies herbáceas de crecimiento espontáneo, pertenecientes en su mayoría a las familias Poaceae (49 especies) y Asteraceae (33 especies). Este catálogo incluye fichas descriptivas para las 60 especies más frecuentes.
+
+## Citation
+
+> Marín-Fernández, Laura Stefany, Sarrazola-Yepes, H. J., Castro-Hernández, J., Idárraga-Piedrahita, Á., Canal-Gallego, D., & Moreno-Carvajal, M. (2023). *Vegetación espontánea urbana: especies de Medellín*. Distrito de Ciencia, Tecnología e Innovación de Medellín. https://conservacionmed.com/catalogos-veu/
+
+## [Download {{< fa file-pdf >}}](https://www.researchgate.net/publication/373755828_Vegetacion_espontanea_urbana_Especies_de_Medellin/)

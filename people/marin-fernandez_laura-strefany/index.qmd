@@ -6,7 +6,7 @@ number: "3"
 last: "Marín-Fernández" 
 first: "Laura Stefany"
 
-# image: profile.jpg
+image: profile.jpg
 people_group: "gradstudent"
 started: ""
 ended: "Actual"
@@ -47,19 +47,20 @@ about:
 ::: {#person-profile}
 :::
 
-
+Mi investigación de maestría está enfocada en abordar para Colombia, la taxonomía y el estudio de la variación intraespecífica de algunos taxones de la familia Poaceae. 
+Me interesan además, la disciplina de la florística con énfasis en vegetación herbácea, el análisis matemático de la forma en angiospermas y la divulgación científica como herramienta de apropiación social del conocimiento y conservación de la biodiversidad local.
 
 ## Educación
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
     Maestría en Biología \| 2024-actual\
-    <!-- Título -->
+    Arthropogoninae (Poaceae) de Colombia: riqueza de especies y variabilidad morfológica intraespecífica en una subtribu con potencial pecuario
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
-    Pregrado en Biología \| -2018\
+    Pregrado en Biología \| 2009-2018\
     Caracterización y delimitación de los fragmentos boscosos del Cerro Quitasol en jurisdicción del municipio de Bello
 
-<!-- ## Publicaciones -->
+## Publicaciones
 
-<!-- ::: {#publications} -->
-<!-- ::: -->
+::: {#publications}
+:::
