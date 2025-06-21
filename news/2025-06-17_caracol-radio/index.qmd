@@ -1,0 +1,21 @@
+---
+title: "Medellín respira polen todo el año, según un estudio de la UdeA"
+description: "Los investigadores identificaron 26 tipos de polen en el aire del Valle de Aburrá, con concentraciones similares a las de regiones templadas."
+
+author: "GEOBOTA"
+date: 2025-06-17
+
+categories:
+  - Noticias
+  - Caracol Radio
+---
+
+![Polen de Cecropia peltata, de nombre común yarumo, uno de los árboles de mayor incidencia en las alergias respiratorias en los habirtantes del Valle de Aburrá. Foto: Álex Espinosa-Correa](image.jpg){fig-align="center"}
+
+Un estudio reciente de la Universidad de Antioquia reveló que el aire en esta ciudad y en otros municipios del Valle de Aburrá contiene una carga constante y elevada de polen durante todo el año. Según los expertos, esta situación, aunque invisible, podría estar afectando la salud respiratoria de miles de personas, especialmente aquellas con alergias.
+
+Durante un poco más de tres años, entre 2019 y 2022, los científicos recolectaron muestras aéreas en el centro de Medellín con un equipo especializado. En total, identificaron 26 tipos diferentes de polen, con una carga diaria que osciló entre 43.000 y 51.000 granos por metro cúbico. Árboles como el yarumo, el árbol del pan y el urapán fueron identificados como los principales productores de polen alergénico.
+
+A diferencia de países con estaciones, donde el polen aparece en ciertas épocas del año, en Medellín este fenómeno es permanente, con picos después de las temporadas de lluvias. Los expertos advierten que esta realidad no está siendo tenida en cuenta por las autoridades ambientales ni de salud. “El polen no se incluye en los criterios para declarar alertas por calidad del aire, ni en las políticas públicas de salud”, expresó el biólogo [Álex Espinosa Correa](/people/espinosa-correa_alex/index.qmd).
+
+Leer nota completa [aquí](https://caracol.com.co/2025/06/17/medellin-respira-polen-todo-el-ano-segun-un-estudio-de-la-udea/).

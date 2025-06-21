@@ -1,0 +1,19 @@
+---
+title: "¿Mucha alergia? Estudio de la UdeA revela que en el Valle de Aburrá se respira cerca de 63 granos de polen cada hora"
+description: "El Valle de Aburrá respira polen todo el año y esto puede causar alergias y síntomas clínicos en la población"
+
+author: "GEOBOTA"
+date: 2025-06-18
+
+categories:
+  - Noticias
+  - Hora 13 Noticias
+---
+
+![](image.jpg){fig-align="center"}
+
+Un estudio reciente de la Universidad de Antioquia reveló que el Valle de Aburrá respira polen todo el año. El estudio también evidenció que varias especies presentes en la atmósfera de la ciudad pueden causar alergias y síntomas clínicos en la población.
+
+Durante un poco más de tres años, entre 2019 y 2022, el profesor [Fernando Alzate](/people/alzate-guarin_fernando-alveiro/index.qmd), del Instituto de Biología de la Universidad de Antioquia junto al estudiante de doctorado en Biología de la Udea [Álex Espinosa](/people/espinosa-correa_alex/index.qmd), recolectaron muestras aéreas en el Centro de Medellín con un equipo especializado.
+
+Leer nota completa [aquí](https://www.h13n.com/mucha-alergia-estudio-de-la-udea-revela-que-en-el-valle-de-aburra-se-respira-cerca-de-63-granos-de-polen-cada-hora/333551/).

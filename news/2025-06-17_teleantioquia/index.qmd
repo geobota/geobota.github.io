@@ -1,0 +1,19 @@
+---
+title: "Valle de Aburrá: polen afecta vías respiratorias"
+description: "Un estudio de la Universidad de Antioquia reveló que hay polen en el aire del Valle de Aburrá incluso fuera de las temporadas de floración."
+
+author: "GEOBOTA"
+date: 2025-06-17
+
+categories:
+  - Noticias
+  - Teleantioquia
+---
+
+![Valle de Aburrá: polen afecta vías respiratorias.](image.jpg){fig-align="center"}
+
+El Valle de Aburrá respira polen todo el año, o al menos eso fue lo que dejó ver un estudio de la Universidad de Antioquia, en el que esclareció que después de la temporada de lluvias la concentración de polen es diaria. Las personas tienden a confundirla con una gripe o una rinitis crónica.
+
+Según esta investigación, que tomó más de 5 años, y que fue realizada por el [Grupo de Estudios Botánicos](/index.qmd) y el Grupo de Alergología Clínica y Experimental, ambos de la Universidad de Antioquia, el aire en todo el Valle de Aburrá tiene polen por todos lados. Lo que genera alergias y síntomas clínicos en la población.
+
+Leer nota completa [aquí](https://www.teleantioquia.co/noticias/valle-de-aburra-polen-afecta-vias-respiratorias-508003).
