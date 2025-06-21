@@ -1,0 +1,31 @@
+---
+title: "El género <i>Bomarea</i> (Alstroemeriaceae) en la Flora de Colombia"
+author:
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+year: 2016
+date: 2016-01-01
+publication: "Academia Colombiana de Ciencias Exactas, Físicas y Naturales"
+# doi: https:
+isbn: 978-958-9205-88-4
+# materials: 
+
+categories:
+  - Sistemática
+---
+
+Colombia es un país que cuenta con una enorme diversidad florística, esto en parte debido a su estratégica ubicación geográfica y a la gran variedad de relieves que presenta. Muchos grupos de plantas presentes en Colombia, tienen escasos niveles de conocimiento en cuanto a su taxonomía, distribución y biología en general. Un claro ejemplo de ello, es el género *Bomarea*, un grupo de plantas muy llamativo y conspicuo en la mayoría de bosques andinos, el cual es el género con mayor número de especies dentro de la familia Alstroemeriaceae.
+
+En este tratamiento taxonómico para la Flora de Colombia, se presenta información taxonómica actualizada para las especies de este género, asi como una detallada descripción morfológica, anatómica y ecológica.
+
+Este trabajo es el resultado del esfuerzo continuo del autor, quien desde hace varios años ha centrado sus estudios en este grupo de plantas. El autor ha desarrollado numerosos trabajos de campo en diferentes regiones de Colombia, con la finalidad de completar los registros de ocurrencia de especies de *Bomarea* en el país. Adicionalmente, ha realizado una minuciosa revisión de los mas representativos herbarios nacionales y del exterior.
+
+Durante el desarrollo de este trabajo se ha logrado tener una mejor depuración de la taxonomía del grupo, recopilación de gran cantidad de datos de campo, así como la delimitación de las especies. En el texto se presenta de forma compilada una amplia información para la familia Alstroemeriaceae, el género *Bomarea* y para cada una de las especies presentes en Colombia. La descripción de las especies fue realizada mediante el uso de las descripciones iniciales, así como la complementación con los datos tomados con las colecciones revisadas. En el texto se incluyen los sinónimos y se presenta una breve discusión sobre la filiación taxonómica de cada una de las especies, considerando las propuestas infragenéricas conocidas. Así mismo se describe el hábitat y distribución de las especies encontradas en Colombia, incluyendo un representativo número de colecciones revisadas por región geográfica.
+
+Con este trabajo el autor busca ofrecer una herramienta para el estudio, identificación y conservación de las especies de este grupo de plantas ocurriendo en Colombia y proporciona al mismo tiempo un tratamiento taxonómico actualizado para este género de plantas.
+
+## Citation
+
+> Alzate-Guarín, F. A. (2016). *El género Bomarea (Alstroemeriaceae) en la Flora de Colombia*. Academia Colombiana de Ciencias Exactas, Físicas y Naturales. https://repositorio.accefyn.org.co/handle/001/61
+
+## [Download {{< fa file-pdf >}}](https://repositorio.accefyn.org.co/handle/001/61/)
