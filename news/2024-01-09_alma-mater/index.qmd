@@ -7,7 +7,7 @@ date: 2024-01-09
 
 categories:
   - Noticias
-  - UdeA Noticias
+  - Alma Mater
 ---
 
 ![A la ficha de este especimen, en el Herbario Universidad de Antioquia desde 1994, se le agregó una anotación con su nueva clasificación. Foto Dirección de Comunicaciones UdeA / Alejandra Uribe Fernández](image.jpg){fig-align="center"}
