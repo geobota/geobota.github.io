@@ -12,7 +12,7 @@ started: ""
 ended: "Actual"
 toc: false
 
-listing:
+listing: 
   id: publications
   type: default
   fields: [title, description, categories, date, author]
