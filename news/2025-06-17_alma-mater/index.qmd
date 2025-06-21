@@ -1,0 +1,19 @@
+---
+title: "#VocesAlmaMater: ¿Rinitis o gripa?… puede ser polen"
+description: "¿Está seguro que tiene gripa o que está atravesando una crisis de rinitis? ¡Puede ser polen!"
+
+author: "GEOBOTA"
+date: 2025-06-17
+
+categories:
+  - Webinar
+  - Alma Mater
+---
+
+![¿Rinitis o gripa?… puede ser polen. Investigación de la UdeA identificí las plantas del Valle de Aburrá que se relacionan con sisntomas de alergias.](image.jpg){fig-align="center"}
+
+«Respirar es morir un poco», a esa conclusión llegó el profesor Fernando Alzate Guarín, del Instituto de Biología de la #UdeA al presentar el resultado de un estudio sobre la contaminación biológica en el aire del Valle de Aburrá. Este estudio, realizado por el Grupo de Estudios Botánicos y el Grupo de Alergología Clínica y Experimental, mostró que el aire en esta zona del departamento contiene altas concentraciones de polen, similares a las registradas en zonas templadas del mundo. La investigación también evidenció que varias especies presentes en la atmósfera de la ciudad pueden causar alergias y síntomas clínicos en la población. 
+
+{{< video https://www.youtube.com/embed/hxiXQWcZrl8 >}}
+
+Si no puedes ver el vídeo de la charla, mírala [aquí](https://www.youtube.com/live/hxiXQWcZrl8/).
