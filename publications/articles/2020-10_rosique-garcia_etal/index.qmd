@@ -1,0 +1,52 @@
+---
+title: "“All within the same thought”: embera people relations with sacred places in Polines and Waberaradó reservations in Chigorodó (Antioquia)"
+type: "article"
+author:
+  - name: "Javier Rosique-Gracia"
+  - name: "Aída Gálvez-Abadía"
+  - name: "Sandra Turbay"
+  - name: "Nataly Domicó"
+  - name: "Arnulfo Domicó"
+  - name: "Plinio Chavarí"
+  - name: "Justico Domicó"
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+    url: /people/alzate-guarin_fernando-alveiro/index.qmd
+  - name: "José Fernando Navarro"
+  - name: "Sneider Rojas-Mora"
+year: 2020
+date: 2020-10
+publication: "Tabula Rasa"
+doi: https://doi.org/10.25058/20112742.n36.08
+materials: ""
+
+categories:
+  - Embera people
+  - Sacred places
+  - Jaibaná
+  - Indigenous research
+  - Ethnoecology
+---
+
+## Abstract
+
+The spiritual and environmental importance of the sacred places at the
+headwaters of rivers is based on the relationships that Embera people establish
+with spiritual beings through dreams, songs and rituals of harmonization, so as
+to obtain forest resources and knowledge on the uses of plants. *Pãkðré*, a
+powerful entity from the sacred place, is treated as closely related kin subject
+to the rules of reciprocity; this entity formerly received the strength of many
+beings of the different cosmic levels, thanks to which it was able to teach the
+Embera people the rituals and healing practices that they know nowadays. The
+Jaibaná is a direct trustee of its wisdom, closely linked to the smallest plants
+in the forest, hence Embera's respect for sacred places and the Jaibana's effort
+to fulfill the demands that both *Pãkðré* and other spirits, plants and animals
+from those solitary places ask him in his dreams.
+
+## Citation
+
+> Rosique-García, J., Gálvez-Abadía, A., Turbay, S., Domicó, N., Domicó, A.,
+> Chavarí, P., Domicó, J., Alzate-Guarin, F. A., Navarro, J. F., & Rojas-Mora,
+> S. (2020). "All within the same thought": embera people relations with sacred
+> places in Polines and Waberaradó reservations in Chigorodó (Antioquia).
+> *Tabula Rasa*. https://doi.org/10.25058/20112742.n36.08
