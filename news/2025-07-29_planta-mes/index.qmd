@@ -12,7 +12,7 @@ author:
 date: 2025-07-29
 citation: true
 
-image: images/image_01.png
+image: images/image_01.jpg
 
 categories:
   - La planta del mes
@@ -27,7 +27,7 @@ julio) y el Día Mundial del Cacao y del Chocolate (7 de julio). En el contexto
 colombiano, conmemoramos también el Día de la Independencia (20 de julio) y la
 Batalla del Pantano de Vargas (25 de julio).
 
-![](images/image_01.png){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Heliconia rostrata Ruiz & Pav., mostrando diferentes vistas de la planta. En el Centro de la imagen se incluye el hábito herbáceo de H. rostrata, la inflorescencia y una flor. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+![](images/image_01.jpg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Ceroxylon quindiuense (H. Karst.) H. Wendl., mostrando diferentes vistas de la planta. En el Centro de la imagen se incluye el hábito herbáceo de C. quindiuense. A la izquierda la inflorescencia y a la derecha una flor y un fruto. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
 
 ## ¿Por qué *Ceroxylon quindiuense*?
 
@@ -37,7 +37,7 @@ estrecha relación con la identidad nacional. Esta especie pertenece a la famili
 Arecaceae y debe su nombre común al recubrimiento ceroso de su tallo, que fue
 utilizado tradicionalmente en zonas rurales andinas para fabricar velas.
 
-![](images/image_02.png){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Heliconia rostrata Ruiz & Pav. mostrando su hábito herbaceao. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+![](images/image_02.jpg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Ceroxylon quindiuense (H. Karst.) H. Wendl. mostrando su hábito herbaceao. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
 
 ## Un emblema nacional
 
@@ -47,7 +47,7 @@ conexión con el paisaje andino. Fue ampliamente admirada por José Celestino
 Mutis durante la Real Expedición Botánica del siglo XVIII, quien ya destacaba su
 importancia.
 
-![](images/image_03.png){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Heliconia rostrata Ruiz & Pav. mostrando su inflorescencia y una flor individual. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+![](images/image_03.jpg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Ceroxylon quindiuense (H. Karst.) H. Wendl. mostrando su inflorescencia. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
 ## Una gigante de los Andes
 
 Es la palma más alta del mundo, alcanzando hasta 60 metros de altura. Habita los
@@ -69,7 +69,7 @@ razones:
 -   El uso de sus hojas en ceremonias religiosas ha contribuido a su disminución
     poblacional.
 
-![](images/image_03.png){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Heliconia rostrata Ruiz & Pav. mostrando su inflorescencia y una flor individual. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+![](images/image_04.jpg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Ceroxylon quindiuense (H. Karst.) H. Wendl. mostrando su fruto y flor. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
 
 ## Un llamado a la conservación
 
