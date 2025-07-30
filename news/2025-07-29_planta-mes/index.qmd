@@ -1,0 +1,81 @@
+---
+title: "La planta del mes: <i>Ceroxylon quindiuense</i>"
+# description: ""
+
+author: 
+  - name: "Bladimir Vera-Marín"
+    email: bladimir.vera@udea.edu.co
+    url: /people/vera-marin_bladimir/index.qmd
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2025-07-29
+citation: true
+
+image: images/image_01.png
+
+categories:
+  - La planta del mes
+---
+
+<meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
+
+Julio llegó, casi se va, y nos dejó memes y fechas para recordar. Entre las
+efemérides más destacadas del mes están el Día Internacional de Conservación del
+Ecosistema de Manglares (26 de julio), el Día Internacional de la Fruta (1 de
+julio) y el Día Mundial del Cacao y del Chocolate (7 de julio). En el contexto
+colombiano, conmemoramos también el Día de la Independencia (20 de julio) y la
+Batalla del Pantano de Vargas (25 de julio).
+
+![](images/image_01.png){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Heliconia rostrata Ruiz & Pav., mostrando diferentes vistas de la planta. En el Centro de la imagen se incluye el hábito herbáceo de H. rostrata, la inflorescencia y una flor. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+
+## ¿Por qué *Ceroxylon quindiuense*?
+
+Este mes, en nuestra sección La planta del mes, destacamos a *Ceroxylon
+quindiuense* (H.Karst.) H.Wendl., conocida como la palma de cera, por su
+estrecha relación con la identidad nacional. Esta especie pertenece a la familia
+Arecaceae y debe su nombre común al recubrimiento ceroso de su tallo, que fue
+utilizado tradicionalmente en zonas rurales andinas para fabricar velas.
+
+![](images/image_02.png){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Heliconia rostrata Ruiz & Pav. mostrando su hábito herbaceao. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+
+## Un emblema nacional
+
+La palma de cera fue declarada árbol nacional de Colombia mediante la Ley 61 del
+16 de septiembre de 1985, gracias a su belleza, valor ecológico, endemismo y
+conexión con el paisaje andino. Fue ampliamente admirada por José Celestino
+Mutis durante la Real Expedición Botánica del siglo XVIII, quien ya destacaba su
+importancia.
+
+![](images/image_03.png){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Heliconia rostrata Ruiz & Pav. mostrando su inflorescencia y una flor individual. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+## Una gigante de los Andes
+
+Es la palma más alta del mundo, alcanzando hasta 60 metros de altura. Habita los
+bosques de niebla entre los 1800 y 3000 m s. n. m., en departamentos como
+Quindío, Tolima, Caldas, Antioquia y Valle del Cauca. Puede vivir más de 100
+años.
+
+## Usos tradicionales y conservación
+
+Históricamente, su tallo se utilizó para construir herramientas, cercas, techos
+y andamios rústicos. Sin embargo, estos usos están hoy prohibidos por varias
+razones:
+
+-   Es el árbol nacional de Colombia.
+
+-   Sirve de hábitat para el loro orejiamarillo (*Ognorhynchus icterotis*),
+    especie en peligro de extinción.
+
+-   El uso de sus hojas en ceremonias religiosas ha contribuido a su disminución
+    poblacional.
+
+![](images/image_03.png){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Heliconia rostrata Ruiz & Pav. mostrando su inflorescencia y una flor individual. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+
+## Un llamado a la conservación
+
+Más que una planta, la palma de cera representa la identidad natural y cultural
+de Colombia. Su estatus como árbol nacional nos recuerda la importancia de
+proteger los ecosistemas andinos y preservar nuestra biodiversidad.
+
+Ilustración: [Yuliana García
+Flórez](https://www.instagram.com/yuliana_garciaf/).
