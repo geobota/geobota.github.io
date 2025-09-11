@@ -20,31 +20,58 @@ categories:
 
 <meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
 
-El mes de los cometas se nos fue volando y, por diversos motivos, no habíamos podido publicar nuestra planta del mes. Agosto estuvo cargado de efemérides memorables: la Batalla de Boyacá, el Día Internacional de la Cerveza, el Día Mundial de las Papas Fritas y, de manera especial para nosotros, el Día de la Antioqueñidad. Precisamente este último nos inspiró a elegir como protagonista de agosto a una especie muy representativa de nuestra región: *Godoya antioquiensis* Planch., conocida comúnmente como Caunce.
+El mes de los cometas se nos fue volando y, por diversos motivos, no habíamos
+podido publicar nuestra planta del mes. Agosto estuvo cargado de efemérides
+memorables: la Batalla de Boyacá, el Día Internacional de la Cerveza, el Día
+Mundial de las Papas Fritas y, de manera especial para nosotros, el Día de la
+Antioqueñidad. Precisamente este último nos inspiró a elegir como protagonista
+de agosto a una especie muy representativa de nuestra región: *Godoya
+antioquiensis* Planch., conocida comúnmente como Caunce.
 
-![](images/image_01.jpg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Godoya antioquiensis Planch., mostrando diferentes vistas de la planta. En el centro de la imagen se incluye el hábito arbustivo de G. antioquiensis. A la derecha detalle de las hojas, una flor y un fruto. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+![](images/image_01.jpg){fig-align="center" group="my-gallery"
+fig-alt="Ilustración botánica a color de Godoya antioquiensis Planch., mostrando diferentes vistas de la planta. En el centro de la imagen se incluye el hábito arbustivo de G. antioquiensis. A la derecha detalle de las hojas, una flor y un fruto. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
 
 ## Una joya botánica de Antioquia
 
-Esta especie, perteneciente a la familia Ochnaceae DC., es endémica del departamento de Antioquia, aunque también existen registros de su presencia en Ecuador y Perú. Sus vistosas flores amarillas y su historia cultural la convierten en una planta de gran relevancia tanto ecológica como social.
+Esta especie, perteneciente a la familia Ochnaceae DC., es endémica del
+departamento de Antioquia, aunque también existen registros de su presencia en
+Ecuador y Perú. Sus vistosas flores amarillas y su historia cultural la
+convierten en una planta de gran relevancia tanto ecológica como social.
 
-![](images/image_02.jpg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Godoya antioquiensis Planch. mostrando su hábito arbustivo. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+![](images/image_02.jpg){fig-align="center" group="my-gallery"
+fig-alt="Ilustración botánica a color de Godoya antioquiensis Planch. mostrando su hábito arbustivo. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
 
 ## Usos tradicionales y culturales
 
-El uso más destacado de esta especie ha sido en la construcción de herramientas del campesinado antioqueño. Su madera, fina, dura y resistente, fue utilizada para elaborar cabos de hachas, martillos y otras herramientas que requerían gran durabilidad frente al impacto. Además, se empleó en la construcción de casas, cercos y postes en múltiples hogares rurales del departamento y del país.
+El uso más destacado de esta especie ha sido en la construcción de herramientas
+del campesinado antioqueño. Su madera, fina, dura y resistente, fue utilizada
+para elaborar cabos de hachas, martillos y otras herramientas que requerían gran
+durabilidad frente al impacto. Además, se empleó en la construcción de casas,
+cercos y postes en múltiples hogares rurales del departamento y del país.
 
-![](images/image_03.jpg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Godoya antioquiensis Planch. mostrando su flor. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+![](images/image_03.jpg){fig-align="center" group="my-gallery"
+fig-alt="Ilustración botánica a color de Godoya antioquiensis Planch. mostrando su flor. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
 
 ## Valor ornamental y ambiental
 
-Más allá de sus usos prácticos, sus grandes y vistosas flores amarillas embellecen las montañas de la cordillera Occidental y Central, entre los 1600 y 2800 m s.n.m. Este potencial ornamental también se traduce en valor ecológico: la especie puede emplearse en proyectos de restauración, reforestación y protección de suelos y cuencas hidrográficas, gracias a la abundancia de biomasa que produce.
+Más allá de sus usos prácticos, sus grandes y vistosas flores amarillas
+embellecen las montañas de la cordillera Occidental y Central, entre los 1600 y
+2800 m s.n.m. Este potencial ornamental también se traduce en valor ecológico:
+la especie puede emplearse en proyectos de restauración, reforestación y
+protección de suelos y cuencas hidrográficas, gracias a la abundancia de biomasa
+que produce.
 
 ## Estado de conservación
 
-Por su condición de endemismo y la sobreexplotación de su madera, *Godoya antioquiensis* llegó a estar catalogada en peligro crítico (CR). Actualmente, gracias a la disminución de su uso comercial, su estado ha mejorado y figura en la categoría de Preocupación menor (LC) según la UICN. Sin embargo, siguen siendo necesarias acciones de conservación y cuidado para garantizar la permanencia de esta valiosa especie en nuestros ecosistemas.
+Por su condición de endemismo y la sobreexplotación de su madera, *Godoya
+antioquiensis* llegó a estar catalogada en peligro crítico (CR). Actualmente,
+gracias a la disminución de su uso comercial, su estado ha mejorado y figura en
+la categoría de Preocupación menor (LC) según la UICN. Sin embargo, siguen
+siendo necesarias acciones de conservación y cuidado para garantizar la
+permanencia de esta valiosa especie en nuestros ecosistemas.
 
-![](images/image_04.jpg){fig-align="center" group="my-gallery" fig-alt="Ilustración botánica a color de Godoya antioquiensis Planch. mostrando su fruto. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+![](images/image_04.jpg){fig-align="center" group="my-gallery"
+fig-alt="Ilustración botánica a color de Godoya antioquiensis Planch. mostrando su fruto. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
 
 Ilustración: [Yuliana García
 Flórez](https://www.instagram.com/yuliana_garciaf/).
