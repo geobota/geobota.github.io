@@ -1,0 +1,42 @@
+---
+title: "<i>Allomaieta isauroi</i> (Melastomataceae, Cyphostyleae): a new species from the Andean-Amazonian Foothills of Colombia"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+    url: /people/murillo-serna_jhon-steven/index.qmd
+  - name: "Fabián A. Michelangeli"
+year: 2025
+date: 2025-09-02
+publication: "Brittonia "
+doi: https://doi.org/10.1007/s12228-025-09845-y
+materials: ""
+
+categories:
+  - Andes
+  - Endemic species
+  - Flora of Antioquia
+  - Myrtales
+  - Rosette-like herb
+---
+
+## Abstract
+
+*Quipuanthus calcaratus*, a new species of Melastomataceae (Cyphostyleae) known
+only from the type locality in an inter-Andean valley of the Colombian Central
+Andes, is described and illustrated. This new species is the second for the
+genus and can be distinguished from *Q. epipetricus* by its shorter petioles,
+leaf blades with three pairs of secondary basal veins with the outermost pair
+imperfectly acrodromous and distally semicraspedrodromous, hypanthium terete,
+anther connective with a dorsal appendage prolonged into an acute, curved spur,
+and style straight and longer than the type species of the genus. This novelty
+is the first species of the genus found in Colombia rather than the eastern
+slopes of the Andes from Ecuador and Peru, as the previously described *Q.
+epipectricus*.
+
+## Citation
+
+> Murillo‐Serna, J. S., & Michelangeli, F. A. (2025). *Quipuanthus calcaratus*
+> (Melastomataceae, Cyphostyleae), a second species for the genus and a new
+> genus for the Colombian flora. *Brittonia.*
+> https://doi.org/10.1007/s12228-025-09845-y
