@@ -1,5 +1,5 @@
 ---
-title: "<i>Allomaieta isauroi</i> (Melastomataceae, Cyphostyleae): a new species from the Andean-Amazonian Foothills of Colombia"
+title: "<i>Quipuanthus calcaratus</i> (Melastomataceae, Cyphostyleae), a second species for the genus and a new genus for the Colombian flora"
 type: "article"
 author:
   - name: "**Jhon Steven Murillo-Serna**"
