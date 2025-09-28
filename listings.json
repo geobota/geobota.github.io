@@ -74,6 +74,7 @@
   {
     "listing": "/people/vera-marin_bladimir/index.html",
     "items": [
+      "/publications/articles/2025-09-26_perez-mosquera_etal/index.html",
       "/publications/articles/2015_vera-marin_&_fonnegra-gomez/index.html"
     ]
   },
@@ -91,6 +92,7 @@
   {
     "listing": "/people/alzate-guarin_fernando-alveiro/index.html",
     "items": [
+      "/publications/articles/2025-09-26_perez-mosquera_etal/index.html",
       "/publications/articles/2025-06-05_espinosa-correa_&_alzate-guarin/index.html",
       "/publications/articles/2025-01-16_murillo-serna_etal/index.html",
       "/publications/articles/2025-01-01_espinosa-correa_etal/index.html",
@@ -181,6 +183,7 @@
   {
     "listing": "/people/quijano-abril_mario-alberto/index.html",
     "items": [
+      "/publications/articles/2025-09-26_perez-mosquera_etal/index.html",
       "/publications/articles/2015-03_alzate-guarin_etal/index.html"
     ]
   },
@@ -201,6 +204,12 @@
       "/publications/articles/2019-11-15_carmona-gallego_etal/index.html",
       "/publications/articles/2014-05_roldan-palacio_&_alzate-guarin/index.html",
       "/publications/books/2012-04-03_fonnegra-gomez_etal/index.html"
+    ]
+  },
+  {
+    "listing": "/people/perez-mosquera_jhon-freddys/index.html",
+    "items": [
+      "/publications/articles/2025-09-26_perez-mosquera_etal/index.html"
     ]
   },
   {
@@ -278,6 +287,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/publications/articles/2025-09-26_perez-mosquera_etal/index.html",
       "/publications/articles/2025-09-02_murillo-serna_&_michelangeli/index.html",
       "/publications/articles/2025-07-22_murillo-serna_etal/index.html",
       "/publications/articles/2025-06-05_espinosa-correa_&_alzate-guarin/index.html",
@@ -438,6 +448,7 @@
   {
     "listing": "/publications/index.html",
     "items": [
+      "/publications/articles/2025-09-26_perez-mosquera_etal/index.html",
       "/publications/articles/2025-09-02_murillo-serna_&_michelangeli/index.html",
       "/publications/articles/2025-07-22_murillo-serna_etal/index.html",
       "/publications/articles/2025-06-05_espinosa-correa_&_alzate-guarin/index.html",
