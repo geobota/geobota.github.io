@@ -12,21 +12,21 @@ started: "2023-01"
 ended: "Actual"
 toc: false
 
-# listing: 
-#   id: publications
-#   type: default
-#   fields: [title, description, categories, date, author]
-#   contents: ../../publications/*/**/index.qmd
-#   categories: false
-#   sort:
-#     - "date desc"
-#     - "author"
-#     - "title"
-#   filter-ui: [title, author, publication, year]
-#   image-align: left
-#   page-size: 10
-#   include:
-#     author: *title
+listing:
+  id: publications
+  type: default
+  fields: [title, description, categories, date, author]
+  contents: ../../publications/*/**/index.qmd
+  categories: false
+  sort:
+    - "date desc"
+    - "author"
+    - "title"
+  filter-ui: [title, author, publication, year]
+  image-align: left
+  page-size: 10
+  include:
+    author: *title
 
 about:
   id: person-profile
@@ -47,7 +47,10 @@ about:
 ::: {#person-profile}
 :::
 
-Me interesa tanto la taxonomía de plantas como la etnobotánica, ambas disciplinas enfocadas específicamente en la clase Polypodiopsida (helechos). Además, tengo un interés particular en temas relacionados con la ecología de este grupo de plantas.
+Me interesa tanto la taxonomía de plantas como la etnobotánica, ambas
+disciplinas enfocadas específicamente en la clase Polypodiopsida (helechos).
+Además, tengo un interés particular en temas relacionados con la ecología de
+este grupo de plantas.
 
 ## Educación
 
@@ -57,9 +60,10 @@ Me interesa tanto la taxonomía de plantas como la etnobotánica, ambas discipli
 
 -   **Universidad Tecnológica del Chocó** \| Quibdo, Colombia\
     Pregrado en Biología \| 2014-2020\
-    Densidad poblacional y distribución espacial de *Cyathea* sm. (Cyatheaceae) en un bosque húmedo tropical, Quibdó, Chocó, Colombia
+    Densidad poblacional y distribución espacial de *Cyathea* sm. (Cyatheaceae)
+    en un bosque húmedo tropical, Quibdó, Chocó, Colombia
 
-<!-- ## Publicaciones -->
+## Publicaciones
 
-<!-- ::: {#publications} -->
-<!-- ::: -->
+::: {#publications}
+:::
