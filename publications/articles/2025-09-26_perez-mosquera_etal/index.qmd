@@ -1,0 +1,63 @@
+---
+title: "Ethnopteridological knowledge of Afro-descendant communities in the humid forest of Chocó, Colombia"
+type: "article"
+author:
+  - name: "**Jhon Freddys Pérez-Mosquera**"
+    orcid: 0000-0002-7018-3442
+    url: /people/perez-mosquera_jhon-freddys/index.qmd
+  - name: "**Bladimir Vera-Marín**"
+    orcid: 0000-0003-3275-5611
+    url: /people/vera-marin_bladimir/index.qmd
+  - name: "Mario Alberto Quijano-Abril"
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+    url: /people/alzate-guarin_fernando-alveiro/index.qmd
+year: 2025
+date: 2025-09-26
+publication: "Ethnobotany Research and Applications"
+doi: http://dx.doi.org/10.32859/era.32.11.1-22
+materials: ""
+
+categories:
+  - Cyatheaceae
+  - Ferns
+  - Medicinal
+  - Pityrogramma
+  - Use categories
+---
+
+## Abstract
+
+Background: Ferns are of great utility to neighboring communities due to their
+wide diversity of uses, ranging from medicinal to magical-religious
+applications. The Afro-Colombian population possesses a rich ethnobotanical
+tradition, making it an ideal setting for exploring ethnopteridological
+knowledge. This study documents and analyzes the diversity of uses of ferns
+species reported by the inhabitants of Alto Atrato, Chocó, Colombia.
+
+Methods: Semi-structured interviews were conducted with 17 local experts from
+the Alto Atrato community. Additionally, botanical walks were carried out to
+collect ferns specimens, which were subsequently identified and deposited at the
+Herbarium of the University of Antioquia (HUA). The uses reported by the experts
+were classified according to the categories proposed by Cook, and the Cultural
+Importance Index (CI) and Relative Frequency of Citation (RFC) were calculated.
+
+Results: A total of 17 ferns species were reported with traditional uses. The
+species *Pityrogramma calomelanos* exhibited the highest CI (1.294), followed by
+*Cyathea trichiata* (0.706). Regarding RFC, *C. trichiata* and *P. calomelanos*
+shared the highest value (0.706). The most frequent use category was medicinal,
+accounting for 64.7% of the records.
+
+Conclusion: There is a notable diversity of useful ferns species compared to the
+total number reported in the other surveys. Have been reported 13 new
+ethnopteridological species for Colombia. Additionally, an intergenerational gap
+in ethnobotanical knowledge was observed, underscoring the urgency of preserving
+this knowledge within the communities. *Pityrogramma calomelanos* holds
+significant cultural importance due to its diverse applications.
+
+## Citation
+
+> Pérez-Mosquera, J. F., Vera-Marín, B., Quijano-Abril, M. A., & Alzate-Guarín,
+> F. A. (2025). Ethnopteridological knowledge of Afro-descendant communities in
+> the humid forest of Chocó, Colombia. *Ethnobotany Research and Applications*,
+> 32, 1–22. http://dx.doi.org/10.32859/era.32.11.1-22
