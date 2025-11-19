@@ -1,0 +1,41 @@
+---
+title: "Two new species of the Colombian endemic genus <i>Allomaieta</i> (Melastomataceae: Cyphostyleae)"
+type: "article"
+author:
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+    url: /people/murillo-serna_jhon-steven/index.qmd
+  - name: "Julio Andrés Sierra-Giraldo"
+  - name: "Jairo Andrés Orozco-Agudelo"
+  - name: "Juan Mauricio Posada-Herrera"
+year: 2025
+date: 2025-11-19
+publication: "Phytotaxa"
+doi: https://doi.org/10.11646/phytotaxa.730.2.5
+materials: ""
+
+categories:
+  - Andes
+  - Eudicots
+  - Flora of Caldas
+  - Flora of Colombia
+  - Selva de Florencia
+  - Magdalena Caldense
+---
+
+## Abstract
+
+*Allomaieta* is the most diverse genus of the tribe Cyphostyleae
+(Melastomataceae) and is only known for Colombia. In this contribution two new
+species of *Allomaieta* are described and illustrated: *Allomaieta melidae* and
+*A. peltata*. Both grow in the inter-Andean valleys of Central cordillera in the
+Department of Caldas. Based on their restricted distribution and habitat
+degradation pressure where these new taxa occur, we present preliminary threat
+assessments under IUCN guidelines and criteria.
+
+## Citation
+
+> Murillo‐Serna, J. S., Sierra-Giraldo, J. A., Orozco-Agudelo, J. A., &
+> Posada-Herrera, J. M. (2025). Two new species of the Colombian endemic genus
+> *Allomaieta* (Melastomataceae: Cyphostyleae). *Phytotaxa*, 730(2), 177–188.
+> https://doi.org/10.11646/phytotaxa.730.2.5
