@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,18 +35,19 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-508422c006262752e20ae841d8f41dd3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-5100b8561cd7f6cd8c35657ed6fe7ee7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -63,7 +64,7 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Sin resultados",
+    "search-no-results-text": "No se han encontrado resultados",
     "search-matching-documents-text": "documentos encontrados",
     "search-copy-link-title": "Copiar el enlace en la búsqueda",
     "search-hide-matches-text": "Ocultar resultados adicionales",
@@ -177,7 +178,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -378,7 +379,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo/geobota_logo.png" alt="" class="navbar-logo">
+    <img src="./images/logo/geobota_logo.png" alt="" class="navbar-logo light-content">
+    <img src="./images/logo/geobota_logo.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Grupo de Estudios Botánicos GEOBOTA</span>
@@ -578,12 +580,28 @@ La planta del mes: <i>Heliconia rostrata</i>
 <h1>Últimas publicaciones</h1>
 <div id="listing-publications" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="QWxsZXJnZW5pYyUyMGNhcGFjaXR5JTJDQWxsZXJnaWMlMjByaGluaXRpcyUyQ0FydG9jYXJwdXMlMjBjb21tdW5pcyUyQ0NlY3JvcGlhJTIwcGVsdGF0YSUyQ0ZyYXhpbnVzJTIwdWhkZWklMkNJZ0UlMkNQb2xsZW4lMjBncmFpbnM=" data-listing-date-sort="1759208400000" data-listing-file-modified-sort="1759704262137" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="225">
-<a href="./publications/articles/2025-09-30_ramirez-giraldo_etal/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="QW5kZXMlMkNFdWRpY290cyUyQ0Zsb3JhJTIwb2YlMjBDYWxkYXMlMkNGbG9yYSUyMG9mJTIwQ29sb21iaWElMkNTZWx2YSUyMGRlJTIwRmxvcmVuY2lhJTJDTWFnZGFsZW5hJTIwQ2FsZGVuc2U=" data-listing-date-sort="1763528400000" data-listing-file-modified-sort="1763518618780" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
+<a href="./publications/articles/2025-11-19_murillo-serna_etal/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title" data-anchor-id="últimas-publicaciones">
+Two new species of the Colombian endemic genus <i>Allomaieta</i> (Melastomataceae: Cyphostyleae)
+</h5>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+2025-11-19
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="QWxsZXJnZW5pYyUyMGNhcGFjaXR5JTJDQWxsZXJnaWMlMjByaGluaXRpcyUyQ0FydG9jYXJwdXMlMjBjb21tdW5pcyUyQ0NlY3JvcGlhJTIwcGVsdGF0YSUyQ0ZyYXhpbnVzJTIwdWhkZWklMkNJZ0UlMkNQb2xsZW4lMjBncmFpbnM=" data-listing-date-sort="1759208400000" data-listing-file-modified-sort="1759704262137" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="225">
+<a href="./publications/articles/2025-09-30_ramirez-giraldo_etal/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
 Evaluation of the allergenic capacity of three pollen grains in a tropical region (Medellín, Colombia)
 </h5>
 <div class="card-attribution card-text-small end">
@@ -594,7 +612,7 @@ Evaluation of the allergenic capacity of three pollen grains in a tropical regio
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="Q3lhdGhlYWNlYWUlMkNGZXJucyUyQ01lZGljaW5hbCUyQ1BpdHlyb2dyYW1tYSUyQ1VzZSUyMGNhdGVnb3JpZXM=" data-listing-date-sort="1758862800000" data-listing-file-modified-sort="1759018280299" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
+<div class="g-col-1" data-index="2" data-categories="Q3lhdGhlYWNlYWUlMkNGZXJucyUyQ01lZGljaW5hbCUyQ1BpdHlyb2dyYW1tYSUyQ1VzZSUyMGNhdGVnb3JpZXM=" data-listing-date-sort="1758862800000" data-listing-file-modified-sort="1759018280299" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="249">
 <a href="./publications/articles/2025-09-26_perez-mosquera_etal/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
@@ -605,22 +623,6 @@ Ethnopteridological knowledge of Afro-descendant communities in the humid forest
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
 2025-09-26
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="QW5kZXMlMkNFbmRlbWljJTIwc3BlY2llcyUyQ0Zsb3JhJTIwb2YlMjBBbnRpb3F1aWElMkNNeXJ0YWxlcyUyQ1Jvc2V0dGUtbGlrZSUyMGhlcmI=" data-listing-date-sort="1756789200000" data-listing-file-modified-sort="1757731066125" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="140">
-<a href="./publications/articles/2025-09-02_murillo-serna_&amp;_michelangeli/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top"><img src="/images/logo/placeholder.png" style="height: 225px;"  class="thumbnail-image card-img"/></p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-<i>Quipuanthus calcaratus</i> (Melastomataceae, Cyphostyleae), a second species for the genus and a new genus for the Colombian flora
-</h5>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-2025-09-02
 </div>
 </div>
 </div>
@@ -700,13 +702,14 @@ Ethnopteridological knowledge of Afro-descendant communities in the humid forest
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

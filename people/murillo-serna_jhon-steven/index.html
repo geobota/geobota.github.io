@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -35,17 +35,18 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-bc185b5c5bdbcb35c2eb49d8a876ef70.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-dark-508422c006262752e20ae841d8f41dd3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../../site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark-5100b8561cd7f6cd8c35657ed6fe7ee7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../../site_libs/bootstrap/bootstrap-5b4ad623e5705c0698d39aec6f10cf02.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
@@ -64,7 +65,7 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Sin resultados",
+    "search-no-results-text": "No se han encontrado resultados",
     "search-matching-documents-text": "documentos encontrados",
     "search-copy-link-title": "Copiar el enlace en la búsqueda",
     "search-hide-matches-text": "Ocultar resultados adicionales",
@@ -131,7 +132,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -328,7 +329,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../images/logo/geobota_logo.png" alt="" class="navbar-logo">
+    <img src="../../images/logo/geobota_logo.png" alt="" class="navbar-logo light-content">
+    <img src="../../images/logo/geobota_logo.png" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Grupo de Estudios Botánicos GEOBOTA</span>
@@ -462,7 +464,42 @@ Sinopsis del género <em>Graffenrieda</em> DC. (Melastomataceae: Merianieae) en 
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-left" data-index="0" data-categories="QW5kZXMlMkNFbmRlbWljJTIwc3BlY2llcyUyQ0Zsb3JhJTIwb2YlMjBBbnRpb3F1aWElMkNNeXJ0YWxlcyUyQ1Jvc2V0dGUtbGlrZSUyMGhlcmI=" data-listing-date-sort="1756789200000" data-listing-file-modified-sort="1757731066125" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="140">
+<div class="quarto-post image-left" data-index="0" data-categories="QW5kZXMlMkNFdWRpY290cyUyQ0Zsb3JhJTIwb2YlMjBDYWxkYXMlMkNGbG9yYSUyMG9mJTIwQ29sb21iaWElMkNTZWx2YSUyMGRlJTIwRmxvcmVuY2lhJTJDTWFnZGFsZW5hJTIwQ2FsZGVuc2U=" data-listing-date-sort="1763528400000" data-listing-file-modified-sort="1763518618780" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="96">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../publications/articles/2025-11-19_murillo-serna_etal/index.html" class="no-external">Two new species of the Colombian endemic genus <i>Allomaieta</i> (Melastomataceae: Cyphostyleae)</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('QW5kZXM='); return false;">Andes</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RXVkaWNvdHM='); return false;">Eudicots</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmxvcmElMjBvZiUyMENhbGRhcw=='); return false;">Flora of Caldas</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('RmxvcmElMjBvZiUyMENvbG9tYmlh'); return false;">Flora of Colombia</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2VsdmElMjBkZSUyMEZsb3JlbmNpYQ=='); return false;">Selva de Florencia</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('TWFnZGFsZW5hJTIwQ2FsZGVuc2U='); return false;">Magdalena Caldense</div>
+
+</div>
+<div class="delink listing-description"><a href="../../publications/articles/2025-11-19_murillo-serna_etal/index.html" class="no-external">
+<em>Allomaieta</em> is the most diverse genus of the tribe Cyphostyleae (Melastomataceae) and is only known for Colombia. In this contribution two new species of <em>Allomaieta</em> are…<em></em><em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../../publications/articles/2025-11-19_murillo-serna_etal/index.html" class="no-external">
+<div class="listing-date">
+2025-11-19
+</div>
+<div class="listing-author">
+<strong>Jhon Steven Murillo-Serna</strong>, Julio Andrés Sierra-Giraldo, Jairo Andrés Orozco-Agudelo, Juan Mauricio Posada-Herrera
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-left" data-index="1" data-categories="QW5kZXMlMkNFbmRlbWljJTIwc3BlY2llcyUyQ0Zsb3JhJTIwb2YlMjBBbnRpb3F1aWElMkNNeXJ0YWxlcyUyQ1Jvc2V0dGUtbGlrZSUyMGhlcmI=" data-listing-date-sort="1756789200000" data-listing-file-modified-sort="1757731066125" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="140">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2025-09-02_murillo-serna_&amp;_michelangeli/index.html" class="no-external"><i>Quipuanthus calcaratus</i> (Melastomataceae, Cyphostyleae), a second species for the genus and a new genus for the Colombian flora</a>
@@ -495,7 +532,7 @@ Sinopsis del género <em>Graffenrieda</em> DC. (Melastomataceae: Merianieae) en 
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="1" data-categories="Q2FxdWV0JUMzJUExJTJDRW5kZW1pc20lMkNFdWRpY290cyUyQ0Zsb3JhJTIwb2YlMjBDb2xvbWJpYSUyQ1RheG9ub215" data-listing-date-sort="1753160400000" data-listing-file-modified-sort="1756739759076" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
+<div class="quarto-post image-left" data-index="2" data-categories="Q2FxdWV0JUMzJUExJTJDRW5kZW1pc20lMkNFdWRpY290cyUyQ0Zsb3JhJTIwb2YlMjBDb2xvbWJpYSUyQ1RheG9ub215" data-listing-date-sort="1753160400000" data-listing-file-modified-sort="1756739759076" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="120">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2025-07-22_murillo-serna_etal/index.html" class="no-external"><i>Allomaieta isauroi</i> (Melastomataceae, Cyphostyleae): a new species from the Andean-Amazonian Foothills of Colombia</a>
@@ -528,7 +565,7 @@ Sinopsis del género <em>Graffenrieda</em> DC. (Melastomataceae: Merianieae) en 
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="2" data-categories="RmxvcmElMjBvZiUyMENvbG9tYmlhJTJDRmxvcmElMjBvZiUyMFZlbmV6dWVsYSUyQ0hlbWlwYXJhc2l0aWMlMkNNaXN0bGV0b2UlMkNPcnljdGFudGh1cyUyQ09yeWN0aW5hJTJDUGFseW5vbG9neSUyQ1NhbnRhbGFsZXM=" data-listing-date-sort="1737003600000" data-listing-file-modified-sort="1756739759076" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="194">
+<div class="quarto-post image-left" data-index="3" data-categories="RmxvcmElMjBvZiUyMENvbG9tYmlhJTJDRmxvcmElMjBvZiUyMFZlbmV6dWVsYSUyQ0hlbWlwYXJhc2l0aWMlMkNNaXN0bGV0b2UlMkNPcnljdGFudGh1cyUyQ09yeWN0aW5hJTJDUGFseW5vbG9neSUyQ1NhbnRhbGFsZXM=" data-listing-date-sort="1737003600000" data-listing-file-modified-sort="1756739759076" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="194">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2025-01-16_murillo-serna_etal/index.html" class="no-external">Synopsis of <i>Maracanthus</i> (Loranthaceae) and description of <i>M. kuijtii</i>, a new species from the Eastern Andes of Colombia</a>
@@ -567,7 +604,7 @@ Sinopsis del género <em>Graffenrieda</em> DC. (Melastomataceae: Merianieae) en 
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="3" data-categories="Q2FxdWV0JUMzJUExJTJDRXVkaWNvdHMlMkNEaWNoYWV0YW5kcmElMkNSaGVvcGh5dGUlMkNTeW5vbnltaXphdGlvbiUyQ1R5cGlmaWNhdGlvbiUyQ1lhciVDMyVBRCUyMFJpdmVy" data-listing-date-sort="1734325200000" data-listing-file-modified-sort="1756739759075" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
+<div class="quarto-post image-left" data-index="4" data-categories="Q2FxdWV0JUMzJUExJTJDRXVkaWNvdHMlMkNEaWNoYWV0YW5kcmElMkNSaGVvcGh5dGUlMkNTeW5vbnltaXphdGlvbiUyQ1R5cGlmaWNhdGlvbiUyQ1lhciVDMyVBRCUyMFJpdmVy" data-listing-date-sort="1734325200000" data-listing-file-modified-sort="1756739759075" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2024-12-16_silva_etal/index.html" class="no-external">Taxonomic and nomenclatural novelties in Marcetieae (Melastomataceae) from Colombia: A new species of <i>Ernestia</i> and the identity of <i>Acisanthera goudotii</i></a>
@@ -604,7 +641,7 @@ Diego Nunes da Silva, <strong>Jhon Steven Murillo-Serna</strong>, Saúl E. Hoyos
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="4" data-categories="QW50aW9xdWlhJTJDQW5kZW1pc20lMkNUYXhvbm9teSUyQ1ZlbmF0aW9uJTIwcGF0dGVybg==" data-listing-date-sort="1642136400000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
+<div class="quarto-post image-left" data-index="5" data-categories="QW50aW9xdWlhJTJDQW5kZW1pc20lMkNUYXhvbm9teSUyQ1ZlbmF0aW9uJTIwcGF0dGVybg==" data-listing-date-sort="1642136400000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2022-01-14_murillo-serna_etal/index.html" class="no-external"><i>Alloneuron trinervium</i> (Melastomataceae: Cyphostyleae), a new species from Colombia</a>
@@ -635,7 +672,7 @@ Diego Nunes da Silva, <strong>Jhon Steven Murillo-Serna</strong>, Saúl E. Hoyos
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="5" data-categories="RXVkaWNvdHMlMkNBbWJseWFycmhlbmElMkNFbmRlbWljJTIwc3BlY2llcyUyQ0Zsb3JhJTIwb2YlMjBDb2xvbWJpYSUyQ1RvbGltYQ==" data-listing-date-sort="1621400400000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="98">
+<div class="quarto-post image-left" data-index="6" data-categories="RXVkaWNvdHMlMkNBbWJseWFycmhlbmElMkNFbmRlbWljJTIwc3BlY2llcyUyQ0Zsb3JhJTIwb2YlMjBDb2xvbWJpYSUyQ1RvbGltYQ==" data-listing-date-sort="1621400400000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="98">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2021-05-19_murillo-serna_etal/index.html" class="no-external"><i>Miconia lorenaensis</i> (Melastomataceae), a new species from Colombian Andes</a>
@@ -668,7 +705,7 @@ A new species of Melastomataceae from the Andes of Colombia is described and ill
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="6" data-categories="QW50aW9xdWlhJTJDQ3lwaG9zdHlsZWFlJTJDRW5kZW1pYyUyMHNwZWNpZXMlMkNUaHJlYXRlbmVkJTIwc3BlY2llcw==" data-listing-date-sort="1618203600000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
+<div class="quarto-post image-left" data-index="7" data-categories="QW50aW9xdWlhJTJDQ3lwaG9zdHlsZWFlJTJDRW5kZW1pYyUyMHNwZWNpZXMlMkNUaHJlYXRlbmVkJTIwc3BlY2llcw==" data-listing-date-sort="1618203600000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2021-04-12_murillo-serna_&amp;_david-higuita/index.html" class="no-external">A new species of <i>Allomaieta</i> (Melastomataceae: Cyphostyleae) from Colombia</a>
@@ -699,7 +736,7 @@ A new species of Melastomataceae from the Andes of Colombia is described and ill
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="7" data-categories="RW5kZW1pYyUyMHNwZWNpZXMlMkNFdWRpY290cyUyQ0Zsb3JhJTIwb2YlMjBDb2xvbWJpYSUyQ1Bob3JhZGVuZHJlYWUlMkNTYW50YWxhbGVz" data-listing-date-sort="1615870800000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="113">
+<div class="quarto-post image-left" data-index="8" data-categories="RW5kZW1pYyUyMHNwZWNpZXMlMkNFdWRpY290cyUyQ0Zsb3JhJTIwb2YlMjBDb2xvbWJpYSUyQ1Bob3JhZGVuZHJlYWUlMkNTYW50YWxhbGVz" data-listing-date-sort="1615870800000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="113">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2021-03-16_murillo-serna_etal/index.html" class="no-external">Novelties in <i>Phoradendron</i> killipii (Viscaceae): an endemic and rare species from Colombia</a>
@@ -732,7 +769,7 @@ A new species of Melastomataceae from the Andes of Colombia is described and ill
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="8" data-categories="QWV0YW50aHVzJTJDQ29sb21iaWElMkNIZW1pcGFyYXNpdGljJTIwcGxhbnRzJTJDTG9yYW50aGFjZWFlJTJDTWV3JTIwc3BlY2llcyUyQ05vbWVuY2xhdHVyZQ==" data-listing-date-sort="1612155600000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
+<div class="quarto-post image-left" data-index="9" data-categories="QWV0YW50aHVzJTJDQ29sb21iaWElMkNIZW1pcGFyYXNpdGljJTIwcGxhbnRzJTJDTG9yYW50aGFjZWFlJTJDTWV3JTIwc3BlY2llcyUyQ05vbWVuY2xhdHVyZQ==" data-listing-date-sort="1612155600000" data-listing-file-modified-sort="1756739759073" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="158">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2021-02-01_murillo-serna_etal/index.html" class="no-external">A new species of <i>Aetanthus</i> (Loranthaceae) from Colombia with notes on <i>A. engelsii</i></a>
@@ -767,7 +804,7 @@ A new species of Melastomataceae from the Andes of Colombia is described and ill
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="9" data-listing-date-sort="1609390800000" data-listing-file-modified-sort="1756739759072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<div class="quarto-post image-left" data-index="10" data-listing-date-sort="1609390800000" data-listing-file-modified-sort="1756739759072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2020-12-31_murillo-serna_etal/index.html" class="no-external">(2787)&nbsp;Proposal to conserve the name <i>Graffenrieda</i> against <i>Centronia</i> (Melastomataceae: Merianieae)</a>
@@ -787,7 +824,7 @@ Murillo‐Serna, J. S., Michelangeli, F. A., &amp; Alzate-Guarin, F. A. (2020). 
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="10" data-categories="RXVkaWNvdHMlMkNGbG9yYSUyMG9mJTIwQ29sb21iaWElMkNIZW1pcGFyYXNpdGljJTJDUGFseW5vbG9neSUyQ1NhbnRhbGFsZXM=" data-listing-date-sort="1604379600000" data-listing-file-modified-sort="1756739759072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="102">
+<div class="quarto-post image-left" data-index="11" data-categories="RXVkaWNvdHMlMkNGbG9yYSUyMG9mJTIwQ29sb21iaWElMkNIZW1pcGFyYXNpdGljJTJDUGFseW5vbG9neSUyQ1NhbnRhbGFsZXM=" data-listing-date-sort="1604379600000" data-listing-file-modified-sort="1756739759072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="102">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2020-11-03_carmona-gallego_etal/index.html" class="no-external">A new species of <i>Oryctanthus</i> (Loranthaceae) from Colombia</a>
@@ -820,7 +857,7 @@ A new species of the hemiparasitic genus <em>Oryctanthus</em> from Colombia is d
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="11" data-categories="QmlvbG9naWNhbCUyMGNvbGxlY3Rpb25zJTJDRmxvcmElMjBvZiUyMEFudGlvcXVpYSUyQ0Zsb3JhJTIwb2YlMjBDb2xvbWJpYSUyQ0xvcmFudGhhY2VhZSUyQ1NhbnRhbGFsZXM=" data-listing-date-sort="1573794000000" data-listing-file-modified-sort="1756739759072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="124">
+<div class="quarto-post image-left" data-index="12" data-categories="QmlvbG9naWNhbCUyMGNvbGxlY3Rpb25zJTJDRmxvcmElMjBvZiUyMEFudGlvcXVpYSUyQ0Zsb3JhJTIwb2YlMjBDb2xvbWJpYSUyQ0xvcmFudGhhY2VhZSUyQ1NhbnRhbGFsZXM=" data-listing-date-sort="1573794000000" data-listing-file-modified-sort="1756739759072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="124">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2019-11-15_carmona-gallego_etal/index.html" class="no-external">New record of <i>Oryctanthus grammatus</i> (Loranthaceae), a parasitic plant known only from the type collection</a>
@@ -853,7 +890,7 @@ A new species of the hemiparasitic genus <em>Oryctanthus</em> from Colombia is d
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="12" data-categories="R2VuZXJhbA==" data-listing-date-sort="1571634000000" data-listing-file-modified-sort="1756739759076" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
+<div class="quarto-post image-left" data-index="13" data-categories="R2VuZXJhbA==" data-listing-date-sort="1571634000000" data-listing-file-modified-sort="1756739759076" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/books/2019-10-21_david-higuita_etal/index.html" class="no-external">HUA Herbario Universidad de Antioquia: 50 años documentando algas, hongos y plantas de Colombia</a>
@@ -878,7 +915,7 @@ David-Higuita, H. A., Cardona-Naranjo, F. A., Calderón-Arias, A. M., Martínez-
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="13" data-categories="Qm90YW5pY2FsJTIwbm9tZW5jbGF0dXJlJTJDQ2FseXB0cmVsbGElMkNFdWRpY290cyUyQ05lb3Ryb3BpY3M=" data-listing-date-sort="1548997200000" data-listing-file-modified-sort="1756739759072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<div class="quarto-post image-left" data-index="14" data-categories="Qm90YW5pY2FsJTIwbm9tZW5jbGF0dXJlJTJDQ2FseXB0cmVsbGElMkNFdWRpY290cyUyQ05lb3Ryb3BpY3M=" data-listing-date-sort="1548997200000" data-listing-file-modified-sort="1756739759072" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2019-02-01_murillo-serna_etal/index.html" class="no-external">Typification of some names of <i>Graffenrieda</i> (Melastomataceae: Merianieae)</a>
@@ -909,7 +946,7 @@ In order to provide nomenclature and taxonomic clarity, nine lectotypes are desi
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="14" data-categories="Q2FidXlhJTJDRmlxdWUlMkNQbGFudCUyMHRpc3N1ZXMlMkNYZXJvcGh5dGljJTIwcGxhbnRz" data-listing-date-sort="1543640400000" data-listing-file-modified-sort="1756739759071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
+<div class="quarto-post image-left" data-index="15" data-categories="Q2FidXlhJTJDRmlxdWUlMkNQbGFudCUyMHRpc3N1ZXMlMkNYZXJvcGh5dGljJTIwcGxhbnRz" data-listing-date-sort="1543640400000" data-listing-file-modified-sort="1756739759071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="154">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2018-12_murillo-serna_etal/index.html" class="no-external">Comparative leaf anatomy of three species of <i>Furcraea</i> (Asparagaceae: Agavoideae)</a>
@@ -940,7 +977,7 @@ The Neotropical genus <em>Furcraea</em> Vent. is widely cultivated to produce fi
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="15" data-categories="Q29sb21iaWElMkNFcGlkZXJtaXMlMkNIZW1pcGFyYXNpdGljJTIwcGxhbnRzJTJDUGxhbnQlMjB0aXNzdWVzJTJDU2FudGFsYWxlcw==" data-listing-date-sort="1514782800000" data-listing-file-modified-sort="1756739759071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="166">
+<div class="quarto-post image-left" data-index="16" data-categories="Q29sb21iaWElMkNFcGlkZXJtaXMlMkNIZW1pcGFyYXNpdGljJTIwcGxhbnRzJTJDUGxhbnQlMjB0aXNzdWVzJTJDU2FudGFsYWxlcw==" data-listing-date-sort="1514782800000" data-listing-file-modified-sort="1756739759071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="166">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2018-01-01_carmona-gallego_etal/index.html" class="no-external">Comparative leaf anatomy of <i>Gaiadendron punctatum</i> and <i>Tripodanthus belmirensis</i> (Loranthaceae)</a>
@@ -973,7 +1010,7 @@ Leaf anatomy of <em>Gaiadendron punctatum</em> and <em>Tripodanthus belmirensis<
 </a>
 </div>
 </div>
-<div class="quarto-post image-left" data-index="16" data-categories="QW5naW9zcGVybXMlMkNBbmRlcyUyQ0FudGlvcXVpYSUyQ1AlQzMlQTFyYW1vcyUyQ0NvbG9tYmlh" data-listing-date-sort="1475211600000" data-listing-file-modified-sort="1756739759071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
+<div class="quarto-post image-left" data-index="17" data-categories="QW5naW9zcGVybXMlMkNBbmRlcyUyQ0FudGlvcXVpYSUyQ1AlQzMlQTFyYW1vcyUyQ0NvbG9tYmlh" data-listing-date-sort="1475211600000" data-listing-file-modified-sort="1756739759071" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="../../publications/articles/2016-09-30_alzate-guarin_&amp;_murillo-serna/index.html" class="no-external">Angiosperm flora on the páramos of northwestern Colombia: diversity and affinities</a>
@@ -1076,13 +1113,14 @@ Páramos are high-elevation isolated ecosystems in the Andes characterized by sp
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
