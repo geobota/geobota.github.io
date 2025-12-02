@@ -1,0 +1,67 @@
+---
+title: "La planta del mes: <i>Solanum tuberosum</i>"
+# description: ""
+
+author: 
+  - name: "Bladimir Vera-Marín"
+    email: bladimir.vera@udea.edu.co
+    url: /people/vera-marin_bladimir/index.qmd
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2025-12-01
+citation: true
+
+image: images/image_01.jpg
+
+categories:
+  - La planta del mes
+---
+
+<meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
+
+Después de una pausa, regresamos con una nueva entrega de La Planta del Mes.
+Aunque noviembre no cuenta con muchas efemérides directamente asociadas a la
+especie seleccionada, no podíamos dejar pasar la oportunidad de destacar una de
+las plantas más queridas, estudiadas y consumidas en el mundo.
+
+![](images/image_01.jpg){fig-align="center" group="my-gallery"
+fig-alt="Ilustración botánica a color de Solanum tuberosum L., mostrando diferentes vistas de la planta. En el centro de la imagen se incluye el hábito. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+
+## Una protagonista mundial: *Solanum tuberosum*
+
+*Solanum tuberosum* L., conocida popularmente como papa o patata, pertenece a la
+familia Solanaceae, uno de los grupos vegetales más diversos del planeta y
+fundamental en la alimentación de múltiples culturas. Su origen se encuentra en
+la cordillera de los Andes, particularmente en Perú, Ecuador, Bolivia y Chile, y
+la evidencia histórica sitúa su domesticación entre 8.000 y 10.000 años atrás,
+en el contexto de la cultura Inca.
+
+## Colombia y su enorme diversidad de papas
+
+Nuestro país tampoco es ajeno a esta especie: en Colombia se reconocen alrededor
+de 850 variedades, un patrimonio genético y cultural invaluable. La papa llegó a
+Europa a finales del siglo XVI. Si bien inicialmente fue recibida con
+desconfianza, pronto se convirtió en un alimento fundamental gracias a su
+versatilidad culinaria y alto valor nutricional. Hoy es imposible imaginar la
+gastronomía mundial sin preparaciones como las populares papas a la francesa.
+
+En la actualidad, la papa sigue siendo clave para la economía agrícola
+colombiana. Sin embargo, enfrenta retos por la fuerte competencia de países como
+los Países Bajos, Alemania y Bélgica. Esto refuerza la invitación a consumir
+papa nacional y apoyar a los productores del país.
+
+## Una historia evolutiva sorprendente
+
+Estudios recientes han revelado que la papa actual es el resultado de una
+hibridación ancestral ocurrida hace aproximadamente 9 millones de años entre:
+una especie ancestral relacionada con el tomate (posiblemente un linaje similar
+a *Solanum lycopersicum*), que aporta cerca del 40 % del genoma, y una especie
+de papa silvestre del grupo *Etuberosum*, que aporta el 60 % restante. Este
+cruce fue crucial para la evolución del tubérculo, pues influyó en los genes
+responsables de la formación de las papas que consumimos hoy. Esa rica
+diversidad genética también se refleja en la extraordinaria variedad culinaria
+que caracteriza a nuestras mesas.
+
+Ilustración: [Yuliana García
+Flórez](https://www.instagram.com/yuliana_garciaf/).
