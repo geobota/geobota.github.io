@@ -8,7 +8,7 @@ author:
 date: 2025-12-05
 citation: true
 
-image: images/image_01.jpg
+image: image.jpg
 
 categories:
   - Evento
@@ -24,7 +24,7 @@ Sánchez](/people/caro-sanchez_angy-vanesa/index.qmd), quien ha dedicado su
 proyecto al estudio de este grupo.
 
 ![](image.jpg){fig-align="center" group="my-gallery"
-fig-alt="Ilustración botánica a color de Solanum tuberosum L., mostrando diferentes vistas de la planta. En el centro de la imagen se incluye el hábito. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."}
+fig-alt="Afiche del Grupo de Estudios Botánicos (GEOBOTA) con fondo negro y detalles gráficos en amarillo. El texto anuncia la sustentación pública de la estudiante de maestría en Biología Angy Vanesa Caro Sánchez, titulada «Chrysochlamys (Clusiaceae) de Colombia: revisión taxonómica, dioicismo y estado de conservación de un grupo neotropical poco conocido». El evento se realizará el 11 de diciembre a las 11:00 a.m. a través del enlace meet.google.com/uyk-qhpy-cub. En el fondo se observan frutos rojos en racimo. En la parte inferior aparecen los íconos de redes sociales de GEOBOTA."}
 
 ## Culminación del proceso investigativo
 
@@ -41,4 +41,5 @@ conocimiento clave para la flora neotropical.
 📅 Fecha: 11 de diciembre\
 ⏰ Hora: 11:00 a. m. (Colombia)\
 📍 Lugar: Por confirmar\
-💻 Enlace virtual:[meet.google.com/uyk-qhpy-cub](https://meet.google.com/uyk-qhpy-cub)
+💻 Enlace virtual:
+[meet.google.com/uyk-qhpy-cub](https://meet.google.com/uyk-qhpy-cub)
