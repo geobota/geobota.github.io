@@ -17,7 +17,55 @@
 <width>144</width>
 </image>
 <generator>quarto-1.8.25</generator>
-<lastBuildDate>Mon, 01 Dec 2025 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 05 Dec 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Revisión taxonómica del género Chrysochlamys en Colombia</title>
+  <dc:creator>Álex Espinosa-Correa</dc:creator>
+  <link>http://geobota.github.io/news/2025-12-05_evento/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
+<p>En diversas oportunidades hemos compartido contenidos sobre la familia Clusiaceae, especialmente sobre los mangostinos y el madroño, y en particular, sobre el enigmático género <em>Chrysochlamys</em>. También hemos destacado los avances investigativos de nuestra estudiante de maestría <a href="../../people/caro-sanchez_angy-vanesa/index.html">Angy Vanesa Caro Sánchez</a>, quien ha dedicado su proyecto al estudio de este grupo.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://geobota.github.io/news/2025-12-05_evento/image.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" data-group="my-gallery" alt="Ilustración botánica a color de Solanum tuberosum L., mostrando diferentes vistas de la planta. En el centro de la imagen se incluye el hábito. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."></p>
+</figure>
+</div>
+<section id="culminación-del-proceso-investigativo" class="level2">
+<h2 class="anchored" data-anchor-id="culminación-del-proceso-investigativo">Culminación del proceso investigativo</h2>
+<p>Tras un proceso riguroso, exigente y profundamente enriquecedor, Angy se encuentra en la etapa final de su posgrado. Por ello, te extendemos una invitación especial a acompañarnos en su sustentación pública, donde presentará los resultados de su revisión taxonómica del género <em>Chrysochlamys</em> en Colombia. En este trabajo, Angy incluyó 29 taxones, identificando novedades taxonómicas, nuevos registros para el país y nuevas especies para la ciencia, aportando conocimiento clave para la flora neotropical.</p>
+</section>
+<section id="detalles-de-la-sustentación" class="level2">
+<h2 class="anchored" data-anchor-id="detalles-de-la-sustentación">Detalles de la sustentación</h2>
+<p>📅 Fecha: 11 de diciembre<br>
+⏰ Hora: 11:00 a. m. (Colombia)<br>
+📍 Lugar: Por confirmar<br>
+💻 Enlace virtual:<a href="https://meet.google.com/uyk-qhpy-cub">meet.google.com/uyk-qhpy-cub</a></p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2025,
+  author = {Espinosa-Correa, Álex},
+  title = {Revisión taxonómica del género \emph{Chrysochlamys} en
+    Colombia},
+  date = {2025-12-05},
+  url = {http://geobota.github.io/news/2025-12-05_evento/},
+  langid = {es}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2025" class="csl-entry quarto-appendix-citeas">
+Espinosa-Correa, Álex. 2025. <span>“Revisión taxonómica del género
+<em>Chrysochlamys</em> en Colombia.”</span> December 5, 2025. <a href="http://geobota.github.io/news/2025-12-05_evento/">http://geobota.github.io/news/2025-12-05_evento/</a>.
+</div></div></section></div> ]]></description>
+  <category>Evento</category>
+  <guid>http://geobota.github.io/news/2025-12-05_evento/</guid>
+  <pubDate>Fri, 05 Dec 2025 05:00:00 GMT</pubDate>
+  <media:content url="http://geobota.github.io/news/2025-12-05_evento/images/image_01.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>La planta del mes: Solanum tuberosum</title>
   <dc:creator>Bladimir Vera-Marín</dc:creator>
@@ -916,94 +964,6 @@ en Colombia.”</span> February 11, 2025. <a href="http://geobota.github.io/news
   <guid>http://geobota.github.io/news/2025-02-11_publicacion/</guid>
   <pubDate>Tue, 11 Feb 2025 05:00:00 GMT</pubDate>
   <media:content url="http://geobota.github.io/news/2025-02-11_publicacion/images/image_01.jpeg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>El polen en el aire de Medellín: un estudio aerobiológico</title>
-  <dc:creator>Álex Espinosa-Correa</dc:creator>
-  <link>http://geobota.github.io/news/2025-02-03_publicacion/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
-<p>El aire contiene partículas de origen tanto abiótico como biótico. Entre las primeras se encuentran el material particulado (MP), óxidos de nitrógeno y dióxido de azufre, mientras que entre las segundas destacan virus, bacterias, hongos, granos de polen y fragmentos de plantas y animales. El estudio de estas partículas biológicas es conocido como <a href="https://es.wikipedia.org/wiki/Aerobiolog%C3%ADa">aerobiología</a>, una disciplina poco explorada en el trópico, y Colombia no es la excepción.</p>
-<p>Afortunadamente, en los últimos años se han desarrollado investigaciones aerobiológicas en el país. Un ejemplo destacado es el estudio realizado en la ciudad de Medellín por nuestro estudiante de doctorado Álex Espinosa-Correa, junto con nuestro director Fernando Alzate-Guarín y <a href="https://maya-manzano.weebly.com">José Maya-Manzano</a> de la Universidad de Extremadura. Este trabajo ha sido publicado en la revista <em>Science of the Total Environment</em> bajo el título:“Airborne pollen concentrations overpass expectations in the tropical city of Medellín, Colombia”</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2025-02-03_publicacion/images/image_01.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Anuncio de publicación de un artículo científico titulado «Airborne pollen concentrations overpass expectations in the tropical city of Medellín, Colombia» por Álex Espinosa-Correa, Jose M. Maya-Manzano y Fernando A. Alzate-Guarín. El artículo está publicado en la revista «Science of the Total Environment» de Elsevier. La imagen incluye el logotipo de la revista, el título del artículo, los nombres y afiliaciones de los autores, y un resumen gráfico que muestra los hallazgos del estudio. El resumen gráfico incluye elementos visuales como gráficos y mapas que ilustran los niveles de polen, la dirección del viento y los parámetros meteorológicos. La sección de «highlights» resume puntos clave del estudio, como las concentraciones de polen más altas de lo esperado, la captura de polen de Cecropia y la influencia de la dirección del viento. El resumen proporciona una explicación detallada de la metodología, los resultados y las implicaciones para comprender la aerobiología en regiones tropicales. La imagen también incluye las redes sociales de GEOBOTA, el grupo de investigación involucrado en el estudio."></p>
-</figure>
-</div>
-<section id="qué-descubrieron" class="level2">
-<h2 class="anchored" data-anchor-id="qué-descubrieron">¿Qué descubrieron?</h2>
-<p>El estudio, llevado a cabo entre 2019 y 2022, utilizó un muestreador especializado para capturar, identificar y analizar los granos de polen presentes en la atmósfera de Medellín, evaluando su relación con los principales parámetros meteorológicos.</p>
-<p>Uno de los hallazgos más relevantes es que, durante todos los días del estudio, se encontraron granos de polen en concentraciones superiores a las expectativas. Además, se identificó un patrón estacional:</p>
-<ul>
-<li>Picos de concentración en los meses de diciembre-enero y julio-agosto, coincidiendo con las épocas de menor precipitación.</li>
-<li>Picos horarios alrededor del mediodía, momento en que las concentraciones alcanzan sus valores máximos.</li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2025-02-03_publicacion/images/image_02.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Nueve gráficos lineales que muestran la concentración media diaria de polen de varios tipos de polen durante el periodo de 2019 a 2022. Cada gráfico representa un tipo diferente de polen: Polen Total, Cecropia, Urticaceae, Fraxinus, Cupressaceae, Moraceae, Poaceae, Myrtaceae y Pinus. El eje x de cada gráfico representa los meses del año (E, F, M, A, M, J, J, A, S, O, N, D), y el eje y representa la concentración de polen en polen/m³. Los gráficos utilizan diferentes colores para representar diferentes años: rosa para 2019, verde para 2020, amarillo para 2021 y azul para 2022. El texto en la parte inferior de la imagen está en español y dice: «Concentración polínica media diaria del Polen Total y de los tipos polínicos más abundantes durante todo el periodo de muestreo (2019-2022).»"></p>
-</figure>
-</div>
-</section>
-<section id="de-dónde-proviene-este-polen" class="level2">
-<h2 class="anchored" data-anchor-id="de-dónde-proviene-este-polen">¿De dónde proviene este polen?</h2>
-<p>Casi el 50% del polen capturado pertenece al género <em>Cecropia</em> (yarumos), un árbol nativo del Neotrópico que crece de forma natural en Medellín. El otro 50% corresponde a especies de las familias Urticaceae (ortigas, pileas), Cupressaceae (cipreses), Moraceae (árbol del pan), Poaceae (gramíneas), Myrtaceae (eucaliptos), además de los géneros <em>Fraxinus</em> (urapanes) y <em>Pinus</em> (pinos). Muchas de estas especies son comunes en la ciudad y algunas incluso son plantadas activamente.</p>
-<p>Desde una perspectiva aerobiológica, estos hallazgos representan un reto, ya que varias de estas familias incluyen especies con reportes de causar alergias, una afección de alta incidencia en Medellín.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2025-02-03_publicacion/images/image_03.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="La imagen muestra nueve gráficos de barras polares que representan la concentración polínica intradiaria del polen total y de los tipos polínicos más abundantes durante el periodo de muestreo de 2019 a 2022. Los gráficos están etiquetados como «Total Pollen», «Cecropia», «Urticaceae», «Fraxinus», «Cupressaceae», «Moraceae», «Poaceae», «Myrtaceae» y «Pinus». Cada gráfico tiene un eje circular que va de 0 a 23, indicando las horas del día, y barras azules que muestran la concentración de polen en diferentes momentos del día. El texto en la parte inferior de la imagen está en español y dice: «Concentración polínica intradiaria del Polen Total y de los tipos polínicos más abundantes durante todo el periodo de muestreo (2019-2022).»"></p>
-</figure>
-</div>
-</section>
-<section id="un-estudio-pionero-en-colombia" class="level2">
-<h2 class="anchored" data-anchor-id="un-estudio-pionero-en-colombia">Un estudio pionero en Colombia</h2>
-<p>Este estudio es uno de los más prolongados en el país en las últimas tres décadas y uno de los pocos en incluir:</p>
-<ul>
-<li>Recuento de granos de polen a nivel horario.</li>
-<li>Uso de estadística circular en el análisis.</li>
-<li>Correlación con parámetros meteorológicos.</li>
-<li>Influencia de las fuentes productoras de polen (ubicación de las plantas y usos de suelo) en la distribución del polen atmosférico.</li>
-</ul>
-<p>Estos resultados son fundamentales para comprender la dinámica del polen en el aire y sus implicaciones en la salud pública y la planificación urbana. ¡Esperamos que este sea solo el inicio de más estudios aerobiológicos en Colombia!</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2025-02-03_publicacion/images/image_04.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" alt="Imagen con fondo claro. En la parte superior aparece en rojo el texto «Escanea el QR y lee la publicación». En el centro aparece un código QR de color rojo. En la parte inferior aparecen en rojo el doi del artículo https://doi.org/10.1016/j.scitotenv.2024.178066 y en negro los logotipos de Facebook e Instagram de @geobotaudea."></p>
-</figure>
-</div>
-<p>Enlace al artículo: <a href="https://doi.org/10.1016/j.scitotenv.2024.178066" class="uri">https://doi.org/10.1016/j.scitotenv.2024.178066</a></p>
-<p>¡Síguenos para mantenerte al tanto de nuestras investigaciones y publicaciones!</p>
-</section>
-<section id="referencia" class="level2">
-<h2 class="anchored" data-anchor-id="referencia">Referencia</h2>
-<!--?xml version="1.0"?-->
-<div class="csl-bib-body" style="line-height: 2; padding-left: 1em; text-indent:-1em;">
-<div class="csl-entry">
-Espinosa-Correa, Á., Maya-Manzano, J. M., &amp; Alzate-Guarín, F. A. (2025). Airborne pollen concentrations overpass expectations in the tropical city of Medellín, Colombia. <i>Science of The Total Environment</i>, <i>958</i>, 178066. https://doi.org/10.1016/j.scitotenv.2024.178066
-</div>
-</div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2025,
-  author = {Espinosa-Correa, Álex},
-  title = {El polen en el aire de Medellín: un estudio aerobiológico},
-  date = {2025-02-03},
-  url = {http://geobota.github.io/news/2025-02-03_publicacion/},
-  langid = {es}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2025" class="csl-entry quarto-appendix-citeas">
-Espinosa-Correa, Álex. 2025. <span>“El polen en el aire de Medellín: un
-estudio aerobiológico.”</span> February 3, 2025. <a href="http://geobota.github.io/news/2025-02-03_publicacion/">http://geobota.github.io/news/2025-02-03_publicacion/</a>.
-</div></div></section></div> ]]></description>
-  <category>Publicación</category>
-  <guid>http://geobota.github.io/news/2025-02-03_publicacion/</guid>
-  <pubDate>Mon, 03 Feb 2025 05:00:00 GMT</pubDate>
-  <media:content url="http://geobota.github.io/news/2025-02-03_publicacion/images/image_01.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
