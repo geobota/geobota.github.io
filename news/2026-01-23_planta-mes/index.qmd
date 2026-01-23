@@ -1,0 +1,86 @@
+---
+title: "La planta del mes: <i>Cavanillesia platanifolia</i>"
+# description: ""
+
+author: 
+  - name: "Bladimir Vera-Marín"
+    email: bladimir.vera@udea.edu.co
+    url: /people/vera-marin_bladimir/index.qmd
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2025-01-23
+citation: true
+
+image: images/image_01.jpg
+
+categories:
+  - La planta del mes
+---
+
+<meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
+
+Con el inicio de un nuevo año, enero todavía suele estar marcado por imágenes y
+decoraciones asociadas a especies no tropicales. En casas, centros comerciales y
+espacios públicos predominan pinos y cipreses, naturales o artificiales,
+adornados con luces y colores. Sin embargo, desde los trópicos también existen
+especies que acompañan simbólicamente estas épocas de transición, celebración y
+encuentro.
+
+![](images/image_01.jpg){group="my-gallery"
+fig-alt="Ilustración botánica a color de Cavanillesia platanifolia (Bonpl.) Kunth, mostrando diferentes vistas de la planta. En el centro de la imagen se incluye el hábito, una flor, un fruto y una hoja.. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. Debajo aparece: «Planta del mes». En la esquina inferior derecha, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Yuliana García Flórez, @yuliana_garciaf."
+fig-align="center"}
+
+Una de ellas es *Cavanillesia platanifolia* (Bonpl.) Kunth, una especie de la
+familia Malvaceae, distribuida en Perú, Ecuador, Colombia y Panamá, conocida
+comúnmente como macondo, cuipo o volandero. Se trata de un árbol emblemático por
+su porte imponente y su gran importancia ecológica y cultural, especialmente en
+los bosques secos tropicales.
+
+## Usos tradicionales y valor biocultural
+
+*Cavanillesia platanifolia* presenta una notable diversidad de usos
+tradicionales. Sus semillas son comestibles y se consumen tostadas o cocidas,
+similares a una nuez. Su madera, blanda y liviana, ha sido empleada
+históricamente en la construcción de canoas artesanales y boyas de pesca.
+Además, la corteza de los individuos jóvenes es rica en fibras resistentes,
+utilizadas para fabricar cuerdas y amarres.
+
+La “lana” que rodea las semillas también ha tenido usos locales, principalmente
+para rellenar almohadas y elaborar amarres rústicos, lo que evidencia la
+estrecha relación entre esta especie y las comunidades que habitan su área de
+distribución.
+
+## Un árbol que florece con el cambio de año
+
+Durante la estación seca, entre diciembre y enero, el macondo entra en
+floración. En este periodo, sus flores y frutos aportan tonalidades rojizas y
+doradas al paisaje, lo que ha llevado a que algunas comunidades expresen que el
+árbol se “viste de colores”, acompañando simbólicamente las festividades de
+cierre e inicio de año, así como los encuentros familiares y comunitarios
+propios de esta época.
+
+## Macondo: naturaleza y literatura
+
+Más allá de su importancia ecológica y cultural, *Cavanillesia platanifolia*
+posee un profundo valor simbólico y literario. Este árbol está estrechamente
+vinculado a la obra de Gabriel García Márquez, quien tomó su nombre para dar
+identidad al pueblo ficticio de Macondo en Cien años de soledad. En la región
+Caribe, el macondo representa un monumento vivo del paisaje: árboles solitarios
+en medio de potreros que simbolizan resistencia, memoria y permanencia en el
+bosque seco tropical.
+
+## Conservación y futuro
+
+Actualmente, *Cavanillesia platanifolia* se encuentra en categoría de En
+Peligro, lo que resalta la urgencia de su conservación. Proteger esta especie
+implica no solo salvaguardar un componente clave de los ecosistemas tropicales,
+sino también preservar un símbolo cultural y literario profundamente arraigado
+en la identidad de diversas regiones.
+
+Iniciar el año reconociendo y valorando especies como el macondo es una
+invitación a reflexionar sobre nuestra relación con la naturaleza y el
+compromiso con su conservación.
+
+Ilustración: [Yuliana García
+Flórez](https://www.instagram.com/yuliana_garciaf/).
