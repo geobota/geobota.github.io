@@ -1,0 +1,45 @@
+---
+title: "<i>Aetanthus confusus</i>, a new species of Loranthaceae (Santalales) from the Colombian Andes"
+author:
+  - name: "**Susana María Arango-Carvajal**"
+    orcid: 0000-0003-2660-311X
+  - name: "Heidy Caterine Caro-Ayala"
+  - name: "Diego Suescún-Carvajal"
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+    url: /people/murillo-serna_jhon-steven/index.qmd
+year: 2026
+date: 2026-02-10
+publication: "Phytotaxa"
+doi: https://doi.org/10.11646/phytotaxa.740.3.6
+materials: ""
+
+categories:
+  - Andean forest
+  - Eudicots
+  - Flora of Colombia
+  - Hemiparasitic plant
+  - Mistletoe
+  - Santander
+---
+
+## Abstract
+
+*Aetanthus confusus*, a new species of hemiparasite from the northern part of
+the Eastern Cordillera of Colombia, is described and illustrated. This species
+can be recognized by the combination of percurrent branches, stems trigonous,
+becoming pseudo-quadrangular at maturity, oblanceolate to lanceolate leaf blades
+with an obtuse or acute apex, and inflorescences composed of triple dyads. The
+most similar species is *A. colombianus*, which differs by having stems always
+trigonous, widely elliptic leaf blades with a rounded apex, and inflorescences
+composed of double dyads. The new taxon is restricted to the Eastern Cordillera
+of the Colombian Andes and is considered endangered due to habitat loss. The
+morphological affinities of *Aetanthus confusus* with the remaining *Aetanthus*
+species are discussed.
+
+## Citation
+
+> Arango-Carvajal, S. M., Caro-Ayala, H. C., Suescún-Carvajal, D., &
+> Murillo‐Serna, J. S. (2026). *Aetanthus confusus*, a new species of
+> Loranthaceae (Santalales) from the Colombian Andes. *Phytotaxa*, 740(3),
+> 283–289. https://doi.org/10.11646/phytotaxa.740.3.6
