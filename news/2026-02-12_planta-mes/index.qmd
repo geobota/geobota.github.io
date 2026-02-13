@@ -1,0 +1,85 @@
+---
+title: "La planta del mes: <i>Aiphanes horrida</i>"
+# description: ""
+
+author: 
+  - name: "Bladimir Vera-Marín"
+    email: bladimir.vera@udea.edu.co
+    url: /people/vera-marin_bladimir/index.qmd
+  - name: "Paula Andrea Morales-Morales"
+    email: paumoralesm@gmail.com
+  - name: "Álex Espinosa-Correa"
+    email: alex.espinosa@udea.edu.co
+    url: /people/espinosa-correa_alex/index.qmd
+date: 2026-02-12
+citation: true
+
+image: images/image_01.jpg
+
+categories:
+  - La planta del mes
+---
+
+<meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
+
+Llegamos a mediados de febrero, un mes en el que una celebración extranjera
+suele acaparar la atención. Sin embargo, desde GEOBOTA preferimos centrar la
+mirada en lo nuestro, en aquellas especies que hacen parte de la riqueza
+biológica y cultural de nuestras tierras.
+
+En esta ocasión lo hacemos, además, de la mano de una colaboración especial con
+la ilustradora y diseñadora gráfica Adriana Sanín
+([\@adrianasaninilustradora](https://www.instagram.com/adrianasaninilustradora/)),
+cuya interpretación artística acompaña esta edición de la Planta del Mes.
+
+![](images/image_01.jpg){fig-align="center" group="my-gallery"
+fig-alt="Ilustración botánica a color de Aiphanes horrida (Jacq.) Burret, mostrando diferentes vistas de la planta. En el centro de la imagen se incluye el hábito. En la derecha un detalle de una hoja. En la izquierda una infrutescencia y un fruto partido. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. En la esquina superior derecha dice «Planta del mes». En la parte inferior, se encuentran los créditos de la ilustración @adrianasaninilustradora y @geobotaudea."}
+
+Nuestra protagonista es *Aiphanes horrida* (Jacq.) Burret, una palma nativa de
+la familia Arecaceae, que habita bosques desde el nivel del mar hasta
+aproximadamente los 2000 m s. n. m. Es conocida por diversos nombres comunes:
+mararay, corozo, corozo rojo y corozo chiquito, entre otros.
+
+Su epíteto específico, *horrida*, no significa “horrible”. Proviene del latín
+horridus, que puede traducirse como “erizado” o “terrible por sus espinas”, una
+descripción bastante precisa si observamos su morfología. El tallo y las hojas
+están densamente cubiertos de espinas, rasgo que le ha valido el nombre popular
+de “palma de hierro”, mencionado en crónicas coloniales y relatos orales de
+comunidades del Pacífico colombiano.
+
+## Usos etnobotánicos
+
+La estrecha relación entre esta especie y las comunidades locales se refleja en
+la diversidad de usos registrados:
+
+-   Alimenticio: la pulpa del fruto es rica en vitamina A y carotenoides, y
+    puede consumirse fresca o cocida. La semilla también puede tostarse y
+    comerse como nuez, con un sabor similar al coco.
+
+-   Construcción y herramientas: su tallo es extremadamente resistente y ha sido
+    utilizado en la fabricación de macanas, bastones, estructuras para techos y
+    paredes en viviendas rurales.
+
+-   Artesanal: las semillas duras, fáciles de pulir, se emplean en la
+    elaboración de collares, amuletos y botones.
+
+![](images/image_02.jpg){fig-align="center" group="my-gallery"
+fig-alt="Ilustración botánica a color de Aiphanes horrida (Jacq.) Burret, mostrando una infrutescencia y un pájaro. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA. En la esquina superior derecha dice «Planta del mes». En la parte inferior, se encuentran los créditos de la ilustración @adrianasaninilustradora y @geobotaudea."}
+
+## Valor ecológico y ornamental
+
+Más allá de sus usos tradicionales, *Aiphanes horrida* destaca por su valor
+ecológico. Sus llamativas flores amarillas atraen numerosos polinizadores, lo
+que la convierte en una especie relevante dentro de los ecosistemas donde
+habita. Asimismo, es apreciada en procesos de restauración, reforestación y
+paisajismo, siempre considerando cuidadosamente su ubicación debido a sus
+afiladas espinas.
+
+![](images/image_03.png){fig-align="center" group="my-gallery"
+fig-alt="Mapa que muestra la ubicación de Aiphanes horrida. En la esquina superior izquierda aparece el logo de GEOBOTA y en la parte inferior dice «Ubicación de Aiphanes horrida en la Ciudad Universitaria de la Universidad de Antioquia»."}
+
+En febrero, celebramos así una especie que encarna fortaleza, resistencia y una
+profunda conexión biocultural con el territorio.
+
+Ilustración: [Adriana María Sanín
+Escobar](https://www.instagram.com/adrianasaninilustradora/).
