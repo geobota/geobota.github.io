@@ -1,13 +1,13 @@
 ---
 title: &title "**Jhon Freddys Pérez-Mosquera**"
-subtitle: "Estudiante de maestría"
+subtitle: "Investigador"
 
-number: "3"
+number: "2"
 last: "Pérez-Mosquera"
 first: "Jhon Freddys"
 
 image: profile.jpg
-people_group: "gradstudent"
+people_group: "researcher"
 started: "2023-01"
 ended: "Actual"
 toc: false
@@ -55,7 +55,7 @@ este grupo de plantas.
 ## Educación
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
-    Maestría en Biología \| 2023-actual\
+    Maestría en Biología \| 2023-2025\
     Helechos del Alto Atrato: diversidad taxonómica y etnobotánica
 
 -   **Universidad Tecnológica del Chocó** \| Quibdo, Colombia\

@@ -1,13 +1,13 @@
 ---
 title: &title "**Jose Miguel Rojas-Villa**"
-subtitle: "Investigador"
+subtitle: "Estudiante de maestría"
 
-number: "2"
+number: "4"
 last: "Rojas-Villa"
 first: "Jose Miguel"
 
 image: profile.jpg
-people_group: "researcher"
+people_group: "grad"
 started: "2022-07"
 ended: "Actual"
 toc: false

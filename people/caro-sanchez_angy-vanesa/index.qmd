@@ -1,13 +1,13 @@
 ---
 title: &title "**Angy Vanesa Caro-Sánchez**"
-subtitle: "Estudiante de maestría"
+subtitle: "Investigador"
 
-number: "3"
+number: "2"
 last: "Caro-Sánchez"
 first: "Angy Vanesa"
 
 image: profile.jpg
-people_group: "gradstudent"
+people_group: "researcher"
 started: "2015-01"
 ended: "Actual"
 toc: false
@@ -52,7 +52,7 @@ Mi experiencia e intereses académicos están enfocados en la taxonomía de plan
 ## Educación
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
-    Maestría en Biología \| 2023-actual\
+    Maestría en Biología \| 2023-2026\
     *Chrysochlamys* (Clusiaceae: Clusieae) de Antioquia, Colombia: abordando la taxonomía de especies dioicas
 
 -   **Universidad de Antioquia** \| Medellín, Colombia\
