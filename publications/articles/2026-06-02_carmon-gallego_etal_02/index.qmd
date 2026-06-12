@@ -1,0 +1,63 @@
+---
+title: "Novelties in <i>Psittacanthus</i> (Loranthaceae) from Colombia: a new species and four new records for the Andean and Amazon Regions"
+type: "article"
+author:
+  - name: "**Isabel Carmona-Gallego**"
+    orcid: 0000-0001-8954-4503
+    url: /people/carmona-gallego_isabel/index.qmd
+  - name: "**Francisco Javier Roldán-Palacio**"
+    orcid: 0000-0001-9241-9551
+    url: /people/roldan-palacio_francisco-javier/index.qmd
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+    url: /people/murillo-serna_jhon-steven/index.qmd
+year: 2026
+date: 2026-06-02
+publication: "Plant Ecology and Evolution"
+doi: https://doi.org/10.5091/plecevo.188691
+materials: ""
+
+categories:
+  - Andes
+  - Flora of Colombia
+  - Mistletoe
+  - Psittacantheae
+  - Santalales
+  - Taxonomy
+---
+
+## Abstract
+
+**Background and aims** – *Psittacanthus* is the largest genus of neotropical
+mistletoes within Loranthaceae, comprising approximately 110 species. With 37
+species recorded to date, Colombia stands as the most diverse country for this
+group of aerial hemiparasites. Despite this richness, a comprehensive national
+or regional taxonomic revision of these mistletoes is currently lacking. This
+study aims to update the knowledge of Colombian Psittacanthus diversity by
+describing a new species and reporting new records for the country.
+
+**Material and methods** – This study is based on an extensive literature review
+and the examination of herbarium material of *Psittacanthus*. We examined
+herbarium specimens using both physical collections and high-resolution digital
+images. Morphological analyses were conducted using dried and rehydrated
+samples, following the standardized specialized terminology for neotropical
+mistletoes. Taxonomic descriptions and diagnoses were developed to establish and
+test taxonomic hypotheses, ensuring a rigorous comparison between focal taxa and
+previously described species.
+
+**Key results** – A new species for the Colombian Andes is described, and four
+new records for the Amazonian and Andean–Amazonian Piedmont of Colombia are
+reported. *Psittacanthus job-kuijtii* sp. nov. is described and illustrated
+herein; this species inhabits the moist lowland forests of the Colombian
+inter-Andean valleys, which are areas containing exceptional biodiversity.
+Furthermore, *P. amazonicus*, *P. lamprophyllus*, *P. pilanthus*, and *P.
+zonatus* are recorded for the first time for Colombia. The description of this
+new species and the additional records increase the known diversity of Colombian
+Psittacanthus to 41 taxa and a total of 111 species for the genus.
+
+## Citation
+
+> Carmona-Gallego, I., Roldán-Palacio, F. J., & Murillo-Serna, J. S. (2026).
+> Novelties in *Psittacanthus* (Loranthaceae) from Colombia: A new species and
+> four new records for the Andean and Amazon Regions. *Plant Ecology and
+> Evolution*, 159(2), 347–355. https://doi.org/10.5091/plecevo.188691

@@ -1,0 +1,44 @@
+---
+title: "The genus <i>Oryctanthus</i> (Loranthaceae) in Colombia"
+type: "article"
+author:
+  - name: "**Isabel Carmona-Gallego**"
+    orcid: 0000-0001-8954-4503
+    url: /people/carmona-gallego_isabel/index.qmd
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+    url: /people/murillo-serna_jhon-steven/index.qmd
+  - name: "Claudenir Simões Caires"
+  - name: "**Francisco Javier Roldán-Palacio**"
+    orcid: 0000-0001-9241-9551
+    url: /people/roldan-palacio_francisco-javier/index.qmd
+  - name: "**Fernando Alveiro Alzate-Guarin**"
+    orcid: 0000-0002-4916-8897
+    url: /people/alzate-guarin_fernando-alveiro/index.qmd
+year: 2026
+date: 2026-06-02
+publication: "Brittonia"
+doi: https://doi.org/10.1007/s12228-026-09884-z
+materials: ""
+
+categories:
+  - Flora of Colombia
+  - Hemiparasitic
+  - Host range
+  - Mistletoe
+  - Santalales
+---
+
+## Abstract
+
+A revision and identification key for the eleven Colombian species of the
+mistletoe genus *Oryctanthus* (Loranthaceae) are presented here. Relevant
+characters to identify specimens, taxon diagnoses, and a list of reported hosts
+for these hemipa- rasitic species is provided. Taxonomic affinities and
+geographic distributions for each species are presented and discussed.
+
+## Citation
+
+> Carmona-Gallego, I., Murillo-Serna, J. S., Caires, C. S., Roldán-Palacio, F.
+> J., & Alzate-Guarín, F. A. (2026). The genus *Oryctanthus* (Loranthaceae) in
+> Colombia. *Brittonia*. https://doi.org/10.1007/s12228-026-09884-z
