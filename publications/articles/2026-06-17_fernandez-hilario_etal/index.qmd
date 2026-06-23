@@ -1,0 +1,56 @@
+---
+title: "Revealing the hidden biodiversity of the Andes: Eleven new species of <i>Axinaea</i> (Melastomataceae, Merianieae)"
+type: "article"
+author:
+  - name: "Robin Fernandez-Hilario"
+  - name: "**Jhon Steven Murillo-Serna**"
+    orcid: 0000-0003-4512-5811
+    url: /people/murillo-serna_jhon-steven/index.qmd
+  - name: "Gustavo Miranda-Montealegre"
+  - name: "Daniel M. Tarazona Ocaña"
+  - name: "Diana Fernández-Fernández"
+  - name: "Luis Gámez"
+  - name: "Nelson Jaramillo"
+  - name: "Carmen Ulloa Ulloa"
+  - name: "Renato Goldenberg"
+  - name: "Fabián A. Michelangeli"
+year: 2026
+date: 2026-06-17
+publication: "Phytotaxa"
+doi: https://doi.org/10.11646/phytotaxa.762.3.1
+materials: ""
+
+categories:
+  - Andean forests, biodiversity
+  - Chastenaea
+  - Endemic species
+  - Eudicots
+  - Inflated connectives
+  - Myrtales
+  - Neotropics
+  - New species
+  - Taxonomy
+---
+
+## Abstract
+
+Eleven new species of *Axinaea* (Melastomataceae, Merianieae) are described and
+illustrated from the Andes. The new species are *A. auriculata* and *A.
+johnjuliusii* from Venezuela, *A. frustrata*, *A. paisa* and *A. titanica* from
+Colombia, *A. andina*, *A. kiru*, *A. matangae* and *A. olivacea* from Ecuador,
+*A. huancabambae* from Ecuador and Peru, and A*. yunga* from Bolivia. We provide
+morphological descriptions along with comments on related species and geographic
+distribution. Also, we discuss the current diversity and taxonomy of Axinaea in
+the Andes. With these discoveries, Venezuela, Colombia, Ecuador, Peru, and
+Bolivia now have a total of seven, 12, 21, 18, and two species of *Axinaea*,
+respectively. Finally, we present a preliminary list of the 50 currently
+accepted Axinaea species.
+
+## Citation
+
+> Fernandez-Hilario, R., Murillo-Serna, J. S., Miranda-Montealegre, G., Ocaña,
+> D. M. T., Fernández-Fernández, D., Gámez, L., Jaramillo, N., Ulloa, C. U.,
+> Goldenberg, R., & Michelangeli, F. A. (2026). Revealing the hidden
+> biodiversity of the Andes: Eleven new species of *Axinaea* (Melastomataceae,
+> Merianieae). *Phytotaxa*, 762(3), 201–245.
+> https://doi.org/10.11646/phytotaxa.762.3.1
