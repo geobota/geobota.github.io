@@ -17,7 +17,79 @@
 <width>144</width>
 </image>
 <generator>quarto-1.9.38</generator>
-<lastBuildDate>Tue, 30 Jun 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>La planta del mes: Cecropia mutisiana</title>
+  <dc:creator>Bladimir Vera-Marín</dc:creator>
+  <dc:creator>Paula Andrea Morales-Morales</dc:creator>
+  <dc:creator>Álex Espinosa-Correa</dc:creator>
+  <link>http://geobota.github.io/news/2026-07-30_planta-mes/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
+<p>Para este mes presentamos una especie muy representativa de los bosques andinos de Colombia: <em>Cecropia mutisiana</em> Mildbr., conocida comúnmente como yarumo o, en algunas regiones del país, guarumo. Esta especie pertenece a la familia Urticaceae, es endémica de Colombia y está clasificada como de Preocupación Menor (LC) según la Lista Roja de la UICN.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="http://geobota.github.io/news/2026-07-30_planta-mes/images/image_01.jpg" class="img-fluid quarto-figure quarto-figure-center figure-img" data-group="my-gallery" alt="Ilustración botánica a color de Cecropia mutisiana (Aubl.) D.Don, mostrando diferentes vistas de la planta. En el centro de la imagen se incluye el hábito. En la esquina superior izquierda aparece el logo del Grupo de Estudios Botánicos GEOBOTA y debajo dice «Planta del mes». En la parte inferior, se encuentran los créditos de la ilustración @cristinaparejha y @geobotaudea."></p>
+</figure>
+</div>
+<p>Su distribución se concentra principalmente en zonas montañosas y valles interandinos. Se ha registrado en departamentos como Antioquia, Boyacá, Caldas, Cundinamarca, Quindío, Risaralda, Santander, Tolima y Valle del Cauca, donde suele ser una de las primeras especies en establecerse en áreas intervenidas o en proceso de regeneración natural.</p>
+<section id="una-planta-con-una-larga-tradición-medicinal" class="level2">
+<h2 class="anchored" data-anchor-id="una-planta-con-una-larga-tradición-medicinal">Una planta con una larga tradición medicinal</h2>
+<p>El yarumo ha sido utilizado tradicionalmente por diversas comunidades colombianas debido a sus propiedades medicinales. Sus hojas se emplean en infusiones para aliviar afecciones respiratorias como la tos, el asma y otros problemas bronquiales. Además, algunas comunidades andinas preparan cataplasmas con hojas maceradas para favorecer la cicatrización de heridas y quemaduras superficiales, así como para prevenir infecciones cutáneas.</p>
+<p>En años recientes, estas aplicaciones tradicionales han despertado el interés de la investigación científica. Un estudio publicado por Enchev et al.&nbsp;(2024) encontró que extractos obtenidos de sus hojas podrían contribuir al control de los niveles de glucosa en personas con diabetes tipo 2. No obstante, son necesarios más estudios clínicos para confirmar su eficacia y seguridad, por lo que estos resultados no deben interpretarse como una recomendación médica.</p>
+</section>
+<section id="más-que-una-planta-medicinal" class="level2">
+<h2 class="anchored" data-anchor-id="más-que-una-planta-medicinal">Más que una planta medicinal</h2>
+<p>Además de sus usos tradicionales, <em>Cecropia mutisiana</em> posee una importante utilidad industrial y ecológica.</p>
+<p>Su madera y fibras se han empleado en la producción de pulpa para papel, utilizada posteriormente en la fabricación de papel, cartón y otros materiales derivados.</p>
+<p>En sistemas agroforestales, el yarumo también ha sido utilizado como árbol de sombra para cultivos de café, contribuyendo a mejorar las condiciones microclimáticas de los cafetales.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Nota
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>¿Sabías que existe un proyecto para mapear los yarumos de Medellín? Conoce más <a href="https://alexespinosaco.github.io/cecropia-medellin/">aquí</a>.</p>
+</div>
+</div>
+</section>
+<section id="un-aliado-de-la-biodiversidad" class="level2">
+<h2 class="anchored" data-anchor-id="un-aliado-de-la-biodiversidad">Un aliado de la biodiversidad</h2>
+<p>Desde el punto de vista ecológico, el yarumo desempeña un papel fundamental en la recuperación de los bosques andinos. Es una especie pionera de rápido crecimiento que facilita el establecimiento de otras plantas durante los procesos de sucesión ecológica.</p>
+<p>Sus frutos constituyen una importante fuente de alimento para numerosas especies de aves, entre ellas azulejos y otras aves frugívoras, que al consumirlos dispersan sus semillas y favorecen la regeneración natural de los bosques.</p>
+<p>Por su capacidad para restaurar ecosistemas, alimentar la fauna y brindar múltiples beneficios a las comunidades humanas, <em>Cecropia mutisiana</em> representa un excelente ejemplo de la importancia de conservar la flora nativa colombiana.</p>
+<p>Ilustración: <a href="https://www.instagram.com/cristinaparejha/">Cristina Pareja</a>.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{vera-marín2026,
+  author = {Vera-Marín, Bladimir and Morales-Morales, Paula Andrea and
+    Espinosa-Correa, Álex},
+  title = {La planta del mes: \emph{Cecropia mutisiana}},
+  date = {2026-07-30},
+  url = {http://geobota.github.io/news/2026-07-30_planta-mes/},
+  langid = {es}
+}
+</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-vera-marín2026" class="csl-entry quarto-appendix-citeas">
+Vera-Marín, Bladimir, Paula Andrea Morales-Morales, and Álex
+Espinosa-Correa. 2026. <span>“La planta del mes: <em>Cecropia
+mutisiana</em>.”</span> July 30. <a href="http://geobota.github.io/news/2026-07-30_planta-mes/">http://geobota.github.io/news/2026-07-30_planta-mes/</a>.
+</div></div></section></div> ]]></description>
+  <category>La planta del mes</category>
+  <guid>http://geobota.github.io/news/2026-07-30_planta-mes/</guid>
+  <pubDate>Thu, 30 Jul 2026 05:00:00 GMT</pubDate>
+  <media:content url="http://geobota.github.io/news/2026-07-30_planta-mes/images/image_01.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>La planta del mes: Jacaranda copaia</title>
   <dc:creator>Bladimir Vera-Marín</dc:creator>
@@ -1000,75 +1072,6 @@ del mes: <em>Morella parvifolia</em>.”</span> May 29. <a href="http://geobota.
   <category>El Colombiano</category>
   <guid>http://geobota.github.io/news/2025-05-14_el-colombiano/</guid>
   <pubDate>Wed, 14 May 2025 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>La planta del mes: Columnea sanguinea</title>
-  <dc:creator>Álex Espinosa-Correa</dc:creator>
-  <dc:creator>Bladimir Vera-Marín</dc:creator>
-  <link>http://geobota.github.io/news/2025-05-02_planta-mes/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<meta name="fediverse:creator" content="@alexespinosaco@mstdn.social">
-<p>«En abril, aguas mil», dice el refranero popular. Este mes también se caracteriza por numerosas efemérides, como el Día Mundial de la Concientización sobre el Autismo, el Día Nacional de la Memoria y Solidaridad con las Víctimas del Conflicto, el aniversario del primer vuelo espacial tripulado por Yuri Gagarín (1961), el Día Mundial del Libro, el Día del Idioma Español, el Día Nacional de la Secretaría y el Día del Árbol. Este abril, además, coincide con la celebración de la Semana Santa cristiana, una conmemoración religiosa que influye incluso en la manera en que percibimos las plantas.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2025-05-02_planta-mes/images/image_01.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" data-group="my-gallery" alt="Ilustración botánica en blanco y negro de Columnea sanguinea (Pers.) Hanst, mostrando diferentes vistas de la planta. Se aprecian los detalles de su tallo, hojas simples y opuestas e inflorescencias axilares. El diseño incluye el logo de GEOBOTA y la frase «Planta del mes». En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."></p>
-</figure>
-</div>
-<p>Por eso, hemos elegido como planta del mes de abril a <em>Columnea sanguinea</em> (Pers.) Hanst., una especie cuyo nombre común, “sangre de Cristo”, la conecta de forma simbólica con las celebraciones del triduo pascual.</p>
-<section id="una-especie-destacada-de-la-familia-gesneriaceae" class="level2">
-<h2 class="anchored" data-anchor-id="una-especie-destacada-de-la-familia-gesneriaceae">Una especie destacada de la familia Gesneriaceae</h2>
-<p><em>Columnea sanguinea</em> pertenece a la familia Gesneriaceae, que cuenta con más de 4.000 especies distribuidas en zonas tropicales y subtropicales del planeta. En Colombia se registran más de 700 especies de esta familia, muchas de ellas endémicas.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2025-05-02_planta-mes/images/image_02.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" data-group="my-gallery" alt="Ilustración científica de Columnea sanguinea (Pers.) Hanst, destacando la estructura de su tallo y la forma de sus hojas. En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."></p>
-</figure>
-</div>
-<p>Esta planta presenta un hábito herbáceo epífito y puede alcanzar hasta 80 cm de altura. Sus hojas se destacan por tener manchas rojizas muy particulares, lo que ha dado origen al nombre común “sangre de Cristo” y a su uso en la medicina tradicional. Popularmente, se cree que estas plantas pueden ayudar a detener hemorragias y tratar problemas circulatorios, aunque estos usos carecen de validación científica formal.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2025-05-02_planta-mes/images/image_03.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" data-group="my-gallery" alt="Ilustración científica del haz de las hojas de la planta Columnea sanguinea (Pers.) Hanst. En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."></p>
-</figure>
-</div>
-</section>
-<section id="belleza-ornamental-y-valor-ecológico" class="level2">
-<h2 class="anchored" data-anchor-id="belleza-ornamental-y-valor-ecológico">Belleza ornamental y valor ecológico</h2>
-<p>Además de su simbolismo cultural y sus usos tradicionales, <em>C. sanguinea</em> tiene un notable valor ornamental y ecológico. Sus flores llamativas y las manchas rojizas de sus hojas la convierten en una planta atractiva para colibríes y otros polinizadores, que encuentran en ella una fuente de alimento y refugio en los bosques donde habita.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2025-05-02_planta-mes/images/image_04.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" data-group="my-gallery" alt="Ilustración científica del envés de las hojas de la planta Columnea sanguinea (Pers.) Hanst., se destacan las manchas rojizas. En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."></p>
-</figure>
-</div>
-<p>Con esta especie, rendimos homenaje a la diversidad de usos, significados y funciones que las plantas tienen en nuestras culturas y ecosistemas.</p>
-<p>Ilustración: <a href="https://www.instagram.com/es_unasopa/">Samuel Ochoa U.</a>.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="http://geobota.github.io/news/2025-05-02_planta-mes/images/image_05.jpeg" class="img-fluid quarto-figure quarto-figure-center figure-img" data-group="my-gallery" alt="Ilustración científica del haz de las inflorescencias axilares de la planta Columnea sanguinea (Pers.) Hanst. En la parte inferior, se encuentran los créditos de la ilustración y las redes sociales de GEOBOTA, @geobotaudea y Samuel Ochoa U., @es_unasopa."></p>
-</figure>
-</div>
-
-
-</section>
-
-<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a><div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Cómo citar</h2><div><div class="quarto-appendix-secondary-label">BibTeX</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{espinosa-correa2025,
-  author = {Espinosa-Correa, Álex and Vera-Marín, Bladimir},
-  title = {La planta del mes: \emph{Columnea sanguinea}},
-  date = {2025-05-02},
-  url = {http://geobota.github.io/news/2025-05-02_planta-mes/},
-  langid = {es}
-}
-</code></pre><div class="quarto-appendix-secondary-label">Por favor, cita este trabajo como:</div><div id="ref-espinosa-correa2025" class="csl-entry quarto-appendix-citeas">
-Espinosa-Correa, Álex, and Bladimir Vera-Marín. 2025. <span>“La planta
-del mes: <em>Columnea sanguinea</em>.”</span> May 2. <a href="http://geobota.github.io/news/2025-05-02_planta-mes/">http://geobota.github.io/news/2025-05-02_planta-mes/</a>.
-</div></div></section></div> ]]></description>
-  <category>La planta del mes</category>
-  <guid>http://geobota.github.io/news/2025-05-02_planta-mes/</guid>
-  <pubDate>Fri, 02 May 2025 05:00:00 GMT</pubDate>
-  <media:content url="http://geobota.github.io/news/2025-05-02_planta-mes/images/image_01.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
